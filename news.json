@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-11T00:36+09:00",
- "checked": "2026-10-11T05:41+09:00",
+ "updated": "2026-10-11T06:36+09:00",
+ "checked": "2026-10-11T06:36+09:00",
  "items": [
   {
    "date": "2026-10-10",
@@ -273,6 +273,17 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-11T00:36+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdEhtQ2Via3JBRl9KbFg3Z2NQRnVJVndSQzhaUi15V0F6RnZUUHVGSFJZRFVGdnVLTVQ2RUJLc0doeTJ0NDhReExJVXlDMGk2Z3VobVlZcjU0cFNzTW9tcTZOUVJ5My1mOXhmcXZRMTMxSzZlN0x2eWdmb3ZBRjA?oc=5"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "eki",
+   "title": "名古屋駅・JRゲートタワー地下で「煙が上がっている」通報…約２時間後に鎮火 現場一時騒然もけが人なし",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90YjVUaGxUV2Z5YmRPNUFJb1RMeHo2LTk2UzdvcGs2N25BLUljU0w3U1IwNkhXc1BJdHpXbVhxV1praTY4aFp0YWU0YkZ4X0Q0NGZGaGl5TEROWEhINEs2Q2NubEtES0RSdDBrbDRoQi1aWWtz?oc=5",
+   "src": "Excite エキサイト",
+   "auto": true,
+   "added": "2026-10-11T06:36+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdEhtQ2Via3JBRl9KbFg3Z2NQRnVJVndSQzhaUi15V0F6RnZUUHVGSFJZRFVGdnVLTVQ2RUJLc0doeTJ0NDhReExJVXlDMGk2Z3VobVlZcjU0cFNzTW9tcTZOUVJ5My1mOXhmcXZRMTMxSzZlN0x2eWdmb3ZBRjA?oc=5"
   },
   {
