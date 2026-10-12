@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13T00:42+09:00",
- "checked": "2026-10-13T04:38+09:00",
+ "updated": "2026-10-13T05:40+09:00",
+ "checked": "2026-10-13T05:40+09:00",
  "items": [
   {
    "date": "2026-10-12",
@@ -705,6 +705,17 @@
    "auto": true,
    "added": "2026-10-12T16:44+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nT0RWc3luYmNDLVpGTi1jaVM3d2huR3FjOUU4Z1ZDQkRqTE8tRzV4cUZLaE5kbnlLcFh4OWdjVXZuQm1sTVhkTElMdEtnWVRreW9BcWlCVTgtbFNZWWZfZlg1VjVXcS1YNVZHV08wTzJmTG1wVWlpMUdFSE8wVVE?oc=5"
+  },
+  {
+   "date": "2026-10-11",
+   "cat": "zairai",
+   "title": "ちょっといい駅 JR東海 飯田線 温田駅",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3MXlXdUo5ZUJibEE3a2VaTFpnaF9lQ3hKR192c3hyYTBwbHJxcHRfZEgxdllyWWJzeUx1emwtclpxc09JdG9NUFkycnZMZ25vT0hzeHlDSnhXTGhF?oc=5",
+   "src": "YouTube",
+   "auto": true,
+   "added": "2026-10-13T05:40+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3MXlXdUo5ZUJibEE3a2VaTFpnaF9lQ3hKR192c3hyYTBwbHJxcHRfZEgxdllyWWJzeUx1emwtclpxc09JdG9NUFkycnZMZ25vT0hzeHlDSnhXTGhF?oc=5"
   },
   {
    "date": "2026-10-10",
