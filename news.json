@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-12T23:47+09:00",
- "checked": "2026-10-12T23:47+09:00",
+ "updated": "2026-10-13T00:42+09:00",
+ "checked": "2026-10-13T00:42+09:00",
  "items": [
   {
    "date": "2026-10-12",
@@ -177,6 +177,17 @@
    "auto": true,
    "added": "2026-10-12T22:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wcWdYV0xGNHIwOC1ySkRiZ2Vza19PdFNtS0s4am12NG9KRkN2dXpIbmVWY3lPR1h3MGdPc2JWTkV2akhaT1cxLVM2VGNaQXhLeDdnQ3hIMEJob0lSRkFr?oc=5"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "shinkansen",
+   "title": "東北新幹線が一時見合わせ 盛岡―仙台間、信号確認で",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QOTdwaWZEQ1ljWnV5YTJDZFA3bGlvX080aWdubzVTWlA2NjdpakFrM0d3T2VoMWg1aU1ZUjA5czc4RmdydXliVnN6cUU1dWk3RmRzX0FmekdndEJuS3YxOVZJbHZNcFI0VkJCRzRR?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-10-13T00:42+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QOTdwaWZEQ1ljWnV5YTJDZFA3bGlvX080aWdubzVTWlA2NjdpakFrM0d3T2VoMWg1aU1ZUjA5czc4RmdydXliVnN6cUU1dWk3RmRzX0FmekdndEJuS3YxOVZJbHZNcFI0VkJCRzRR?oc=5"
   },
   {
    "date": "2026-10-11",
@@ -2021,6 +2032,17 @@
    "auto": true,
    "added": "2026-10-12T01:37+09:00",
    "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iYkhGaEw3WkpWTlVndnNxOUN6bWFma3FGOFcwMDNiZGdIbVRwaVpZcXNDWDZXS2x0VDFuQ1A2RkRuQ2t5cTNxVjVnbmM5RG1LWV92em1XV25GcVcxb3VwWGF5OG10MzA2NGcxTUREUQ?oc=5"
+  },
+  {
+   "date": "2026-10-08",
+   "cat": "other",
+   "title": "令和8年度第1回黒岩知事と当事者とのオンライン対話",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SWnRWZ1pjZWlIdUpIQmY2Rk5lVHp3N2dYQjFCaHhRUmlyMUNldDU3VUU2eTEtOHVsMDV6VWR0ekIzXzlLZ1RidFNyWVFXMlFqazBDQXFXamktVFpzeVZveHdyU3dGZnZCUnJvT2p5ZkFRN3lhSm11aA?oc=5",
+   "src": "神奈川県",
+   "auto": true,
+   "added": "2026-10-13T00:42+09:00",
+   "g": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SWnRWZ1pjZWlIdUpIQmY2Rk5lVHp3N2dYQjFCaHhRUmlyMUNldDU3VUU2eTEtOHVsMDV6VWR0ekIzXzlLZ1RidFNyWVFXMlFqazBDQXFXamktVFpzeVZveHdyU3dGZnZCUnJvT2p5ZkFRN3lhSm11aA?oc=5"
   },
   {
    "date": "2026-10-07",
