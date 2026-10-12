@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-13T05:40+09:00",
- "checked": "2026-10-13T05:40+09:00",
+ "updated": "2026-10-13T06:38+09:00",
+ "checked": "2026-10-13T06:38+09:00",
  "items": [
+  {
+   "date": "2026-10-13",
+   "cat": "shinkansen",
+   "title": "東海道新幹線N700S「のぞみ１１９号」 新横浜駅発車",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaWRhand5aThKQ213c0pLQUM1WlhUd3BxRXo1aTJwUkxxRXk5UHBSaXpQOXN5ZENlbTY3cWVmOWxTUXg3cHZfWmcxQ0xWYW9Bc3JtTjZWSmsxUzNR?oc=5",
+   "src": "YouTube",
+   "auto": true,
+   "added": "2026-10-13T06:38+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaWRhand5aThKQ213c0pLQUM1WlhUd3BxRXo1aTJwUkxxRXk5UHBSaXpQOXN5ZENlbTY3cWVmOWxTUXg3cHZfWmcxQ0xWYW9Bc3JtTjZWSmsxUzNR?oc=5"
+  },
   {
    "date": "2026-10-12",
    "cat": "shinkansen",
@@ -1066,6 +1077,17 @@
    "auto": true,
    "added": "2026-10-12T09:51+09:00",
    "g": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ta3NLckRzQ1dHRUhPYl84UFJGTi1zcmJQeUVWcS1mTGdBU1pQLUZCbzFhbG15dDVORmJnQW53NzlxQVFGWXJOSDMxWlhjQ05QbzFrOUhCcFViU2Y5cDYxbXU4NFhiN3IwcTJjd1hmNmNlckRhS21ZY3lzRQ?oc=5"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "kaisha",
+   "title": "[写真]吉野家が業績予想を上方修正、増配へ 牛丼3社の配当・優待",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZlZmVU95VUl4U29FUzZYMkF5ZklrSFNaWFJITjVSaHlIWndUWUFXYTUzVXRzMHJ2TDU1Sm5scmQyUVF3RnZjaHVXV3R6QmlGM3R0Ug?oc=5",
+   "src": "財経新聞",
+   "auto": true,
+   "added": "2026-10-13T06:38+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZlZmVU95VUl4U29FUzZYMkF5ZklrSFNaWFJITjVSaHlIWndUWUFXYTUzVXRzMHJ2TDU1Sm5scmQyUVF3RnZjaHVXV3R6QmlGM3R0Ug?oc=5"
   },
   {
    "date": "2026-10-09",
