@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14T00:42+09:00",
- "checked": "2026-10-14T00:42+09:00",
+ "updated": "2026-10-14T01:42+09:00",
+ "checked": "2026-10-14T01:42+09:00",
  "items": [
   {
    "date": "2026-10-13",
@@ -683,6 +683,28 @@
    "auto": true,
    "added": "2026-10-13T23:45+09:00",
    "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wODIyMFI5T0pyb0dsR01pc2N4dWZHMlV1TlpscUJOWFE5U3FqTkt5My1hSXBFc29EcEJnRm5ZSzVIaE1uWVBIZDBLMk9HYjBRVmc?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "【速報】JR東海運営のECサイトで約1万5000件の個人情報漏えいか クラウドサービスの委託先に不正アクセス",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGtVYlNYTG5IX1JCRU02d19yM3NJVGZXZzJJcEExMlRFVm9yZmdyTVlTZnVVeDdFY2p5NzlpdUtmYnBNNDE3aGExS29GcU5JMHFBWEg2dTNwa3cwNTNleFdNYmw0SmVnVWdUYzdLV1pROFZoc0VGQ01BV3d5R1BlZ2xvTE5lYjA?oc=5",
+   "src": "日テレNEWS NNN",
+   "auto": true,
+   "added": "2026-10-14T01:42+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UEFWV3BaWkdWN0xRYkZfa0p5aTR4UWdOdHB1ZG5TM1pwNFJlSTZfVFhKVzE3eEwyWEs3OWVoWjZWYmlhZ05KVUFXMDBEOGIyUEV0d0otbWdocUR3YmJQaUlrTldoWXlWS0VWY05PZFJ2eDdGNEtUMEdweERhZk0?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "JR東海、顧客情報漏えいか 1万5000人、不正アクセス",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NRlMwVTFvQkpNUVNSTEpYaHpzNWwwMC1tNEdXVjAxdHlEUDZGdHZteFJSejlsRGxyYmphcEotNnROb3ZuZVN5VlRDcEtxUjNoNThGTVZ6NUtEaEo3VGFhWDF1SXhFazJKei1YNjhR?oc=5",
+   "src": "Infoseek",
+   "auto": true,
+   "added": "2026-10-14T01:42+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LOWViTUhvbGlsOGFFTy1TT0RuTHpTZ285QXBOdnY3cDdCcFRrU3VZWnE3SzNMMWNuU25nNWR0QnVfcGhhUlJiYTNmc2RxbC03Vk9ya3F0TGt5U3FUVzh6TVZjbGZPQUxuYVRDNXhyakgyV3U3WVE?oc=5"
   },
   {
    "date": "2026-10-12",
