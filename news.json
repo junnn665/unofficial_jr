@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13T09:52+09:00",
- "checked": "2026-10-13T09:52+09:00",
+ "updated": "2026-10-13T10:41+09:00",
+ "checked": "2026-10-13T10:41+09:00",
  "items": [
   {
    "date": "2026-10-13",
@@ -45,6 +45,17 @@
    "auto": true,
    "added": "2026-10-13T09:52+09:00",
    "g": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Od0RjRUtGaHY0alpRY2toSkpvTm82a0lpQ0prcEloZ1lSMDRIXzI5a1NxcG5XYS1qSkhXZTN2NUpJUzA?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "unko",
+   "title": "身延線 一部に遅れ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81czNXUnBMQXZfNmR4SVB1Z1dLY1dOTk5XZjgwUVgwdDRhRkhJRkJpYjBoUzJHSDJyMnVjQ05CTWR5ZUE0WFNVMldvemtSZVJjZnRqSXl3X3o3TkFiczJjUWltaTQtRTFwTWthWWpPME9DdmJl?oc=5",
+   "src": "sannichi.co.jp",
+   "auto": true,
+   "added": "2026-10-13T10:41+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81czNXUnBMQXZfNmR4SVB1Z1dLY1dOTk5XZjgwUVgwdDRhRkhJRkJpYjBoUzJHSDJyMnVjQ05CTWR5ZUE0WFNVMldvemtSZVJjZnRqSXl3X3o3TkFiczJjUWltaTQtRTFwTWthWWpPME9DdmJl?oc=5"
   },
   {
    "date": "2026-10-12",
