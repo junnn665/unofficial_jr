@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13T16:44+09:00",
- "checked": "2026-10-13T16:44+09:00",
+ "updated": "2026-10-13T17:43+09:00",
+ "checked": "2026-10-13T17:43+09:00",
  "items": [
   {
    "date": "2026-10-13",
@@ -243,6 +243,50 @@
    "auto": true,
    "added": "2026-10-13T16:44+09:00",
    "g": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LaDlIY3p2MnB3S2d6TDVrZkNVSXlNYVhteDJYUHdOOHdfejlabnRmQ29leGlWZlVVenRzZWF6ck14RU5nMEhOV2Jna1hqWFNHTTFjQWxteDBmNDhsbGZEMWln?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "株式会社ＩＤＣフロンティアで発生した不正アクセスに伴うメールアドレス等漏えいの可能性について 139.1KB",
+   "summary": "",
+   "url": "https://jr-central.co.jp/news/release/nws000001_00619.html",
+   "src": "JR東海",
+   "auto": true,
+   "added": "2026-10-13T17:43+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00619.html"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "shinkansen",
+   "title": "JR東海 駅祭ティング 東海道新幹線鉄道古物 販売",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcHhoREgweG9qdmNObFNrZ21Oa1RNV2puN0N2TEozWjVMaEJCQmVYQm8zaGFNTU1CaTBFbXNzaF9nZjVBakVQVHVxRXp2Wlk4UkVkYXN0c3pTWWJGQjhEU3IyMS1FeC1VY2ZWcVRzSDVRbTV3Zk1GRHF3dm5VQdIBgwFBVV95cUxQT1p2Tkp5czFKUTMzT2o4VXZtekhLb1FSODFaY253N3hWNmNMY0E3NDlxOUxBTzNQUmM1R1RPNkk2bG9yYThSMWxPaENaanRjRUc0XzBtNjliVFQzZ0lWZ3puTU9iYzRiTXJ5Z3NwalBYRmZ0TTNpcEs1RXFPUkM0YnNVTQ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-13T17:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a205M3NyT2haRlFoRm9ROXlZRTExeEp1dUdVQnJxaDlHMlhXQlJNSUxaams3Y0lUeU03RS1ZOFJ3YV9xQVJVWGJldjZIdS1YSGYyNg?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "event",
+   "title": "松任谷由実、JR東海「推し旅」とコラボ決定 東海道新幹線で限定トーク＆プレゼント企画を展開",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vdGh5N1R1Y3lMMTlrWFJiMWRSV3dsdldNWVFTSmFRelItWjZoTFJ0V1JrR3piRmVyMmd2cHNESVN0Vi1WMkVXeXVFdHdla2NFOExhWlVqa01ialZHdmNZ?oc=5",
+   "src": "ぴあエンタメ情報",
+   "auto": true,
+   "added": "2026-10-13T17:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHeEtlQWxHdFF2ZE54aWpZQXhPcUw5Uk5jV2EzemEyWVZtdENHT1NFWXl3SkY4enpTczZHMHZ6bnB5bWJFLUhlWDhwSWRla19TTFNzMXBLbFdfVm1FNFRneTZUR2tIaVpXQlh5NXVnNFY5RWM?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "「そうだ 京都、行こう。」2026年秋の特別拝観＆ライトアップがスタート！京都の紅葉名所も事前予約でスムーズに",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVVTcGt2VzJjODdfZUFZN29iZ1kyTGU3QVhpWnF0M0Fuc01aSWxsM2hEcVJiVF9BME5UZkR4bWNQdHFDSWthVEFkOWl5bV9ySHh6Y0dZbEl3Q29PSm1YYUgxVWs0TllSMm5HLXcyVVoyMFg3S191YkJDczlJLVY1X2RKcENsTFlyclY5cTZB?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-13T17:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVVTcGt2VzJjODdfZUFZN29iZ1kyTGU3QVhpWnF0M0Fuc01aSWxsM2hEcVJiVF9BME5UZkR4bWNQdHFDSWthVEFkOWl5bV9ySHh6Y0dZbEl3Q29PSm1YYUgxVWs0TllSMm5HLXcyVVoyMFg3S191YkJDczlJLVY1X2RKcENsTFlyclY5cTZB?oc=5"
   },
   {
    "date": "2026-10-12",
