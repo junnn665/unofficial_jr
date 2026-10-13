@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-14T03:49+09:00",
- "checked": "2026-10-14T04:53+09:00",
+ "updated": "2026-10-14T05:55+09:00",
+ "checked": "2026-10-14T05:55+09:00",
  "items": [
+  {
+   "date": "2026-10-14",
+   "cat": "shinkansen",
+   "title": "〈信仰体験 ターニングポイント〉 東海道新幹線の運転士",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWkRZTWtEbkhnZkpkREwwbnJFR2YyRl9nUTByckpJYzktSTJrZkhMejhEbldmNC11cV9qSWRYMWMxZEcxVE9QWks0dmpJOFJNNWVwbW1seFplMU80X1VQVzNETklBSWg1amVCUl9KQ2pHU1lCdTB6Yw?oc=5",
+   "src": "聖教新聞",
+   "auto": true,
+   "added": "2026-10-14T05:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWkRZTWtEbkhnZkpkREwwbnJFR2YyRl9nUTByckpJYzktSTJrZkhMejhEbldmNC11cV9qSWRYMWMxZEcxVE9QWks0dmpJOFJNNWVwbW1seFplMU80X1VQVzNETklBSWg1amVCUl9KQ2pHU1lCdTB6Yw?oc=5"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "linear",
+   "title": "リニア工事でまたシールド機損傷、同じ工区で3度目 掘進中断は半年以上か",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4N0RuVW5aYlVrc1BlWWpZcmVwbXBBTGVmMVN0a1F4UVBweWh3X3JtMW9NdVdtLXl2SzE5ZWZoWjYxaURwaTF6Rnl6RVRMZFFKcjZGa2V0aDhCbFBTT1hZYi1EcElRQzA?oc=5",
+   "src": "日経クロステック",
+   "auto": true,
+   "added": "2026-10-14T05:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4N0RuVW5aYlVrc1BlWWpZcmVwbXBBTGVmMVN0a1F4UVBweWh3X3JtMW9NdVdtLXl2SzE5ZWZoWjYxaURwaTF6Rnl6RVRMZFFKcjZGa2V0aDhCbFBTT1hZYi1EcElRQzA?oc=5"
+  },
   {
    "date": "2026-10-13",
    "cat": "shinkansen",
