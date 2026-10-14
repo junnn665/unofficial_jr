@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14T08:46+09:00",
- "checked": "2026-10-14T08:46+09:00",
+ "updated": "2026-10-14T10:04+09:00",
+ "checked": "2026-10-14T10:04+09:00",
  "items": [
   {
    "date": "2026-10-14",
@@ -110,7 +110,7 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-14T08:46+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUDR4cjN5NHZXYzRmZklKUXFSZ21yczFGbk03VzRyRDREdjZNVUc5TXhKTkIxLWQ4SEN1bkxNNWtBVkdQcXFLTUcxMGxVcEJ4aTFuMWl6d0tEazNFMVpJTUJKRXRYTTVobldMV3U3SlE2VFhXR1FyZy16ZEgyX00?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xaGVtM3hmWXh4ZW93M0FlRXp3RnRUNlFWcUM3dFNaVUVjb2ZHRF9HMmlDMDEzNXJKZnh5d21ZSWNRQlNYQXJ1NTNsUQ?oc=5"
   },
   {
    "date": "2026-10-14",
@@ -122,6 +122,28 @@
    "auto": true,
    "added": "2026-10-14T08:46+09:00",
    "g": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWkRZTWtEbkhnZkpkREwwbnJFR2YyRl9nUTByckpJYzktSTJrZkhMejhEbldmNC11cV9qSWRYMWMxZEcxVE9QWks0dmpJOFJNNWVwbW1seFplMU80X1VQVzNETklBSWg1amVCUl9KQ2pHU1lCdTB6Yw?oc=5"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "zairai",
+   "title": "磐田市 三ケ野鎌田線の跨線橋整備についてＪＲ東海と協議を継続",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUF0Tkd3MWJScVB5N0pwV0Z3VFl0TVhhaXljVzJaQklqdlRmM1kwd2ItQ01jZWNFMUpWMFhZUmwxaGZ4V09aTFF1MFVuamhDaGdFQV85ZnE4Wmlhb0tIME1LUnhlVHhlckppOGRHUkFkVlVtTWdQa2dNc3AtOEoycg?oc=5",
+   "src": "建通新聞",
+   "auto": true,
+   "added": "2026-10-14T10:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUF0Tkd3MWJScVB5N0pwV0Z3VFl0TVhhaXljVzJaQklqdlRmM1kwd2ItQ01jZWNFMUpWMFhZUmwxaGZ4V09aTFF1MFVuamhDaGdFQV85ZnE4Wmlhb0tIME1LUnhlVHhlckppOGRHUkFkVlVtTWdQa2dNc3AtOEoycg?oc=5"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "linear",
+   "title": "第13回『「奈良県にリニアを!」の会』の開催について(令和8年10月9日)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVhBSzNRR1dYb1hQZWhoRENhcnRSNjJlY3ptVl8zRjF6WjdXaEZkRWVJRDZWR1ZBSFlPM3VxQ0x2dWxERE5WMHdxT2E3MHR3bTdlOUxHWTRQWmxQMVlrbHR4RVpNbW5wTmJPQUZ6aU56dGlaVjdxVk00Wm5KWTFJUkJXOGVRUWNxbkhXbTJlTTdBRlBqd1N3ZVZ3WFVUZ3BlaU1Z?oc=5",
+   "src": "大和郡山市",
+   "auto": true,
+   "added": "2026-10-14T10:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVhBSzNRR1dYb1hQZWhoRENhcnRSNjJlY3ptVl8zRjF6WjdXaEZkRWVJRDZWR1ZBSFlPM3VxQ0x2dWxERE5WMHdxT2E3MHR3bTdlOUxHWTRQWmxQMVlrbHR4RVpNbW5wTmJPQUZ6aU56dGlaVjdxVk00Wm5KWTFJUkJXOGVRUWNxbkhXbTJlTTdBRlBqd1N3ZVZ3WFVUZ3BlaU1Z?oc=5"
   },
   {
    "date": "2026-10-13",
@@ -892,6 +914,17 @@
    "auto": true,
    "added": "2026-10-14T08:46+09:00",
    "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlVi1oTW9DazVjTXdHaGRpVXFLUlotQ3dMQXM3YkRmZmlmamM3eldwbnY2SHdMbVB3WkxoZzkxbVdQbG5xaEd3em5VWTQ4eWpJbWtRMGJFcTlEdnFOOHBNNC12dw?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "不正アクセス被害が続発 東郷町のメール配信システムで約3700件の個人情報が漏えいした恐れ JR東海でも約1万5000件の顧客情報流出か",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xaGVtM3hmWXh4ZW93M0FlRXp3RnRUNlFWcUM3dFNaVUVjb2ZHRF9HMmlDMDEzNXJKZnh5d21ZSWNRQlNYQXJ1NTNsUQ?oc=5",
+   "src": "TVer",
+   "auto": true,
+   "added": "2026-10-14T10:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xaGVtM3hmWXh4ZW93M0FlRXp3RnRUNlFWcUM3dFNaVUVjb2ZHRF9HMmlDMDEzNXJKZnh5d21ZSWNRQlNYQXJ1NTNsUQ?oc=5"
   },
   {
    "date": "2026-10-12",
