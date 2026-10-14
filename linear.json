@@ -101,7 +101,11 @@
    "note": "中津川市千旦林で建設中。工期は2031年12月末までの予定。",
    "src": "https://www.pref.gifu.lg.jp/page/16609.html",
    "status_date": "2026-08-27",
-   "latest": null
+   "latest": {
+    "date": "2026-10-15",
+    "title": "１１月１日に中津川市「リニアコンサート」 音楽グループ「スギテツ」と子どもらが練習",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RklaMGUya25qZlBrOHlBdHpMY0dsbWphdlJPYV8zZzF4VGM3YV9LYjFBV2F4b001VFdpVXR2Vk1wNl8tM1BSd3VVR2hXRXgyZFFWOUhn?oc=5"
+   }
   },
   {
    "name": "名古屋",
@@ -223,5 +227,5 @@
    }
   }
  ],
- "checked": "2026-10-15T07:50+09:00"
+ "checked": "2026-10-15T08:44+09:00"
 }
