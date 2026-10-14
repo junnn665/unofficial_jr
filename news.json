@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14T10:04+09:00",
- "checked": "2026-10-14T10:04+09:00",
+ "updated": "2026-10-14T10:49+09:00",
+ "checked": "2026-10-14T10:49+09:00",
  "items": [
   {
    "date": "2026-10-14",
@@ -144,6 +144,28 @@
    "auto": true,
    "added": "2026-10-14T10:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVhBSzNRR1dYb1hQZWhoRENhcnRSNjJlY3ptVl8zRjF6WjdXaEZkRWVJRDZWR1ZBSFlPM3VxQ0x2dWxERE5WMHdxT2E3MHR3bTdlOUxHWTRQWmxQMVlrbHR4RVpNbW5wTmJPQUZ6aU56dGlaVjdxVk00Wm5KWTFJUkJXOGVRUWNxbkhXbTJlTTdBRlBqd1N3ZVZ3WFVUZ3BlaU1Z?oc=5"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "other",
+   "title": "JR東海、約1万5000件の顧客情報漏えいの可能性 IDCフロンティアへの不正アクセスで（アスキー）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nMjJuaVdxS1ZDNXNwYUNMUHZUZXdnNWw1UUpDd2hxQkZfb2FwWmltbHRha2tiVTZqVzQySHBKTktITWhKdWZacVdQcmVocWpoVGZ3c3g5MlFienB4Z04zdm5IakEzT0NLb0JjUEltSlB1RnhzS3FsSUNYR1pZU2s?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-14T10:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nMjJuaVdxS1ZDNXNwYUNMUHZUZXdnNWw1UUpDd2hxQkZfb2FwWmltbHRha2tiVTZqVzQySHBKTktITWhKdWZacVdQcmVocWpoVGZ3c3g5MlFienB4Z04zdm5IakEzT0NLb0JjUEltSlB1RnhzS3FsSUNYR1pZU2s?oc=5"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "other",
+   "title": "不正アクセス被害が続発 東郷町のメール配信システムで約3700件の個人情報が漏えいした恐れ JR東海でも約1万5000件の顧客情報流出か（2026年10月13日掲載）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTA2NkRoQkNPbVR6My1xYVlZWmVZQjVVMXdNcFBBZHVJZl9xQVBPaEdCc1duT1FBQk44Z3hjTUk3blp4RHBPZFprdk1yeE4ybmFRRlJuS3BnUmk0R3JiY1VwT2RaS25WbGRoTThkdHdXTTVDZnpwY3Q2THpzdFowclZEbEpnd0k?oc=5",
+   "src": "日テレNEWS NNN",
+   "auto": true,
+   "added": "2026-10-14T10:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xaGVtM3hmWXh4ZW93M0FlRXp3RnRUNlFWcUM3dFNaVUVjb2ZHRF9HMmlDMDEzNXJKZnh5d21ZSWNRQlNYQXJ1NTNsUQ?oc=5"
   },
   {
    "date": "2026-10-13",
@@ -925,6 +947,39 @@
    "auto": true,
    "added": "2026-10-14T10:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xaGVtM3hmWXh4ZW93M0FlRXp3RnRUNlFWcUM3dFNaVUVjb2ZHRF9HMmlDMDEzNXJKZnh5d21ZSWNRQlNYQXJ1NTNsUQ?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "JR東海が運営するECサイトの会員情報 漏洩の可能性を発表 氏名・住所など約1万5000件（メ〜テレ（名古屋テレビ））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qcUJtYUdJNUl3eVVNbGVtYjB1d1FMTHhaWlVvbVRkLWVGcmxHNUdJV1UtWVA4VjBRUE1ZYVQzMWVtanJjbl9jeVprdzdNVnZ0V0FiQURIRzAxWjhOS3hvdm5fSGJoV0ZvUFZXLW9UY0lFT1A4UlkxSnUxYjZlcDQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-14T10:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRnpUNFB5b25PcEd4eTdUSXhUdjNrYjhFOEowYmZ5Zlp3ODZ3N0cwb3hkT1gwMDNVVWtJdTJpejNOREQyUDJlZmUzMmRNMkhnaEdoR2FvVE94QWlxYnYyYnBWeEvSAWRBVV95cUxPS0Z6VDRQeW9uT3BHeHk3VEl4VHYza2I4RThKMGJmeWZadzg2dzdHMG94ZE9YMDAzVVVrSXUyaXozTkREMlAyZWZlMzJkTTJIZ2hHaEdhb1RPeEFpcWJ2MmJwVnhL?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "other",
+   "title": "ICOCA 活用のポイント付与による公共交通利用促進策の実証実験（東広島市/JR西日本）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42SURIRVNiZ0RMR3N6RWttdlU0MnYtOFB6cTZBNEFwM3p0eHlxd0RMTWZhdkc1czFMNmhxWlE2MlZMTXpLZEcxOXpEQ2xYZFpjLWV1SkFFQ2VOZkE?oc=5",
+   "src": "ペイメントナビ",
+   "auto": true,
+   "added": "2026-10-14T10:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42SURIRVNiZ0RMR3N6RWttdlU0MnYtOFB6cTZBNEFwM3p0eHlxd0RMTWZhdkc1czFMNmhxWlE2MlZMTXpLZEcxOXpEQ2xYZFpjLWV1SkFFQ2VOZkE?oc=5"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "unko",
+   "title": "鉄道の安全を守るAIとNTNの可能性――JR西日本とNTTドコモビジネスが語った災害対応の課題",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5heU9id3YzaUJoRzQ4T1dRb2pHUkhLVU9VcGdYeVJlUklLSnBhaktONVhLTG92U0xwTHBaYnBQODA1ejY4UmNWRFg2eVRvVnNOamU1V3RJR2pHVkFhd1g0b2pUNkxsdm5ReDFXSXlVN3kzNDNvcEVZ0gF8QVVfeXFMT0VlRV9sMUlmMTA1VV9XOU9HZWlVenNGVHZUSkJlYlV1TEJPb2ZCcFJacDJHQkJRX3pvY2hVNmJUdFY2XzVWSlA4YWdtdkZid0k0YnlLd18wZDhiUV9YcXdXQktYTUFDVEhrdDlGN3NVQ2FDMVZ3SWpveTFLcw?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-14T10:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5heU9id3YzaUJoRzQ4T1dRb2pHUkhLVU9VcGdYeVJlUklLSnBhaktONVhLTG92U0xwTHBaYnBQODA1ejY4UmNWRFg2eVRvVnNOamU1V3RJR2pHVkFhd1g0b2pUNkxsdm5ReDFXSXlVN3kzNDNvcEVZ0gF8QVVfeXFMT0VlRV9sMUlmMTA1VV9XOU9HZWlVenNGVHZUSkJlYlV1TEJPb2ZCcFJacDJHQkJRX3pvY2hVNmJUdFY2XzVWSlA4YWdtdkZid0k0YnlLd18wZDhiUV9YcXdXQktYTUFDVEhrdDlGN3NVQ2FDMVZ3SWpveTFLcw?oc=5"
   },
   {
    "date": "2026-10-12",
