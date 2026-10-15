@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15T19:56+09:00",
- "checked": "2026-10-15T19:56+09:00",
+ "updated": "2026-10-15T20:54+09:00",
+ "checked": "2026-10-15T20:54+09:00",
  "items": [
   {
    "date": "2026-10-15",
@@ -276,6 +276,39 @@
    "auto": true,
    "added": "2026-10-15T19:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0puRWpaVzh1T29pWmRiNTE2N29CVnhwaGM2eG45amViU1ZDRU1rZFFkeDhkcnQtM1hqdGFKSlN0OVdRU09rSGx6SEFRY2JuTDlTMWU1emJCTzBySTFvMTk2X2NBdndqdnRPRjdMWS1faEFDN09kNXZnQjdhNEg0T3Fn?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "other",
+   "title": "JR東海、ECサイトの個人情報流出なし（時事通信）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sYWg3d200eTU1MmRYMkptZnBZWHpNbDFKeE9yRjAtb3VTeTdfb1JqMWV4cjMxaC1lVGx0dVRnX2pjNGZyS0VZd0p3aGxIOVZHZUh6eUh4N0lPamltb2FQNkUyR0k0LTNMemVxd1ZHWEZvaVlaNG8xSm5sbnd1VjA?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-15T20:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oVHVuM0RoaUhGMnhaY1Y1X3hOWml3TzdCMmNjOU5fZG42eWRJSTRmUmRsTTlUZWRGMWprbmxpM0Z2MGVHTm9PMUxaVHUxQQ?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "other",
+   "title": "JR東海 不正アクセス受けたECサイトの会員情報 「漏えいの事実は確認されなかった」と発表（メ〜テレ（名古屋テレビ））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbGRYTlFtenU1cUVodjZDZVhDdElVX1M4cm5rRlZRUGpTYWtOSXdRNnZRdmhGZkhnQ0lGMGNVR0d5UTBJTzRPR29nLXhmNW5wa0VyblJac051NmFCTVdCMEhnMDFUSmY0WnRyV1BkenpuR2h4c19OSlRDOEhPUFU?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-15T20:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbGRYTlFtenU1cUVodjZDZVhDdElVX1M4cm5rRlZRUGpTYWtOSXdRNnZRdmhGZkhnQ0lGMGNVR0d5UTBJTzRPR29nLXhmNW5wa0VyblJac051NmFCTVdCMEhnMDFUSmY0WnRyV1BkenpuR2h4c19OSlRDOEhPUFU?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "other",
+   "title": "ＪＲ東海、ＥＣサイトの個人情報流出なし",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfa1FRQ3lMLVBZMWFvMEtDVEpTQV9WU1lwa3FfMVBjZDFDTExTUFZHR2R6UVFqamdjTmtNVW5DYlFMb2w3S0I4UXJBcWd2RU9RODlGZERYSEtnbWk1dTZDYUJIXzZiYnhyTzcxNzFWUTBLTS1zRGhBQVRab9IBgAFBVV95cUxOV1VnclkybHpSZUo5X2gxRkZpbm5mQzQ0V2c3b3BRVGxKbW43WGdGQmRRTkotUXk5UkFkNEFVdlJ6ZlpHQ2NxZDR1ZEQ1bkZYMEVxbzZHR0lYa1Y1cGhIVHRPdURRNlJWMGxJbVg0YWYxQUwzVE9WcHZRb2puRm0yaA?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-15T20:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfa1FRQ3lMLVBZMWFvMEtDVEpTQV9WU1lwa3FfMVBjZDFDTExTUFZHR2R6UVFqamdjTmtNVW5DYlFMb2w3S0I4UXJBcWd2RU9RODlGZERYSEtnbWk1dTZDYUJIXzZiYnhyTzcxNzFWUTBLTS1zRGhBQVRab9IBgAFBVV95cUxOV1VnclkybHpSZUo5X2gxRkZpbm5mQzQ0V2c3b3BRVGxKbW43WGdGQmRRTkotUXk5UkFkNEFVdlJ6ZlpHQ2NxZDR1ZEQ1bkZYMEVxbzZHR0lYa1Y1cGhIVHRPdURRNlJWMGxJbVg0YWYxQUwzVE9WcHZRb2puRm0yaA?oc=5"
   },
   {
    "date": "2026-10-14",
