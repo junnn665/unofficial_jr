@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T03:59+09:00",
- "checked": "2026-10-17T03:59+09:00",
+ "updated": "2026-10-17T04:49+09:00",
+ "checked": "2026-10-17T04:49+09:00",
  "items": [
   {
    "date": "2026-10-17",
@@ -34,6 +34,28 @@
    "auto": true,
    "added": "2026-10-17T01:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLUkkwOVB2b1JXd0lxQkZpRGd6WVIwWDZfOXpscFVmTEUzZVZDSUJUY2tnd0toRF9WVlFKQ2hMRHdqS0daQXg4Ui1XVFhOR1Q4TDNmZzd3U2s5LTc1bmY0?oc=5"
+  },
+  {
+   "date": "2026-10-17",
+   "cat": "shinkansen",
+   "title": "ＪＲ東海：東海道新幹線 新型車両は「S0系」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rMFpxSFJZN2pGZ1dFQVZFejBfT3hyLXRoSXhFWU1BczNUNURUWEJMRXhueTVjSWpzcHBkODRCLUtHUDZFYlhDNWhoMXE3eXhrdXM1OWVLQVdmdHptZEJrOW5RdTlqeFZU?oc=5",
+   "src": "毎日新聞",
+   "auto": true,
+   "added": "2026-10-17T04:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WdzF3dHNSRTVaVE1NQ3hZemcybTFCM3pDR0Y3RVFFS0dFOW9jX3dsQlJsYmRaUFpXVjAxUXZFZWNjZDNGUnE1Ulo2bVNfMFZzWlltcVp5bnJCeEFjWnZJb2Nvcw?oc=5"
+  },
+  {
+   "date": "2026-10-17",
+   "cat": "shinkansen",
+   "title": "のぞみ指定席 初の値上げ 2027年7月から東京-新大阪間700円値上がり（FNNプライムオンライン（フジテレビ系））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNUpwZTNZN05oN0w3LVh1X0djZUVNdGVpZ2J4cDJNNHVMdkVlNE1JVGtkcE5GdjB6OW9iM2xBUUFmck0yZ0EycEktS1hGVGN3c2JkNDN4b1pzQjdNa1gxdzlESUUzU0ZDYkZWazlBblpNOVdsSDFCX25lZ05QcDQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-17T04:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeHJzcDBQNXpnQ19XWjJJT3pQMGVLRkRFZFlSbzhfVXBydktPM0xNM2Eza2hNVnAxVzN0T2RFcmJPc3lVOXlaWnF2Yw?oc=5"
   },
   {
    "date": "2026-10-16",
@@ -2445,6 +2467,17 @@
    "g": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaktjUTZjSFBHbDYxVUhWdG5zem1BaGh1Mi00a3ZfUVl1ckI4ZUVMVG9Dc0RuTkwzek9DOFp0cDJIa3UyYTl5OWgtZWhDOUptaW5zYnRxZFU2WlNraG5JeV9obVl5TjFMdHE3MldBN2JhRnMzSHQ2djZ1eHFscmh1VXJ30gGCAUFVX3lxTE9qS2NRNmNIUEdsNjFVSFZ0bnN6bUFoaHUyLTRrdl9RWXVyQjhlRUxUb0NzRG5OTDN6T0M4WnRwMkhrdTJhOXk5aC1laEM5Sm1pbnNidHFkVTZaU2tobkl5X2htWXlOMUx0cTcyV0E3YmFGczNIdDZ2NnV4cWxyaHVVcnc?oc=5"
   },
   {
+   "date": "2026-10-16",
+   "cat": "shinkansen",
+   "title": "東海道新幹線に２０２９年に新車両「Ｓ０系」投入へ、東京ー新大阪間で自動運転も開始 (読売新聞オンライン)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0pOYlpwZjU5aVhFaVc4VUhDUjNhV09jSVpJczVISmFNSmtkdWhsY0FyeHFaazJWOVh5SWRBTGExZzc2YUhjOUotMExiY3RnX010U0ZodDZGUlRRUkNRZlRlWm5SUldqQzk4b1RQSEF1ZGNwczZYTmNOVUdzUmRkZW9iTmluSlhZQWFRdFlB?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-17T04:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hQTJZd1BnRm9rVUpkbE05QXhKd19rNVRwNUlSaWZtOVlDUWN2UjJjTVVKQ2RnWXpyMDMyMTlZLWxqNHVKWXhncTY4NFRobkt4T19PU2xR?oc=5"
+  },
+  {
    "date": "2026-10-15",
    "cat": "event",
    "title": "10月14日の「鉄道の日」を記念した多彩な鉄道グッズが登場！JR西日本公式オンラインショップで販売！",
@@ -2971,6 +3004,17 @@
    "auto": true,
    "added": "2026-10-16T22:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuYVhMTDJRLU45TG5wWGxGN09PMzBJMkpjWjJtM3luVC1Sa1BYMUd5ZEhZVFRkemQ0MzVJM3pnOWRhTDhjTkl6blVvZ1prenVRU05UTg?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "other",
+   "title": "Pseb 12th Result 2026 (EBfFei9x1B)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kYXhnRW1MUk5ULWQ4dmtPNVdENG1wOHNjdW5lOHlRa3ppYkJBLWdSNXliS2pBa0Y0NVBGMUQxR0tDekQxUEN5Nm5HMENaSF9PMFJPa0d5bUtpUnh2S1I0dVVPTU5Da1JCUDB2TQ?oc=5",
+   "src": "Unisba Media",
+   "auto": true,
+   "added": "2026-10-17T04:49+09:00",
+   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXNnWjRUY0FCMjF3VlN5blBWRVNPT3VqZnI3NDNrZURuNjZad2lGOW1OcGMwQnNicjdvTmV1M2JTSFlFR3BMdzR5YkRYYzJzWnhPTXFPemF0V2dYbm1HNzQwakpneFVNZWxmcjJwY3dBWTBLZkNVUm04XzM1S3FTUFhVSV9oa0k?oc=5"
   },
   {
    "date": "2026-10-14",
