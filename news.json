@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18T05:47+09:00",
- "checked": "2026-10-18T05:47+09:00",
+ "updated": "2026-10-18T06:47+09:00",
+ "checked": "2026-10-18T06:47+09:00",
  "items": [
   {
    "date": "2026-10-18",
@@ -12,6 +12,17 @@
    "auto": true,
    "added": "2026-10-18T05:47+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYkxXZE1FQmVaQ0F2M1VVQkFvblhxRXJMZ3B5WHBNLTVIX0Zfb1B2WGVSczhlWWdGWVBRSWhzREJLdFZKS0FnU1o2TUozS2hueW9fY1Y4NGpKN0Nn?oc=5"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "shinkansen",
+   "title": "東海道新幹線に個室復活「Supreme Class」東京─博多9万円も",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdHR4S01PVmMzSTdGWWkzNXZEOXlxMVNqS2ozM19vaUFQOUpERUE0YS1HN0hEc3RGWFNldHZNajdiTVNuQVhyc0RPSlEwc01HMV9JdjlnUl9sWUhxLXBrRmdfaWZSMmtNQUZneE1TbHYzTEhESkZ0QzFfenR5enc?oc=5",
+   "src": "毎日新聞",
+   "auto": true,
+   "added": "2026-10-18T06:47+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbGVXekx5YVpxdEV1YnUtQjZnTmRtd2RuaXpSSWkySWNuR2lqUWwxX2sya052S194Njl4dnMwN3hScnFJVm5Lc0YyX3VwZzVncE5GbVhzRzRBUEl1?oc=5"
   },
   {
    "date": "2026-10-17",
@@ -375,6 +386,17 @@
    "auto": true,
    "added": "2026-10-17T23:46+09:00",
    "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vdk1wREtZeGltczd5MVYtYkVKMnRTUlJoS1NJQ3BzUDhzNFRlUDA3d2lydVFGVG04T1VmTGx4ajFIRjVSVG1Hd2JPakh1VmUyX1ZKYWxvQQ?oc=5"
+  },
+  {
+   "date": "2026-10-17",
+   "cat": "shinkansen",
+   "title": "ニュースファイル国内 ■東海道新幹線新型車両は「Ｓ０系」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaDRzaEZ2cDI1SkxzN29CMzF0V3cyNUQwRU5yLXZoTmY4TjI0NTZOXzJzZG9JMnM4U1Z0RndybnRkRkdwNGlmLUdmT0ROUkk?oc=5",
+   "src": "福島民報デジタル",
+   "auto": true,
+   "added": "2026-10-18T06:47+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaDRzaEZ2cDI1SkxzN29CMzF0V3cyNUQwRU5yLXZoTmY4TjI0NTZOXzJzZG9JMnM4U1Z0RndybnRkRkdwNGlmLUdmT0ROUkk?oc=5"
   },
   {
    "date": "2026-10-16",
@@ -3512,6 +3534,17 @@
    "g": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ19vWGdhTVJNeW9xNFplVmlkSGN0Z2VMbGxNRGtOTzJqdUtBYndjQmVnd3l1eTN2TlROVG1zV0pyaHZRRGxwYkctWHJqVmRSUDcxSU5CNzdVcTkzbUMtbnFoUW1uWHpHeENGMlNrRGlwU3RaME1WMU1wM0h6OWo5c3ZCRmZPdw?oc=5"
   },
   {
+   "date": "2026-10-15",
+   "cat": "other",
+   "title": "JR東日本・JR東海も「個人情報漏えいは確認されず」 IDCフロンティアへの不正アクセス受け “えきねっと”や“ビューカード”、ショッピングサイトなど (2026年10月15日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rUHVNaHJQY01DQlc4eW80N3MzR2IwRS1iemhta3dKVWcxeEtZRU5YR1o0YUpsM29KTEpyNklVcVhZQ3E2QnNBd2k0RklGaElRNjVDc2h5V1dsalpLTmc?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-18T06:47+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVWhocWowSXp6ZU9QWjFsTzQ5Z0x3OHd5V1VCZ3RVY3hTVjV6S1p3SGN5MzJCaW9iX3pYZkczaWNjdzBPSFRfT1FWSmE1ZU1xSHhMTzFwOXNsV3pQdFJydzk1OERnTzBfbXZKSXNubGQ4aEFkcWxXTWo3dWc3T0E?oc=5"
+  },
+  {
    "date": "2026-10-14",
    "cat": "shinkansen",
    "title": "〈信仰体験 ターニングポイント〉 東海道新幹線の運転士",
@@ -3906,6 +3939,17 @@
    "auto": true,
    "added": "2026-10-17T12:53+09:00",
    "g": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFFKY2ozT25sWVNUTUNDc0w0WTFYeFFIbUZQdjVBWFVFTmtwVHhpelp0UVFXS3NTMUtnR1JzTU1rZmNvb3VKVG5iVjNVU1N4UEw0UXRHcG94Q0NocGNweS14Z08yZjlzaFpBeGQwMGh5ekhDU0tMNzl5YzZLb0RwUFNZTS1BYmlobUx1RzhJZUZGejhfbTJqUi1SLU10X05PYUE?oc=5"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "kaisha",
+   "title": "中国政府の訪日自粛呼びかけ、JR東海社長「目立った影響なし」 欧米客中心",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdE1nWWZfQVRidjBkamxtanljanA1N0FncjBiV3kzS3RjU0dxbktxVU1QY055RlRUek82aEx2WnowTjlubHVZQ0tOeHlQd1pDM0Z1NUpsUWhuMDFRMW04SEdxUlM5eWR6dm1pTnBEYnJScElYU1NNbi0xeW93OVRoMnlBOG9nNUlnNlFXQ3VoZHV6WUZKMEhWUmdUWTlNUkZpQ3FST1U0WWZVTjdFV0ZiY3M1QlcySEdFX0RpYjNyWDdvWXBIVklTRW5lck5BamNadjZFLTdBWHViZHluWEhVbkczbTcwN2N2UEdGa0dkUHpKbkd5MHlxT0Vqd1Q2QTVXbG9DZHlnSW5hOElCYUp3ZVpTd0VnRnFiVktnY0tCY21MUjFnMndud21OY0ZOUy1oeFFkME5CZWk4aC1uZ1lQRXZnNA?oc=5",
+   "src": "olasonic.jp",
+   "auto": true,
+   "added": "2026-10-18T06:47+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdE1nWWZfQVRidjBkamxtanljanA1N0FncjBiV3kzS3RjU0dxbktxVU1QY055RlRUek82aEx2WnowTjlubHVZQ0tOeHlQd1pDM0Z1NUpsUWhuMDFRMW04SEdxUlM5eWR6dm1pTnBEYnJScElYU1NNbi0xeW93OVRoMnlBOG9nNUlnNlFXQ3VoZHV6WUZKMEhWUmdUWTlNUkZpQ3FST1U0WWZVTjdFV0ZiY3M1QlcySEdFX0RpYjNyWDdvWXBIVklTRW5lck5BamNadjZFLTdBWHViZHluWEhVbkczbTcwN2N2UEdGa0dkUHpKbkd5MHlxT0Vqd1Q2QTVXbG9DZHlnSW5hOElCYUp3ZVpTd0VnRnFiVktnY0tCY21MUjFnMndud21OY0ZOUy1oeFFkME5CZWk4aC1uZ1lQRXZnNA?oc=5"
   },
   {
    "date": "2026-10-13",
