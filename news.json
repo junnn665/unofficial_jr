@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18T06:47+09:00",
- "checked": "2026-10-18T06:47+09:00",
+ "updated": "2026-10-18T07:43+09:00",
+ "checked": "2026-10-18T07:43+09:00",
  "items": [
   {
    "date": "2026-10-18",
@@ -23,6 +23,28 @@
    "auto": true,
    "added": "2026-10-18T06:47+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbGVXekx5YVpxdEV1YnUtQjZnTmRtd2RuaXpSSWkySWNuR2lqUWwxX2sya052S194Njl4dnMwN3hScnFJVm5Lc0YyX3VwZzVncE5GbVhzRzRBUEl1?oc=5"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "shinkansen",
+   "title": "八木佑介「東海道新幹線十七駅」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SSWozTmZrYms0cEVTaEVMVjBaWUpTMzF4MHRhWHdRSWJJdFJ0cWJNcE4tVWNmNEFZTVpaTGtwZVJlQ2Z0V0dXMW92YlFnQQ?oc=5",
+   "src": "アイエム［インターネットミュージアム］",
+   "auto": true,
+   "added": "2026-10-18T07:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SSWozTmZrYms0cEVTaEVMVjBaWUpTMzF4MHRhWHdRSWJJdFJ0cWJNcE4tVWNmNEFZTVpaTGtwZVJlQ2Z0V0dXMW92YlFnQQ?oc=5"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "unko",
+   "title": "身延線 沿線火災で運転見合わせ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RVC1XVTh0UFExcTBTYVZrVzdRWGNtVmVEWnNLSGlBXy1IQ05sT0dyNEkwRFZGX2xScVVYOUZDaUhPOGE5cWFvdHJWdlNrMEU2X1djd3o0UnlaVEFZZjN3SkRicW8?oc=5",
+   "src": "sannichi.co.jp",
+   "auto": true,
+   "added": "2026-10-18T07:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RVC1XVTh0UFExcTBTYVZrVzdRWGNtVmVEWnNLSGlBXy1IQ05sT0dyNEkwRFZGX2xScVVYOUZDaUhPOGE5cWFvdHJWdlNrMEU2X1djd3o0UnlaVEFZZjN3SkRicW8?oc=5"
   },
   {
    "date": "2026-10-17",
