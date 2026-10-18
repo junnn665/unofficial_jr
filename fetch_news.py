@@ -154,7 +154,14 @@ def norm(title):
     return re.sub(r"[\s「」『』【】（）()、。・!！?？]", "", title)
 
 # ニュースとして扱わないもの（鉄道写真の投稿など）
-BLOCK = re.compile(r"鉄道フォト・写真|フォト・写真 by")
+BLOCK = re.compile(r"鉄道フォト・写真|フォト・写真 by"
+                   # コピーサイトの特徴：見出しの最後に関係ない英語と10文字の記号（例「Mariners (J1NP6aFPkp)」）
+                   r"|\s\(?[A-Za-z0-9]{10}\)\s*$")
+# 他サイトの見出しをコピーして関係ないページに飛ばすサイト（媒体名で除外）
+BLOCK_SRC = {"Unisba Media"}
+
+def blocked(x):
+    return x.get("src") in BLOCK_SRC or bool(BLOCK.search(x["title"]))
 
 # ---- 同じ話題をまとめる ----------------------------------------------------
 COMMON = ("ＪＲ東海", "JR東海", "東海道・山陽新幹線", "東海道･山陽新幹線", "東海道新幹線", "リニア中央新幹線")
@@ -238,7 +245,7 @@ def main():
         key = norm(x["title"])
         if x["url"] in known or key in titles:
             continue
-        if BLOCK.search(x["title"]):
+        if blocked(x):
             continue
         known.add(x["url"]); titles.add(key)
         added.append({"date": x["date"], "cat": categorize(x["title"]),
@@ -260,7 +267,7 @@ def main():
     manual = [x for x in allitems if not x.get("auto")]
     auto = [x for x in allitems if x.get("auto")][:MAX_ITEMS]
     items = sorted(manual + auto, key=lambda x: x["date"], reverse=True)
-    items = [x for x in items if not BLOCK.search(x["title"])]
+    items = [x for x in items if not blocked(x)]
     assign_groups(items)
     data = {
         "updated": now if (added or recat) else data.get("updated", ""),  # 最後に記事が増えた時刻
