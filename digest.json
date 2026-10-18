@@ -1,18 +1,12 @@
 {
- "date": "2026-10-18",
- "generated": "2026-10-18T23:48+09:00",
+ "date": "2026-10-19",
+ "generated": "2026-10-19T00:47+09:00",
  "ai": false,
  "items": [
   {
-   "text": "安全性確保のコストが上昇… 東海道新幹線「のぞみ」 初の値上げへ",
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa053c2R5Qkg0d2xTYVBOeE13YVVCMzFhelE2ZnMyaTg2T2U0WU9BN1BYd0xZQXVWWGY2dG1ZcjNXWVpCdWhJR1Nhb1czWXJoaFpXRG95NFlxbzl5RTN0bHUySi1oWml4SlR4RnZOVl9LSnBNcTdmSnlURzhaVm9Bb3Y2b09RTEk?oc=5",
-   "title": "安全性確保のコストが上昇… 東海道新幹線「のぞみ」 初の値上げへ",
-   "n": 4
-  },
-  {
-   "text": "JR東海バスと名鉄バスが共同で採用企画『CROSS ROUTE(クロスルート)』を開催！",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVkV1b1NpVHhDeWtrbzdNQktYbndKMDNvOXNoTzRtd0QxLVRSR19ZcHZNRW51UWh0X1Q4bDVzV2tTQ2kyMzFiYVVWdkhQdmM1MXZ6Q0hJRjQwN0FsSTVnaXNqU21Ta3Z6TF9RVzlRTzY3Vi1KTVZpdEZNeEZQWXM?oc=5",
-   "title": "JR東海バスと名鉄バスが共同で採用企画『CROSS ROUTE(クロスルート)』を開催！",
+   "text": "東海道線 菊川駅～浜松駅 上下で運転再開 掛川駅での人身事故で一時運転見合わせ",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbmt2NlZZNnp2eVNBdmRUVnNUeTJ0d2xXRlh3MjV0UlV3cWpmbzR1Tm80R25WQV9JV1JOMWFHcWoxbTgtTjZlZGY1Mm96RjhjRXpfQ1dFSFdNWUVmeTY1MWxzNmdvYm1hejBLb0lMS0xSa1c0QVRUbFRmSTB0WTQ?oc=5",
+   "title": "【交通情報】東海道線 菊川駅～浜松駅 上下で運転再開 掛川駅での人身事故で一時運転見合わせ",
    "n": 3
   },
   {
@@ -22,16 +16,22 @@
    "n": 3
   },
   {
-   "text": "JR東海「のぞみ」、27年値上げ",
-   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeHJzcDBQNXpnQ19XWjJJT3pQMGVLRkRFZFlSbzhfVXBydktPM0xNM2Eza2hNVnAxVzN0T2RFcmJPc3lVOXlaWnF2Yw?oc=5",
-   "title": "JR東海「のぞみ」、27年値上げ",
+   "text": "ＪＲ東海道本線菊川ー浜松間で運転見合わせ 掛川駅で列車が人に接触",
+   "g": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WVjJNU0pyd2xCRUVMb21xenJXMzZDcnNTajVNWVpwOUNBclV5bzdSY3pJdGR5R1doemhpVkx3MURhX3N2S21oZmc2OXBmOGI5LWRvdUtNanNTVDQxVm9PcVVoWU5RY0F0SjVv?oc=5",
+   "title": "ＪＲ東海道本線菊川ー浜松間で運転見合わせ 掛川駅で列車が人に接触",
    "n": 2
   },
   {
-   "text": "ＪＲ東海：東海道新幹線 新型車両は「S0系」",
-   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WdzF3dHNSRTVaVE1NQ3hZemcybTFCM3pDR0Y3RVFFS0dFOW9jX3dsQlJsYmRaUFpXVjAxUXZFZWNjZDNGUnE1Ulo2bVNfMFZzWlltcVp5bnJCeEFjWnZJb2Nvcw?oc=5",
-   "title": "ＪＲ東海：東海道新幹線 新型車両は「S0系」",
-   "n": 2
+   "text": "JR東海「のぞみ」、27年値上げ",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeHJzcDBQNXpnQ19XWjJJT3pQMGVLRkRFZFlSbzhfVXBydktPM0xNM2Eza2hNVnAxVzN0T2RFcmJPc3lVOXlaWnF2Yw?oc=5",
+   "title": "JR東海「のぞみ」、27年値上げ",
+   "n": 1
+  },
+  {
+   "text": "新横浜駅の北側はどう変わる？ 横浜市が「新横浜駅北部地区まちづくり方針」を26年10月策定、1日約20万人が乗る“陸の玄関口”に新図書館やスーパー誘導も",
+   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91QTA3dFhNcFdqenpvTTlqdGJqRDg2ZkxrblZGWjNSMlB4SmdMZ2dDaktPN1pDR0FFaFRoQ1NYZWtVU09temh5M1o2bXA?oc=5",
+   "title": "新横浜駅の北側はどう変わる？ 横浜市が「新横浜駅北部地区まちづくり方針」を26年10月策定、1日約20万人が乗る“陸の玄関口”に新図書館やスーパー誘導も",
+   "n": 1
   }
  ]
 }

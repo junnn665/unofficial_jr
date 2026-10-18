@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18T23:48+09:00",
- "checked": "2026-10-18T23:48+09:00",
+ "updated": "2026-10-19T00:47+09:00",
+ "checked": "2026-10-19T00:47+09:00",
  "items": [
   {
    "date": "2026-10-18",
@@ -264,6 +264,28 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-18T23:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbmt2NlZZNnp2eVNBdmRUVnNUeTJ0d2xXRlh3MjV0UlV3cWpmbzR1Tm80R25WQV9JV1JOMWFHcWoxbTgtTjZlZGY1Mm96RjhjRXpfQ1dFSFdNWUVmeTY1MWxzNmdvYm1hejBLb0lMS0xSa1c0QVRUbFRmSTB0WTQ?oc=5"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "unko",
+   "title": "【交通情報】東海道線 菊川駅～浜松駅の上下で運転見合わせ 掛川駅で人身事故 運転再開は午後11時の見込み(午後9時半現在)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFVFFaWHlVOGZSZWJMaGdVZ0R0U3ByMWlUOUdSMEpfbVpXZUc1cjQ4RmFpbGc3WXpSRzE4Vjkza1JlR0hHTE5PMk11OVVkU3RMRW5tb2lNd19UOGZCYU90cg?oc=5",
+   "src": "アットエス",
+   "auto": true,
+   "added": "2026-10-19T00:47+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbmt2NlZZNnp2eVNBdmRUVnNUeTJ0d2xXRlh3MjV0UlV3cWpmbzR1Tm80R25WQV9JV1JOMWFHcWoxbTgtTjZlZGY1Mm96RjhjRXpfQ1dFSFdNWUVmeTY1MWxzNmdvYm1hejBLb0lMS0xSa1c0QVRUbFRmSTB0WTQ?oc=5"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "unko",
+   "title": "【交通情報】東海道線 菊川駅～浜松駅 上下で運転再開 掛川駅での人身事故で一時運転見合わせ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUFY4alVJdkQ0b255c28xX1VoOTE3NXBFLWZQdzlQYnFpOEVvZmREMEYwaHNLelZpSF9tQmZFVnNwb1Q4ZWpiX3kxRGViYWhfblZEWk42SnFaRWhHQjk2Sw?oc=5",
+   "src": "アットエス",
+   "auto": true,
+   "added": "2026-10-19T00:47+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbmt2NlZZNnp2eVNBdmRUVnNUeTJ0d2xXRlh3MjV0UlV3cWpmbzR1Tm80R25WQV9JV1JOMWFHcWoxbTgtTjZlZGY1Mm96RjhjRXpfQ1dFSFdNWUVmeTY1MWxzNmdvYm1hejBLb0lMS0xSa1c0QVRUbFRmSTB0WTQ?oc=5"
   },
   {
@@ -3862,6 +3884,17 @@
    "auto": true,
    "added": "2026-10-18T16:49+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RklaMGUya25qZlBrOHlBdHpMY0dsbWphdlJPYV8zZzF4VGM3YV9LYjFBV2F4b001VFdpVXR2Vk1wNl8tM1BSd3VVR2hXRXgyZFFWOUhn?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "linear",
+   "title": "JR 東海リニア中央新幹線長野県駅(仮称)のジオラマを前に説明を聞きました。2026年10月7日撮影。2026年10月13日火曜日。 Zheng Qinwen (YskUqgq70l)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHOUhaLUdBX05wQ0tjbHh3ZWdvMmg4MG9wZlZLYUpGYjhLc2VXNk5mQWtSNG0wbmEtN3hfZ0pkeVVDQ1VPN2FZRjVBMlFIczVSaTd6ak5zc0VqV0J2cjlIajFCWVNwamotZTYtUA?oc=5",
+   "src": "Unisba Media",
+   "auto": true,
+   "added": "2026-10-19T00:47+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHOUhaLUdBX05wQ0tjbHh3ZWdvMmg4MG9wZlZLYUpGYjhLc2VXNk5mQWtSNG0wbmEtN3hfZ0pkeVVDQ1VPN2FZRjVBMlFIczVSaTd6ak5zc0VqV0J2cjlIajFCWVNwamotZTYtUA?oc=5"
   },
   {
    "date": "2026-10-14",
