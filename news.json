@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T01:18+09:00",
- "checked": "2026-10-20T01:18+09:00",
+ "updated": "2026-10-20T01:58+09:00",
+ "checked": "2026-10-20T01:58+09:00",
  "items": [
   {
    "date": "2026-10-19",
@@ -309,6 +309,17 @@
    "auto": true,
    "added": "2026-10-19T23:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wQXpVNGpxTVN5aUtCY1dxUlhzRjEybzMwSWdPSUpIZkhkbExkWDB5ejg4eDBydGJEajlqRXZSRGExZ0djRDI0Y3UzVjJIUGNnZ3o3a3pyZ2liODljU0NoVGhBZUxDTnJhanJ5NURkbmY?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "linear",
+   "title": "「速度と快適性を体感」小池都知事がリニア初試乗 山梨と「互いに連携しながら発展」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXo3aklBV01vZlNIRVhkRkxhN2tvZ1kwZDB6V2NkREhPaWprM2Y0N2JNSEs3SG5mdFhwZWJwMjhwUG1GazFwcnVfU1czOWdBek5uWGVWb29aWDNOWlp0Nk1ydHhZVVdvelc3Q2tiXzlkU0tSVDhaclZXWlllaU9acVQydHlsNVE?oc=5",
+   "src": "日テレNEWS NNN",
+   "auto": true,
+   "added": "2026-10-20T01:58+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BQ3JPdmV6azd2WGhZZ2pOWmRxUlloWmJaN3BlWFRKTHBwWUJ4dzhZQi0xQ0xRSWdIOEtfSVBMWkx4S3hXbzVONF90bkxkdTJ5NDREVkt3TnNZb2FiemVkUjZvLThUcER1ejhFNjVJdDNlaWxhX3oxVjJEUGJLUUk?oc=5"
   },
   {
    "date": "2026-10-18",
@@ -3620,6 +3631,17 @@
    "auto": true,
    "added": "2026-10-19T20:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UkdsMnpZSXJIVmNJWGhZNFpCMUM2dkttSDFXVnJKUnpZQWxFYlVJRWF0Z1RPVkRwenR2V3plb1BWdjRyMndCTkE4dVZHS1VmMmdOdm5LdTFDOVQtOEVQZzQ0SWdlOVJwcW8xbzZXYW9kSExXdWQtNGVNZXktUUE?oc=5"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "shinkansen",
+   "title": "ＪＲ東海「のぞみ」指定席値上げ ２７年、東京—新大阪７００円",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfT0lHVHItNWxHRmUwLTU0MWVObzhjZHNUX3RRYmhKVndWUnlIYTlkRTdXbEh0Tjctb09KcEZEZjVEQXpESDRiVUJZbnBPc0ZBbWdDTTRoMFNwdDc3VXF1bEdBRUVTeWNEWXBOU1BDZENialF2?oc=5",
+   "src": "宮崎日日新聞",
+   "auto": true,
+   "added": "2026-10-20T01:58+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tNkRWV1pOSng0LTRfQ3BVXzZLX3ZGTzQ0dGJFR0hEZkJWY3RLbUg2NWZJLWpiOXo5R1JXb0NIQThUZms1eWpHajNqNA?oc=5"
   },
   {
    "date": "2026-10-15",
