@@ -69,7 +69,11 @@
    "note": "2026年3月に起工式を行い、駅舎の工事が始まった。在来線の甲府駅から離れているため、アクセス手段が地元の課題になっている。",
    "src": "https://hirogoro.com/linear-chuo-shinkansen-opening-route-fare/3717/",
    "status_date": "2026-03-31",
-   "latest": null
+   "latest": {
+    "date": "2026-10-19",
+    "title": "【小池都知事リニアに乗る】「通勤圏になる」小池都知事と山梨・長崎知事がリニア試乗 甲府ー品川は約25分 利便性に期待",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRXJsZDI0NVNvT0ROc3ZiNEVINUExRnhySFRhUE1sRnBCQ3NNbVdsTWNJUXI4eUo4YkpRdzB6cTRJYlB0MU9yeEZQUmhhUmwzUV9MemVxR0Iyb0N6cmNieFpDLXI5QUQ3aVE5dTBiMUt5RU1qRHdXM3NwMmNyYzQ?oc=5"
+   }
   },
   {
    "name": "長野県駅（仮称）",
@@ -227,5 +231,5 @@
    }
   }
  ],
- "checked": "2026-10-19T19:54+09:00"
+ "checked": "2026-10-19T20:57+09:00"
 }
