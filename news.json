@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-20T01:58+09:00",
- "checked": "2026-10-20T05:54+09:00",
+ "updated": "2026-10-20T06:52+09:00",
+ "checked": "2026-10-20T06:52+09:00",
  "items": [
+  {
+   "date": "2026-10-20",
+   "cat": "shinkansen",
+   "title": "JR東海が29年7月投入、新幹線の次期車両「S0系」の機能",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XclEzVDBZWnJidXlGMlRsbldkOThsUmxVUWw1UlE0MUxCeEhTamhkSEtpSWVHR25oRUdGQXJTNnhrQQ?oc=5",
+   "src": "ニュースイッチ by 日刊工業新聞社",
+   "auto": true,
+   "added": "2026-10-20T06:52+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SRTZGNTBud09Rc3ZjSkxlVFJNNTV0bW96ei05YUNDWjBPWXI4WkFfS0wxcmlfMWRqYTBQNWJBRXpQYlZkTGJvb3NfUnkzbXVFRnltbDJtN1k?oc=5"
+  },
   {
    "date": "2026-10-19",
    "cat": "shinkansen",
