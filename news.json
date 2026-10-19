@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T18:01+09:00",
- "checked": "2026-10-19T18:01+09:00",
+ "updated": "2026-10-19T18:59+09:00",
+ "checked": "2026-10-19T18:59+09:00",
  "items": [
   {
    "date": "2026-10-19",
@@ -210,6 +210,28 @@
    "auto": true,
    "added": "2026-10-19T18:01+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82eGRGN3V1TDhmLTBmVnNRbld4aXViUFRTMG5SY2dVQXJPSXRPV2ZNSWIwczVmN3hoZzd2VkVFYXp1RUN2QlJQQ1FNSks?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "shinkansen",
+   "title": "JR東海が「EXサービス」の価格改定を発表！「のぞみ」「みずほ」指定席＆グリーン車が値上げへ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjb3RoX2E5V29PX19NUnhyNGNTbzVuVnBCLXJHRUpDdHlFRXN4RTdBYVIteFJkWFZKbWxqZDc1WEpaNjJIUmN0dmQzUGE?oc=5",
+   "src": "DXマガジン",
+   "auto": true,
+   "added": "2026-10-19T18:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjb3RoX2E5V29PX19NUnhyNGNTbzVuVnBCLXJHRUpDdHlFRXN4RTdBYVIteFJkWFZKbWxqZDc1WEpaNjJIUmN0dmQzUGE?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "linear",
+   "title": "小池知事がリニア初試乗 「早期の全線開業を期待」 山梨",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zc2FLTFdiVkZsMXp1ZVFrWWd3MG9fckJ3NVFhN1NabVA2UDBVOVYzdmlxTEs0ek1wbjR1YWE4b2VJNmpqV200QlNSTmJXd3VJcmxYQzlQNmMyLVotS1Nn?oc=5",
+   "src": "NHKニュース",
+   "auto": true,
+   "added": "2026-10-19T18:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zc2FLTFdiVkZsMXp1ZVFrWWd3MG9fckJ3NVFhN1NabVA2UDBVOVYzdmlxTEs0ek1wbjR1YWE4b2VJNmpqV200QlNSTmJXd3VJcmxYQzlQNmMyLVotS1Nn?oc=5"
   },
   {
    "date": "2026-10-18",
