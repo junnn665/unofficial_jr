@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T00:56+09:00",
- "checked": "2026-10-21T00:56+09:00",
+ "updated": "2026-10-21T01:55+09:00",
+ "checked": "2026-10-21T01:55+09:00",
  "items": [
   {
    "date": "2026-10-20",
@@ -309,6 +309,17 @@
    "auto": true,
    "added": "2026-10-20T23:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlYldOT1VTV19BRjZ6TjJMU2taMjAzb2MxWEFZeWUtRTdsMFZJM1lxajVNTHdsLS1famdwWEthdFJ6eHc?oc=5"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "event",
+   "title": "県内の多彩な酒飲み比べ 酔いフェス「秋の陣」 飯田市丘の上【長野県】（南信州新聞）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15a0t6WHJjR0JIZlNmcEZzQ2xMWEJrbllPT3ktSm5YdEJJbkVfMUwxd19rMWptbFBrejJnTzFsb2V2dmdOc3BxNkI2d1E5empFSDhpTkJWbmMyX3daMHhQWVNTNVg2LTk0R01pS0lQZUpLUzJpRGd6N09wQWRybEE?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-21T01:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15a0t6WHJjR0JIZlNmcEZzQ2xMWEJrbllPT3ktSm5YdEJJbkVfMUwxd19rMWptbFBrejJnTzFsb2V2dmdOc3BxNkI2d1E5empFSDhpTkJWbmMyX3daMHhQWVNTNVg2LTk0R01pS0lQZUpLUzJpRGd6N09wQWRybEE?oc=5"
   },
   {
    "date": "2026-10-19",
