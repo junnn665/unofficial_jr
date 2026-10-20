@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T16:09+09:00",
- "checked": "2026-10-20T16:09+09:00",
+ "updated": "2026-10-20T16:58+09:00",
+ "checked": "2026-10-20T16:58+09:00",
  "items": [
   {
    "date": "2026-10-20",
@@ -199,6 +199,28 @@
    "auto": true,
    "added": "2026-10-20T16:09+09:00",
    "g": "https://jr-central.co.jp/news/release/nws000001_00623.html"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "linear",
+   "title": "リニア中央新幹線（品川・名古屋間）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV3FwVjltMjZ4ZkZZNlBZSUQ5SUU0MVRQcms3QnBBckRweWd0RkdBckFpZVY5NE5uWlJ2a2tLc1JfU0hqemxoTExUSkZJckQxOGhnZnhiejJKOW5xVnpZUnlNQm9SRTlMcG5yM0libTU0Sk5zRm03TTZoWWFIUzA?oc=5",
+   "src": "www.city.shinagawa.tokyo.jp",
+   "auto": true,
+   "added": "2026-10-20T16:58+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV3FwVjltMjZ4ZkZZNlBZSUQ5SUU0MVRQcms3QnBBckRweWd0RkdBckFpZVY5NE5uWlJ2a2tLc1JfU0hqemxoTExUSkZJckQxOGhnZnhiejJKOW5xVnpZUnlNQm9SRTlMcG5yM0libTU0Sk5zRm03TTZoWWFIUzA?oc=5"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "zairai",
+   "title": "JR東海 クハ315-3007 (315系) 車内設備、様子(乗車記録の写真一覧)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtZlhZdFNZa2h2T0tYMVprbV8xSHhzbGNNeVZlc1Z5UFQ2WDBsMnoxaUtGZWdXNnZrT2djS2NuUTJ4RllpLW5tai1tTGpSUUk0VGI4Vmw4Ym80bkNwLWhvTnlKZmE?oc=5",
+   "src": "レイルラボ",
+   "auto": true,
+   "added": "2026-10-20T16:58+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtZlhZdFNZa2h2T0tYMVprbV8xSHhzbGNNeVZlc1Z5UFQ2WDBsMnoxaUtGZWdXNnZrT2djS2NuUTJ4RllpLW5tai1tTGpSUUk0VGI4Vmw4Ym80bkNwLWhvTnlKZmE?oc=5"
   },
   {
    "date": "2026-10-19",
