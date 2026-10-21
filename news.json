@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T17:01+09:00",
- "checked": "2026-10-21T17:01+09:00",
+ "updated": "2026-10-21T17:45+09:00",
+ "checked": "2026-10-21T17:45+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -133,6 +133,17 @@
    "auto": true,
    "added": "2026-10-21T17:01+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nZENOQjNBSXpfUkRCZ1MzU2tZN0pZekM1a2J1UFl4bUxfMWNOV1hPZGFDUXNKQVNDMUw1ejdGQk1XbndyT2JERUZlYS0yd2FQbXpVeW5B?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "event",
+   "title": "「エアフェスタ浜松2026」でブルーインパルス展示飛行。浜松駅から会場へのシャトルバスも",
+   "summary": "",
+   "url": "https://travel.watch.impress.co.jp/docs/news/2150015.html",
+   "src": "トラベル Watch",
+   "auto": true,
+   "added": "2026-10-21T17:45+09:00",
+   "g": "https://travel.watch.impress.co.jp/docs/news/2150015.html"
   },
   {
    "date": "2026-10-20",
@@ -4412,6 +4423,17 @@
    "auto": true,
    "added": "2026-10-21T13:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81d0VxVTlEa1YzX2EzU0ZMLUxKWXBoeEpiSGJNamVSSk1lYnVYSS10TUk5UWxGbVJfZ2t6cVE2LS04T0g2ZVBlOUZ4MnRyWHg4YlZmbVh6MTQtYXByS1QtOGVsY21mdlBOS0hUbzFYQzl4TncxbjZKeFFfZmNZQ2M?oc=5"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "shinkansen",
+   "title": "JR東海とJR西日本、27年から「のぞみ」指定席などを値上げ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQSXQwUGdYSV9LTWJGMUx5UDMxYzVsd2ZsWFVoTjkyUm50M1l5SlpTZUxIMVkxRGVJekhlbEtLRnNFb19YaUVYdGppWEFkQXo5aWhkam1rR2RpQnpDajFtT1Y5NGJ2dG9ON3dXMHNlWm5ieUVPTy1CR3FjY2VIQVJYUlhzNG1QdDdWbGdVT1B4R0FKNzV4ZTVjaERwSUVzUjFyQmFxbWtKaVlqRXJUSy1fVk5ndmZFQjNWMXdkWVJLZGJ4YVVKV1NuOER1Unh6a21PUkFBRC01a1lDWkNJaWdFYTF0UzVaNG9UV1BwZVZNelZjcnJfbnowUWtlNVZQUVNyU1FaTXVnM1pQMnFHa2tNaGlQR053R05IVndUNENiaTBwTXlWWjdYZzY2WUJQWjFZYTNJN19BeEhRNmh5Sm53bzcwazhQVUNkdUZKV1JfaGcxQUotTGQ0RV96TzdwXzFYREhfNC1qVnE5Z0xfVHhVaWJ1RHV4UUxPd3hYaXg5RU5NdndqU3pkbjZqcXZEaHkzbmFn?oc=5",
+   "src": "SmartNews",
+   "auto": true,
+   "added": "2026-10-21T17:45+09:00",
+   "g": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQSXQwUGdYSV9LTWJGMUx5UDMxYzVsd2ZsWFVoTjkyUm50M1l5SlpTZUxIMVkxRGVJekhlbEtLRnNFb19YaUVYdGppWEFkQXo5aWhkam1rR2RpQnpDajFtT1Y5NGJ2dG9ON3dXMHNlWm5ieUVPTy1CR3FjY2VIQVJYUlhzNG1QdDdWbGdVT1B4R0FKNzV4ZTVjaERwSUVzUjFyQmFxbWtKaVlqRXJUSy1fVk5ndmZFQjNWMXdkWVJLZGJ4YVVKV1NuOER1Unh6a21PUkFBRC01a1lDWkNJaWdFYTF0UzVaNG9UV1BwZVZNelZjcnJfbnowUWtlNVZQUVNyU1FaTXVnM1pQMnFHa2tNaGlQR053R05IVndUNENiaTBwTXlWWjdYZzY2WUJQWjFZYTNJN19BeEhRNmh5Sm53bzcwazhQVUNkdUZKV1JfaGcxQUotTGQ0RV96TzdwXzFYREhfNC1qVnE5Z0xfVHhVaWJ1RHV4UUxPd3hYaXg5RU5NdndqU3pkbjZqcXZEaHkzbmFn?oc=5"
   },
   {
    "date": "2026-10-15",
