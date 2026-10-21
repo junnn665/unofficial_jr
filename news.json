@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T16:11+09:00",
- "checked": "2026-10-21T16:11+09:00",
+ "updated": "2026-10-21T17:01+09:00",
+ "checked": "2026-10-21T17:01+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -122,6 +122,17 @@
    "auto": true,
    "added": "2026-10-21T16:11+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaa2JaTXVZNmxRT2ZFNnlvSTVTTGl4VzVRX0xNem55TmxzWF9hTE5obUt6R2k2QTVRQTZnM1Rtc3RrdFc4MWxPcHVLeXJvN281TjU3eExkZnR1SjN6WmJTd3E5SWxDcFVfOENyYThn?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "linear",
+   "title": "明知鉄道活性化へ連携 恵那、中津川市長が知事と懇談 リニア見据え「周遊の仕組み必要」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nZENOQjNBSXpfUkRCZ1MzU2tZN0pZekM1a2J1UFl4bUxfMWNOV1hPZGFDUXNKQVNDMUw1ejdGQk1XbndyT2JERUZlYS0yd2FQbXpVeW5B?oc=5",
+   "src": "岐阜新聞デジタル",
+   "auto": true,
+   "added": "2026-10-21T17:01+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nZENOQjNBSXpfUkRCZ1MzU2tZN0pZekM1a2J1UFl4bUxfMWNOV1hPZGFDUXNKQVNDMUw1ejdGQk1XbndyT2JERUZlYS0yd2FQbXpVeW5B?oc=5"
   },
   {
    "date": "2026-10-20",
@@ -529,6 +540,17 @@
    "auto": true,
    "added": "2026-10-21T16:11+09:00",
    "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WdDJCWW1pbER2YUcza09xODcwZVpMMzF4OG0zczlPdkFtdzd5N3BIcHh4aGx4YUpqeTl5aHZLNnRMdnFVeEwwYkJuRVRfNFJjMXlPZ3pVQ2g5UHJtbUl6S3hlUHo?oc=5"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "other",
+   "title": "大道芸に縁日も！お正月はホテルで家族パーティー 名古屋マリオットで新春ブッフェ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13bmZrdjBGUmZPOVExY29xV0RFWWttY1pPU1l0QzRtXzRTZnZQYXFBNGVldFJMV0FzRWNCMHYzdEdwS3djbFBlT0RlNDQ0aDVhMGc?oc=5",
+   "src": "いこーよニュース",
+   "auto": true,
+   "added": "2026-10-21T17:01+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13bmZrdjBGUmZPOVExY29xV0RFWWttY1pPU1l0QzRtXzRTZnZQYXFBNGVldFJMV0FzRWNCMHYzdEdwS3djbFBlT0RlNDQ0aDVhMGc?oc=5"
   },
   {
    "date": "2026-10-19",
