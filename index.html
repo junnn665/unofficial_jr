@@ -44,7 +44,7 @@ header.board{padding-top:env(safe-area-inset-top,0px);background:var(--board);co
 header.board .wrap{padding-block:20px 18px;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 16px}
 .brand{font-family:var(--f-display);font-weight:900;font-size:clamp(26px,6vw,36px);letter-spacing:.02em;line-height:1.1;margin:0}
 .brand small{display:block;font-weight:500;font-size:13px;letter-spacing:.12em;color:var(--accent);margin-bottom:4px}
-.clock{font-family:var(--f-mono);font-size:13px;opacity:.8;font-variant-numeric:tabular-nums}
+.clock{touch-action:manipulation;-webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent;cursor:default;font-family:var(--f-mono);font-size:13px;opacity:.8;font-variant-numeric:tabular-nums}
 nav.tabs{background:var(--bg);border-bottom:1px solid var(--line)}
 nav.tabs .wrap{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 5px;padding-block:12px}
 /* タブ：駅ナンバリング風（路線カラーの枠に記号、選ぶとその色で塗りつぶし） */
@@ -213,7 +213,9 @@ ol.route::before{content:"";position:absolute;left:9px;top:12px;bottom:12px;widt
 .chart .readout{margin:0;font-size:13px;min-height:1.6em;text-align:center;font-variant-numeric:tabular-nums}
 .chart .readout b{font-family:var(--f-display)}
 /* ===== 小テスト ===== */
-.quiz{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px 16px;display:flex;flex-direction:column;gap:14px}
+.qx{position:absolute;top:6px;right:6px;width:40px;height:40px;border:0;background:none;color:var(--muted);font-size:22px;line-height:1;cursor:pointer;border-radius:8px}
+.qprog{padding-right:36px}
+.quiz{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px 16px;display:flex;flex-direction:column;gap:14px}
 .quiz h3{margin:0;font-family:var(--f-display);font-size:19px}
 .quiz .qsub{margin:0;font-size:13px;color:var(--muted)}
 .qperiod{display:grid;grid-template-columns:1fr 1fr;gap:10px}
@@ -273,7 +275,7 @@ ol.route::before{content:"";position:absolute;left:9px;top:12px;bottom:12px;widt
     <div class="tools">
       <input class="search" id="q" type="search" placeholder="キーワードで絞り込み" aria-label="キーワード検索">
       <button type="button" class="savedbtn" id="savedbtn" aria-pressed="false">★ 保存した記事 <span id="savedn">0</span></button>
-      <button type="button" class="savedbtn" id="quizbtn" aria-pressed="false">小テスト</button>
+      <button type="button" class="savedbtn" id="quizbtn" aria-pressed="false" hidden>小テスト</button>
     </div>
   </div>
   <p class="note">JR東海の公式発表と、新聞・ニュースサイトの関連記事を1時間ごとに自動で取り込みます。詳しい内容は各記事の出典リンクから確認してください。</p>
@@ -587,7 +589,7 @@ function renderQuiz(){
   if (!QUIZ){ box.innerHTML = `<h3 id="qz-title">小テスト</h3><p class="qsub">問題を読み込めませんでした。時間をおいてもう一度開いてください。</p>`; return; }
   if (!QS){
     const p1 = quizPool(31).length, p3 = quizPool(92).length;
-    box.innerHTML = `<h3 id="qz-title">期間を選んでスタート</h3>
+    box.innerHTML = `<button type="button" class="qx" id="qx" aria-label="小テストを閉じる">×</button><h3 id="qz-title">期間を選んでスタート</h3>
       <p class="qsub">最近のJR東海のニュースから10問出題します。</p>
       <div class="qperiod">
         <button type="button" data-days="31" data-label="直近1か月" ${p1 ? "" : "disabled"}><b>直近1か月</b><span>${p1}問から出題${best["31"] != null ? `・最高 ${best["31"]}点` : ""}</span></button>
@@ -595,6 +597,7 @@ function renderQuiz(){
       </div>
       <p class="qsub">問題は${QUIZ.updated.replace(/-/g, "/")}時点のニュースから作っています。</p>`;
     box.querySelectorAll(".qperiod button").forEach(b => b.onclick = () => quizStart(+b.dataset.days, b.dataset.label));
+    $("#qx").onclick = closeQuiz;
     return;
   }
   const n = QS.qs.length;
@@ -613,7 +616,7 @@ function renderQuiz(){
   }
   const q = QS.qs[QS.i], done = QS.picked != null, right = done && QS.picked === q.a;
   const d = q.date.split("-");
-  box.innerHTML = `<div class="qprog"><span>${QS.i + 1} / ${n}</span><i style="--p:${(QS.i + (done ? 1 : 0)) / n * 100}%"></i><span>${QS.score}問正解</span></div>
+  box.innerHTML = `<button type="button" class="qx" id="qx" aria-label="小テストを閉じる">×</button><div class="qprog"><span>${QS.i + 1} / ${n}</span><i style="--p:${(QS.i + (done ? 1 : 0)) / n * 100}%"></i><span>${QS.score}問正解</span></div>
     <span class="qdate">${+d[1]}月${+d[2]}日のニュース</span>
     <p class="qq" id="qz-title">${esc(q.q)}</p>
     <div class="qopts">${q.o.map((t, i) => `<button type="button" data-i="${i}" ${done ? "disabled" : ""} class="${done && i === q.a ? "ok" : done && i === QS.picked ? "ng" : ""}"><span class="k">${"ABCD"[i]}</span>${esc(t)}</button>`).join("")}</div>
@@ -624,6 +627,7 @@ function renderQuiz(){
     if (QS.picked === q.a) QS.score++; else QS.wrong.push(q);
     renderQuiz();
   });
+  $("#qx").onclick = closeQuiz;
   if (done) $("#qnext").onclick = () => { QS.i++; QS.picked = null; renderQuiz(); box.scrollIntoView({block: "start", behavior: "smooth"}); };
 }
 function closeQuiz(){ QUIZVIEW = false; QS = null; $("#quizbtn").setAttribute("aria-pressed", "false"); renderQuiz(); renderLinear(); renderFin(); renderList(); }
@@ -634,6 +638,17 @@ $("#quizbtn").addEventListener("click", () => {
   renderQuiz(); renderLinear(); renderFin(); renderList();
   $("#quiz").scrollIntoView({block: "start", behavior: "smooth"});
 });
+
+
+/* 隠しコマンド：右上の日付を3回続けてタップすると小テストが開く */
+(() => {
+  let taps = [];
+  $("#clock").addEventListener("click", () => {
+    const now = Date.now();
+    taps = taps.filter(t => now - t < 1200).concat(now);
+    if (taps.length >= 3){ taps = []; if (!QUIZVIEW) $("#quizbtn").click(); }
+  });
+})();
 
 /* 「前回から○件の新着」 */
 function renderNewbar(){
