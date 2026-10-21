@@ -212,6 +212,40 @@ ol.route::before{content:"";position:absolute;left:9px;top:12px;bottom:12px;widt
 .chart svg text,.chart svg rect:not(.bar-hit){pointer-events:none}
 .chart .readout{margin:0;font-size:13px;min-height:1.6em;text-align:center;font-variant-numeric:tabular-nums}
 .chart .readout b{font-family:var(--f-display)}
+/* ===== 小テスト ===== */
+.quiz{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px 16px;display:flex;flex-direction:column;gap:14px}
+.quiz h3{margin:0;font-family:var(--f-display);font-size:19px}
+.quiz .qsub{margin:0;font-size:13px;color:var(--muted)}
+.qperiod{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.qperiod button{font:inherit;text-align:left;border:1.5px solid var(--line);background:var(--bg);color:var(--fg);border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;flex-direction:column;gap:2px}
+.qperiod button b{font-family:var(--f-display);font-size:16px}
+.qperiod button span{font-size:12px;color:var(--muted)}
+.qperiod button:disabled{opacity:.45;cursor:default}
+.qprog{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.qprog i{flex:1;height:6px;border-radius:3px;background:var(--line);overflow:hidden;position:relative}
+.qprog i::after{content:"";position:absolute;inset:0;width:var(--p,0%);background:var(--accent);border-radius:3px}
+.qq{margin:0;font-family:var(--f-display);font-size:17px;line-height:1.5;text-wrap:pretty}
+.qdate{font-size:12px;color:var(--muted);font-family:var(--f-mono)}
+.qopts{display:flex;flex-direction:column;gap:8px}
+.qopts button{font:inherit;font-size:15px;text-align:left;border:1.5px solid var(--line);background:var(--bg);color:var(--fg);border-radius:10px;padding:12px 14px;cursor:pointer;min-height:48px;display:flex;gap:10px;align-items:center}
+.qopts button .k{flex:none;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;font-size:12px;font-weight:700;border:1.5px solid var(--line)}
+.qopts button.ok{border-color:var(--c-eki);background:color-mix(in srgb,var(--c-eki) 12%,var(--bg))}
+.qopts button.ok .k{background:var(--c-eki);border-color:var(--c-eki);color:#fff}
+.qopts button.ng{border-color:var(--c-unko);background:color-mix(in srgb,var(--c-unko) 10%,var(--bg))}
+.qopts button.ng .k{background:var(--c-unko);border-color:var(--c-unko);color:#fff}
+.qopts button:disabled{cursor:default;color:var(--fg)}
+.qfb{border-radius:10px;padding:12px 14px;background:var(--bg);border-left:4px solid var(--c-eki);font-size:14px;line-height:1.6}
+.qfb.ng{border-left-color:var(--c-unko)}
+.qfb b{display:block;font-family:var(--f-display);font-size:15px;margin-bottom:2px}
+.qact{display:flex;gap:8px;flex-wrap:wrap}
+.qact button{font:inherit;font-size:14px;font-weight:700;border:0;background:var(--accent);color:var(--accent-ink);border-radius:8px;padding:10px 18px;cursor:pointer;min-height:44px}
+.qact button.sub{background:transparent;color:var(--fg);border:1.5px solid var(--line)}
+.qscore{font-family:var(--f-display);font-size:42px;line-height:1;margin:0}
+.qscore small{font-size:18px;color:var(--muted)}
+.qreview{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px;font-size:13.5px}
+.qreview li{border-left:3px solid var(--c-unko);padding:2px 0 2px 10px}
+.qreview li b{display:block}
+.quiz button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .filterbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:13px}
 .filterbar button{font:inherit;font-size:12px;font-weight:700;border:1.5px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:2px 10px;cursor:pointer}
 @media (prefers-reduced-motion: reduce){
@@ -239,6 +273,7 @@ ol.route::before{content:"";position:absolute;left:9px;top:12px;bottom:12px;widt
     <div class="tools">
       <input class="search" id="q" type="search" placeholder="キーワードで絞り込み" aria-label="キーワード検索">
       <button type="button" class="savedbtn" id="savedbtn" aria-pressed="false">★ 保存した記事 <span id="savedn">0</span></button>
+      <button type="button" class="savedbtn" id="quizbtn" aria-pressed="false">小テスト</button>
     </div>
   </div>
   <p class="note">JR東海の公式発表と、新聞・ニュースサイトの関連記事を1時間ごとに自動で取り込みます。詳しい内容は各記事の出典リンクから確認してください。</p>
@@ -246,6 +281,7 @@ ol.route::before{content:"";position:absolute;left:9px;top:12px;bottom:12px;widt
     <p class="status" id="status">ニュースを読み込み中…</p>
     <button type="button" class="reload" id="reload"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg>最新に更新</button>
   </div>
+  <section class="quiz" id="quiz" hidden aria-labelledby="qz-title"></section>
   <div class="newbar" id="newbar" hidden></div>
   <section class="digest" id="digest" hidden aria-labelledby="dg-title"></section>
   <section class="lpanel" id="lpanel" hidden aria-labelledby="lp-title"></section>
@@ -300,7 +336,7 @@ let LINEAR = {"asof": "2026年10月6日時点", "summary": [{"k": "開業の見�
 /* ===== 業績のまとめ（finance.json を読み込み。決算短信が出ると自動更新） ===== */
 let FIN = {"asof": "2026年10月7日時点（最新は2027年3月期 第1四半期決算）", "unit": "億円", "cols": ["2026年3月期<br>実績", "2027年3月期<br>会社予想", "2027年3月期<br>1Q（4〜6月）"], "rows": [{"k": "営業収益", "v": [[20062, 9.5], [19930, -0.7], [4927, 3]]}, {"k": "営業利益", "v": [[8301, 18.1], [7020, -15.4], [2191, -0.9]]}, {"k": "経常利益", "v": [[7809, 20.3], [6530, -16.4], null]}, {"k": "純利益", "v": [[5528, 20.6], [4470, -19.1], [1426, -1.8]]}], "points": [{"k": "次の決算発表", "v": "中間決算", "sub": "例年10月下旬。日程はIRカレンダーで確認"}, {"k": "年間配当", "v": "32円", "sub": "2026年3月期（中間16円・期末16円）"}, {"k": "インバウンド収入", "v": "推計490億円", "sub": "2027年3月期 第1四半期・前年同期比7%増"}, {"k": "今期の見通し", "v": "減収減益", "sub": "万博特需の反動と人件費の増加"}], "links": [{"t": "2026年3月期 決算短信（PDF）", "u": "https://jr-central.co.jp/news/release/_pdf/000045546.pdf"}, {"t": "IR資料室・決算短信", "u": "https://company.jr-central.co.jp/ir/"}, {"t": "IRカレンダー", "u": "https://company.jr-central.co.jp/ir/calendar/"}], "processed": ["https://jr-central.co.jp/news/release/_pdf/000045546.pdf"], "notice": null, "checked": ""};
 function renderFin(){
-  const show = current === "kaisha" && !SAVEDVIEW;
+  const show = current === "kaisha" && !SAVEDVIEW && !QUIZVIEW;
   $("#kpanel").hidden = !show;
   if (!show) return;
   $("#kpanel").innerHTML = `
@@ -402,7 +438,7 @@ function linearNews(kw){ return NEWS.filter(x => x.cat==="linear" && !NOISE.test
 /* イベントや見学会など、工事の進み具合と関係ない記事は「関連ニュース」に入れない */
 const NOISE = /フェス|見学|寄せ書き|ツアー|イベント|グッズ|展示|体験|記念|利回り|物件|不動産|分譲|賃貸|投資|徒歩/;
 function renderLinear(){
-  const show = current === "lprog" && !SAVEDVIEW;
+  const show = current === "lprog" && !SAVEDVIEW && !QUIZVIEW;
   $("#lpanel").hidden = !show;
   if (!show){ LFILTER = null; return; }
   const btn = o => { const n = linearNews(o.kw).length; if (!n) return "";
@@ -438,7 +474,7 @@ function renderTabs(){
       <span class="code" aria-hidden="true">${c.code}</span>${c.name}</button>`;
   }).join("");
   $("#tabs").querySelectorAll(".tab").forEach(b => b.onclick = () => {
-    current = b.dataset.id; LFILTER = null; SAVEDVIEW = false; ONLY_NEW = false; updateSavedCount(); renderTabs(); renderLinear(); renderFin(); renderList();
+    current = b.dataset.id; LFILTER = null; SAVEDVIEW = false; if (QUIZVIEW){ QUIZVIEW = false; QS = null; $("#quizbtn").setAttribute("aria-pressed","false"); renderQuiz(); } ONLY_NEW = false; updateSavedCount(); renderTabs(); renderLinear(); renderFin(); renderList();
   });
 }
 const esc = s => String(s).replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
@@ -477,14 +513,21 @@ function renderList(){
     .filter(x => !LFILTER || (!NOISE.test(x.title) && LFILTER.kw.some(k => x.title.includes(k))));
   let topics = toTopics(items);
   if (ONLY_NEW && !SAVEDVIEW) topics = topics.filter(t => t.unseen);
-  const title = SAVEDVIEW ? "保存した記事" : current==="all" ? "すべてのニュース" : current==="lprog" ? "リニア工事進捗" : catOf(current).name + "のニュース";
-  $("#heading").textContent = title + ((current==="lprog" && !SAVEDVIEW) || LOADING ? "" : `（${topics.length}件）`);
+  const title = QUIZVIEW ? "小テスト" : SAVEDVIEW ? "保存した記事" : current==="all" ? "すべてのニュース" : current==="lprog" ? "リニア工事進捗" : catOf(current).name + "のニュース";
+  $("#heading").textContent = title + ((current==="lprog" && !SAVEDVIEW) || QUIZVIEW || LOADING ? "" : `（${topics.length}件）`);
   const fb = $("#filterbar");
   fb.hidden = !LFILTER || SAVEDVIEW;
   if (LFILTER){ fb.innerHTML = `<span>「${esc(LFILTER.name)}」のニュース ${topics.length}件</span><button type="button" id="clearf">絞り込みを解除</button>`;
     $("#clearf").onclick = () => { LFILTER = null; renderLinear(); renderList(); }; }
   renderNewbar(); renderDigest();
   const list = $("#list");
+  if (QUIZVIEW){   // 小テスト中は、ほかの欄を隠す
+    ["#newbar","#digest","#filterbar"].forEach(k => $(k).hidden = true);
+    list.hidden = true; document.querySelector(".note").hidden = true; document.querySelector(".statusbar").hidden = true;
+    $("#q").hidden = true;
+    return;
+  }
+  document.querySelector(".statusbar").hidden = false;
   // 工事進捗タブは進捗の欄だけ。「関連ニュース」ボタンを押したときだけ一覧を出す
   const panelOnly = current === "lprog" && !LFILTER && !SAVEDVIEW;
   list.hidden = panelOnly;
@@ -517,7 +560,80 @@ $("#list").addEventListener("click", e => {
   updateSavedCount(); renderList();
 });
 function updateSavedCount(){ $("#savedn").textContent = Object.keys(SAVED).length; $("#savedbtn").setAttribute("aria-pressed", SAVEDVIEW); }
-$("#savedbtn").addEventListener("click", () => { SAVEDVIEW = !SAVEDVIEW; ONLY_NEW = false; updateSavedCount(); renderLinear(); renderFin(); renderList(); });
+$("#savedbtn").addEventListener("click", () => { if (QUIZVIEW){ QUIZVIEW = false; QS = null; $("#quizbtn").setAttribute("aria-pressed","false"); renderQuiz(); } SAVEDVIEW = !SAVEDVIEW; ONLY_NEW = false; updateSavedCount(); renderLinear(); renderFin(); renderList(); });
+
+
+/* ===== 小テスト（quiz.json の問題から、選んだ期間の分を10問出す） ===== */
+let QUIZ = null, QUIZVIEW = false, QS = null;
+function quizPool(days){
+  if (!QUIZ) return [];
+  const now = Date.now();
+  return QUIZ.questions.filter(q => (now - new Date(q.date + "T00:00:00+09:00")) / 864e5 <= days);
+}
+function shuffle(a){ a = a.slice(); for (let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function quizStart(days, label){
+  const qs = shuffle(quizPool(days)).slice(0, 10).map(q => {
+    const order = shuffle(q.o.map((_, i) => i));          // 選択肢の並びも毎回シャッフル
+    return {...q, o: order.map(i => q.o[i]), a: order.indexOf(q.a)};
+  });
+  QS = {label, days, qs, i: 0, picked: null, score: 0, wrong: []};
+  renderQuiz();
+}
+function renderQuiz(){
+  const box = $("#quiz");
+  box.hidden = !QUIZVIEW;
+  if (!QUIZVIEW) return;
+  const best = store.get("quizBest", {});
+  if (!QUIZ){ box.innerHTML = `<h3 id="qz-title">小テスト</h3><p class="qsub">問題を読み込めませんでした。時間をおいてもう一度開いてください。</p>`; return; }
+  if (!QS){
+    const p1 = quizPool(31).length, p3 = quizPool(92).length;
+    box.innerHTML = `<h3 id="qz-title">期間を選んでスタート</h3>
+      <p class="qsub">最近のJR東海のニュースから10問出題します。</p>
+      <div class="qperiod">
+        <button type="button" data-days="31" data-label="直近1か月" ${p1 ? "" : "disabled"}><b>直近1か月</b><span>${p1}問から出題${best["31"] != null ? `・最高 ${best["31"]}点` : ""}</span></button>
+        <button type="button" data-days="92" data-label="直近3か月" ${p3 ? "" : "disabled"}><b>直近3か月</b><span>${p3}問から出題${best["92"] != null ? `・最高 ${best["92"]}点` : ""}</span></button>
+      </div>
+      <p class="qsub">問題は${QUIZ.updated.replace(/-/g, "/")}時点のニュースから作っています。</p>`;
+    box.querySelectorAll(".qperiod button").forEach(b => b.onclick = () => quizStart(+b.dataset.days, b.dataset.label));
+    return;
+  }
+  const n = QS.qs.length;
+  if (QS.i >= n){
+    const pts = Math.round(QS.score / n * 100);
+    if (best[QS.days] == null || pts > best[QS.days]){ best[QS.days] = pts; store.set("quizBest", best); }
+    const msg = pts === 100 ? "全問正解！JR東海ニュースの達人です" : pts >= 70 ? "よく追えています" : pts >= 40 ? "あと少し。ニュースを見返してみましょう" : "まずはニュース一覧をチェック！";
+    box.innerHTML = `<h3 id="qz-title">結果（${QS.label}）</h3>
+      <p class="qscore">${QS.score}<small> / ${n}問正解</small></p><p class="qsub">${msg}</p>
+      ${QS.wrong.length ? `<ul class="qreview">${QS.wrong.map(q => `<li><b>${esc(q.q)}</b>正解：${esc(q.o[q.a])}</li>`).join("")}</ul>` : ""}
+      <div class="qact"><button type="button" id="qagain">もう一度（${QS.label}）</button><button type="button" class="sub" id="qback">期間を選び直す</button><button type="button" class="sub" id="qclose">ニュースに戻る</button></div>`;
+    $("#qagain").onclick = () => quizStart(QS.days, QS.label);
+    $("#qback").onclick = () => { QS = null; renderQuiz(); };
+    $("#qclose").onclick = closeQuiz;
+    return;
+  }
+  const q = QS.qs[QS.i], done = QS.picked != null, right = done && QS.picked === q.a;
+  const d = q.date.split("-");
+  box.innerHTML = `<div class="qprog"><span>${QS.i + 1} / ${n}</span><i style="--p:${(QS.i + (done ? 1 : 0)) / n * 100}%"></i><span>${QS.score}問正解</span></div>
+    <span class="qdate">${+d[1]}月${+d[2]}日のニュース</span>
+    <p class="qq" id="qz-title">${esc(q.q)}</p>
+    <div class="qopts">${q.o.map((t, i) => `<button type="button" data-i="${i}" ${done ? "disabled" : ""} class="${done && i === q.a ? "ok" : done && i === QS.picked ? "ng" : ""}"><span class="k">${"ABCD"[i]}</span>${esc(t)}</button>`).join("")}</div>
+    ${done ? `<div class="qfb${right ? "" : " ng"}" role="status"><b>${right ? "正解！" : "残念！ 正解は " + "ABCD"[q.a]}</b>${esc(q.e)}</div>
+      <div class="qact"><button type="button" id="qnext">${QS.i + 1 < n ? "次の問題へ" : "結果を見る"}</button></div>` : ""}`;
+  box.querySelectorAll(".qopts button").forEach(b => b.onclick = () => {
+    QS.picked = +b.dataset.i;
+    if (QS.picked === q.a) QS.score++; else QS.wrong.push(q);
+    renderQuiz();
+  });
+  if (done) $("#qnext").onclick = () => { QS.i++; QS.picked = null; renderQuiz(); box.scrollIntoView({block: "start", behavior: "smooth"}); };
+}
+function closeQuiz(){ QUIZVIEW = false; QS = null; $("#quizbtn").setAttribute("aria-pressed", "false"); renderQuiz(); renderLinear(); renderFin(); renderList(); }
+$("#quizbtn").addEventListener("click", () => {
+  if (QUIZVIEW) return closeQuiz();
+  QUIZVIEW = true; SAVEDVIEW = false; QS = null; updateSavedCount();
+  $("#quizbtn").setAttribute("aria-pressed", "true");
+  renderQuiz(); renderLinear(); renderFin(); renderList();
+  $("#quiz").scrollIntoView({block: "start", behavior: "smooth"});
+});
 
 /* 「前回から○件の新着」 */
 function renderNewbar(){
@@ -573,6 +689,7 @@ async function load(){
     const data = await r.json();
     NEWS = data.items || [];
     try { DIGEST = await get("digest.json"); } catch(e){ DIGEST = null; }
+    try { QUIZ = await get("quiz.json"); } catch(e){}
     if (SEEN_PREV === null){                       // このページを開いたときに1回だけ
       SEEN_PREV = store.get("seenAt", "");
       store.set("seenAt", data.checked || data.updated || "");
