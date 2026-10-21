@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-21T14:53+09:00",
- "checked": "2026-10-21T14:53+09:00",
+ "updated": "2026-10-21T16:11+09:00",
+ "checked": "2026-10-21T16:11+09:00",
  "items": [
+  {
+   "date": "2026-12-18",
+   "cat": "eki",
+   "title": "「コートヤード・バイ・マリオット新横浜駅」日開業 532.6KB",
+   "summary": "",
+   "url": "https://jr-central.co.jp/news/release/nws000001_00624.html",
+   "src": "JR東海",
+   "auto": true,
+   "added": "2026-10-21T16:11+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00624.html"
+  },
   {
    "date": "2026-10-21",
    "cat": "shinkansen",
@@ -67,6 +78,50 @@
    "auto": true,
    "added": "2026-10-21T14:53+09:00",
    "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZ3dyV1pLdWhYWURpR3RPTXFBR3RrQWc2THZZUlFrdFlRSUgzVVlsQWhWUDN3dUFJVWJxS21YSExraEFobW56VTY2b014bUtqU0NBb0V4Q2wwSkphaHFoeW5ESW5DZjhLYmx0OA?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "event",
+   "title": "ブシロード、JR東海×『バンドリ！アワーノーツ』による推し旅コラボが開催決定",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51UkVoNVZ1NzZVZTVqOVU1dVU0S2ZadEZudlNCaWRyVmwxSldIekQ1VEh4ZzdWOUg2WWdfSlRqdFhjRlA0?oc=5",
+   "src": "gamebiz【ゲームビズ】",
+   "auto": true,
+   "added": "2026-10-21T16:11+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51UkVoNVZ1NzZVZTVqOVU1dVU0S2ZadEZudlNCaWRyVmwxSldIekQ1VEh4ZzdWOUg2WWdfSlRqdFhjRlA0?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "eki",
+   "title": "【JR東海】「コートヤード・バイ・マリオット新横浜駅」2026年12月18日開業",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UajhwamhsLU5kSDVPVTRZbTQ5alZPelZTOVU2ZUZtTnRSNTJtNzE3QmU4eGJtczJrdkxBVFIzQ25iX0lsRUIxaWxkT3UxOGdKMVpTZkpza1NLcjVsbzBaNEVzRnd5V3ctSVE?oc=5",
+   "src": "PR TIMES",
+   "auto": true,
+   "added": "2026-10-21T16:11+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UajhwamhsLU5kSDVPVTRZbTQ5alZPelZTOVU2ZUZtTnRSNTJtNzE3QmU4eGJtczJrdkxBVFIzQ25iX0lsRUIxaWxkT3UxOGdKMVpTZkpza1NLcjVsbzBaNEVzRnd5V3ctSVE?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "shinkansen",
+   "title": "東海道･山陽新幹線「のぞみ」指定席が来年7月に値上げ、なぜ今？ 自由席は据え置き＆グリーン車は大きな値上げで“ビジネスクラス化”へ【コラム】",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZS1kWE1OdkE1MTZzMFR5NnVNNUd1bk82eTUxYUJBRjk4bGdCRTBNSGZhcm1sWTdsRVZ0NGd6STVxUUsyWGxkdkVLcGUxR3BCSGY5WDlnTHBPSlpDTkU4SUQ3d2xybV9tMVduS2t3aEwzZC16WnYxRXJ0RFpqTi10WHZn0gGHAUFVX3lxTFBSeG5rM3VFRUdyZk80STlhVlRhSTRIaVB0eWh4YWhQbmlITXV5QkFjczc5Sm5iR0dublBNVHBVaHFneElmSWlXY0xZb044ZHB6c2pOQjBTRjMyMFpwdmV1QWFCd1BsWldFb3d6Z1FCa3BkQjB1MzEwVmp1aXRRZ3hVV3NTMkpTUQ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-21T16:11+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZS1kWE1OdkE1MTZzMFR5NnVNNUd1bk82eTUxYUJBRjk4bGdCRTBNSGZhcm1sWTdsRVZ0NGd6STVxUUsyWGxkdkVLcGUxR3BCSGY5WDlnTHBPSlpDTkU4SUQ3d2xybV9tMVduS2t3aEwzZC16WnYxRXJ0RFpqTi10WHZn0gGHAUFVX3lxTFBSeG5rM3VFRUdyZk80STlhVlRhSTRIaVB0eWh4YWhQbmlITXV5QkFjczc5Sm5iR0dublBNVHBVaHFneElmSWlXY0xZb044ZHB6c2pOQjBTRjMyMFpwdmV1QWFCd1BsWldFb3d6Z1FCa3BkQjB1MzEwVmp1aXRRZ3hVV3NTMkpTUQ?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "event",
+   "title": "「いつもの電車には、帰る場所がある。」大垣車両区の歴代所属車両と日常の風景をテーマにしたオリジナルグッズ3アイテムを新発売！｜Infoseekニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaa2JaTXVZNmxRT2ZFNnlvSTVTTGl4VzVRX0xNem55TmxzWF9hTE5obUt6R2k2QTVRQTZnM1Rtc3RrdFc4MWxPcHVLeXJvN281TjU3eExkZnR1SjN6WmJTd3E5SWxDcFVfOENyYThn?oc=5",
+   "src": "Infoseek",
+   "auto": true,
+   "added": "2026-10-21T16:11+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaa2JaTXVZNmxRT2ZFNnlvSTVTTGl4VzVRX0xNem55TmxzWF9hTE5obUt6R2k2QTVRQTZnM1Rtc3RrdFc4MWxPcHVLeXJvN281TjU3eExkZnR1SjN6WmJTd3E5SWxDcFVfOENyYThn?oc=5"
   },
   {
    "date": "2026-10-20",
@@ -463,6 +518,17 @@
    "auto": true,
    "added": "2026-10-21T07:51+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IQktlOEcxenE3aVRnOHFGb1VpekMxQlY3MFlqZFNVc3ItMUtQNnFkNTBtRHhvd3RZU2pKM1oyR0kxYmhRTWk5N1l4alhncjV2MU14WU9jV3RXVVd4bmVXXzlETkFIeEt6WWRVdGFn?oc=5"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "event",
+   "title": "ＥＸ旅先予約で三重県志摩市の人気体験がおトクに！対象商品が30％OFFとなる期間限定クーポンを配布",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vQlZ4SWhnaks3RU9ZVjNXTHJIR3JYUmJ3YnVtUHNYZTB0T0N5ZEszcDJyal9mQjk0ZndyVG91QUJaQU83MDJSZTA3Zi1EVmplaGJobDZ5SG5WQUxyakI1ZVcyMDhCZzVTRnc?oc=5",
+   "src": "PR TIMES",
+   "auto": true,
+   "added": "2026-10-21T16:11+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WdDJCWW1pbER2YUcza09xODcwZVpMMzF4OG0zczlPdkFtdzd5N3BIcHh4aGx4YUpqeTl5aHZLNnRMdnFVeEwwYkJuRVRfNFJjMXlPZ3pVQ2g5UHJtbUl6S3hlUHo?oc=5"
   },
   {
    "date": "2026-10-19",
