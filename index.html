@@ -212,16 +212,40 @@ ol.route::before{content:"";position:absolute;left:9px;top:12px;bottom:12px;widt
 .chart svg text,.chart svg rect:not(.bar-hit){pointer-events:none}
 .chart .readout{margin:0;font-size:13px;min-height:1.6em;text-align:center;font-variant-numeric:tabular-nums}
 .chart .readout b{font-family:var(--f-display)}
+/* ===== 隠しコマンドの演出 ===== */
+.sfx{position:fixed;inset:0;z-index:1000;display:grid;place-items:center;background:rgba(8,10,14,.94);overflow:hidden;animation:sfx-in .15s ease-out both;padding:16px}
+.sfx.out{animation:sfx-out .35s ease-in both}
+@keyframes sfx-in{from{opacity:0}to{opacity:1}}
+@keyframes sfx-out{to{opacity:0}}
+.sfx .board{position:relative;width:min(560px,100%);background:#0b0b0b;border:4px solid #2b2f33;border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:6px;align-items:center;box-shadow:0 0 40px rgba(255,140,0,.15)}
+.sfx .board::after{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(circle,transparent 46%,rgba(0,0,0,.55) 72%);background-size:3px 3px}
+.sfx .l1{font-family:"DotGothic16",var(--f-mono);font-size:clamp(14px,4vw,18px);color:#ff4b3a;text-shadow:0 0 6px rgba(255,75,58,.8);letter-spacing:.2em;animation:sfx-blink .25s steps(1) 4}
+.sfx .l2{font-family:"DotGothic16",var(--f-mono);font-size:clamp(22px,7vw,40px);color:#ffa21f;text-shadow:0 0 6px rgba(255,162,31,.9),0 0 18px rgba(255,140,0,.5);white-space:nowrap;animation:sfx-type .5s steps(9) .2s both;overflow:hidden;max-width:100%}
+.sfx .l3{font-family:"DotGothic16",var(--f-mono);font-size:clamp(12px,3.4vw,15px);color:#5dff7a;text-shadow:0 0 6px rgba(93,255,122,.7);animation:sfx-in .2s .7s both}
+@keyframes sfx-blink{50%{opacity:0}}
+@keyframes sfx-type{from{width:0}to{width:9.4em}}
+.sfx .rail{position:absolute;left:0;right:0;bottom:22%;height:3px;background:#3a3f44}
+.sfx .train{position:absolute;bottom:calc(22% + 3px);left:0;width:min(520px,140vw);height:auto;transform:translateX(-110%);animation:sfx-run .9s cubic-bezier(.6,0,.25,1) .55s forwards}
+.sfx .speed{position:absolute;bottom:calc(22% + 10px);left:0;right:0;height:46px;opacity:0;background:repeating-linear-gradient(90deg,transparent 0 30px,rgba(255,255,255,.35) 30px 90px,transparent 90px 140px);background-size:140px 100%;mask:linear-gradient(transparent,#000 30%,#000 70%,transparent);-webkit-mask:linear-gradient(transparent,#000 30%,#000 70%,transparent);animation:sfx-speed .9s linear .6s}
+@keyframes sfx-run{to{transform:translateX(110vw)}}
+@keyframes sfx-speed{0%{opacity:0;background-position:0 0}30%{opacity:.8}100%{opacity:0;background-position:-700px 0}}
+.sfx .flash{position:absolute;inset:0;background:#fff;opacity:0;animation:sfx-flash .35s ease-out}
+@keyframes sfx-flash{0%{opacity:.55}100%{opacity:0}}
+.clock.secret{color:#ffa21f;text-shadow:0 0 6px rgba(255,162,31,.8);font-family:"DotGothic16",var(--f-mono)}
+.quiz.unlocked{animation:q-rise .45s cubic-bezier(.2,.8,.2,1) both}
+@keyframes q-rise{from{opacity:0;transform:translateY(16px) scale(.98)}to{opacity:1;transform:none}}
+.qbadge{display:inline-block;font-family:"DotGothic16",var(--f-mono);font-size:12px;color:#ffa21f;background:#0b0b0b;border-radius:4px;padding:2px 8px;letter-spacing:.08em;text-shadow:0 0 4px rgba(255,162,31,.8);align-self:flex-start}
+@media (prefers-reduced-motion: reduce){.sfx,.sfx *,.quiz.unlocked{animation:none!important}.sfx .train,.sfx .speed{display:none}}
 /* ===== 小テスト ===== */
 .qx{position:absolute;top:6px;right:6px;width:40px;height:40px;border:0;background:none;color:var(--muted);font-size:22px;line-height:1;cursor:pointer;border-radius:8px}
 .qprog{padding-right:36px}
 .quiz{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px 16px;display:flex;flex-direction:column;gap:14px}
 .quiz h3{margin:0;font-family:var(--f-display);font-size:19px}
 .quiz .qsub{margin:0;font-size:13px;color:var(--muted)}
-.qperiod{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.qperiod button{font:inherit;text-align:left;border:1.5px solid var(--line);background:var(--bg);color:var(--fg);border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;flex-direction:column;gap:2px}
-.qperiod button b{font-family:var(--f-display);font-size:16px}
-.qperiod button span{font-size:12px;color:var(--muted)}
+.qperiod{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.qperiod button{min-width:0;font:inherit;text-align:center;align-items:center;border:1.5px solid var(--line);background:var(--bg);color:var(--fg);border-radius:10px;padding:12px 4px;cursor:pointer;display:flex;flex-direction:column;gap:2px}
+.qperiod button b{font-family:var(--f-display);font-size:14px;white-space:nowrap}
+.qperiod button span{font-size:11px;color:var(--muted);white-space:nowrap}
 .qperiod button:disabled{opacity:.45;cursor:default}
 .qprog{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
 .qprog i{flex:1;height:6px;border-radius:3px;background:var(--line);overflow:hidden;position:relative}
@@ -588,12 +612,12 @@ function renderQuiz(){
   const best = store.get("quizBest", {});
   if (!QUIZ){ box.innerHTML = `<h3 id="qz-title">小テスト</h3><p class="qsub">問題を読み込めませんでした。時間をおいてもう一度開いてください。</p>`; return; }
   if (!QS){
-    const p1 = quizPool(31).length, p3 = quizPool(92).length;
-    box.innerHTML = `<button type="button" class="qx" id="qx" aria-label="小テストを閉じる">×</button><h3 id="qz-title">期間を選んでスタート</h3>
-      <p class="qsub">最近のJR東海のニュースから10問出題します。</p>
+    const periods = [[92, "直近3か月"], [183, "直近6か月"], [366, "直近1年"]];
+    box.innerHTML = `<button type="button" class="qx" id="qx" aria-label="小テストを閉じる">×</button><span class="qbadge">★ 隠しコマンド発見 ★</span><h3 id="qz-title">期間を選んでスタート</h3>
+      <p class="qsub">JR東海のニュースから10問出題します。</p>
       <div class="qperiod">
-        <button type="button" data-days="31" data-label="直近1か月" ${p1 ? "" : "disabled"}><b>直近1か月</b><span>${p1}問から出題${best["31"] != null ? `・最高 ${best["31"]}点` : ""}</span></button>
-        <button type="button" data-days="92" data-label="直近3か月" ${p3 ? "" : "disabled"}><b>直近3か月</b><span>${p3}問から出題${best["92"] != null ? `・最高 ${best["92"]}点` : ""}</span></button>
+        ${periods.map(([d, l]) => { const n = quizPool(d).length;
+          return `<button type="button" data-days="${d}" data-label="${l}" ${n ? "" : "disabled"}><b>${l}</b><span>${n}問</span>${best[d] != null ? `<span>最高 ${best[d]}点</span>` : ""}</button>`; }).join("")}
       </div>
       <p class="qsub">問題は${QUIZ.updated.replace(/-/g, "/")}時点のニュースから作っています。</p>`;
     box.querySelectorAll(".qperiod button").forEach(b => b.onclick = () => quizStart(+b.dataset.days, b.dataset.label));
@@ -640,13 +664,49 @@ $("#quizbtn").addEventListener("click", () => {
 });
 
 
-/* 隠しコマンド：右上の日付を3回続けてタップすると小テストが開く */
+/* 隠しコマンド：右上の日付を3回続けてタップすると、発車メロディ風の音と演出のあとに小テストが開く */
+function chime(){
+  try {
+    const C = window.AudioContext || window.webkitAudioContext; if (!C) return;
+    const ac = new C(), t0 = ac.currentTime + 0.02;
+    [[659.3, 0], [830.6, .13], [987.8, .26], [1318.5, .39]].forEach(([hz, at]) => {
+      const o = ac.createOscillator(), g = ac.createGain();
+      o.type = "triangle"; o.frequency.value = hz;
+      g.gain.setValueAtTime(0, t0 + at); g.gain.linearRampToValueAtTime(.18, t0 + at + .02);
+      g.gain.exponentialRampToValueAtTime(.001, t0 + at + .5);
+      o.connect(g).connect(ac.destination); o.start(t0 + at); o.stop(t0 + at + .55);
+    });
+    setTimeout(() => ac.close(), 1500);
+  } catch(e){}
+}
+function secretUnlock(){
+  if (QUIZVIEW) return;
+  const reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const clk = $("#clock"); clk.classList.add("secret"); const old = clk.textContent; clk.textContent = "SECRET MODE";
+  setTimeout(() => { clk.classList.remove("secret"); tick(); }, 3000);
+  chime();
+  if (reduce){ $("#quizbtn").click(); return; }
+  const fx = document.createElement("div");
+  fx.className = "sfx"; fx.setAttribute("role", "presentation");
+  fx.innerHTML = `<div class="flash"></div>
+    <div class="board"><div class="l1">◆ 隠しコマンド ◆</div><div class="l2">小テスト行き 発車</div><div class="l3">まもなく 発車します</div></div>
+    <div class="speed"></div><div class="rail"></div>
+    <svg class="train" viewBox="0 0 300 60" aria-hidden="true">
+      <path d="M0 14 H200 C238 14 268 26 292 44 Q298 50 290 50 H0 Z" fill="#f4f4f2"/>
+      <rect x="0" y="38" width="291" height="5" fill="#1f63b8"/><rect x="0" y="45" width="290" height="2" fill="#1f63b8"/>
+      ${Array.from({length: 11}, (_, i) => `<rect x="${8 + i * 17}" y="22" width="11" height="8" rx="2" fill="#1d2126" opacity=".8"/>`).join("")}
+      <path d="M214 18 C236 19 252 25 266 33 H218 Z" fill="#1d2126" opacity=".85"/>
+    </svg>`;
+  document.body.appendChild(fx);
+  setTimeout(() => fx.classList.add("out"), 1500);
+  setTimeout(() => { fx.remove(); $("#quizbtn").click(); const q = $("#quiz"); q.classList.remove("unlocked"); void q.offsetWidth; q.classList.add("unlocked"); }, 1820);
+}
 (() => {
   let taps = [];
   $("#clock").addEventListener("click", () => {
     const now = Date.now();
     taps = taps.filter(t => now - t < 1200).concat(now);
-    if (taps.length >= 3){ taps = []; if (!QUIZVIEW) $("#quizbtn").click(); }
+    if (taps.length >= 3){ taps = []; secretUnlock(); }
   });
 })();
 
