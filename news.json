@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T13:55+09:00",
- "checked": "2026-10-21T13:55+09:00",
+ "updated": "2026-10-21T14:53+09:00",
+ "checked": "2026-10-21T14:53+09:00",
  "items": [
   {
    "date": "2026-10-21",
@@ -56,6 +56,17 @@
    "auto": true,
    "added": "2026-10-21T12:48+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYXB3d2piZVV2U3VZSEpRdHFTaXluUXRSTlhoYVhmb1F4WTd0M3ZMLXlJU1RtalBYZW00bXFKLXpoc3drRVhDYTRteUJubUxwSDhZQlhfUXBGS0RCWTA0?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "kaisha",
+   "title": "JR東海株価が上げ幅拡大 新幹線値上げで買い続く、内需シフトも",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZ3dyV1pLdWhYWURpR3RPTXFBR3RrQWc2THZZUlFrdFlRSUgzVVlsQWhWUDN3dUFJVWJxS21YSExraEFobW56VTY2b014bUtqU0NBb0V4Q2wwSkphaHFoeW5ESW5DZjhLYmx0OA?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-21T14:53+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZ3dyV1pLdWhYWURpR3RPTXFBR3RrQWc2THZZUlFrdFlRSUgzVVlsQWhWUDN3dUFJVWJxS21YSExraEFobW56VTY2b014bUtqU0NBb0V4Q2wwSkphaHFoeW5ESW5DZjhLYmx0OA?oc=5"
   },
   {
    "date": "2026-10-20",
