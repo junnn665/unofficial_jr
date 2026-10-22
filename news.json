@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T12:58+09:00",
- "checked": "2026-10-22T12:58+09:00",
+ "updated": "2026-10-22T13:56+09:00",
+ "checked": "2026-10-22T13:56+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -122,6 +122,39 @@
    "auto": true,
    "added": "2026-10-22T12:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "other",
+   "title": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iU3BFMEdxcGg1VHNaYjBZTkh3NXdpZW1tbmZQYVlkV1ZSR0VqY2d1clFiWWI1dF9SU3Z0bUpESE5WUmVSQS1uSzJHVDJndS1mR2d0NmZjQlJxbFBMZjh3?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-10-22T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nejhZYmxsNWdiVkR3UUFVMzA3cEp0d2NGUElEQ25lRzJGeS1XdXptYW45RExHci1lNzljeXFGMzhyeTdYU3dLbDBJNm8tSUlxWHlNVHFUc2lWR01yZTlSM2EzaGI5WEVJQnZTSUxYa3NyQXM4MkxkYkR1THItR2s?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "JR東海、駅の個室ブースサービス停止",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSW5XM0I2ZTBnVTU5aUNBOUtvYjFvcmFVQ0Z0d2lRelhOVWNtOFgyTDhrYnRxd0NvZkdFanBUVk53Q1V4T1AzSWJGb0UtTDNEUTBBeG0wdVVlaDlta0M5YWYxbzhzbm9uREpXMzVBQ3JFTmtGLUVQMUtfOVZmQVZmVA?oc=5",
+   "src": "UQライフ",
+   "auto": true,
+   "added": "2026-10-22T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "コートヤード・バイ・マリオット新横浜駅、12月18日開業 東海道新幹線直上に203室",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fdkI5REY3WWZCaWRVVWgtWkNjXzFLSnRXa3NuZk14d3ZqVlNlMXhDb3RGZjczSDBjZmw0NkVxZjB3NHgwVWlHVFNVM2FVdw?oc=5",
+   "src": "旅行新聞",
+   "auto": true,
+   "added": "2026-10-22T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UajhwamhsLU5kSDVPVTRZbTQ5alZPelZTOVU2ZUZtTnRSNTJtNzE3QmU4eGJtczJrdkxBVFIzQ25iX0lsRUIxaWxkT3UxOGdKMVpTZkpza1NLcjVsbzBaNEVzRnd5V3ctSVE?oc=5"
   },
   {
    "date": "2026-10-21",
