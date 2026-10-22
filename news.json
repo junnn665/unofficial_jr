@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T02:51+09:00",
- "checked": "2026-10-23T02:51+09:00",
+ "updated": "2026-10-23T04:04+09:00",
+ "checked": "2026-10-23T04:04+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -740,6 +740,28 @@
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MMzZKLWRBOHFqWllpYmJ5YksyRXJzZVRrM0R1cFQ2eUVfdzNiMTM4Rzc2VjcteWZFZTZMWl94aWZvazhITV9VVWM2ak1SNXRtYU5RSzZJaVFxQ1I0dlBN?oc=5"
   },
   {
+   "date": "2026-10-22",
+   "cat": "unko",
+   "title": "東海道新幹線、線路に人立ち入り 新富士駅で、一時運転見合わせ｜全国のニュース｜Web東奥",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rY3l0WVd3TzB2RVVMM3FQUm5PRVJVTWM2MGY2TC00cEpja2E1SlJWTzBaX2RVSmF1TXhOMHhfeDV4YnJPcllHWUxBcFJJY1lIVkVUQUw0cmQ?oc=5",
+   "src": "東奥日報社",
+   "auto": true,
+   "added": "2026-10-23T04:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2X193VDh2QXRhT0hUVnZaUTdQU1plU1hlMWpoeU5xaGl2dVF1UU5CLXM3YmFYZ3RES1ZuaTNoVlBKREowN19SRGdPVFZMT0FvMFZkRG1UYkVYb3NqOW9SdXAwTGVsdTN0eEpTV2s1Z2VvR2VQTGZnUU5YbjR3b3c?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "zairai",
+   "title": "並行在来線維持へ財源確保を",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95QUJGUHY0S1h3OGZrdkdXMVBtLVFFcW1iNXhjek9MQzUzRm1XZkFyakpxSEtnV2RJVmpjUVQtUlI0UVRtc3owWno5VXhjUHd2?oc=5",
+   "src": "飯田経済新聞",
+   "auto": true,
+   "added": "2026-10-23T04:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95QUJGUHY0S1h3OGZrdkdXMVBtLVFFcW1iNXhjek9MQzUzRm1XZkFyakpxSEtnV2RJVmpjUVQtUlI0UVRtc3owWno5VXhjUHd2?oc=5"
+  },
+  {
    "date": "2026-10-21",
    "cat": "shinkansen",
    "title": "ドクターイエロー・Ｎ７００Ａ新幹線からスマホスタンド 三協立山 再生アルミ商品化へＣＦ",
@@ -1013,6 +1035,17 @@
    "auto": true,
    "added": "2026-10-22T18:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ERFVUUE5sSng5Y3Iyb3RtdXJYTC0xcll0TmJWRHVJYXhDamc4S0lQM3RJd3RFYnlHVkRlUW9TZUVxY0ZuYmNzM3RLUUZfOWI2d0lRWnBTYm9kR094?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "event",
+   "title": "「いつもの電車には、帰る場所がある。」大垣車両区の歴代所属車両と日常の風景をテーマにしたオリジナルグッズ3アイテムを新発売！",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jd0pvZWhPbWdwOEprdmRyQ3BfM1NNNENxeXZvTkl2cHR1dExJaDNkeG9sSUZ2dmFOU1l1dXNVMmtJSDBwSkRxZDZSaW4yQ2FGaTVTSXlXb0tKUQ?oc=5",
+   "src": "北海道新聞デジタル",
+   "auto": true,
+   "added": "2026-10-23T04:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaa2JaTXVZNmxRT2ZFNnlvSTVTTGl4VzVRX0xNem55TmxzWF9hTE5obUt6R2k2QTVRQTZnM1Rtc3RrdFc4MWxPcHVLeXJvN281TjU3eExkZnR1SjN6WmJTd3E5SWxDcFVfOENyYThn?oc=5"
   },
   {
    "date": "2026-10-20",
@@ -5402,6 +5435,17 @@
    "auto": true,
    "added": "2026-10-22T10:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wa2VpYmdqM21FeG1UTzRtV1poRmdFa2g1cUlGZFU3bTNhRWp1bFhQMW5POHdySm1VUUNibTh3XzRpN1FOWGdmX1o5Y29xTDR5ak5oNFY5emFxc2lyajFDSU54NW9XTkE?oc=5"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "kaisha",
+   "title": "「株の配当金が入る。納税する金を貸して」息子になりすまし現金390万円詐取か 男ら11人を逮捕「トクリュウ」とみて捜査 大阪府警 | MBSニュース | 関西の最新ニュースを分かりやすく。",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WnRiYkNiR2QzOW05MktYUmxRWDJkR2ZVb0o5cEJXajhhNVAwaGh0WUw2Z1FaQWtkb2luaHhyM1U1NUpJTU1nbHFQNzRLc1VYNC1tTnpmYndOdw?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-10-23T04:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaktjUTZjSFBHbDYxVUhWdG5zem1BaGh1Mi00a3ZfUVl1ckI4ZUVMVG9Dc0RuTkwzek9DOFp0cDJIa3UyYTl5OWgtZWhDOUptaW5zYnRxZFU2WlNraG5JeV9obVl5TjFMdHE3MldBN2JhRnMzSHQ2djZ1eHFscmh1VXJ30gGCAUFVX3lxTE9qS2NRNmNIUEdsNjFVSFZ0bnN6bUFoaHUyLTRrdl9RWXVyQjhlRUxUb0NzRG5OTDN6T0M4WnRwMkhrdTJhOXk5aC1laEM5Sm1pbnNidHFkVTZaU2tobkl5X2htWXlOMUx0cTcyV0E3YmFGczNIdDZ2NnV4cWxyaHVVcnc?oc=5"
   },
   {
    "date": "2026-10-15",
