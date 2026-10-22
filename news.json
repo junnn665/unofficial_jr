@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T16:13+09:00",
- "checked": "2026-10-22T16:13+09:00",
+ "updated": "2026-10-22T17:03+09:00",
+ "checked": "2026-10-22T17:03+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -256,6 +256,94 @@
    "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5QUoyZ0FVbm96UjBxdk1oQWRtbFJDNVF6V3gzMnFFYmlBM2F4ZkppcmxTNEZQZWZXLTZtMTFENW5yaXRRanlINmI2eVBER2VSV21QTFZxN19XNGZuQ0RfQVZjSlZFV1VQcmRYWjB1b24?oc=5"
   },
   {
+   "date": "2026-10-22",
+   "cat": "other",
+   "title": "JR東海、冬の臨時列車について発表",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUXZoOFBhV3hfZ2Z3d25TV1luYnNBaFpKenkxTVZsQVh3WGtfXzV3dmkyNWpxdXBNUFhITzMyUGZ2Rmdpbm5Na0RhY2ppeWZnalVhR1FQdGhjX3FCV0JaZm9zWDhMYzJERE1J?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUXZoOFBhV3hfZ2Z3d25TV1luYnNBaFpKenkxTVZsQVh3WGtfXzV3dmkyNWpxdXBNUFhITzMyUGZ2Rmdpbm5Na0RhY2ppeWZnalVhR1FQdGhjX3FCV0JaZm9zWDhMYzJERE1J?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "other",
+   "title": "【JR東海】「ぴよりんvillage」にゴジラ襲来！ “絶望の到達点”から、前代未聞の“ゆるふわの到達点”へ！？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qT2QtUlVySEVwcGpKcEQtUVkzeFVRZ0lfclBudEY2ak1aYW8wSE0tbk1BQXFyRHhJcW42cjZKTFEweTZEUmJFYVdGN0RTaUNRWGlWbXVhSDdUOHU2LVg5b0RjN0dMYTlOQkE?oc=5",
+   "src": "PR TIMES",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00629.html"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "JR各社でPHP影響のサービス停止相次ぐ HP利用や個室サービスなど",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfb3BaVGNra1Rpb3NULWFOSl84eXdfZzVxMWVUOWFHMUE2MHlwLTBBU050Q213R3hTdF9WSHMzUlAzU2pDMmFqQnFoZ3JJWDRyVTYtNnp2aXVrbVdIQ0V1Q29YdmZoVXhUbHF5bHlxaF9YbURWZmc?oc=5",
+   "src": "産経ニュース",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMG1oZzJ3aFRuRl9rVzhSQUt2U1R4X1B0SHZndWRXNnV5ak1nWEhCXzJZQnp0MHNOWFY0bmsxMmZPX01hdmdLNUhZMTRXUGIwLUpVenB1SEd5bzdFZTdCTU1JRFFTRUpJMlJUTHN5VFBxRHNVUGsxS0NqaWNSVGs?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "eki",
+   "title": "JR東海リテイリング・プラスの駅弁サイトにAsobicaのcoorum採用",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zQlZTWUtCdFI5ellwTUlmaGh6dzhxNHhsa3Y2SmoyVGJWR2RSdDlWcklWY1V6NW11X2dnTjNWVlptWGMtc21sUVNza2NFV0pwUjNYQVZ5aTZzYkUzWThFUVUzbzU?oc=5",
+   "src": "Dellows News",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zQlZTWUtCdFI5ellwTUlmaGh6dzhxNHhsa3Y2SmoyVGJWR2RSdDlWcklWY1V6NW11X2dnTjNWVlptWGMtc21sUVNza2NFV0pwUjNYQVZ5aTZzYkUzWThFUVUzbzU?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "ＪＲ各社が冬の臨時列車発表 東海道新幹線は１日３９０本",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5",
+   "src": "沖縄タイムス社",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "ＪＲ各社が冬の臨時列車発表 東海道新幹線は１日３９０本 | | 全国のニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIbWlLUUc1REtYWmI4MVM5bUttNzAxQ1JwaDNJcnp1UDhsNUswemttZ2lTcDBCd1ROZW85VHVDS3JmamtHeWpMa0lWYWM5aXk1QnZvRTJR?oc=5",
+   "src": "佐賀新聞",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "other",
+   "title": "ＪＲ各社が冬の臨時列車発表",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xanoxNEVJOU8zUFRnVnFtVUdDOWR4Y3p2YnI0YVZ2ODBNeDJHLXM1TVNfSFFyQkZOeXBibmxMRVh1MWJENVZWZVh1d1U0WTkzdVFZeHpmRQ?oc=5",
+   "src": "埼玉新聞",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "700系新幹線“ひかりレールスター名物” 4人用個室「コンパートメント」が発売休止に 12月1日から",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jdl9QNWxBeTBYQk5TclRPV2ozeUNPQWJWblpiZW1qN2xHaldTU2Y1TTMwSjBvNVdWTk04cWxBZFVJQW1mTjRVMUNzb25DUQ?oc=5",
+   "src": "レイルラボ",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jdl9QNWxBeTBYQk5TclRPV2ozeUNPQWJWblpiZW1qN2xHaldTU2Y1TTMwSjBvNVdWTk04cWxBZFVJQW1mTjRVMUNzb25DUQ?oc=5"
+  },
+  {
    "date": "2026-10-21",
    "cat": "shinkansen",
    "title": "ドクターイエロー・Ｎ７００Ａ新幹線からスマホスタンド 三協立山 再生アルミ商品化へＣＦ",
@@ -507,6 +595,17 @@
    "auto": true,
    "added": "2026-10-22T11:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwbDd3TzVZeXM2dGpHdXQ1MUw1LWJsdkttQi1vQTlYVzZpcGFWWXV1RmZBSmxCOGhHOXBCcUZnTXJVMXNyc1hVbTg1ZlVUWmhTN29CaktDVDJOaldET1FISkpTNnlXVlRhWHBZXzdPODJUOGFaMmc?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "other",
+   "title": "【元西武車姿も】JR東海213系H8,H9編成が稲荷町へ輸送",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFlfSUpuQmZ5M29IYTNkU3NSV0lXZ0dtT1VZSlRBVkY1aEpNVGluYXBwZjEwcFkzSWl4eTRHTkppTEVCNFhhOURyalVwRmp2UjNwZ0JRenM0OEhrQ0R3LUtOOUNvVUFKOFhQY09sQ3FDRHJkX0I3ckdtWUgtSXg1U052NTFPZDNCcnNXM0JFcTV5cmtBUjk1RWxMMjNpLVpZNFF2LWdER01SZUJodFpQRnRGQXlxNms?oc=5",
+   "src": "湘南色の部屋",
+   "auto": true,
+   "added": "2026-10-22T17:03+09:00",
+   "g": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFlfSUpuQmZ5M29IYTNkU3NSV0lXZ0dtT1VZSlRBVkY1aEpNVGluYXBwZjEwcFkzSWl4eTRHTkppTEVCNFhhOURyalVwRmp2UjNwZ0JRenM0OEhrQ0R3LUtOOUNvVUFKOFhQY09sQ3FDRHJkX0I3ckdtWUgtSXg1U052NTFPZDNCcnNXM0JFcTV5cmtBUjk1RWxMMjNpLVpZNFF2LWdER01SZUJodFpQRnRGQXlxNms?oc=5"
   },
   {
    "date": "2026-10-20",
