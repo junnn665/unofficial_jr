@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T22:10+09:00",
- "checked": "2026-10-22T22:10+09:00",
+ "updated": "2026-10-22T23:00+09:00",
+ "checked": "2026-10-22T23:00+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -650,6 +650,50 @@
    "auto": true,
    "added": "2026-10-22T22:10+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zT254dEk4MTlVZEI1c0pDMGJXdy13SnlhNDI5bXZ1RzZ0bnVScGE4S0VZczhvZlFRSUhVbDZjV092c1hYcGtaRjNxY1RhQQ?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "unko",
+   "title": "東海道新幹線「のぞみ」 - 東海道新幹線、線路に人立ち入り 新富士駅で、一時運転見合わせ - 写真・画像(1/1)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12VUNHNHlLUjJnM0JtWXQ1TDl6enl3M1dNY2xyUUV0cW1mOFY0M2FWV3VJVGh4QXBManV1eVZXYTZqRUlEMmFtZFNlLWNGQy1UUzY3RGJuSQ?oc=5",
+   "src": "西日本新聞me",
+   "auto": true,
+   "added": "2026-10-22T23:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2X193VDh2QXRhT0hUVnZaUTdQU1plU1hlMWpoeU5xaGl2dVF1UU5CLXM3YmFYZ3RES1ZuaTNoVlBKREowN19SRGdPVFZMT0FvMFZkRG1UYkVYb3NqOW9SdXAwTGVsdTN0eEpTV2s1Z2VvR2VQTGZnUU5YbjR3b3c?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "unko",
+   "title": "東海道新幹線、線路に人立ち入り 新富士駅で、一時運転見合わせ | 全国のニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpSVVjclNIaEFCVTcwVTFvU3FmalppRlBxNW13bUc2UFh4NkNZenJZZmdDTzFwUlZoLUt6d2p1NE5YbGNhcVdOWVNqanowc0paekpWdGlydnBpc0xQT1E?oc=5",
+   "src": "福井新聞社",
+   "auto": true,
+   "added": "2026-10-22T23:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2X193VDh2QXRhT0hUVnZaUTdQU1plU1hlMWpoeU5xaGl2dVF1UU5CLXM3YmFYZ3RES1ZuaTNoVlBKREowN19SRGdPVFZMT0FvMFZkRG1UYkVYb3NqOW9SdXAwTGVsdTN0eEpTV2s1Z2VvR2VQTGZnUU5YbjR3b3c?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "山陽新幹線 ダイヤ乱れ（10月22日）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MXzRMem1WZjFTVEdLWUdKbUgwcUg3UmM3N0ZKTndqTEhpVW1Ic2FKb3VrUkZJT0JObVZwQ0RVaEZGdV9XZHEyZU0yZlpwNWZGSWx1SkRR?oc=5",
+   "src": "西日本新聞me",
+   "auto": true,
+   "added": "2026-10-22T23:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MXzRMem1WZjFTVEdLWUdKbUgwcUg3UmM3N0ZKTndqTEhpVW1Ic2FKb3VrUkZJT0JObVZwQ0RVaEZGdV9XZHEyZU0yZlpwNWZGSWx1SkRR?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "unko",
+   "title": "【東海道新幹線】新富士駅で線路内立入 最大55分程度の遅れ（22日21:00現在）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MzlCNXR1UEY5Y0lIRWlIcUV6bXRPMmpGMV9TODJJYng1eHV5cDJ0OHEyVUlCMjlwRW5IUlJVQnRoM1liU0FsczV3cWhrUkNGRWdOOWVSQmlzNmF6ZFBV?oc=5",
+   "src": "千葉テレビ放送",
+   "auto": true,
+   "added": "2026-10-22T23:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MzlCNXR1UEY5Y0lIRWlIcUV6bXRPMmpGMV9TODJJYng1eHV5cDJ0OHEyVUlCMjlwRW5IUlJVQnRoM1liU0FsczV3cWhrUkNGRWdOOWVSQmlzNmF6ZFBV?oc=5"
   },
   {
    "date": "2026-10-21",
