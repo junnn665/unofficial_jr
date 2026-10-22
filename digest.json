@@ -1,8 +1,14 @@
 {
  "date": "2026-10-22",
- "generated": "2026-10-22T19:55+09:00",
+ "generated": "2026-10-22T20:55+09:00",
  "ai": false,
  "items": [
+  {
+   "text": "ＪＲ東海、駅の個室ブース停止",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5",
+   "title": "ＪＲ東海、駅の個室ブース停止",
+   "n": 9
+  },
   {
    "text": "ＪＲ各社が冬の臨時列車発表",
    "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5",
@@ -16,21 +22,15 @@
    "n": 4
   },
   {
-   "text": "ＪＲ東海、駅の個室ブースサービス停止",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5",
-   "title": "ＪＲ東海、駅の個室ブースサービス停止",
+   "text": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nejhZYmxsNWdiVkR3UUFVMzA3cEp0d2NGUElEQ25lRzJGeS1XdXptYW45RExHci1lNzljeXFGMzhyeTdYU3dLbDBJNm8tSUlxWHlNVHFUc2lWR01yZTlSM2EzaGI5WEVJQnZTSUxYa3NyQXM4MkxkYkR1THItR2s?oc=5",
+   "title": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
    "n": 4
   },
   {
    "text": "PHPに“重大な欠陥” JR東海など企業や自治体にも影響 一部サービスが利用できず… 政府が各企業に対応呼びかけ 東海地方まとめ",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3bkllWS01YUtVTWxvLVVBd1lhS3Y2ajhyZFdYUVdTX2lnM2l2YUg4ZkJacWh4SGthNUJESG1Jdl9fU1J4ZU8ySTVLR3loazBQWmNNZ29qQVQzOHlIbDlR?oc=5",
    "title": "PHPに“重大な欠陥” JR東海など企業や自治体にも影響 一部サービスが利用できず… 政府が各企業に対応呼びかけ 東海地方まとめ",
-   "n": 3
-  },
-  {
-   "text": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nejhZYmxsNWdiVkR3UUFVMzA3cEp0d2NGUElEQ25lRzJGeS1XdXptYW45RExHci1lNzljeXFGMzhyeTdYU3dLbDBJNm8tSUlxWHlNVHFUc2lWR01yZTlSM2EzaGI5WEVJQnZTSUxYa3NyQXM4MkxkYkR1THItR2s?oc=5",
-   "title": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
    "n": 3
   }
  ]
