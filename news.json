@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T05:54+09:00",
- "checked": "2026-10-23T05:54+09:00",
+ "updated": "2026-10-23T06:53+09:00",
+ "checked": "2026-10-23T06:53+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -67,6 +67,50 @@
    "auto": true,
    "added": "2026-10-23T05:54+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xa2k5N2laZzVXTy1XYml1Z0EtcEZKenk0RWo2eDlKQ2c4XzRzbUg1SGM0SExJampPcWNPcUZVOTZkbERlRXJHV1c3bVQ5VktuOUR0cVhB?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "eki",
+   "title": "新横浜駅ビルの“マリオットブランド”ホテルは12月18日開業、鶴見川風デザインも",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RLU8wRDBkLXZBaHhmSWIxV1pETXh3UjMxTXVhQWRFS2UydGR1VEx5VV80WlhjZDBxN193Q0hLYjg4am9mQ0hRdEoxeTZ5YWpJN29RUTg1VV9HQnNsZzRnUUZWbHRXLTh0U2c?oc=5",
+   "src": "新横浜新聞",
+   "auto": true,
+   "added": "2026-10-23T06:53+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RLU8wRDBkLXZBaHhmSWIxV1pETXh3UjMxTXVhQWRFS2UydGR1VEx5VV80WlhjZDBxN193Q0hLYjg4am9mQ0hRdEoxeTZ5YWpJN29RUTg1VV9HQnNsZzRnUUZWbHRXLTh0U2c?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "eki",
+   "title": "「コートヤード・バイ・マリオット新横浜駅」、12月18日開業",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zQzRiM0xlMDhJT2otRmhPUVVmSGN4dTNVR0N2b2FWTmRlQnk4RUh4MHZOUkVSS1RzcUlYdFpkZ0QxZGJYdGZj?oc=5",
+   "src": "TRAICY（トライシー）",
+   "auto": true,
+   "added": "2026-10-23T06:53+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UajhwamhsLU5kSDVPVTRZbTQ5alZPelZTOVU2ZUZtTnRSNTJtNzE3QmU4eGJtczJrdkxBVFIzQ25iX0lsRUIxaWxkT3UxOGdKMVpTZkpza1NLcjVsbzBaNEVzRnd5V3ctSVE?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "shinkansen",
+   "title": "毎小ニュース：経済 新型車両は「S0系」 東海道・山陽新幹線",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4weE5uSm1kZG5GSFFILVdoenQ1anFGS24yazhGN0h2MWR3MDBsVFhTbzlqbFNQNHYwWTRrX3NlN1ZiV19KODd0OGg1NFZFRXJpaVJiNHpJUXdYaE1aVE9OY19TbFJJU3FZaU8wcDROYkppZw?oc=5",
+   "src": "毎日新聞",
+   "auto": true,
+   "added": "2026-10-23T06:53+09:00",
+   "g": "https://news.google.com/rss/articles/CBMickFVX3lxTE4weE5uSm1kZG5GSFFILVdoenQ1anFGS24yazhGN0h2MWR3MDBsVFhTbzlqbFNQNHYwWTRrX3NlN1ZiV19KODd0OGg1NFZFRXJpaVJiNHpJUXdYaE1aVE9OY19TbFJJU3FZaU8wcDROYkppZw?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "linear",
+   "title": "大成建設・鹿島の土木民間工事を営業停止へ リニア談合で国交省方針",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oc3ZKUF9QTUNVVTJKRTJZZVBScjhmSU5EdDBZeWpwV2h3blVVSGZ4bVZaa0E1eGlFbHhtZHMzeW1hNnB4Si1wS1ZKQTVZemlLR2hJeG9VR0pnSk4xUjdxN3Q3NGVpWUZTRk9hS3dhNlVrOXhDekNKSA?oc=5",
+   "src": "朝日新聞",
+   "auto": true,
+   "added": "2026-10-23T06:53+09:00",
+   "g": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oc3ZKUF9QTUNVVTJKRTJZZVBScjhmSU5EdDBZeWpwV2h3blVVSGZ4bVZaa0E1eGlFbHhtZHMzeW1hNnB4Si1wS1ZKQTVZemlLR2hJeG9VR0pnSk4xUjdxN3Q3NGVpWUZTRk9hS3dhNlVrOXhDekNKSA?oc=5"
   },
   {
    "date": "2026-10-22",
