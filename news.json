@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T17:03+09:00",
- "checked": "2026-10-22T17:03+09:00",
+ "updated": "2026-10-22T18:00+09:00",
+ "checked": "2026-10-22T18:00+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -342,6 +342,50 @@
    "auto": true,
    "added": "2026-10-22T17:03+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jdl9QNWxBeTBYQk5TclRPV2ozeUNPQWJWblpiZW1qN2xHaldTU2Y1TTMwSjBvNVdWTk04cWxBZFVJQW1mTjRVMUNzb25DUQ?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "JR東海、駅の仕事用個室ブースの利用停止 PHP脆弱性影響、名鉄会員サイトなども",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zME5xYk5GNVd1UmFVVTNpeE1mQnFTSnJ3cFVmZXdNVG9jMVgxNE5Ta3NQbWlfYWVMeGF1SVpVTlRjbW5KYkRvOG9kQnFMbWFkSFRJUHlQTnFxV3B1MDJDT2o2WlNQUQ?oc=5",
+   "src": "中日新聞Web",
+   "auto": true,
+   "added": "2026-10-22T18:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zME5xYk5GNVd1UmFVVTNpeE1mQnFTSnJ3cFVmZXdNVG9jMVgxNE5Ta3NQbWlfYWVMeGF1SVpVTlRjbW5KYkRvOG9kQnFMbWFkSFRJUHlQTnFxV3B1MDJDT2o2WlNQUQ?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "event",
+   "title": "映画『ゴジラ-0.0』公開記念 「ぴよりんゴジラ」販売＆「ぴよりんvillage」をゴジラ仕様に！",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kcFN5dGtwQnU2c1liUGxQODNSV2NEN3RaM3JmZHAySlFzQ0o3QV9EVW4tbWYxVXF4MkUxMGltWTE2aXNfM2piT1VxLVNmZEVlSHdKX3pKVVJCRW1TbE43bHBDY2RYdkNNSlE?oc=5",
+   "src": "PR TIMES",
+   "auto": true,
+   "added": "2026-10-22T18:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kcFN5dGtwQnU2c1liUGxQODNSV2NEN3RaM3JmZHAySlFzQ0o3QV9EVW4tbWYxVXF4MkUxMGltWTE2aXNfM2piT1VxLVNmZEVlSHdKX3pKVVJCRW1TbE43bHBDY2RYdkNNSlE?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "JR各社が冬の臨時列車発表 東海道新幹線は1日390本（共同通信）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kMm5wd1pERDVFSjhsbF9GR1JEazZBcXRCY3NBYTlZclBBdldzNU9jZkV5TzBDUndOSG9KcmZMMWV0SXUwc2trTk10dUVZSFhTbHc1R1hIM1RwRU90QTFSb21KQWZlZl9rSmo1aHBqSE4yT29kdk55UFRlVUFZT3M?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-22T18:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "JR各社が冬の臨時列車発表 東海道新幹線は1日390本",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kNmlWWXduZEtvU0tmSjJtcVpDV0RFbWJYZElObEhITG9HLW9ncF9WamdJT2JRdWE3a0p6V05oMEZWRWRMMkR0X2FNRHJxMThNRVZxNGFMdHk1c1BfcXVuQVgxTQ?oc=5",
+   "src": "nippon.com",
+   "auto": true,
+   "added": "2026-10-22T18:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybXBUV2NnWXRLR0UtZm9vRHk3LVg5aFh4Mkl6cy1zbTgySzljSm91VTc5SU9BbkVWX0ExeUNFSmYtaXA0QmhEWmt2MnEyODdTZk1jS21sLU5jSFFTQ1E?oc=5"
   },
   {
    "date": "2026-10-21",
