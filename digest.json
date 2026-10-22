@@ -1,13 +1,19 @@
 {
  "date": "2026-10-22",
- "generated": "2026-10-22T20:55+09:00",
+ "generated": "2026-10-22T22:10+09:00",
  "ai": false,
  "items": [
   {
    "text": "ＪＲ東海、駅の個室ブース停止",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5",
    "title": "ＪＲ東海、駅の個室ブース停止",
-   "n": 9
+   "n": 10
+  },
+  {
+   "text": "東海道新幹線、線路に人立ち入り",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2X193VDh2QXRhT0hUVnZaUTdQU1plU1hlMWpoeU5xaGl2dVF1UU5CLXM3YmFYZ3RES1ZuaTNoVlBKREowN19SRGdPVFZMT0FvMFZkRG1UYkVYb3NqOW9SdXAwTGVsdTN0eEpTV2s1Z2VvR2VQTGZnUU5YbjR3b3c?oc=5",
+   "title": "東海道新幹線、線路に人立ち入り",
+   "n": 6
   },
   {
    "text": "ＪＲ各社が冬の臨時列車発表",
@@ -26,12 +32,6 @@
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nejhZYmxsNWdiVkR3UUFVMzA3cEp0d2NGUElEQ25lRzJGeS1XdXptYW45RExHci1lNzljeXFGMzhyeTdYU3dLbDBJNm8tSUlxWHlNVHFUc2lWR01yZTlSM2EzaGI5WEVJQnZTSUxYa3NyQXM4MkxkYkR1THItR2s?oc=5",
    "title": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
    "n": 4
-  },
-  {
-   "text": "PHPに“重大な欠陥” JR東海など企業や自治体にも影響 一部サービスが利用できず… 政府が各企業に対応呼びかけ 東海地方まとめ",
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3bkllWS01YUtVTWxvLVVBd1lhS3Y2ajhyZFdYUVdTX2lnM2l2YUg4ZkJacWh4SGthNUJESG1Jdl9fU1J4ZU8ySTVLR3loazBQWmNNZ29qQVQzOHlIbDlR?oc=5",
-   "title": "PHPに“重大な欠陥” JR東海など企業や自治体にも影響 一部サービスが利用できず… 政府が各企業に対応呼びかけ 東海地方まとめ",
-   "n": 3
   }
  ]
 }
