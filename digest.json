@@ -1,6 +1,6 @@
 {
- "date": "2026-10-22",
- "generated": "2026-10-22T23:57+09:00",
+ "date": "2026-10-23",
+ "generated": "2026-10-23T00:55+09:00",
  "ai": false,
  "items": [
   {
@@ -22,16 +22,16 @@
    "n": 5
   },
   {
-   "text": "「コートヤード・バイ・マリオット新横浜駅」2026年12月18日開業",
-   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UajhwamhsLU5kSDVPVTRZbTQ5alZPelZTOVU2ZUZtTnRSNTJtNzE3QmU4eGJtczJrdkxBVFIzQ25iX0lsRUIxaWxkT3UxOGdKMVpTZkpza1NLcjVsbzBaNEVzRnd5V3ctSVE?oc=5",
-   "title": "【JR東海】「コートヤード・バイ・マリオット新横浜駅」2026年12月18日開業",
-   "n": 4
-  },
-  {
    "text": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nejhZYmxsNWdiVkR3UUFVMzA3cEp0d2NGUElEQ25lRzJGeS1XdXptYW45RExHci1lNzljeXFGMzhyeTdYU3dLbDBJNm8tSUlxWHlNVHFUc2lWR01yZTlSM2EzaGI5WEVJQnZTSUxYa3NyQXM4MkxkYkR1THItR2s?oc=5",
    "title": "｢PHP｣セキュリティーチーム “重大なぜい弱性”について注意喚起 JR東海やジェイアール名古屋タカシマヤ 名古屋市などでもウェブサイトの一部利用できず",
    "n": 4
+  },
+  {
+   "text": "PHPに“重大な欠陥” JR東海など企業や自治体にも影響 一部サービスが利用できず… 政府が各企業に対応呼びかけ 東海地方まとめ",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3bkllWS01YUtVTWxvLVVBd1lhS3Y2ajhyZFdYUVdTX2lnM2l2YUg4ZkJacWh4SGthNUJESG1Jdl9fU1J4ZU8ySTVLR3loazBQWmNNZ29qQVQzOHlIbDlR?oc=5",
+   "title": "PHPに“重大な欠陥” JR東海など企業や自治体にも影響 一部サービスが利用できず… 政府が各企業に対応呼びかけ 東海地方まとめ",
+   "n": 3
   }
  ]
 }
