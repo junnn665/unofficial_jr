@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T13:55+09:00",
- "checked": "2026-10-23T13:55+09:00",
+ "updated": "2026-10-23T14:54+09:00",
+ "checked": "2026-10-23T14:54+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -375,6 +375,28 @@
    "auto": true,
    "added": "2026-10-23T13:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "shinkansen",
+   "title": "山陽新幹線 平常運転（10月23日）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrbDF6SGdKUkRxN1NLclhvcm9tSzduOWFoaVJ5SUF3ck05U1Q3emZZeXJGalFhVkdlclNkODMxNWRQZzVhb29obkxzRHFoTFBOQzVpM2Rn?oc=5",
+   "src": "西日本新聞me",
+   "auto": true,
+   "added": "2026-10-23T14:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrbDF6SGdKUkRxN1NLclhvcm9tSzduOWFoaVJ5SUF3ck05U1Q3emZZeXJGalFhVkdlclNkODMxNWRQZzVhb29obkxzRHFoTFBOQzVpM2Rn?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "linear",
+   "title": "リニア静岡工区 着工は来年にずれ込む見通し 駅工事を巡る談合事件で工事請け負う建設会社が「営業停止処分」へ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQkEtckNJNFlxYjIzVkNENmNtaVpreDFFLS1RWlhwanNzRFI4ckFHNDB4d1VBZVY5OFJOckh6NzlYT3R1Mk13Qy10bjFaNDV6MDBHVzRKaWRSUklCRGRtOWtvMVhuNjA5N04wLTdYeDNWclV1Q3YtT0RlNldMQ1U?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-23T14:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5b2p1UWZwejdZMjFDSDJJZE5DV2Y0MjBTOXBZRW1JNFU3RXU0aHpRaGZ0bFNaUzN4TWROc2RUdHBETHdfNGxoSy10VThOdlJ4QUw0TkhlUjFIS09kRm5QVEtPMHA1c1ZFcHZKNGxB?oc=5"
   },
   {
    "date": "2026-10-22",
@@ -1145,6 +1167,17 @@
    "auto": true,
    "added": "2026-10-23T11:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "zairai",
+   "title": "【東海のうに編成】315系3000番台静ｼｽU2編成（473M）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83U1JseEdueWVMSDJaQnNWbTg2NHYxN2U0cFlYTmg1UzlRbjByWGxqdkN6UXlLMXlaQ0VHNDdwNFU1VHJZMXBXMmlwS296dFJ0dkV5S3hZcEtxa2ZE?oc=5",
+   "src": "YouTube",
+   "auto": true,
+   "added": "2026-10-23T14:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83U1JseEdueWVMSDJaQnNWbTg2NHYxN2U0cFlYTmg1UzlRbjByWGxqdkN6UXlLMXlaQ0VHNDdwNFU1VHJZMXBXMmlwS296dFJ0dkV5S3hZcEtxa2ZE?oc=5"
   },
   {
    "date": "2026-10-21",
