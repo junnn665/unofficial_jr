@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T10:56+09:00",
- "checked": "2026-10-23T10:56+09:00",
+ "updated": "2026-10-23T11:56+09:00",
+ "checked": "2026-10-23T11:56+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -287,6 +287,39 @@
    "auto": true,
    "added": "2026-10-23T10:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wVGpORHlOUEVyeGRSOVFjRlhfZGh6cDJRVXRVNnREOFZwcFowX0xCV3BJYVdhZlRCVDJyeDN0YS10X2tibl9Db3NFNGlkYkpXVkZQZGtlQ1BZZ2FvQW5uOGlabw?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "other",
+   "title": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQXZvZ0JwdDBtNkhQQms1LW92VGtUUjZLZmpWa0Z6MVR1OC00ZV9pNkR3ZGdmUFA4ODlwTi1FQWtwNEwzVk80VEs4RF9ua3RKT1pPRk83aWZ2dw?oc=5",
+   "src": "Forbes JAPAN",
+   "auto": true,
+   "added": "2026-10-23T11:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQXZvZ0JwdDBtNkhQQms1LW92VGtUUjZLZmpWa0Z6MVR1OC00ZV9pNkR3ZGdmUFA4ODlwTi1FQWtwNEwzVk80VEs4RF9ua3RKT1pPRk83aWZ2dw?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "shinkansen",
+   "title": "九州新幹線 ダイヤ乱れ（10月23日）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ME5yTUpEQUJnVGRJTnh5a3Z4ZVA2LUlENUlJV0VYTE83QnlMT2FVTkRUMEg4c2NCSzFQa2o2MnczMFhGd0o2MjVzbmtFanBQcFdCaEJn?oc=5",
+   "src": "西日本新聞me",
+   "auto": true,
+   "added": "2026-10-23T11:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MXzRMem1WZjFTVEdLWUdKbUgwcUg3UmM3N0ZKTndqTEhpVW1Ic2FKb3VrUkZJT0JObVZwQ0RVaEZGdV9XZHEyZU0yZlpwNWZGSWx1SkRR?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "linear",
+   "title": "大成建設・鹿島の土木民間工事を営業停止へ リニア談合で国交省方針（朝日新聞）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSVndTcUVlMS13eXVvelVRQ0gwT29lc2JVY2VHNDQ3djRYcVFwQ0xXaXN0NGlVY3RPZmc4VDFHbWZ4cllnNGJERDFqNmxrYnBMb1ZnZVA1eE9pTENEam1zWlczSlZTcWUwZUk1QVJ0VzVDMXctR1h4RFh5QnBCN2M?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-23T11:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oc3ZKUF9QTUNVVTJKRTJZZVBScjhmSU5EdDBZeWpwV2h3blVVSGZ4bVZaa0E1eGlFbHhtZHMzeW1hNnB4Si1wS1ZKQTVZemlLR2hJeG9VR0pnSk4xUjdxN3Q3NGVpWUZTRk9hS3dhNlVrOXhDekNKSA?oc=5"
   },
   {
    "date": "2026-10-22",
@@ -1046,6 +1079,17 @@
    "auto": true,
    "added": "2026-10-23T07:52+09:00",
    "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VHVvbnpFNWVWdkdXWkhiNmtnc2JPejEzRE54TEdyOGtKbE9XYWhDcHFLbTdBTHp5Zy1ScnhkdTYyTDN5eVc0Tjd6bV9ITjJmV2ItNVl5QzVPUU5XalU2cFpfVGk?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "shinkansen",
+   "title": "ＪＲ東海、駅の個室ブース停止 ＰＨＰ問題、再開は未定",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DSnp6VEpzd1BVXzBiMXYySnFLa0pwc3VraWtaaTQzaEJpYnZxYk13YlQxTzZVbmxUY2gwY3NrVDVtUC03UmN6Vm9fN0NFY3M2eW4yTnFrM2tXa0hNM2c?oc=5",
+   "src": "沖縄タイムス社",
+   "auto": true,
+   "added": "2026-10-23T11:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5"
   },
   {
    "date": "2026-10-21",
