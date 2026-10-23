@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T23:59+09:00",
- "checked": "2026-10-23T23:59+09:00",
+ "updated": "2026-10-24T00:59+09:00",
+ "checked": "2026-10-24T00:59+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -12,6 +12,17 @@
    "auto": true,
    "added": "2026-10-21T16:11+09:00",
    "g": "https://jr-central.co.jp/news/release/nws000001_00624.html"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "linear",
+   "title": "リニア静岡工区 着工は早くても2027年春にずれ込む見通し 工事めぐる談合事件の影響 ＪＲ東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3FEREJiUkttZWJSbGFUT3ZOMlpnNWpRLWRuTW1vanZ3cUpQZ003VzRtR3R3TG5kYUR6R0hsZzNGQ3hUcU1hSGVkbE9XVG5Sci1fMWJZcElmUjloNUZ3TTd1aFNsNFlLVFZzS09R?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-10-24T00:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
   },
   {
    "date": "2026-10-23",
@@ -1079,6 +1090,39 @@
    "auto": true,
    "added": "2026-10-23T23:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "event",
+   "title": "ミュージカル刀剣乱舞 × JR東海 推し旅 12月1日よりコラボ開催!",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3pvU1NfdTJVYkt6WlUySm9DQVp3YmYzZUFCcW41STU4TkxhVUxZejJ6ek1kUUZmdFpKUTg1UFROZEd4Mm85T1kwdzdIVGgxQnZVUU9BdW9BY1dSU0ZIb2FyMmNfbHhfZ2ItOW9LRmNwa3FqNnU5NG0yMHljU05hNHlYcU83SzAwa1NCMWtjbw?oc=5",
+   "src": "コラボカフェ",
+   "auto": true,
+   "added": "2026-10-24T00:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3pvU1NfdTJVYkt6WlUySm9DQVp3YmYzZUFCcW41STU4TkxhVUxZejJ6ek1kUUZmdFpKUTg1UFROZEd4Mm85T1kwdzdIVGgxQnZVUU9BdW9BY1dSU0ZIb2FyMmNfbHhfZ2ItOW9LRmNwa3FqNnU5NG0yMHljU05hNHlYcU83SzAwa1NCMWtjbw?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "linear",
+   "title": "リニア中央新幹線の試験車両＝9月、山梨県都留市 - リニア3月まで着工できず 静岡工区、大成営業停止 - 写真・画像(1/1)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tamc3dkhES1FKNThiWDhXZ0dXRElodHVQRlM4cEFaT0lkdm81bllEOWdKZkJLOHJHSzA3Z2lvNHpXa2V0dUJRWks0QmhWQTF0OE5QRkV0bw?oc=5",
+   "src": "西日本新聞me",
+   "auto": true,
+   "added": "2026-10-24T00:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "linear",
+   "title": "リニア中央新幹線、静岡着工は3月以降に 大成建設が営業停止処分で（写真・画像 1/1）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3pocWVrNjdBVXJsU3FkOFhHWWkxdU1lckdMbjNzM1FMeU9BS1NISDJ3LXE1dmdzUDhobnc0OU9IWXFnem1HTHNFMHJkR2psR1hOcW5IQi1NbUpDWlVMUVdxQWk3RURwVm5Va3ByckI4NVphbXVsVzlHMkhoaHZIbkY5Vl83ajIzSlpuam1xOEFMYWNsUUhtWURVQ1EyR3NL?oc=5",
+   "src": "サンスポ",
+   "auto": true,
+   "added": "2026-10-24T00:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3pocWVrNjdBVXJsU3FkOFhHWWkxdU1lckdMbjNzM1FMeU9BS1NISDJ3LXE1dmdzUDhobnc0OU9IWXFnem1HTHNFMHJkR2psR1hOcW5IQi1NbUpDWlVMUVdxQWk3RURwVm5Va3ByckI4NVphbXVsVzlHMkhoaHZIbkY5Vl83ajIzSlpuam1xOEFMYWNsUUhtWURVQ1EyR3NL?oc=5"
   },
   {
    "date": "2026-10-22",
