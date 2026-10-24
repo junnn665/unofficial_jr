@@ -255,7 +255,11 @@
    "note": "相模原市緑区の山の下を通るトンネル。掘ってみると崩れやすい地盤が想定より多く、2026年2月に工期を約5年延ばすと発表された（開業時期への影響はないとしている）。",
    "src": "https://novaist.jp/articles/maglev-tunnel-delay/",
    "status_date": "2026-10-24",
-   "latest": null
+   "latest": {
+    "date": "2026-10-21",
+    "title": "津久井商工会 リニアの工事現場を視察 旅客線化へ機運の高める",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TRzluaVI3SlJjLWpqZTh1WjA0Wlo5dUtvd2paU2VDRUdKNnR3VmM4b0FENDhOQ3haQ2VhdmF3bXgzWjlhMFh3WHE5TVJvR2hKR19jR3dCdWp1d3BGRUtMWGU5RzA?oc=5"
+   }
   },
   {
    "name": "相模川橋りょう",
@@ -1083,5 +1087,5 @@
    "latest": null
   }
  ],
- "checked": "2026-10-24T22:11+09:00"
+ "checked": "2026-10-24T22:12+09:00"
 }
