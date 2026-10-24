@@ -151,6 +151,20 @@
    "status_src": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nZk9aa0dMbUxhdG9PWGllak5DUlN3My1FLWtHM24xTnhCaFhicGZseFZ1N1pKN29vNC1OTVVYZV9EUURXdUdiSUw5S0w4LXBiVHRrZWhiNXdhb2h2dHpVUjByVnp3WEk5RE5NalhHVdIBdEFVX3lxTE1xb0czR0VOaFNWemJxZEtta3JlVXpFN1dGcTlseEloZUN0REpzMFFISjdvbEtmVF9xOVVHM01OM080M1RIUG8xX1pMaUdoOUhudl9YaDJHbHdBRllVbFZrX0pLTU9USkxTWHpmWjAteFFidm1m?oc=5"
   },
   {
+   "name": "山梨リニア実験線",
+   "status": "done",
+   "label": "完成・走行試験中",
+   "kw": [
+    "実験線",
+    "実験センター",
+    "L0系"
+   ],
+   "note": "山梨県の上野原市〜笛吹市を結ぶ約42.8km。1997年から走行試験を続け、2013年に全線が完成。L0系改良型試験車で試験が続いており、将来はそのまま営業線の一部になる。",
+   "src": "https://tetsudo-ch.com/13022312.html",
+   "status_date": "2013-08-29",
+   "latest": null
+  },
+  {
    "name": "南アルプストンネル 静岡工区",
    "status": "wait",
    "label": "工事停止（10/24報道）",
@@ -230,7 +244,20 @@
     "title": "リニア工事で“水位低下” 新しく設置した井戸など追加費用30年間補償へ JR東海が住民らに説明 岐阜･瑞浪市",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KeW04aENKZGhGS2pwTTVmeFhDVHlfbzZpc3lHNUx2Tms0Zi1PWkNUbTdlVWZqSWdfanpEMXU2aXgzMFBkN3REZUVSMmMwNW55LWNnN05na0FYOHE0Zzdn?oc=5"
    }
+  },
+  {
+   "name": "中部総合車両基地",
+   "status": "build",
+   "label": "用地造成中",
+   "kw": [
+    "車両基地",
+    "中部総合"
+   ],
+   "note": "リニアの車両を点検・整備する基地で、岐阜県駅に近い中津川市に造る。2021年6月に用地の造成工事が始まり、工期は2031年12月末まで。岐阜県駅とは回送線で結ぶ。",
+   "src": "https://www.pref.gifu.lg.jp/page/16609.html",
+   "status_date": "2026-06-12",
+   "latest": null
   }
  ],
- "checked": "2026-10-24T20:51+09:00"
+ "checked": "2026-10-24T21:29+09:00"
 }

@@ -383,11 +383,11 @@ function renderFin(){
 /* ===== リニア工事マップ（縦の路線図。状況の色は linear.json と連動） ===== */
 // 品川からのおおよその距離（km）。地図の位置合わせ用で、正確な距離ではありません
 const LKM = {"品川":0,"神奈川県駅（仮称）":37,"山梨県駅（仮称）":92,"長野県駅（仮称）":178,"岐阜県駅（仮称）":223,"名古屋":286,
-  "第一首都圏トンネル（品川〜神奈川）":[2,36],"南アルプストンネル 山梨工区":[113,121],"南アルプストンネル 静岡工区":[121,132],
-  "伊那山地トンネル（長野）":[147,162],"中央アルプストンネル":[184,206],"岐阜県内のトンネル群":[212,262]};
+  "第一首都圏トンネル（品川〜神奈川）":[2,36],"山梨リニア実験線":[52,96],"南アルプストンネル 山梨工区":[113,121],"南アルプストンネル 静岡工区":[121,132],
+  "伊那山地トンネル（長野）":[147,162],"中央アルプストンネル":[184,206],"岐阜県内のトンネル群":[212,262],"中部総合車両基地":[224,229]};
 const LSHORT = {"第一首都圏トンネル（品川〜神奈川）":"第一首都圏トンネル","南アルプストンネル 山梨工区":"南アルプスT（山梨）",
   "南アルプストンネル 静岡工区":"南アルプスT（静岡）","伊那山地トンネル（長野）":"伊那山地トンネル","中央アルプストンネル":"中央アルプスT",
-  "岐阜県内のトンネル群":"岐阜のトンネル群"};
+  "岐阜県内のトンネル群":"岐阜のトンネル群","山梨リニア実験線":"山梨実験線","中部総合車両基地":"中部総合車両基地"};
 const STC = {build:"var(--accent)", start:"var(--c-eki)", wait:"var(--c-unko)", done:"var(--c-shinkansen)"};
 function linearMap(){
   const H = 470, top = 22, X = 64, y = km => top + km / 286 * (H - top * 2);
@@ -395,11 +395,15 @@ function linearMap(){
   const lab = o => o.label.replace(/（.*?報道）/, m => m.replace("報道", ""));
   let svg = `<line x1="${X}" y1="${y(0)}" x2="${X}" y2="${y(286)}" stroke="var(--line)" stroke-width="9" stroke-linecap="round"/>`;
   // トンネル・工区（線の上に太い色の帯）と、右の列のラベル
-  const works = LINEAR.works.filter(w => Array.isArray(LKM[w.name])).sort((p, q) => LKM[p.name][0] - LKM[q.name][0]);
+  const works = LINEAR.works.filter(w => Array.isArray(LKM[w.name]));
+  const mid = w => (LKM[w.name][0] + LKM[w.name][1]) / 2;
+  for (const w of [...works].sort((p, q) => (LKM[q.name][1] - LKM[q.name][0]) - (LKM[p.name][1] - LKM[p.name][0]))){
+    const [a, b] = LKM[w.name];
+    svg += `<line x1="${X}" y1="${y(a)}" x2="${X}" y2="${y(b)}" stroke="${STC[w.status] || "var(--muted)"}" stroke-width="9"/>`;
+  }
   let lastLabelY = -99;
-  for (const w of works){
+  for (const w of works.sort((p, q) => mid(p) - mid(q))){
     const [a, b] = LKM[w.name], c = STC[w.status] || "var(--muted)";
-    svg += `<line x1="${X}" y1="${y(a)}" x2="${X}" y2="${y(b)}" stroke="${c}" stroke-width="9"/>`;
     let ly = Math.max((y(a) + y(b)) / 2, lastLabelY + 34); lastLabelY = ly;
     svg += `<path d="M${X + 7} ${(y(a) + y(b)) / 2} H${X + 92} L${X + 102} ${ly}" fill="none" stroke="${c}" stroke-width="1.5"/>`;
     svg += `<text x="${X + 108}" y="${ly - 2}" font-size="14" font-weight="700" fill="var(--fg)">${esc(short(w))}</text>`;
