@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T17:53+09:00",
- "checked": "2026-10-25T17:53+09:00",
+ "updated": "2026-10-25T18:52+09:00",
+ "checked": "2026-10-25T18:52+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -243,6 +243,39 @@
    "auto": true,
    "added": "2026-10-25T17:53+09:00",
    "g": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9aNUROaGdSRXgyQnlRLVpuMlAyUWpoRmZFSWVFMW1GLUhsQlRPRm5iZkdjSDlCSnd6VndJ?oc=5"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "unko",
+   "title": "雨規制の影響など…東海道・山陽新幹線の一部列車に遅れ 10月25日午後、JR東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HeGJjdy1FNmNKdkluOXBQTHBVVUZuV3pxSUwxblVzMWhqa3Nlck1jWHBDQVduNWRmS3ZmdllxWjlGd1dWZEtmWXVCQkhKR3JteUZ4WmM4UnhCUERSWkE?oc=5",
+   "src": "福井新聞社",
+   "auto": true,
+   "added": "2026-10-25T18:52+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HeGJjdy1FNmNKdkluOXBQTHBVVUZuV3pxSUwxblVzMWhqa3Nlck1jWHBDQVduNWRmS3ZmdllxWjlGd1dWZEtmWXVCQkhKR3JteUZ4WmM4UnhCUERSWkE?oc=5"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "shinkansen",
+   "title": "九州新幹線 ダイヤ乱れ（10月25日）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10WXo0a2Q0d2VlMURmWnRzanpPcThLUmhfZVdQV25aLUwyb3paRnRpUEpNQW9wX1hQQTNQTUlRZ2tZR0E5VnBuR1ZYbUM5MHNhRnRnc1BB?oc=5",
+   "src": "西日本新聞me",
+   "auto": true,
+   "added": "2026-10-25T18:52+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10WXo0a2Q0d2VlMURmWnRzanpPcThLUmhfZVdQV25aLUwyb3paRnRpUEpNQW9wX1hQQTNQTUlRZ2tZR0E5VnBuR1ZYbUM5MHNhRnRnc1BB?oc=5"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "shinkansen",
+   "title": "東海道・山陽新幹線車内メロディにUAの他の曲を使うとこうなります",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hcnprd0dGb0pzWDRySXl0bkFXczFMa29qUDVFamRnT3ZPQi1Zak1aTWJMYTVCMWxTSnZlVGc0al9sMjByUERCamdzdEtLQU1qdlR1MUhYN3JuU2tp?oc=5",
+   "src": "YouTube",
+   "auto": true,
+   "added": "2026-10-25T18:52+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hcnprd0dGb0pzWDRySXl0bkFXczFMa29qUDVFamRnT3ZPQi1Zak1aTWJMYTVCMWxTSnZlVGc0al9sMjByUERCamdzdEtLQU1qdlR1MUhYN3JuU2tp?oc=5"
   },
   {
    "date": "2026-10-24",
