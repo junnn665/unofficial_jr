@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T03:56+09:00",
- "checked": "2026-10-26T04:45+09:00",
+ "updated": "2026-10-26T05:48+09:00",
+ "checked": "2026-10-26T05:48+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -23,6 +23,39 @@
    "auto": true,
    "added": "2026-10-26T03:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94dl9sVHpoR2hiY0RncjFQOFRPZEJwUlA4SmR3akRSdWJNY0s2aTZGR1dad3B6X3NiXzFReHdwaC1JMHF3UXpiMlFia2l1S3E4amlqdjNPdw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "東海道新幹線、新型車両に迫る 朝日小学生新聞",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44Y0ZCeHZiUzFGVnFlSnMxU3BnMGdRQVZ5MnBzVm9HbXRwcEpZek9LU2pmT0FDVTMwVlVRYzluVks1N1JDZHp0RGNWVjMxMlFELUNaRW9vNW1mVElM?oc=5",
+   "src": "朝日新聞",
+   "auto": true,
+   "added": "2026-10-26T05:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44Y0ZCeHZiUzFGVnFlSnMxU3BnMGdRQVZ5MnBzVm9HbXRwcEpZek9LU2pmT0FDVTMwVlVRYzluVks1N1JDZHp0RGNWVjMxMlFELUNaRW9vNW1mVElM?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "linear",
+   "title": "【科学が分かった！】最高時速５００キロ、リニア中央新幹線の秘密",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMHZkdFpkVEltYkJ3anBMZ3dvXzQzQVduRnp1RDhBODRxQ2lldEctYXFOajRHbjh4cHIzWTJFQ2gxdXQ1U1hmenlPd29aRHNlc3R2d1JGUGZtTWhvU2RKdUc3Yw?oc=5",
+   "src": "愛媛新聞",
+   "auto": true,
+   "added": "2026-10-26T05:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMHZkdFpkVEltYkJ3anBMZ3dvXzQzQVduRnp1RDhBODRxQ2lldEctYXFOajRHbjh4cHIzWTJFQ2gxdXQ1U1hmenlPd29aRHNlc3R2d1JGUGZtTWhvU2RKdUc3Yw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "linear",
+   "title": "【科学が分かった！】最高時速５００キロ、リニア中央新幹線の秘密 超電導で磁力発生、高速走行中は車両が浮上",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJTThHWDU0MTQxdlB4bG1HOE1EZHh3a2RjVmFGWWNHVE1zUVI0Q21iNEMyRWRnYWt3TEswRUhfNjRrN1F2VE9WV21SbFVTMGwySjJQamlzRVo?oc=5",
+   "src": "東奥日報社",
+   "auto": true,
+   "added": "2026-10-26T05:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMHZkdFpkVEltYkJ3anBMZ3dvXzQzQVduRnp1RDhBODRxQ2lldEctYXFOajRHbjh4cHIzWTJFQ2gxdXQ1U1hmenlPd29aRHNlc3R2d1JGUGZtTWhvU2RKdUc3Yw?oc=5"
   },
   {
    "date": "2026-10-25",
@@ -2399,6 +2432,17 @@
    "auto": true,
    "added": "2026-10-26T01:52+09:00",
    "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83WVNkZzZfa19pdXdzQk1mM0x3amJkcDhpYmM4S19JQThFTjd2LUR4dzZIN0FyVUpHVVliMjRqU1lIWV9HZ1RNWlBhZG9KTTZwcm9fM3VIT1NhRnNjMDVHdjhnRklPbmUtbmtzakFncUNtalU?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "shinkansen",
+   "title": "いよいよ走り出す新幹線「かもめ」のN700S 東海道新幹線とは何が違う？ 画像（16/27ページ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZkV5bDh1ZXNwNkx5S0lRVjZRMUF5VnRub0N0UEhseGtIMlQzOU1uZVhvLUxBSGRZTEVBMmNQWG9WYVBwM1c2RHRvR01Fak5jVHB5eHRkWUdUTFZudjhNdmNhaE9kcEhVNGxnOGRKVC1icjN2?oc=5",
+   "src": "Tetsudo.com（鉄道コム）",
+   "auto": true,
+   "added": "2026-10-26T05:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZkV5bDh1ZXNwNkx5S0lRVjZRMUF5VnRub0N0UEhseGtIMlQzOU1uZVhvLUxBSGRZTEVBMmNQWG9WYVBwM1c2RHRvR01Fak5jVHB5eHRkWUdUTFZudjhNdmNhaE9kcEhVNGxnOGRKVC1icjN2?oc=5"
   },
   {
    "date": "2026-10-22",
