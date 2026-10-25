@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T01:52+09:00",
- "checked": "2026-10-26T01:52+09:00",
+ "updated": "2026-10-26T02:48+09:00",
+ "checked": "2026-10-26T02:48+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -287,6 +287,17 @@
    "auto": true,
    "added": "2026-10-25T20:49+09:00",
    "g": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HbEM2TDdPQ2g5UXN3blRTaGdiZ3VEOFE4SVFPWDRrX25iZks0cnA4b1E4M1BKdFBNenliaHJfekpMRjN5bVpWRmJrZ1p0aXh3aXBWNE8zNTF4WmJqQjJjZQ?oc=5"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "unko",
+   "title": "富士急行線 車両不具合で運休",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMzZteG5EbHVUWGVhYXdBYWRxTG5ScXg0WWYtOW50TGRqQXNpWDR2Q1A2ZFE5NWpuZXZKNXpFME9ZYzBKNjBWMTBaRHRGdEhnZWE1dFJxS1hPcDdKQ29VRUhBems?oc=5",
+   "src": "sannichi.co.jp",
+   "auto": true,
+   "added": "2026-10-26T02:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMzZteG5EbHVUWGVhYXdBYWRxTG5ScXg0WWYtOW50TGRqQXNpWDR2Q1A2ZFE5NWpuZXZKNXpFME9ZYzBKNjBWMTBaRHRGdEhnZWE1dFJxS1hPcDdKQ29VRUhBems?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -3169,6 +3180,17 @@
    "auto": true,
    "added": "2026-10-25T11:54+09:00",
    "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxY3hMZFpRakZZcHVHVWJqWmNtbEpCWWRYY3VRaXRnaGNiSmx6cmZIc3FlWkF4QlpHRHJZVWpkYlRpSGZjUnZmWnE1Z2FVTzFPSGc1Vy1VV3Z2QTJYWm14WkczS05iRTQ?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "other",
+   "title": "ＪＲ東海車両に川崎復帰 振り子式の技術力評価",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MM3VjSnF6Vk0wQzI2eER5SEJIdlNGaUJsSVRydW9vc05zRFdMc21tcVZCa3VUdGcyaXZVV19aQnd6MHBxcHhGNGZkaURNOG0zNlFfSW9yRUVPRFUya0lCLU0zREFxdms?oc=5",
+   "src": "山陽新聞",
+   "auto": true,
+   "added": "2026-10-26T02:48+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MM3VjSnF6Vk0wQzI2eER5SEJIdlNGaUJsSVRydW9vc05zRFdMc21tcVZCa3VUdGcyaXZVV19aQnd6MHBxcHhGNGZkaURNOG0zNlFfSW9yRUVPRFUya0lCLU0zREFxdms?oc=5"
   },
   {
    "date": "2026-10-21",
