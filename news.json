@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T14:51+09:00",
- "checked": "2026-10-25T14:51+09:00",
+ "updated": "2026-10-25T16:07+09:00",
+ "checked": "2026-10-25T16:07+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -221,6 +221,17 @@
    "auto": true,
    "added": "2026-10-25T14:51+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BdnlfLWxUT3M5bXktMFhxQ0RKdTktOHpYSkoyODRkc29NcEt2bzktdWlpRWRLNVBwTS05S2duS1k5TDVOSkY0WVotU21EWWU1UUt1d0Y2NXZ4Nm8xaFFhMm1zdFFqVGFmaE42TjNn?oc=5"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "event",
+   "title": "「JR東海 浜松工場へGO」ツアー2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTnJqUGw4YkduSmdpXzZOOFBFUkRNSUtHQTNKOUVzSVVvdVZUbGdhNlJzbk85TlhVVFBNZ0EwZzVVdHlrcUc0UnhRWURuWEFxeXJ0eGJBSzRCVkNPT014Zk5Ma2c3WTA2?oc=5",
+   "src": "鉄道新聞",
+   "auto": true,
+   "added": "2026-10-25T16:07+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTnJqUGw4YkduSmdpXzZOOFBFUkRNSUtHQTNKOUVzSVVvdVZUbGdhNlJzbk85TlhVVFBNZ0EwZzVVdHlrcUc0UnhRWURuWEFxeXJ0eGJBSzRCVkNPT014Zk5Ma2c3WTA2?oc=5"
   },
   {
    "date": "2026-10-24",
