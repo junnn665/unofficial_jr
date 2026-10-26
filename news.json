@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T05:57+09:00",
- "checked": "2026-10-27T05:57+09:00",
+ "updated": "2026-10-27T06:54+09:00",
+ "checked": "2026-10-27T06:54+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -56,6 +56,50 @@
    "auto": true,
    "added": "2026-10-27T05:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBudGE5eXN5aVJmLUlPTUJxbEpiRkhNMnVzOVJueXZMaDZKWV8yWnhONkNYUldJX2lheUxySFhWbWN3b3V0MlVCeFdpRi1TcnRQcXBOYXEzSERjX1c5blBXbmRzZw?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR東海『スマートEX』等の利用者の個人情報約17万件が漏えい メール配信手掛けるユミルリンクへの不正アクセスで",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWnpFTTZtNHI0WktlcHNIT0ZsaVNvQkJEcUhLMllvNm1pYndwcFY0OWFCZ2hhaDJHaGdIRmQ1VGRIOXM1cFFiTHVHOG1NdzF5cEI1QnhnMHhWZnlDUzY4dXZpeENmYnl6VlRVYUsxX3QxQUw0NEZjY1NVMFIxUHM?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T06:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWnpFTTZtNHI0WktlcHNIT0ZsaVNvQkJEcUhLMllvNm1pYndwcFY0OWFCZ2hhaDJHaGdIRmQ1VGRIOXM1cFFiTHVHOG1NdzF5cEI1QnhnMHhWZnlDUzY4dXZpeENmYnl6VlRVYUsxX3QxQUw0NEZjY1NVMFIxUHM?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "other",
+   "title": "楽天トラベルやJR東海などで個人情報流出 不正アクセスによる流出は2億2000万件に上る可能性も",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nd0RVc2d4Q1RGSk95UGp4MDVGMGFQc2Vuc2dPU1R4T2p2UUp4VHd3blU4c3h6RDJsMmZBeTNNd0l4MkNRSFQ5d0hEX0VaRDlza0hvT2I0bTJoMjRXQi1haTFBdXdzakJiTXJiRVhzdjZqTzFSYkE1eE5ERElxRDQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T06:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nd0RVc2d4Q1RGSk95UGp4MDVGMGFQc2Vuc2dPU1R4T2p2UUp4VHd3blU4c3h6RDJsMmZBeTNNd0l4MkNRSFQ5d0hEX0VaRDlza0hvT2I0bTJoMjRXQi1haTFBdXdzakJiTXJiRVhzdjZqTzFSYkE1eE5ERElxRDQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR3社、エクスプレス予約とスマートEXの会員情報漏えいの可能性 委託先に不正アクセス（ビジネス＋IT）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55N3MzWUd5QVBjVHc0X0dRYlNNbzRyME9NdmVTQ2JWaUYzQkRlanczcnBremNTTUpYQzU4YmhLb1dQbnN1QmxRODBwenFKM1ZaRVAzaTViYzNnZ1IycjlPWVJGSVRvanpiWmp5ME5sbGxmLTlqWGFyc2h3Rl9ZVzg?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T06:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55N3MzWUd5QVBjVHc0X0dRYlNNbzRyME9NdmVTQ2JWaUYzQkRlanczcnBremNTTUpYQzU4YmhLb1dQbnN1QmxRODBwenFKM1ZaRVAzaTViYzNnZ1IycjlPWVJGSVRvanpiWmp5ME5sbGxmLTlqWGFyc2h3Rl9ZVzg?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "linear",
+   "title": "ＪＲ東海／リニア神奈川県駅整備事業／地下３階エリアの函体構築完了",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSdW9vbVo5TUdRcWJCUGxXMnI4ZlUzNlJCOVVnQi1remNXYzdKUk1zY0wyYllZVWNfZDBLZFJpMXZLTXl4Vkw0?oc=5",
+   "src": "日刊建設工業新聞",
+   "auto": true,
+   "added": "2026-10-27T06:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSdW9vbVo5TUdRcWJCUGxXMnI4ZlUzNlJCOVVnQi1remNXYzdKUk1zY0wyYllZVWNfZDBLZFJpMXZLTXl4Vkw0?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -1431,6 +1475,17 @@
    "auto": true,
    "added": "2026-10-27T04:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMSTF1SlBSai1ZUkNSV1lPem5kQWZJZ3hJcHptZ2Z6ZGZfdHdDZWRoUmZaMm5JZ0l0UmN5V2F1WTBGeTI4aEFpN0ZQd2VJS1EwQ216YnRNcjFXbG1mUkV1MURjQzFhaklPZndySTNB?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "N700系が向かい合わせに連結！ 通常はあり得ない異色の編成が公開 「日本一短い新幹線」に注目集まる（乗りものニュース）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10dUVsN0NMWEtkVFl6dFFvQ2swYVktcFBlQW9LeGJsV3hzdGxXd2ZfOXBPbnFxU1dPeGd0RVdYUElZaURoenNhY1NERXh6YzVLaDNQN1haWDlYS3R3TEpoT0w4WUNZek1CZlFJam9DRmUyTVUwLXR0U0xPc3pvazQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T06:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DN1pYOERacHdYdUVxUWYtalB3cTZGSnlQenBQUzY3YnB1ckgzWGEyaFRKMnpZWlBEMUhRRnlWQlkxQS1uMDBpUWpqZlBEMUh4Z0ppdm1ubE5id1ppN1BsbTIybHRTUEoxYW9iZGRR?oc=5"
   },
   {
    "date": "2026-10-25",
