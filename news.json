@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T11:58+09:00",
- "checked": "2026-10-26T11:58+09:00",
+ "updated": "2026-10-26T12:59+09:00",
+ "checked": "2026-10-26T12:59+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -220,6 +220,72 @@
    "src": "朝日新聞",
    "auto": true,
    "added": "2026-10-26T11:58+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "ドクターイエローの後継「ドクターS」デビュー 東海道・山陽新幹線（朝日新聞）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WdE9MUVZqWmtxQUt3T0ZlekR3ZkI0QVRDSVlBMk5aRzFDWDJENkNMenlkN1N6NWtmVG1TNFBteHVPNlg2R2ttUGxUR0FiQUJxRllkM01YWjdwY0YxckVkazFZMExkVjhOZXpSQWNsSHdPLWY5NXBmVDJWR2d6dm8?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-26T12:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "linear",
+   "title": "【科学が分かった！】最高時速500キロ、リニア中央新幹線の秘密 超電導で磁力発生、高速走行中は車両が浮上",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zWjhWOU8xRXp0Ni1lcnpJRW5CT25mVFJjWS1GMmQ1Ukp3OEdGNWdFQWVBdTdPNWZFRmZfQkJZREN1M1RsUFZRX2JZVVBFUkZiRVNZTk9IX0N4T2ZsU2Jsb3RSVVNlSERtdEhv?oc=5",
+   "src": "信濃毎日新聞デジタル",
+   "auto": true,
+   "added": "2026-10-26T12:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMHZkdFpkVEltYkJ3anBMZ3dvXzQzQVduRnp1RDhBODRxQ2lldEctYXFOajRHbjh4cHIzWTJFQ2gxdXQ1U1hmenlPd29aRHNlc3R2d1JGUGZtTWhvU2RKdUc3Yw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "linear",
+   "title": "大成建設・鹿島建設に営業停止命令 リニア静岡工区の着工は来春以降に",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNzB0Vy1jMUY5S3pjbFF2ekVBdnBBWEJCakFsZ3UxSzJ1VFdidlJnc1ZFbGxrWXotMXZRWDBLTWVTRU5ZQ1QtS083QUhKR0VaS3Jz?oc=5",
+   "src": "東京報道新聞",
+   "auto": true,
+   "added": "2026-10-26T12:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNzB0Vy1jMUY5S3pjbFF2ekVBdnBBWEJCakFsZ3UxSzJ1VFdidlJnc1ZFbGxrWXotMXZRWDBLTWVTRU5ZQ1QtS083QUhKR0VaS3Jz?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "「ドクターS」きょうから営業運転 “新幹線のお医者さん”「ドクターイエロー」の後継（日テレNEWS NNN）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ibE5qTXFUc3pIOXRCMUphTUNqVFAzSHYwLXcyTDNMSFI3VWhkZUVDQk5MNFJXSDVGVTh5SEo2TF9JcE10bG5MT3lNYlcyLXdWVEJELW5lTFl2VDNWb2NRR1NqbmRNWmZodGJiSEpmd05Bd0VPWXctUDVkMTY5U1E?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-26T12:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "「ドクターS」きょうから営業運転 “新幹線のお医者さん”「ドクターイエロー」の後継",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aZUQ4cGdYRktfZmNYQXVtVzFkakR5OUpWN25PMWcyTkNBMEIwT2gxX18wR0c1ZTJpbk5zX3g1bWRmY25zQkZNYjRBZ3N3ZWd4NHItZnItempsYmFNZzB2V1dsMWNiV2RuQkoyUHln?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-10-26T12:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "「ドクターS」きょうから営業運転 “新幹線のお医者さん”「ドクターイエロー」の後継（2026年10月25日掲載）｜日テレNEWS NNN",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JUmlleUxlckFUUWFsS1pwdFdsX3Jmay0wRHNSTk1qQnNqcUJqMFhzbFRCZXFwOEdBSUxQOXpaaVlJSDEwbGpVczllVHlXNmdaaldXWUo0UlJIOWtRUXd6VXUzYnZpdC1NdENQY1lFQktaRnVHb0pFMUlUNGc?oc=5",
+   "src": "日テレNEWS NNN",
+   "auto": true,
+   "added": "2026-10-26T12:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
   },
   {
