@@ -91,9 +91,9 @@
    "src": "https://newswitch.jp/p/49438",
    "status_date": "2026-06-14",
    "latest": {
-    "date": "2026-10-13",
-    "title": "リニア長野県駅の模型、地域住民に公開 飯田・上郷飯沼で：ニュース",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqYUF3N2FVaENXazBFSThYUnY5a21UOV9rRkwzWUpRbVlfSGkycG9BVGdDRVA2XzJDUVpPdmRDSEZKX2h4RkdnR1I2dWIzVDNWWUxpeWZoa0ZlVVRrOHRV?oc=5"
+    "date": "2026-10-25",
+    "title": "「地質が弱く、トンネル工事は約５年遅れに」リニア中央新幹線・長野県飯田市内を通る風越山トンネル西側工事完了は2031年に",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpcXhOSDNxMkdUTTJUYWFVS0hWSUlsWmlDaHdaYkZJY1owcDNEQnNzMTd3X2JlcmExajE3b3ljXzJMbTFubVV2R3IzdTRrcHh3aXh1UjZmUUpCRTJZVklj?oc=5"
    },
    "km": 182.5
   },
@@ -656,7 +656,11 @@
    "note": "飯田市上郷を通る約3.3kmのシールドトンネル。2024年11月に施工ヤードの整備を始めた。2028年冬ごろ完了予定。",
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
    "status_date": "2026-10-24",
-   "latest": null
+   "latest": {
+    "date": "2026-10-25",
+    "title": "「地質が弱く、トンネル工事は約５年遅れに」リニア中央新幹線・長野県飯田市内を通る風越山トンネル西側工事完了は2031年に",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpcXhOSDNxMkdUTTJUYWFVS0hWSUlsWmlDaHdaYkZJY1owcDNEQnNzMTd3X2JlcmExajE3b3ljXzJMbTFubVV2R3IzdTRrcHh3aXh1UjZmUUpCRTJZVklj?oc=5"
+   }
   },
   {
    "name": "松川橋りょう",
@@ -1091,5 +1095,5 @@
    "latest": null
   }
  ],
- "checked": "2026-10-27T02:58+09:00"
+ "checked": "2026-10-27T04:10+09:00"
 }
