@@ -110,9 +110,9 @@
    "src": "https://www.pref.gifu.lg.jp/page/16609.html",
    "status_date": "2026-08-27",
    "latest": {
-    "date": "2026-10-23",
-    "title": "「リニアのまち」もっとＰＲ 中津川商議所が新ポスター制作",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xa2k5N2laZzVXTy1XYml1Z0EtcEZKenk0RWo2eDlKQ2c4XzRzbUg1SGM0SExJampPcWNPcUZVOTZkbERlRXJHV1c3bVQ5VktuOUR0cVhB?oc=5"
+    "date": "2026-10-26",
+    "title": "閉校する小学校の思い出に…リニアのトンネルに刻んだ“夢” 岐阜・中津川市（2026年10月26日掲載）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lYlVScHpheG5HSXphZ05zVDF2dDZBQlN3T3JSZWF0dllIZDFmM0xlQU5QVGlBQmwwLXlobnJGTWhxN2lucHNiLXRaNkF2dVlXMXFOS1VHYWQzX3I2ZE5ObVRTY3RiOEZPWHU0dzBPUmxPeUtzdGFhYW1YN1NyUWM?oc=5"
    },
    "km": 219.6
   },
@@ -329,7 +329,11 @@
    "note": "山梨県の上野原市〜笛吹市を結ぶ約42.8km。1997年から走行試験を続け、2013年に全線が完成。L0系改良型試験車で試験が続いており、将来はそのまま営業線の一部になる。",
    "src": "https://tetsudo-ch.com/13022312.html",
    "status_date": "2013-08-29",
-   "latest": null,
+   "latest": {
+    "date": "2026-10-23",
+    "title": "スマホと同様のしくみで給電、山梨リニア実験線の新型リニアモーターカー 画像（5/15ページ）",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVWJXcmgwVkI0Q2pkNElVWDYtVHdFc1FOLUdkVzZoNUltNUhjelRMSHBHVHlmWno2bG9UcFVNWTRXLVl5ZXBGQ0o1UG1IYWhYbEFLaDJER3R2V0JGZDQ1Um1wYm53ZnBDcFZHWEQ2WjJWdw?oc=5"
+   },
    "pref": "山梨",
    "short": "山梨実験線",
    "km": [
@@ -1087,5 +1091,5 @@
    "latest": null
   }
  ],
- "checked": "2026-10-26T17:16+09:00"
+ "checked": "2026-10-26T18:06+09:00"
 }
