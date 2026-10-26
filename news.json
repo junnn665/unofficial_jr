@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T06:54+09:00",
- "checked": "2026-10-27T06:54+09:00",
+ "updated": "2026-10-27T07:56+09:00",
+ "checked": "2026-10-27T07:56+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -100,6 +100,39 @@
    "auto": true,
    "added": "2026-10-27T06:54+09:00",
    "g": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSdW9vbVo5TUdRcWJCUGxXMnI4ZlUzNlJCOVVnQi1remNXYzdKUk1zY0wyYllZVWNfZDBLZFJpMXZLTXl4Vkw0?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "other",
+   "title": "相次ぐ不正アクセス JR東海などでも個人情報漏えい（中京テレビＮＥＷＳ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZUZSekFCd0F6akpUb19GbTFMU1JlaFZZRmZzRjF3aV9wUGRlcmxmSGN0Ym5aMjNKV3o4RktWTF9ta2o2d25lVGR4alBrWENNcHNxdnU2VTNldWJMWlBWeGxBNjVDNlZkRW5OdjlhdHpJYkZWcjlFeE1uLTFXLWs?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T07:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZUZSekFCd0F6akpUb19GbTFMU1JlaFZZRmZzRjF3aV9wUGRlcmxmSGN0Ym5aMjNKV3o4RktWTF9ta2o2d25lVGR4alBrWENNcHNxdnU2VTNldWJMWlBWeGxBNjVDNlZkRW5OdjlhdHpJYkZWcjlFeE1uLTFXLWs?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "新幹線予約システムの個人情報漏えい JR東海などが発表（中京テレビＮＥＷＳ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVzlBTm82ZVNTZEpoX01CWGVxVklPT29yZzR3OEFVTkZZbWNKZDlfeHljV0pWWlgzZXdhem4wX3J4RDNsUTg0bTNZR0ppMGpTSWVmeVJVTGhGY01WbFMxSXhiVlBXOGc1VGp2dFdLX21NSmNBRko0MElpUHhsSEE?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T07:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR東海・JR西日本・JR九州、「スマートEX」「エクスプレス予約」の個人情報漏洩 ユミルリンクへの不正アクセスが影響",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWhPQ19iTGhNd1lQdWtYZHJobmwwaXZvX29jQnE3Zl9CVUNQTGRNSU1MVkZoaGpBY1hudXM2emRBYmFKZkpwWEdRZnh0LVJoMmNoS2U2QjJNeXVBanJjakxEMV8yZzg0QVZoWUNhQkc1bGFIVm5PRXd3RFh1VGJZVVVndElNbkJSOTBMVVozUGhpZWNQSi1ETGNNOWdqc01TQV8yOVNnR3lLenQ0UVpSaHpwTi1UdTQ?oc=5",
+   "src": "合同会社ロケットボーイズ",
+   "auto": true,
+   "added": "2026-10-27T07:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWhPQ19iTGhNd1lQdWtYZHJobmwwaXZvX29jQnE3Zl9CVUNQTGRNSU1MVkZoaGpBY1hudXM2emRBYmFKZkpwWEdRZnh0LVJoMmNoS2U2QjJNeXVBanJjakxEMV8yZzg0QVZoWUNhQkc1bGFIVm5PRXd3RFh1VGJZVVVndElNbkJSOTBMVVozUGhpZWNQSi1ETGNNOWdqc01TQV8yOVNnR3lLenQ0UVpSaHpwTi1UdTQ?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -1486,6 +1519,17 @@
    "auto": true,
    "added": "2026-10-27T06:54+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DN1pYOERacHdYdUVxUWYtalB3cTZGSnlQenBQUzY3YnB1ckgzWGEyaFRKMnpZWlBEMUhRRnlWQlkxQS1uMDBpUWpqZlBEMUh4Z0ppdm1ubE5id1ppN1BsbTIybHRTUEoxYW9iZGRR?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "shinkansen",
+   "title": "ドクターイエローの後継「ドクターS」デビュー 東海道・山陽新幹線 動画",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HMjRmdGFzQl9xaXA3N1VrV05ycGN4eEpORFg5Y2dwUjdaU0d0TkNlOGJvN1hJRnVnSl9HeEN5YVUzU0lpeWJETUFSUGtzTHpnUjlQQXhzNHV6ZEdHWjg1WWlMenZqbFhqQlIxLXFnSQ?oc=5",
+   "src": "朝日新聞",
+   "auto": true,
+   "added": "2026-10-27T07:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85azF0SkNPbE40NUJNODBZUGhwb0RIbkJkZGZ5M1ZGbUcyOU9NejhLLUVpVk5OdzcyTUd1WlpzRGdlVjJZN0FZY1F6ckpoWVU4VlhVRVFnYVQyVm0x?oc=5"
   },
   {
    "date": "2026-10-25",
