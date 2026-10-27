@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T13:56+09:00",
- "checked": "2026-10-27T13:56+09:00",
+ "updated": "2026-10-27T14:55+09:00",
+ "checked": "2026-10-27T14:55+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -353,6 +353,61 @@
    "auto": true,
    "added": "2026-10-27T13:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uaE12RGl0TGF0WmttWFBNWWhaTklXYU1tbFZMNGtqZTl1Y18tVDBaZ0ZmbXVZcFQzQVFUZjdmU1JyRE90MWs0RnRDcnMxYThZTC1yRm11X2JmT1RTQTVQZjJpd1JpcFdTUzdmbVZQQjJWYVpWampqbVFn0gF_QVVfeXFMTnVJd0c5M3FQX3B4MVMzZXlRa0IwQkhna1pfVUZ5RHdTV1ZfZmIzZmY3THpGb1lHcWZ5bXNhNWdaanpWMTNKRGhqeVdPUlptaU9naU16Sl83TFBUT1BkSUpJRW93SFlFY1BiMUZFaXpseVNhWVZOcGZnV2h1U2VURQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR東海など新幹線予約に不正アクセス、会員情報17万件が流出",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iQ1ZUcFJ4UFo1X1hDai1Ra3ZVMDhvcEkyT1lWUlNYcUtGajBaOUhjWDNHbml2eEJHWE9Uem5UdzZObkRrZUpVLXR5R1VBeFh4V1d3Z2pyY045VXlrU1NGNC1CRklIRUFtSjMtMFg0SjVTRTlW?oc=5",
+   "src": "BigGo ファイナンス",
+   "auto": true,
+   "added": "2026-10-27T14:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UXVuNnBKdkJUbEZNYjNDeDh5dmp0VUJjTFpOSXFfTHdoekVwY2MtcXBMcjFReXg0ckhKSmVENjNFTXJ5dU80VThUUE44aWpLVkl5dDgxVnktRHRSMEFYeTJOdDBRZEw1OVhoSEJxQnVGNnlJUHhuaHhzWnpvdVU?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "新幹線予約「スマートEX」などで会員情報漏えい JR3社が公表、委託先への不正アクセスが原因",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMmdEb0g5RmdqcXZxQjJ5ZWdYQ2ZCTVk2anhNWkxYc2NvMmt3QUdUeDdBeHBXY2haTXBWc2tRWC1rdFRFdWlUNXlFWmZjOV9pc2NQWHVLVTFVLVhQTElaU3VxZkk?oc=5",
+   "src": "NOVAIST",
+   "auto": true,
+   "added": "2026-10-27T14:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "event",
+   "title": "「僕の使命は、鉄道好きな人を増やすこと」 品川駅の鉄道グッズ店、店長が語る閉店への思い",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mZkY3VXR6QWlBMU1NNHNUZTB1OGJuNm5Db0tUYzBvb0k2Sk9XOTVKLUxmY1dNNGlCc0QtU0RrcFFGc2FNTUQwTVZFQVhvaVRyV01HNDVoWQ?oc=5",
+   "src": "TRAICY（トライシー）",
+   "auto": true,
+   "added": "2026-10-27T14:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mZkY3VXR6QWlBMU1NNHNUZTB1OGJuNm5Db0tUYzBvb0k2Sk9XOTVKLUxmY1dNNGlCc0QtU0RrcFFGc2FNTUQwTVZFQVhvaVRyV01HNDVoWQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "linear",
+   "title": "リニア中央新幹線絵画コンテスト2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtZ2hkV0piMURmTnFOZVhUVk43c0pubzZIWkJqV1VWYUI1bXBXZHNFZVBpb1dhbUNPdGhkMTlqWWQ0R01UNVE?oc=5",
+   "src": "Koubo",
+   "auto": true,
+   "added": "2026-10-27T14:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtZ2hkV0piMURmTnFOZVhUVk43c0pubzZIWkJqV1VWYUI1bXBXZHNFZVBpb1dhbUNPdGhkMTlqWWQ0R01UNVE?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "other",
+   "title": "JR西日本，500系・923形「ドクターイエロー」フィナーレ企画の追加企画を発表",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HajFzdmFyWWh5aVU4T1FScmpVM3I4T1pCS0FqWEF4OVZ2WldGNlpXU05zLUdJVTZPdnNCdDdRMkJZN2EtakFvdDVtdFotSEVEUDZ4Sk9HRkw?oc=5",
+   "src": "鉄道ファン・railf.jp",
+   "auto": true,
+   "added": "2026-10-27T14:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jRnNGODNpZllTNVRvcGxyV2hTSHdyWFJVQmN4WE5fT3pxSnpCQUJ5SHExUGFibmU5aElmWGRRQkpQNGItS0tiMlNKMTlUSHlNb0cxLVBFUDNXUDJM?oc=5"
   },
   {
    "date": "2026-10-26",
