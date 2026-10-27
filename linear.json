@@ -480,7 +480,7 @@
   {
    "name": "南アルプストンネル 静岡工区",
    "status": "wait",
-   "label": "工事停止（10/26報道）",
+   "label": "工事停止（10/27報道）",
    "kw": [
     "静岡工区",
     "南アルプス",
@@ -488,13 +488,13 @@
    ],
    "note": "大井川の水への影響をめぐり9年止まっていた区間。2026年7月に知事が着工を容認し、JR東海と環境保全の協定を結んだ。掘るのに10年以上かかる見込みで、ここが開業時期を左右する。",
    "src": "https://www.nagoyatv.com/news/?id=036212",
-   "status_date": "2026-10-26",
+   "status_date": "2026-10-27",
    "latest": {
     "date": "2026-10-27",
     "title": "リニア中央新幹線 静岡工区「1日も早く工事を」 中経連・柘植会長",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zYVlaU2tXRjhlUm0zWlVrdHZzYk4zYW9raXJEeXFoMWJMVUZqbElFNnViZU1YSTk4MVEwRjhoWXdiQkxiNE9uemRNZ25QNGNPbzRESGVyQTZhOGZGSjhRODh1dFVwelRoeUdBeV9R?oc=5"
    },
-   "status_src": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHA0NzI0UTd6NmhKWkZtdUlXOHp1WWVfZ1l2OXN3VThrekJuWWMySFhYTF9PbHJQRG1qS2xlSVF2X3ZTM04wX3F1ZE01R1pNSWRXMDVEbmlMRHU2WElET183cGJ1Ym9Na2xpdnhwZnBFR3FGVTU0NnRLd016dnVRRGwtU2MwRms?oc=5",
+   "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NV1A4b1JpMlNoY1Z4NnMtc0E0MmZEMV9ySEVGZjJiNTA1dGpsTkU2aTlreGUxY2EzSUFXNGI2Z3B4alloZ1RaRnF5bTRXclRDNHVZYnNtU3h0QWxaRTVnNnJKYWVjX3hoWWJzSkY1cnU0eDRQN3UtWGVXckVQNXc?oc=5",
    "pref": "静岡",
    "short": "南アルプスT 静岡",
    "km": [
@@ -1095,5 +1095,5 @@
    "latest": null
   }
  ],
- "checked": "2026-10-27T14:55+09:00"
+ "checked": "2026-10-27T16:13+09:00"
 }

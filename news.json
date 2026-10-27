@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T14:55+09:00",
- "checked": "2026-10-27T14:55+09:00",
+ "updated": "2026-10-27T16:13+09:00",
+ "checked": "2026-10-27T16:13+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -408,6 +408,50 @@
    "auto": true,
    "added": "2026-10-27T14:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jRnNGODNpZllTNVRvcGxyV2hTSHdyWFJVQmN4WE5fT3pxSnpCQUJ5SHExUGFibmU5aElmWGRRQkpQNGItS0tiMlNKMTlUSHlNb0cxLVBFUDNXUDJM?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "kaisha",
+   "title": "子会社における業績予想の修正に関するお知らせ 133.1KB",
+   "summary": "",
+   "url": "https://jr-central.co.jp/news/release/nws000001_00635.html",
+   "src": "JR東海",
+   "auto": true,
+   "added": "2026-10-27T16:13+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00635.html"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "kaisha",
+   "title": "ＪＲ東海[9022]：子会社における業績予想の修正に関するお知らせ 2026年10月27日(適時開示) ：日経会社情報DIGITAL",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JRGxzcGRuZzl0WTViT241N1RGS3RDYnNsU0Y3dU5fdFpoNlpNci10dzBLUk00TmJIeVBDZ2Y0WWtJVldMUWRGNzdxTlJrZElzUkhuQU9sek03RS01bHpEaEVlSmQ0TnM5eHc?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-27T16:13+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00635.html"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR3社、エクスプレス予約とスマートEXの会員情報漏えいの可能性 委託先に不正アクセス",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nTG9LSXVZcm1uZ2tKeUhESUNncWVRTXBsSDZac1Y5Rkt0VVlLeUpuYlNnZ1p3RnlUSGRHb0otbmJ1WmFXVEhtdl9qM1hLSXVCQ2tJ?oc=5",
+   "src": "ビジネス+IT",
+   "auto": true,
+   "added": "2026-10-27T16:13+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55N3MzWUd5QVBjVHc0X0dRYlNNbzRyME9NdmVTQ2JWaUYzQkRlanczcnBremNTTUpYQzU4YmhLb1dQbnN1QmxRODBwenFKM1ZaRVAzaTViYzNnZ1IycjlPWVJGSVRvanpiWmp5ME5sbGxmLTlqWGFyc2h3Rl9ZVzg?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "linear",
+   "title": "リニア静岡工区「速やかに工事進められるよう注視」業者談合による営業停止受け国交相（日テレNEWS NNN）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NV1A4b1JpMlNoY1Z4NnMtc0E0MmZEMV9ySEVGZjJiNTA1dGpsTkU2aTlreGUxY2EzSUFXNGI2Z3B4alloZ1RaRnF5bTRXclRDNHVZYnNtU3h0QWxaRTVnNnJKYWVjX3hoWWJzSkY1cnU0eDRQN3UtWGVXckVQNXc?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T16:13+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NV1A4b1JpMlNoY1Z4NnMtc0E0MmZEMV9ySEVGZjJiNTA1dGpsTkU2aTlreGUxY2EzSUFXNGI2Z3B4alloZ1RaRnF5bTRXclRDNHVZYnNtU3h0QWxaRTVnNnJKYWVjX3hoWWJzSkY1cnU0eDRQN3UtWGVXckVQNXc?oc=5"
   },
   {
    "date": "2026-10-26",
