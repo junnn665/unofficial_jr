@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T10:12+09:00",
- "checked": "2026-10-27T10:12+09:00",
+ "updated": "2026-10-27T10:59+09:00",
+ "checked": "2026-10-27T10:59+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -232,6 +232,17 @@
    "auto": true,
    "added": "2026-10-27T10:12+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55N3MzWUd5QVBjVHc0X0dRYlNNbzRyME9NdmVTQ2JWaUYzQkRlanczcnBremNTTUpYQzU4YmhLb1dQbnN1QmxRODBwenFKM1ZaRVAzaTViYzNnZ1IycjlPWVJGSVRvanpiWmp5ME5sbGxmLTlqWGFyc2h3Rl9ZVzg?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "event",
+   "title": "「ドクターイエロー」後継車が運行開始 「ドクターS」は点検と旅客の“二刀流”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VF9YOXljUkh4NXhWcVFlMkoyanF4SWlWZWlqbl9Va1RWMmZ5NnZETnZlbXA4Sy1DcF9IdmpEUnlYOWU1ZFhuc19DNjFfVDd5UDluTg?oc=5",
+   "src": "ABEMA TIMES",
+   "auto": true,
+   "added": "2026-10-27T10:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -1684,6 +1695,17 @@
    "auto": true,
    "added": "2026-10-27T10:12+09:00",
    "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYzYwQXNHbFQ0SWNUd2hPalU5emd6b1pRajVGdVk0MTZEYk5lWHJETllMQy0xLTA5T2x5dngtTjZZVFR4UkkyN1A3ZDdqTnlJcnVVa3p5dHVYR3diUEhON3hBYnMxOVNsVFdDM0JGaDM5d1B5bEhqQTI1a3dqdDJndVRCdWFfTkE?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "other",
+   "title": "ドクターイエローの後継車両「ドクターS」営業運行を開始 (2026年10月26日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3dzJkYVBYbmUyOG1BV2VPcDRuOUZydU9vcXlXZkd6OTdVSTZiaElKckFmV3prcVBOVTRUZVg5R0VGRS1UQzFkb3ExUGJCSkdKN0ZlT1o0VnAwV1J3Q3c?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-27T10:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
   },
   {
    "date": "2026-10-25",
@@ -4238,6 +4260,17 @@
    "g": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVWmVoTkt2a3QyenI0RjVEZ21YUUU2V21FYkN0RVZjc2tmSGc3NWhKcEJsSnZhaW9oWl9ST0ZzaUQydUx1TDdZanlDb3d5ZTEtaUVSTTNULW1mZ3RSZnZOcWFuTV9ranZNRjdSQ1M2dy1zdw?oc=5"
   },
   {
+   "date": "2026-10-23",
+   "cat": "linear",
+   "title": "リニア３月まで着工できず／静岡工区、大成営業停止",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVhfSEVhYzlKOTBqUi1DbjBpT0hHd3FkVFJSUmllVUQwbmNGem1oa2FVc3hHdGp0WTN4NElXTE1DNDVTSEtoRzZDTE5fTDVhODBQazdaYV9mT2lMekphTExKNUlHQzlxVk9zR0t5QmVFNjZLQWJ5YTRZV3NMcGU3dg?oc=5",
+   "src": "四国新聞",
+   "auto": true,
+   "added": "2026-10-27T10:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
+  },
+  {
    "date": "2026-10-22",
    "cat": "shinkansen",
    "title": "《新幹線でマナー違反だと思う行為ランキング》男女500人に聞いた「無言シート倒し」「飲酒して騒ぐ」を超える迷惑行為第1位《2026年10月Choice》",
@@ -5083,6 +5116,17 @@
    "auto": true,
    "added": "2026-10-26T19:06+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2X193VDh2QXRhT0hUVnZaUTdQU1plU1hlMWpoeU5xaGl2dVF1UU5CLXM3YmFYZ3RES1ZuaTNoVlBKREowN19SRGdPVFZMT0FvMFZkRG1UYkVYb3NqOW9SdXAwTGVsdTN0eEpTV2s1Z2VvR2VQTGZnUU5YbjR3b3c?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "zairai",
+   "title": "京急本線の連続立体交差事業が36年度完了に延期、事業費も大幅増 東京都",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMU9abjlLYWRhcUVERjVDYVNaeml2ajRieUF5dHJsWlpDVGNXUklteXJuc3BvMHo2Zzl6MnFVTTZYeEFuME5pSlU1Vm9CdHU0Q25YbG82ay1KYlhGbkdaR3dpYnU5MDA?oc=5",
+   "src": "日経クロステック",
+   "auto": true,
+   "added": "2026-10-27T10:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMU9abjlLYWRhcUVERjVDYVNaeml2ajRieUF5dHJsWlpDVGNXUklteXJuc3BvMHo2Zzl6MnFVTTZYeEFuME5pSlU1Vm9CdHU0Q25YbG82ay1KYlhGbkdaR3dpYnU5MDA?oc=5"
   },
   {
    "date": "2026-10-21",
