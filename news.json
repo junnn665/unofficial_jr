@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T12:57+09:00",
- "checked": "2026-10-27T12:57+09:00",
+ "updated": "2026-10-27T13:56+09:00",
+ "checked": "2026-10-27T13:56+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -309,6 +309,50 @@
    "auto": true,
    "added": "2026-10-27T12:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWnpFTTZtNHI0WktlcHNIT0ZsaVNvQkJEcUhLMllvNm1pYndwcFY0OWFCZ2hhaDJHaGdIRmQ1VGRIOXM1cFFiTHVHOG1NdzF5cEI1QnhnMHhWZnlDUzY4dXZpeENmYnl6VlRVYUsxX3QxQUw0NEZjY1NVMFIxUHM?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR東海、新幹線予約「スマートEX」などの会員情報約17万件漏えい発表 委託先への不正アクセスが原因",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GdVRaSE5hUTVkdFdyM1lWMkhsdmRkSUtXWGlteWlOUlJxbFZrV3pOeUh5d2FGZDNpYXQ0eHYtVVJIYVB0bi1TQWRWRVhZeDdmLWlsbGVzd2Jrejg2R1pHdENILXRlMnVIeFRSbDRZUlJ2Z0tBV0I0OEY4UlM?oc=5",
+   "src": "日テレNEWS NNN",
+   "auto": true,
+   "added": "2026-10-27T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UXVuNnBKdkJUbEZNYjNDeDh5dmp0VUJjTFpOSXFfTHdoekVwY2MtcXBMcjFReXg0ckhKSmVENjNFTXJ5dU80VThUUE44aWpLVkl5dDgxVnktRHRSMEFYeTJOdDBRZEw1OVhoSEJxQnVGNnlJUHhuaHhzWnpvdVU?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR東海がスマートEXなどの会員情報約17万件の漏えいを発表 (2026年10月27日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yQmxucWFGTmtQZnpqb21EZ2JHRnN1em1kTWh6VXlHNkc1NVQ2aEhUZlRtd3BadUc2WUtWOFVpUjVUOHZSdmdqMWtEcWFha2JJVG11WWJGLXdLUjQ4Qmc?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-27T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UXVuNnBKdkJUbEZNYjNDeDh5dmp0VUJjTFpOSXFfTHdoekVwY2MtcXBMcjFReXg0ckhKSmVENjNFTXJ5dU80VThUUE44aWpLVkl5dDgxVnktRHRSMEFYeTJOdDBRZEw1OVhoSEJxQnVGNnlJUHhuaHhzWnpvdVU?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "東海道新幹線が盤石なＪＲ東海、収益拡大に向け「点から面」へ…沿線でホテル戦略「乗車の先へ」 (2026年10月27日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSU1Vby15UEpwVG02Y0RWV3dkSFRUOWU4OGEzSEUyajRlVTVraUh6Z1NJWG8yRDZjNklEOHlMbERGSWZfRmJpSUdqQUg5RGZFNjZUTlh6aXhtOTBUS3c?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-27T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRREJ4TjJMTm5temlrb0VfWXU1NHd2OFhuY2h6c05LWnYwNFhRNXNCSjZydFlSbzFOQmo3dW5pdDZtM2FnT3hobEg3dTJBTFRMTlNBT2xIejh6RE9Hejdobjl1UGQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "【速報】りそな・関西みらい銀行など３行も会員情報漏えい 東海道・山陽新幹線の予約システム「EX予約」なども 委託先「ユミルリンク」で約5100万件超が流出か メール配信サービスのシステムに不正アクセス",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uaE12RGl0TGF0WmttWFBNWWhaTklXYU1tbFZMNGtqZTl1Y18tVDBaZ0ZmbXVZcFQzQVFUZjdmU1JyRE90MWs0RnRDcnMxYThZTC1yRm11X2JmT1RTQTVQZjJpd1JpcFdTUzdmbVZQQjJWYVpWampqbVFn0gF_QVVfeXFMTnVJd0c5M3FQX3B4MVMzZXlRa0IwQkhna1pfVUZ5RHdTV1ZfZmIzZmY3THpGb1lHcWZ5bXNhNWdaanpWMTNKRGhqeVdPUlptaU9naU16Sl83TFBUT1BkSUpJRW93SFlFY1BiMUZFaXpseVNhWVZOcGZnV2h1U2VURQ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-27T13:56+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uaE12RGl0TGF0WmttWFBNWWhaTklXYU1tbFZMNGtqZTl1Y18tVDBaZ0ZmbXVZcFQzQVFUZjdmU1JyRE90MWs0RnRDcnMxYThZTC1yRm11X2JmT1RTQTVQZjJpd1JpcFdTUzdmbVZQQjJWYVpWampqbVFn0gF_QVVfeXFMTnVJd0c5M3FQX3B4MVMzZXlRa0IwQkhna1pfVUZ5RHdTV1ZfZmIzZmY3THpGb1lHcWZ5bXNhNWdaanpWMTNKRGhqeVdPUlptaU9naU16Sl83TFBUT1BkSUpJRW93SFlFY1BiMUZFaXpseVNhWVZOcGZnV2h1U2VURQ?oc=5"
   },
   {
    "date": "2026-10-26",
