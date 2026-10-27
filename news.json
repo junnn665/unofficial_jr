@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T19:59+09:00",
- "checked": "2026-10-27T19:59+09:00",
+ "updated": "2026-10-27T20:55+09:00",
+ "checked": "2026-10-27T20:55+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -595,6 +595,28 @@
    "auto": true,
    "added": "2026-10-27T19:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wLWt6LWdRd1RNMkNlQXYxQUF6RXF0T04wOFBRcGZMdzJ5OV8tS3Z5S1FUbkRKdzdGc19SczBKU1RwTkt3MHFXenlQY0V0RkhzNDBsbjBiNXJRakloN1YwUjcybFZXVlRCc2lqM21COGk?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "新幹線「スマートEX」情報漏えい 委託先に不正アクセス JR3社発表（テレビ朝日系（ANN））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWGxLejAtWHdmVDNaQ3FaNFVkV1VmM2FrOEMyMU1QcTNOR0UzV1FGaE1jT2ZhTURnZ2dCOEpEZW1LSUJMX1Rod0puTndnT3hFenAxVi0xZXNkUjVhdGdQOGUyM2NYdGhqWmQ1MHd4R3h1NG9hd2tCVWQ3VEZwM2M?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T20:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWGxLejAtWHdmVDNaQ3FaNFVkV1VmM2FrOEMyMU1QcTNOR0UzV1FGaE1jT2ZhTURnZ2dCOEpEZW1LSUJMX1Rod0puTndnT3hFenAxVi0xZXNkUjVhdGdQOGUyM2NYdGhqWmQ1MHd4R3h1NG9hd2tCVWQ3VEZwM2M?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "zairai",
+   "title": "沼津港に幻の鉄道があった？！NHK ブラタモリ、廃線跡から東海道線開通の歴史に迫る 10月31日",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVWllnaE8xM19GMEZ4d19HS3RWVDZtQi1HbXRvWVlYb2xGRS1lMVRORFlXNF9ySWhXTlpGem4waXUzd1RycGdGOWNEUkhrQQ?oc=5",
+   "src": "レイルラボ",
+   "auto": true,
+   "added": "2026-10-27T20:55+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVWllnaE8xM19GMEZ4d19HS3RWVDZtQi1HbXRvWVlYb2xGRS1lMVRORFlXNF9ySWhXTlpGem4waXUzd1RycGdGOWNEUkhrQQ?oc=5"
   },
   {
    "date": "2026-10-26",
