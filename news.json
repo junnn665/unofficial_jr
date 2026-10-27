@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T20:55+09:00",
- "checked": "2026-10-27T20:55+09:00",
+ "updated": "2026-10-27T22:13+09:00",
+ "checked": "2026-10-27T22:13+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -617,6 +617,39 @@
    "auto": true,
    "added": "2026-10-27T20:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVWllnaE8xM19GMEZ4d19HS3RWVDZtQi1HbXRvWVlYb2xGRS1lMVRORFlXNF9ySWhXTlpGem4waXUzd1RycGdGOWNEUkhrQQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR「スマートEX」など新幹線予約サービスで個人情報約17万件流出 ユミルリンク不正アクセス影響（テレビ愛知）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TWU4Vmxjd1lBc2ZLOURJdjY0dWZOVU5oODhuNnpObEdsc1N2WmUzMVoxZkZuX3NwNGp2VkxzQ1JBZkNLYmNkNDYzMzkxVHFrQzRHSUUwTXBJcXVvdjNDWnB3TlZ5QjFSOVp2N1dhTHk2dy1uam9WMmZvU0RNSTA?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-27T22:13+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50MExfRl9pUGRuZmZEbktTRjBFU3lIRDNncnpPWXBCN1pYVDZlUU11bFd1U3lxeGlleEFKS2xrcmQxWXcyQWtCR1E3X3BMUFY0dWxkUG1TZUtLdVU?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "zairai",
+   "title": "クマとみられる動物と特急が衝突 屋外で活動する場合は厳重な注意をするよう呼びかけ 山梨・下部温泉駅付近",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZUZaSTZrU3hvQnJzX0FnUWh3VnFvN1l5TTNweWd0dUpUYjdwSngzQ3UtTVhpdjBTZWd6U0hER0V3ZUo0YVRGbUd1bVJ5N0ZRT0ZHY2FISmdWUQ?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-10-27T22:13+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZUZaSTZrU3hvQnJzX0FnUWh3VnFvN1l5TTNweWd0dUpUYjdwSngzQ3UtTVhpdjBTZWd6U0hER0V3ZUo0YVRGbUd1bVJ5N0ZRT0ZHY2FISmdWUQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "zairai",
+   "title": "特急ふじかわとクマが衝突 身延町内",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVG9QdGwxY2s1dnJ4UGJEZ21temV2M3lRUElHdU5jNlkxY3NjeTY0ZWFpRjM2bno3ckZsZGdiZlFjQ19xMzJRbXNhTzNPUU9vdGpTa01JMkYzWWtGU3J4b3RScXE?oc=5",
+   "src": "sannichi.co.jp",
+   "auto": true,
+   "added": "2026-10-27T22:13+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVG9QdGwxY2s1dnJ4UGJEZ21temV2M3lRUElHdU5jNlkxY3NjeTY0ZWFpRjM2bno3ckZsZGdiZlFjQ19xMzJRbXNhTzNPUU9vdGpTa01JMkYzWWtGU3J4b3RScXE?oc=5"
   },
   {
    "date": "2026-10-26",
