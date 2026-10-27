@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T08:51+09:00",
- "checked": "2026-10-27T08:51+09:00",
+ "updated": "2026-10-27T10:12+09:00",
+ "checked": "2026-10-27T10:12+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -110,7 +110,7 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-27T07:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZUZSekFCd0F6akpUb19GbTFMU1JlaFZZRmZzRjF3aV9wUGRlcmxmSGN0Ym5aMjNKV3o4RktWTF9ta2o2d25lVGR4alBrWENNcHNxdnU2VTNldWJMWlBWeGxBNjVDNlZkRW5OdjlhdHpJYkZWcjlFeE1uLTFXLWs?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5"
   },
   {
    "date": "2026-10-27",
@@ -144,6 +144,94 @@
    "auto": true,
    "added": "2026-10-27T08:51+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "新幹線予約システムの個人情報漏えい JR東海などが発表（2026年10月26日掲載）｜中京テレビNEWS NNN",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVhDNHhkekRxOWJzd3h4c1FTelNVc1JydHB5anRRNnVEbGoxTVlDVmlWZWJFTEdtS2JQRHFYdVR3N1g3aENEeThaaFloVXZTd1lsbVVwT0tXSDhIcnZrT2RwemxYYUN4aExrbVl3b01Ea0UtczR1eEdxZHIwRG41Wm1wb2FWT1k?oc=5",
+   "src": "日テレNEWS NNN",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "other",
+   "title": "ユミルリンク「Cuenote FC」へのサイバー攻撃 まとめ JR東海・毎日新聞・野村證券など影響企業・団体を一覧化、延べ5,162万件超の情報漏えい|セキュリティ対策Lab",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbS1Tc0t0Wk9GSEFaR25QbXNtZTd0RDJNek5DNFJhR2ZtZEtvM0dCbmpBQldOaHBCV3BqTFpVdWVFckdXX214Tmp4UHduQVpkdEpaYzFRSlBGcTlOQjFHbkpoN18tWGlmT21STVBtNlRwQllHVjdZT1did0RpanVELXVrMnZtYV9lR2c5RkU1ZlktUFQ5UTRjdHNXZTdWc09JZFR3LTByeEo1dlVr?oc=5",
+   "src": "合同会社ロケットボーイズ",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbS1Tc0t0Wk9GSEFaR25QbXNtZTd0RDJNek5DNFJhR2ZtZEtvM0dCbmpBQldOaHBCV3BqTFpVdWVFckdXX214Tmp4UHduQVpkdEpaYzFRSlBGcTlOQjFHbkpoN18tWGlmT21STVBtNlRwQllHVjdZT1did0RpanVELXVrMnZtYV9lR2c5RkU1ZlktUFQ5UTRjdHNXZTdWc09JZFR3LTByeEo1dlVr?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "新幹線予約システムの個人情報漏えい JR東海などが発表",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fT3E1a2RUajExQWcyOEpHdXZ5cDVWM0N6MXdwLUFzdDZ2eHd0VEREMlB6TFN1VW1IX3RwOXVKTlZ1T1pQbTMwZjhsWm16VEd0c1VXTzNWbllKcERmVzU3X2Y5WnFLaWhFQ0tHUG9n?oc=5",
+   "src": "Excite エキサイト",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "other",
+   "title": "【画像】楽天トラベルやJR東海などで個人情報流出 不正アクセスによる流出は2億2000万件に上る可能性も",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zRW1UMFlzX3hjbWpmQ2dJbkVVRmFwR2F3R3ZDZkdLTXlDcHNNMXROVjNMZWxaYTd3eEN5aEFQQVJ5eWFzZUlQSXp0dUtkallUUXNCd0tnazU4RzZkNEh1Q3daRjUxSnBiOWtTLUtKcFNERFhLV3c3VDBYalM?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nd0RVc2d4Q1RGSk95UGp4MDVGMGFQc2Vuc2dPU1R4T2p2UUp4VHd3blU4c3h6RDJsMmZBeTNNd0l4MkNRSFQ5d0hEX0VaRDlza0hvT2I0bTJoMjRXQi1haTFBdXdzakJiTXJiRVhzdjZqTzFSYkE1eE5ERElxRDQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "個人情報 漏洩 不正アクセス ユミルリンク 会員17万件 東海道新幹線 山陽新幹線 九州新幹線 予約システム エクスプレス予約 スマートEX JR東海 JR西日本 JR九州 日本 20261027｜極論空手形 / Extreme Argument Fictitious Bill",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Y1gxcDM5T01wMFRsNFhhY1lhaHZSeDNkSTdmVzFSR1cxYV9qMXgzOEpIVi13SEhZSmxNVnZfN0lwRGYtUmVIVEJxRjBZSnpCT0lrbkFER3JiMGs?oc=5",
+   "src": "note",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWhPQ19iTGhNd1lQdWtYZHJobmwwaXZvX29jQnE3Zl9CVUNQTGRNSU1MVkZoaGpBY1hudXM2emRBYmFKZkpwWEdRZnh0LVJoMmNoS2U2QjJNeXVBanJjakxEMV8yZzg0QVZoWUNhQkc1bGFIVm5PRXd3RFh1VGJZVVVndElNbkJSOTBMVVozUGhpZWNQSi1ETGNNOWdqc01TQV8yOVNnR3lLenQ0UVpSaHpwTi1UdTQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "zairai",
+   "title": "JR名古屋駅1番線の「六厘舎」に4万人！ 東京で大人気の「特製生七味つけめん」が緊急追加、残り1カ月･混雑回避のコツは？11/29までの期間限定店｜グルメとフード",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VaE9VaGVXdHgycE9yZWlkdnVTajhSUkpzT2xSdjJxTUU1dFJJaTAzZ0FrY3lhN3UwTlhWZ3g2UFNZeXlxejlJSEk2N3Q?oc=5",
+   "src": "旅とおでかけ 鉄道チャンネル",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VaE9VaGVXdHgycE9yZWlkdnVTajhSUkpzT2xSdjJxTUU1dFJJaTAzZ0FrY3lhN3UwTlhWZ3g2UFNZeXlxejlJSEk2N3Q?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "ＪＲ東海が反落、ユミルリンクの情報流出拡大で新幹線予約の個人情報流出(ウエルスアドバイザー)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQelFBd25nczg2a2hKeGFJbllYRkJuSl9sV0VGUEVhZmR4RlpOQ2VjU1hOd1NsTjBUaVVQS3g1elFFRzNTX3VTRE9BVFVIQm9abUs5VVREU19qdjl2RHp0ZDA2S1VXVXBCMVFUWTlRZEpBWWVWMDd0TEJUOXQ0Q2h6anhCYkowaVE?oc=5",
+   "src": "Yahoo!ファイナンス",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQelFBd25nczg2a2hKeGFJbllYRkJuSl9sV0VGUEVhZmR4RlpOQ2VjU1hOd1NsTjBUaVVQS3g1elFFRzNTX3VTRE9BVFVIQm9abUs5VVREU19qdjl2RHp0ZDA2S1VXVXBCMVFUWTlRZEpBWWVWMDd0TEJUOXQ0Q2h6anhCYkowaVE?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "JR3社、「エクスプレス予約」「スマートEX」会員情報が漏えい",
+   "summary": "",
+   "url": "https://www.traicy.com/posts/20261027386019/",
+   "src": "TRAICY",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55N3MzWUd5QVBjVHc0X0dRYlNNbzRyME9NdmVTQ2JWaUYzQkRlanczcnBremNTTUpYQzU4YmhLb1dQbnN1QmxRODBwenFKM1ZaRVAzaTViYzNnZ1IycjlPWVJGSVRvanpiWmp5ME5sbGxmLTlqWGFyc2h3Rl9ZVzg?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -1541,6 +1629,61 @@
    "auto": true,
    "added": "2026-10-27T07:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85azF0SkNPbE40NUJNODBZUGhwb0RIbkJkZGZ5M1ZGbUcyOU9NejhLLUVpVk5OdzcyTUd1WlpzRGdlVjJZN0FZY1F6ckpoWVU4VlhVRVFnYVQyVm0x?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "other",
+   "title": "メール配信「ユミルリンク」、５１６２万件外部漏えいか…ＪＲ各社など影響拡大",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xY3hVMlJXX0JRZFZPbGJrRG5Bam9pNjQycFAwQUlVYjg2Sl9PQ3dnVlRTM0t1aWoteUh6NWVVa2hLbUhfbHhpc3BlbUpUZkREYUNDQjFtMmZmNjBPSFJscDlkRm9mUQ?oc=5",
+   "src": "読売新聞",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xY3hVMlJXX0JRZFZPbGJrRG5Bam9pNjQycFAwQUlVYjg2Sl9PQ3dnVlRTM0t1aWoteUh6NWVVa2hLbUhfbHhpc3BlbUpUZkREYUNDQjFtMmZmNjBPSFJscDlkRm9mUQ?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "other",
+   "title": "【速報】JR3社、予約システムの個人情報が漏えい",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwRXRNTHA5RmdpcHdMTWtwSEFrcVJyTjFYYS0tZzdYYnE2STdNZUlMZHl1NWZQaldFcFlBekUtOTZDbGJVUldCaS01Zw?oc=5",
+   "src": "47NEWS",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "other",
+   "title": "相次ぐ不正アクセス JR東海などでも個人情報漏えい",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5",
+   "src": "TVer",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "kaisha",
+   "title": "清水銀、27年3月期業績予想を上方修正 純利益29億円見込む",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmRUozMk9DZE12WHJQRWNfbzNEUXRYLUxxNVU2NEhDam5hYjhNUkpVQVdydlBDNlhLVE8zTFRpTnZrQ1pUNVhUdk8xbVEwWS1QQncwS3FR?oc=5",
+   "src": "ニッキンONLINE",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmRUozMk9DZE12WHJQRWNfbzNEUXRYLUxxNVU2NEhDam5hYjhNUkpVQVdydlBDNlhLVE8zTFRpTnZrQ1pUNVhUdk8xbVEwWS1QQncwS3FR?oc=5"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "kaisha",
+   "title": "シマノ－MSMUFGが目標株価引き上げ 業績予想の上方修正を反映〔DZH 個別株情報〕(時事通信)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYzYwQXNHbFQ0SWNUd2hPalU5emd6b1pRajVGdVk0MTZEYk5lWHJETllMQy0xLTA5T2x5dngtTjZZVFR4UkkyN1A3ZDdqTnlJcnVVa3p5dHVYR3diUEhON3hBYnMxOVNsVFdDM0JGaDM5d1B5bEhqQTI1a3dqdDJndVRCdWFfTkE?oc=5",
+   "src": "Yahoo!ファイナンス",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYzYwQXNHbFQ0SWNUd2hPalU5emd6b1pRajVGdVk0MTZEYk5lWHJETllMQy0xLTA5T2x5dngtTjZZVFR4UkkyN1A3ZDdqTnlJcnVVa3p5dHVYR3diUEhON3hBYnMxOVNsVFdDM0JGaDM5d1B5bEhqQTI1a3dqdDJndVRCdWFfTkE?oc=5"
   },
   {
    "date": "2026-10-25",
@@ -4082,6 +4225,17 @@
    "auto": true,
    "added": "2026-10-27T04:10+09:00",
    "g": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVWJXcmgwVkI0Q2pkNElVWDYtVHdFc1FOLUdkVzZoNUltNUhjelRMSHBHVHlmWno2bG9UcFVNWTRXLVl5ZXBGQ0o1UG1IYWhYbEFLaDJER3R2V0JGZDQ1Um1wYm53ZnBDcFZHWEQ2WjJWdw?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "zairai",
+   "title": "JR東海では22年振りの新型一般車、315系登場！ 画像（6/8ページ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZTWtZVkJKdnRFYWZrdUd0Vm11ZTBZeERNQ1U5X2NlZjhhU1UydGFlTmtCZlEwN29QaE9zS1U3VW5URHpsOWJQOTdjNEhEQWtNak01ZTNZSVE4N2F6ZGRCTlpFRV9LTmxpV1BTZ3I4cE8xZw?oc=5",
+   "src": "Tetsudo.com（鉄道コム）",
+   "auto": true,
+   "added": "2026-10-27T10:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVWmVoTkt2a3QyenI0RjVEZ21YUUU2V21FYkN0RVZjc2tmSGc3NWhKcEJsSnZhaW9oWl9ST0ZzaUQydUx1TDdZanlDb3d5ZTEtaUVSTTNULW1mZ3RSZnZOcWFuTV9ranZNRjdSQ1M2dy1zdw?oc=5"
   },
   {
    "date": "2026-10-22",
