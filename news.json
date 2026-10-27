@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T01:04+09:00",
- "checked": "2026-10-28T01:04+09:00",
+ "updated": "2026-10-28T02:08+09:00",
+ "checked": "2026-10-28T02:08+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -705,6 +705,28 @@
    "auto": true,
    "added": "2026-10-28T01:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "other",
+   "title": "ユミルリンク「Cuenote FC」不正アクセスの影響広がる、JR東海、りそなグループらが相次ぎ発表（INTERNET Watch）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Yb1pSY3NHY0ZnMkhXZ1habHBKR2tzcVpjb2hLY1VGUm9pTGhMdkc3X2ZBVk5LWGw5WF9jUS16eWRWSFR0bVBTYmg2UFlvczFsRlJOZjhzbWNoU3kxd3BYbjhuQV9pUk12aVZhU1NZaWxRM2VwVjNsQVFWMW9kVXc?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-28T02:08+09:00",
+   "g": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BMF81cnBqOTd3aFAwYm1IWW1ZUGF0N0w4RGtIM09KZTdLLURmMlFPNUhyNXlYT2JDeHZMbGlYSjRsUU9KUU1QVlNKN1VOS0w3X2hKTDhjd3B3SzVabVVpR3M3ckNicm9GT1Fv?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "N700S J61編成の本線試運転が始まる（ドクターS）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EdzdhZWc2ZS14cjNxMHZJQkxraGRyOXNUN1ZNczVoRFJtekM4RFR0TU41aFRnZFZEbHhrUTdWYllXVEVxby1vZWg2MER5OFk?oc=5",
+   "src": "4号車の5号車寄り",
+   "auto": true,
+   "added": "2026-10-28T02:08+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EdzdhZWc2ZS14cjNxMHZJQkxraGRyOXNUN1ZNczVoRFJtekM4RFR0TU41aFRnZFZEbHhrUTdWYllXVEVxby1vZWg2MER5OFk?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -4775,6 +4797,17 @@
    "auto": true,
    "added": "2026-10-27T23:12+09:00",
    "g": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVWmVoTkt2a3QyenI0RjVEZ21YUUU2V21FYkN0RVZjc2tmSGc3NWhKcEJsSnZhaW9oWl9ST0ZzaUQydUx1TDdZanlDb3d5ZTEtaUVSTTNULW1mZ3RSZnZOcWFuTV9ranZNRjdSQ1M2dy1zdw?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "shinkansen",
+   "title": "東海道・山陽新幹線に上級クラス「Supreme Class」導入！ 個室タイプは10月、半個室タイプは2027年度から",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GX3JsWjBlRm5RNl95MHAzaHBROG9XdFFJY3Z2b3J1SnBORTVwUms3dXZpcnEwOF85MmUzSnB0Z2VNS1UzbEstU0xMY0F0Tzk5a2ZwVFRLMGJFLS04UHdMZFVGLUcwc2pQS3pnQ0MxRTMxTlU?oc=5",
+   "src": "Tetsudo.com（鉄道コム）",
+   "auto": true,
+   "added": "2026-10-28T02:08+09:00",
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GX3JsWjBlRm5RNl95MHAzaHBROG9XdFFJY3Z2b3J1SnBORTVwUms3dXZpcnEwOF85MmUzSnB0Z2VNS1UzbEstU0xMY0F0Tzk5a2ZwVFRLMGJFLS04UHdMZFVGLUcwc2pQS3pnQ0MxRTMxTlU?oc=5"
   },
   {
    "date": "2026-10-22",
