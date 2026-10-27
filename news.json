@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T23:12+09:00",
- "checked": "2026-10-27T23:12+09:00",
+ "updated": "2026-10-28T00:09+09:00",
+ "checked": "2026-10-28T00:09+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -682,6 +682,17 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-27T23:12+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "shinkansen",
+   "title": "新幹線「ドクターS」が初の営業走行 JR東海、ドクターイエロー後継：ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jM3c3MVBpaHhKNjUwcDhEejI0bkY4dV93dkZ6RmlmVTRRMzQ4cEFkT1JxNzVzc0NzZFpESFMxQWhobEJjMnpBRVZCeVlIcUdGcld2NGJuWWZMc1VBYVRr?oc=5",
+   "src": "中日BIZナビ",
+   "auto": true,
+   "added": "2026-10-28T00:09+09:00",
    "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
   },
   {
