@@ -601,7 +601,11 @@
    "note": "豊丘村の約6.6km。2025年5月に品川側（坂島工区側）へ貫通した。豊丘変電所の造成も含む。2030年度冬ごろ完了予定。",
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
    "status_date": "2026-10-24",
-   "latest": null
+   "latest": {
+    "date": "2026-10-27",
+    "title": "「リニア開業で定住人口獲得で有利に」専門家が指摘 県、豊丘村でリニア活用フォーラム",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wLWt6LWdRd1RNMkNlQXYxQUF6RXF0T04wOFBRcGZMdzJ5OV8tS3Z5S1FUbkRKdzdGc19SczBKU1RwTkt3MHFXenlQY0V0RkhzNDBsbjBiNXJRakloN1YwUjcybFZXVlRCc2lqM21COGk?oc=5"
+   }
   },
   {
    "name": "阿島北高架橋",
@@ -1095,5 +1099,5 @@
    "latest": null
   }
  ],
- "checked": "2026-10-27T19:01+09:00"
+ "checked": "2026-10-27T19:59+09:00"
 }
