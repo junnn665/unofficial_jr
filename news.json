@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T06:02+09:00",
- "checked": "2026-10-29T06:02+09:00",
+ "updated": "2026-10-29T06:59+09:00",
+ "checked": "2026-10-29T06:59+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -89,6 +89,17 @@
    "auto": true,
    "added": "2026-10-29T06:02+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SS29TRko1ZWd2MVZON2JMN09MMDd0dHRlelRidHE1cFcxU0xmdExVQ00zV2t3VE84ay1DUzhXQ2xPQ2pqalJsX1FNQXRZNVhDemdfRkRkbFdBVzNE?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "リニア静岡工区の年内着工に不透明感 ゼネコンの処分影響、「来春」との見方も：ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80R2drYXRzY2R3MVBYUjFJUThWQjBFQU40WG5IaUUxaElKV2JnZGhsU011VzV4VWtyT0U5LWdaRVpiZkRrczlPNUtNUUhYVGU3VzZfNi1na0ZHZml3WGtZZFlrbw?oc=5",
+   "src": "中日BIZナビ",
+   "auto": true,
+   "added": "2026-10-29T06:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80R2drYXRzY2R3MVBYUjFJUThWQjBFQU40WG5IaUUxaElKV2JnZGhsU011VzV4VWtyT0U5LWdaRVpiZkRrczlPNUtNUUhYVGU3VzZfNi1na0ZHZml3WGtZZFlrbw?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -3851,6 +3862,17 @@
    "auto": true,
    "added": "2026-10-29T00:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZcjNkQ1ZlTGEwN3BXdkFWUGhhYUpzNDNwWlRTNC11Sng0VFl0TXNUVnc2NTV4TGVoaTR5dFpqMXI3QjAzUGtjSzlBOUE1UXFNTF9vUVhvVzV1RDhEUGRFZmVBRjBXUVJpLVF3M21n?oc=5"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "linear",
+   "title": "建設が進むリニア中央新幹線・神奈川県駅（仮称）の工事現場＝10月24日午前、相模原市",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWJNTFBkTzVtUVNlYjFPS2N1TTVmaXZreWNESjdWYXpRTDgzSFctb0VmSkRTVm5YNDFYUS14emdwVE1hZ1BqQVZtMVF3YUVIa0lLRlFta3AyclBFdW0yZ0IwSGtlVDNxZUtETVpFcUtKOHRCZHdJc0ZtRlY3dkRSQ2ZyMFdxODdwSXdYMUFUclRYemNfbHQ0YXZqalVSamJYaVE?oc=5",
+   "src": "産経ニュース",
+   "auto": true,
+   "added": "2026-10-29T06:59+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUhJOFYzZzFIZDNCbThjcFhqZ01CS2dOSVpZQm1qMmlCbV9XNUl6WDBiSlFtRkVWd3Z2T29VLTdvaXNNQTBNN01DdW5RT29RRktqTFZIT1IwdUdTbEFlaFluY1VhbzhFYjREWDJnNV9ZTkxoVWxkeVQtTi1aQ09yYk41bTZFSzRYQjhYWHQtZWV1cVBHZXg3SHVPMHVfX2RBMVE?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15587,7 +15609,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBja29GNnB5WFB4am43cGY0c2xKVjJjcmR0ZkpEVHVocHF3WnYxc2dqMFdfdTJPeVlPd3RGZWFDdWE5TWJPSXA3bDBkSEpVQTg5U05XNnhjeGp6MFI3?oc=5",
    "src": "YouTube",
    "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTOHFBQ21nTWw2aUs1cGlMSE1Ea1BReDVkWmhaMlJMenlRNHgyXzY3MnBxb1cwNFFFZEsxcDlXVlBFV1hCVnA2dmhrSUZhbWJVZmFVT29wc2xYMFdW?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBja29GNnB5WFB4am43cGY0c2xKVjJjcmR0ZkpEVHVocHF3WnYxc2dqMFdfdTJPeVlPd3RGZWFDdWE5TWJPSXA3bDBkSEpVQTg5U05XNnhjeGp6MFI3?oc=5"
   },
   {
    "date": "2026-10-08",
@@ -16315,26 +16337,6 @@
    "src": "YouTube",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XR0tUTEhGb05aOUVxd1ZmNUg4RlY0QXNRNnZpZWQ4T3ZlUjBya1VCM1NoYktZV0NfZ0c2Q3ZIbTc2cmUyc1RUNXZBbjlrQlhTZFhNdHM3UzRoUE9Z?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "ドクターイエローのぞみ下り検測１０／７",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTOHFBQ21nTWw2aUs1cGlMSE1Ea1BReDVkWmhaMlJMenlRNHgyXzY3MnBxb1cwNFFFZEsxcDlXVlBFV1hCVnA2dmhrSUZhbWJVZmFVT29wc2xYMFdW?oc=5",
-   "src": "YouTube",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTOHFBQ21nTWw2aUs1cGlMSE1Ea1BReDVkWmhaMlJMenlRNHgyXzY3MnBxb1cwNFFFZEsxcDlXVlBFV1hCVnA2dmhrSUZhbWJVZmFVT29wc2xYMFdW?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線の下り一部区間で運転見合わせ 信号設備点検の影響で（7日・午後6時5分現在）（2026年10月7日掲載）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02U0V6cVJwY2lmVjkweFpGUlRsRlhDQmRnalJNN0UwRHdEMXJlUGVJU2dQc1NHY3RPTFRzc1ZYbTlWV3VyMUN1Q0R4V1NGZlMzTTQ5QTd2YnlBOEQwTFp6eDE4OE82djJBUEwwcEV5b3JzclQ2VGk5eEt3dnZPRDg?oc=5",
-   "src": "日テレNEWS NNN",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakp1a2RPT01rVi1GRXBoNGZKRUlRekFGYTFnelptSW9JRnlrTHdGQTl0UkxfdmNob1lDMW90dXE2RzhTb3F6MWpScjFVRnVKVEVxYlZyWWttemotNFd3cmdHSEhmekdITXVuUHlUTEJhUFN2ZGNieGJMdXZuNVRrNXRQeVQ2bUk?oc=5"
   },
   {
    "date": "2026-10-02",
