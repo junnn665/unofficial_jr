@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T07:58+09:00",
- "checked": "2026-10-29T07:58+09:00",
+ "updated": "2026-10-29T08:54+09:00",
+ "checked": "2026-10-29T08:54+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -144,6 +144,17 @@
    "auto": true,
    "added": "2026-10-29T07:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45VzlxUkhhc2JERFFKRWFVM0l4M1RoNUtCYlFOU1NjMDNHaEpVZ0p6RlhzenFGN0szQkJranpkQVhDbERkLWIxU0NlWHQ2ZWx5Y3lnZlF1WklOUQ?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "ＪＲ東海 ４〜９月期 経常利益が過去最高 新幹線が堅調、通期上方修正",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHA2U2w4bFpFaGJYcXppNjc3Q0g4ZWNvRXhka1JGZ3Rtb1FZTThYM1RvTmVYOXc1U3NlZ3V5Qkw0eTBuTzJXTlVncjdTdlhkNnc3NUt1R2lEZ1RLS2R2b0VOY05HV1FsTTJRWWNyWElZUmRmZVd6RXJscnJyMVdkTlNOMzc1SnNKRlV1ZldB0gGTAUFVX3lxTE02MVhrRVR6RHp4LUdkbkVRQnplekZuRGpnb2ZtTlJzYWhoWTZuQmxkYklnTGYtZ0xITm5rQ3RIMUpURmd4RXdIU09fVXJWOEFKanNiS1pyNkNiWEZlTVpSbFZaYkxUQjRocjlmcHdEYTBJMm1jWktWZEtVenlVWXl2aUpuRzRFX1hEZWl6Ri0zQXMyVQ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-29T08:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQ2xrX2h4QWNGNHNvYnd6NkpBdnkyQkJZNDlkUmFVbzUxaEZqMnZqOVZvNmtNUkd2M1Qxa3NKczNvRWxMRHdEcnFoN2RfZXN4elhFbVJVQVMzWXVnX2liRnVBTmYwdjBWQ29zY1hoeUkwb0k?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -1211,6 +1222,17 @@
    "auto": true,
    "added": "2026-10-29T07:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "kaisha",
+   "title": "10月28日の主な決算発表の予定時間―アドテスト、野村、日立、ＪＲ東海、ヒューリックなど",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZVF4dmF0cDhadTN5YTJfMDcxZzNpWVdVaDRzYmJIbW1ieklTQlpBRnNqSlRQTzdFdlY2RXJnSnFReDc1NGRsNnFYNnhMbUxqVmlvSnV3?oc=5",
+   "src": "QUICK Money World",
+   "auto": true,
+   "added": "2026-10-29T08:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZVF4dmF0cDhadTN5YTJfMDcxZzNpWVdVaDRzYmJIbW1ieklTQlpBRnNqSlRQTzdFdlY2RXJnSnFReDc1NGRsNnFYNnhMbUxqVmlvSnV3?oc=5"
   },
   {
    "date": "2026-10-27",
@@ -16322,26 +16344,6 @@
    "src": "中日BIZナビ",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXdy1lbmpOOWg4Z25weTR4b0FCWjJadGtOSkFUVlpubUxKYzJ5MEtaVDNMTGR4bDAyMjhxLTdYZ1lKeDd4TEY0VGlwSTJKQmtfeGtjdEdqZFJ0bG4zdFpV?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "other",
-   "title": "「不安はないはず」と思っていたが…JR東海課長が手放した「正解探し」",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV254ZHNkOWc2OWpONS14aGFyWW4talJhbGltb1pXR3F1U0Y2SzhnQlZObXhRcDJQTGV1TXhHYW1MNFRFdjZESzZ3QVdDVkpCRGNNV082MWR2Qzh6RlZwME9nNVBCT2FURmkxLThwQnMyNzNkTC03ZGFnVzd2REJLeE5LTEgydGFlR2VXNw?oc=5",
-   "src": "日本経済新聞",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV254ZHNkOWc2OWpONS14aGFyWW4talJhbGltb1pXR3F1U0Y2SzhnQlZObXhRcDJQTGV1TXhHYW1MNFRFdjZESzZ3QVdDVkpCRGNNV082MWR2Qzh6RlZwME9nNVBCT2FURmkxLThwQnMyNzNkTC03ZGFnVzd2REJLeE5LTEgydGFlR2VXNw?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "event",
-   "title": "JR東海×JR西日本のコラボレーション企画、両社エリアを結ぶ直通特急「しらさぎ」「ひだ」をデザインしたアイテムが登場",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqTmQzMHVHNlRqcGdudzd2Y1N1SGhkbVoxX2N6ZzV0dzlDMDVWTkV6UG1sR1Z6akdNdURzeTlrakJxYktVYVpsc0tuMVhIbnpLS25wZE5RZHBpSG9JcXJJ?oc=5",
-   "src": "千葉テレビ放送株式会社",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBBVkRZeTVybm5oSHRJSDlzdVVLRkFvbEZyOVJYTkFlUUhKU25pcVFfVUF3RVFWYTFfNjhsQkx1Q0tSanc?oc=5"
   },
   {
    "date": "2026-10-02",
