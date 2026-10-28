@@ -1,12 +1,18 @@
 {
  "date": "2026-10-28",
- "generated": "2026-10-28T18:11+09:00",
+ "generated": "2026-10-28T19:09+09:00",
  "ai": false,
  "items": [
   {
    "text": "相次ぐ不正アクセス JR東海などでも個人情報漏えい",
    "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5",
    "title": "相次ぐ不正アクセス JR東海などでも個人情報漏えい（中京テレビＮＥＷＳ）",
+   "n": 5
+  },
+  {
+   "text": "リニア開業時期「年内公表」",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5",
+   "title": "リニア開業時期「年内公表」",
    "n": 5
   },
   {
@@ -25,12 +31,6 @@
    "text": "JR3社、「エクスプレス予約」「スマートEX」会員情報が漏えい",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55N3MzWUd5QVBjVHc0X0dRYlNNbzRyME9NdmVTQ2JWaUYzQkRlanczcnBremNTTUpYQzU4YmhLb1dQbnN1QmxRODBwenFKM1ZaRVAzaTViYzNnZ1IycjlPWVJGSVRvanpiWmp5ME5sbGxmLTlqWGFyc2h3Rl9ZVzg?oc=5",
    "title": "JR3社、「エクスプレス予約」「スマートEX」会員情報が漏えい",
-   "n": 4
-  },
-  {
-   "text": "新幹線予約システムの個人情報漏えい JR東海などが発表",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5",
-   "title": "新幹線予約システムの個人情報漏えい JR東海などが発表",
    "n": 4
   }
  ]
