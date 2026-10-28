@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T05:04+09:00",
- "checked": "2026-10-29T05:04+09:00",
+ "updated": "2026-10-29T06:02+09:00",
+ "checked": "2026-10-29T06:02+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -45,6 +45,50 @@
    "auto": true,
    "added": "2026-10-29T05:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hT0c4OFVwV3VzZjE1Y2J3R2ljU0FVMFRYUkNnbTZMWEJoX3JMQWVhQzA0b1B3YXZKOFZMeER4Y3NaWG5xU1BIeURPNFrSAU9BVV95cUxNOHl2X29STTI5bXVGMWhTY1BoN2pqQUtUa24wTllxQWxDcGNlcjBhQ2FEUkpkemliNjRCT2hfczZNSURWX19XRlFwVWU1bW5V?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "ＪＲ東海 ４～９月期 経常利益が過去最高 新幹線が堅調、通期上方修正",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQ2xrX2h4QWNGNHNvYnd6NkpBdnkyQkJZNDlkUmFVbzUxaEZqMnZqOVZvNmtNUkd2M1Qxa3NKczNvRWxMRHdEcnFoN2RfZXN4elhFbVJVQVMzWXVnX2liRnVBTmYwdjBWQ29zY1hoeUkwb0k?oc=5",
+   "src": "中部経済新聞",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQ2xrX2h4QWNGNHNvYnd6NkpBdnkyQkJZNDlkUmFVbzUxaEZqMnZqOVZvNmtNUkd2M1Qxa3NKczNvRWxMRHdEcnFoN2RfZXN4elhFbVJVQVMzWXVnX2liRnVBTmYwdjBWQ29zY1hoeUkwb0k?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "ＪＲ東海 丹羽社長「年内に示す」 リニア開業時期大成建設の停止影響は限定的",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOFlvODNzYzZNVGVfRF9WOHBaR3hwMXZkaVVZMkcxNkc5QUpNWWlxRlVkenN0SkR5Mk55R0QybDFyZmNNUmpTdXNEeEl4S1BNaHU5U0p3Slk0NldNbzFSbm1zbGtVbWxlZnhnSF9Od2JPY00?oc=5",
+   "src": "中部経済新聞",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "ＪＲ東海 ４～９月期 経常利益が過去最高 新幹線が堅調、通期上方修正（中部経済新聞）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UdGp4QmNWam1HRE8xUlo4bm5zT29PRGNWVS1JTUZMaDVwTndoeXFxWktzeUhMaXVLY0kxWFJ0U29lT0wtVmRaekw1Y1NQVUxQVDdJV09RV2xEN0hkYXRRMWdKbmlXUWVBRkw2ZE9EX1VONXRoX2hKc1IzWHpnQmM?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQ2xrX2h4QWNGNHNvYnd6NkpBdnkyQkJZNDlkUmFVbzUxaEZqMnZqOVZvNmtNUkd2M1Qxa3NKczNvRWxMRHdEcnFoN2RfZXN4elhFbVJVQVMzWXVnX2liRnVBTmYwdjBWQ29zY1hoeUkwb0k?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "shinkansen",
+   "title": "「500系のぞみ」定期運行終了後に臨時列車で復活 山陽新幹線の一部区間で",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SS29TRko1ZWd2MVZON2JMN09MMDd0dHRlelRidHE1cFcxU0xmdExVQ00zV2t3VE84ay1DUzhXQ2xPQ2pqalJsX1FNQXRZNVhDemdfRkRkbFdBVzNE?oc=5",
+   "src": "鉄道プレスネット",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SS29TRko1ZWd2MVZON2JMN09MMDd0dHRlelRidHE1cFcxU0xmdExVQ00zV2t3VE84ay1DUzhXQ2xPQ2pqalJsX1FNQXRZNVhDemdfRkRkbFdBVzNE?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -1070,6 +1114,39 @@
    "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
   },
   {
+   "date": "2026-10-28",
+   "cat": "kaisha",
+   "title": "のぞみ料金値上げ「時代にあったサービスを提供し続けるため」JR東海の社長が理解求める",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hbUthTS03NHZrOGhXVVhLcDBPUmJFd1JmbHJxdThMS2hROFFWRU5DaWxkbV92NVBLWlpmOVRBaVJTbFNuS2hxSzQwNlh1Y3prNkx5VndNbjd1VFZGZk9v?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zUmhVX0lZSFJJbE9xZFl4RkdWMzgzWVZKSVNPY1I1cTJuTmZVQVNKU2Y1VVJzVTdLdUs4bDU3Y0JILVczVFpYUGF5UmhmVXotOVVLM2ZQbHNyTEhWd1ZfY21fbTFVa20xanJXSW5Id09FSEVyNUtmbXk2VHJ1cDg?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "kaisha",
+   "title": "リニア開業時期「年内公表」／ＪＲ東海社長、方針維持",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rdHg0YWh3Si1lamtYXzhka2NHREZkNXNzbVJnaVl5X0VzYTVTamZlXzQ1aEFTeExLVzRTWUFLUlQxZ01WYVZEOW8tOGpTWkRlRWJmSTE3eUNFTmdCOHZQZmI0UEt3TjRrc2RJ?oc=5",
+   "src": "四国新聞",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "kaisha",
+   "title": "JR東海、売上高が過去最高「訪日客、ビジネスも好調」 中間決算 (朝日新聞)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVRjTDRyLUlhR3lLVFVCd2EwT2VjS0ZWeVRSNWdQU3pUVjIzTG12b3ZCbXJBQzBjMXFxWXBBbjlYUTRVVHNxbUxFVllWaUVHV2xfc2U1Z0kzQlhCVTNkMkVGY05mM1g3cHhobWo4Q1U1RjM2U1U0b0VHalpBM3BGenIwU2pKSmdFQmZxanF3?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mNFUzY05Id0h1Z0JCcUJ2ZW9jc3dKUGZyTVFNSnY3MmlOeTlTRlN6eGFYTG1zcVY5Ql9JaHNkeXkxNzVZVDdnajhaZjV6ZGw3czVkd2JIT1Z2WkJTaXIzRElwRV9IODQ?oc=5"
+  },
+  {
    "date": "2026-10-27",
    "cat": "kaisha",
    "title": "リニア中央新幹線 静岡工区「1日も早く工事を」 中経連・柘植会長",
@@ -1904,6 +1981,17 @@
    "auto": true,
    "added": "2026-10-29T05:04+09:00",
    "g": "https://jr-central.co.jp/news/release/nws000001_00635.html"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "zairai",
+   "title": "JR名古屋駅1番線の「六厘舎」に4万人！ 東京で大人気の「特製生七味つけめん」が緊急追加、残り1カ月･混雑回避のコツは？11/29までの期間限定店",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZmh5dmlhVDJxZkY2dktOSEMwbmV1Zmo1a0Zma2VpWW85M0wwdEhhSEtRTWtIQkJqS0NjZzB2U2RjWVZxcmtHMnVjYWFiM3Y0YkpsRDlES0tzTGpGZkVj?oc=5",
+   "src": "千葉テレビ放送株式会社",
+   "auto": true,
+   "added": "2026-10-29T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VaE9VaGVXdHgycE9yZWlkdnVTajhSUkpzT2xSdjJxTUU1dFJJaTAzZ0FrY3lhN3UwTlhWZ3g2UFNZeXlxejlJSEk2N3Q?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -16246,88 +16334,6 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02U0V6cVJwY2lmVjkweFpGUlRsRlhDQmRnalJNN0UwRHdEMXJlUGVJU2dQc1NHY3RPTFRzc1ZYbTlWV3VyMUN1Q0R4V1NGZlMzTTQ5QTd2YnlBOEQwTFp6eDE4OE82djJBUEwwcEV5b3JzclQ2VGk5eEt3dnZPRDg?oc=5",
    "src": "日テレNEWS NNN",
    "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakp1a2RPT01rVi1GRXBoNGZKRUlRekFGYTFnelptSW9JRnlrTHdGQTl0UkxfdmNob1lDMW90dXE2RzhTb3F6MWpScjFVRnVKVEVxYlZyWWttemotNFd3cmdHSEhmekdITXVuUHlUTEJhUFN2ZGNieGJMdXZuNVRrNXRQeVQ2bUk?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【東海道/山陽新幹線】岐阜/滋賀県境区間で信号確認 最大80分程度の遅れ〈7日18:40現在〉本日2回目",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OblFXZWRlN3BNalNWWG9hd0FsVGd5b1N0aTBJODB0VXdVaTNfUEljQ1VVYXhDVzNPeE5fbGRRSlNSdW5RSE5sTXhhd2R1bUZfaVR2ZndaalZ4cDBLbTlv?oc=5",
-   "src": "千葉テレビ放送株式会社",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OblFXZWRlN3BNalNWWG9hd0FsVGd5b1N0aTBJODB0VXdVaTNfUEljQ1VVYXhDVzNPeE5fbGRRSlNSdW5RSE5sTXhhd2R1bUZfaVR2ZndaalZ4cDBLbTlv?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線で一時運転見合わせ 下りが東京～新大阪駅の全線 上りは米原～掛川駅",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyMzdQYmJYZHV0dzE1dHlHdWlXcl9OQWc5X2ZIdTRtellkSGFubl9kUzRHSW94bldPdlFpUjVLQzdyU3JPam8zS3prSXo0cTFlbGFmRG1UamU?oc=5",
-   "src": "京都新聞デジタル",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLVlA5NXVrT0ZiOHR4eTJ1Y1pGWDhxUEJFM0ZPb0dZaUN5M292a0NNM0lKUy1tMGVSZUIzV2tjam9IdmZDWC0xR1Z3X2d3YVlha2fSAWRBVV95cUxPYmxnWkh0dF9NLW1qbndXTHdTUjgxMHB0M3RqYTZfZ2lyMVBiUm1iMVg3QUNNSUxsUlpMQlpOaVRkVlBLM0FyRDNFalBsVmp4XzdYdmEtU25lVDk1Yzl6WUl4VTVn?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線 新富士駅ー静岡駅間運転見合わせ 停電のため",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PRkNoV2lxS2c3NTVwTm5nLW1qVFJaUmRCSXZqUlVxVkJKV19vNUs0UzJiYjNsQkZnU0tsY2xIY0Z4bTRYU1pFbExzM0ZVbXp6LTE0MVVMMA?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4a280bjdRR2NrNGgwVmFTaC1YMHE5Sm1KSkYxZXBxZW1RalBvLVhFRmNLVzN0WUpha2RTb05HTENzc0ROeldSczRXV2FydFB4ZjIyS0hhVmNnSjNrMXFVNm5TN2JHc2M?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線上下で運転見合わせ 上りは米原～豊橋、下りは小田原～京都（10月7日午後6時15分現在）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CWGZpT3ZhQngtclRwZDUyRGFGTG5EdGx3aG1tNjFWQS1UUkFwOGliV3pXYUc3cWpJUkxVODRRYUMzUXBVV0xBMGZjZE45WDB0TjVVUDZKWkdKcGs2dnp3QUtIdno?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KUXRMZmpIRmJFd210S0pEWFNpNThpUDZFY3JNYmtkRHpMcWlINDZEVVhjM180d0FyNHNKMUdxZEtNX0N1ZTc5bzkyZFNFSzJLOVdscEhZaFBRRlBtVm5wUTBYb2lkSUVxNTJJY252Y9IBdEFVX3lxTE1kbkRRUVdfNjJ6VkI3aHhTeDVvUlFnVFROVmt3VzZ6OTYxN3BjNUt4OVRIc2gwTDZaVHFabml2S3N0NVRRbE40bkt4ckU5UXhISk5tbHF5Yi1xQ2ZXZ2JwZ3E2NWFzNElWRWh3anRNaFBFVTBC?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "linear",
-   "title": "画像 | 時速500kmのリニアは｢明日にも走らせられる｣…JR東海が11兆円の大金と社運を賭けた｢技術の結晶｣の到達点",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUlZMMF9DOVRqNGpIR0tsTFVEZXdUaVR2bWVTVTM3YzdUTWNpbUhfQ3RjTWtpUUdRdUl0Ri1XaGdjWE1OQWdsemoyTnNFdGljNTdTeQ?oc=5",
-   "src": "PRESIDENT Online（プレジデントオンライン）",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUlZMMF9DOVRqNGpIR0tsTFVEZXdUaVR2bWVTVTM3YzdUTWNpbUhfQ3RjTWtpUUdRdUl0Ri1XaGdjWE1OQWdsemoyTnNFdGljNTdTeQ?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "kaisha",
-   "title": "中間決算を先読み コンセンサス上方修正企業に注目 野村證券ストラテジストが解説",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xemd5c0YycXZTTXptOUJrMU9sMmptdGY0Y0VjYktRWC15bDNLcnhITUNVR2cwVG9ibFJURGhxNWFRMlFKWWk0MzRrNlB0YUVLd3VSMDh6XzQ3Z0F4WmM0?oc=5",
-   "src": "野村證券",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xemd5c0YycXZTTXptOUJrMU9sMmptdGY0Y0VjYktRWC15bDNLcnhITUNVR2cwVG9ibFJURGhxNWFRMlFKWWk0MzRrNlB0YUVLd3VSMDh6XzQ3Z0F4WmM0?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "東海道新幹線 新富士駅－静岡駅間運転再開",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2SDRFVHkyelN6d19LajZaUEM3d2twWnl6QlBEQ0QxendhaUw2YmFzT1dhQlA3RFJDZEg2RGZsRGozRVFTS2NWd0U3N243VTR2NVRSeGNDTXg2YmJa?oc=5",
-   "src": "Infoseek",
-   "auto": true,
-   "added": "2026-10-11T17:38+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4a280bjdRR2NrNGgwVmFTaC1YMHE5Sm1KSkYxZXBxZW1RalBvLVhFRmNLVzN0WUpha2RTb05HTENzc0ROeldSczRXV2FydFB4ZjIyS0hhVmNnSjNrMXFVNm5TN2JHc2M?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線の運転見合わせ 区間が拡大 信号設備点検の影響で（7日・午後6時30分現在）（2026年10月7日掲載）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRam5sT3lGOWxjTWd4Q09DTGJnY0o4Nko2c0htcVJKdVJGbGwtUWRDU2FTYnRqUmN3enpYWmZhTDVSTlFUMHBmRWlEd253dmVkblJoZmFmSXdHTk1tckFtVmhLaHNrX2o5OU9TTFJEWjhlVnk5cVNVNmdxQUNIUWs?oc=5",
-   "src": "日テレNEWS NNN",
-   "auto": true,
-   "added": "2026-10-12T23:47+09:00",
    "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakp1a2RPT01rVi1GRXBoNGZKRUlRekFGYTFnelptSW9JRnlrTHdGQTl0UkxfdmNob1lDMW90dXE2RzhTb3F6MWpScjFVRnVKVEVxYlZyWWttemotNFd3cmdHSEhmekdITXVuUHlUTEJhUFN2ZGNieGJMdXZuNVRrNXRQeVQ2bUk?oc=5"
   },
   {
