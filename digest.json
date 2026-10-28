@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated": "2026-10-28T12:04+09:00",
+ "generated": "2026-10-28T13:06+09:00",
  "ai": false,
  "items": [
   {
@@ -8,6 +8,12 @@
    "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaV9rcDZNY2pXSHJaTUZpdHpwenFXWUNWS01YaEdZY0JLbHROR19hdkVoMnJybG8wR0liZ0Q0djM0X1UxSjJvRlB6VQ?oc=5",
    "title": "相次ぐ不正アクセス JR東海などでも個人情報漏えい（中京テレビＮＥＷＳ）",
    "n": 5
+  },
+  {
+   "text": "「ドクターイエロー」後継車が運行開始 「ドクターS」は点検と旅客の“二刀流”",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5",
+   "title": "「ドクターイエロー」後継車が運行開始 「ドクターS」は点検と旅客の“二刀流”",
+   "n": 4
   },
   {
    "text": "JR東海など新幹線予約に不正アクセス、会員情報17万件が流出",
@@ -26,12 +32,6 @@
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0hpOWNuWGVhYmdVQWxBSGtGbXlHeElSbEVpRDNTMjJRMWpFQWppSVdqNURyNjBUMkZ5MFh6M09rcGFuVzZ6UTJZQzRCakw2NWRldmlUZDl1Y3dISThRa3VRYzlDeFFTNVNrYURmV2FnekFuVmU3WVJEV2VxQ2c?oc=5",
    "title": "新幹線予約システムの個人情報漏えい JR東海などが発表",
    "n": 4
-  },
-  {
-   "text": "「ドクターイエロー」後継車が運行開始 「ドクターS」は点検と旅客の“二刀流”",
-   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5",
-   "title": "「ドクターイエロー」後継車が運行開始 「ドクターS」は点検と旅客の“二刀流”",
-   "n": 3
   }
  ]
 }
