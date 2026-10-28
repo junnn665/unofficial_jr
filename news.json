@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T07:54+09:00",
- "checked": "2026-10-28T08:51+09:00",
+ "updated": "2026-10-28T10:25+09:00",
+ "checked": "2026-10-28T10:25+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -56,6 +56,17 @@
    "auto": true,
    "added": "2026-10-28T07:54+09:00",
    "g": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9RNHFRYzlhV3dIRV9QWjRNYy02ZXZpN25EclZUdFpxaTBqWHFudVlGUTE1QjB4Rl90dDUzOHNwVkhiVXEw?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "kaisha",
+   "title": "2026年9月中間決算 37社の会見録を公開予定 本日はJR東海：ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VSHl2QnUzVWIyN2tSLUIydnJoNE5xYmdTdXBfcDBvZXpLQ21xUnA2LVdJdjBjbkkwQ1lSVlIwWUZsWTFMQk9UTWhtZkpHeC1nd0tVMjBhcllQQmxZbUNN?oc=5",
+   "src": "中日BIZナビ",
+   "auto": true,
+   "added": "2026-10-28T10:25+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VSHl2QnUzVWIyN2tSLUIydnJoNE5xYmdTdXBfcDBvZXpLQ21xUnA2LVdJdjBjbkkwQ1lSVlIwWUZsWTFMQk9UTWhtZkpHeC1nd0tVMjBhcllQQmxZbUNN?oc=5"
   },
   {
    "date": "2026-10-27",
@@ -16220,16 +16231,6 @@
    "src": "飯田市ホームページ",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DVU1BYkdlOUthX2I2aDhLUTRjaXI0MmZUMkZMSHJBOVpORHpIZ29uelNDR3FacVRieUVMRXk3dmpWZngzZnlSa1Jia2pnVDY5YnBLelVYVWVaMmRycExWbmdNeFZQUTYwMlhJd3hLLUhIUkMxeW40NWc5S3Zmdw?oc=5"
-  },
-  {
-   "date": "2026-10-02",
-   "cat": "event",
-   "title": "JR東海とJR西日本、「エクスプレス予約」・「スマートEX」で年末年始に「EX早特☆期間限定セール！」を発売",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84U3hmc0cxVnpaWVNqYkFSYUZ4QjAzLVFQb3B3VlFCeUZ5NjVDR2lwal9PLVZpcEU0U0M5bVRWdVROZzNDbTdhbk5QY3NQNi1wNXFEN0FJNVktay1LU0JRN0t3MVN2Rmc2SXB5dg?oc=5",
-   "src": "日本経済新聞",
-   "auto": true,
-   "g": "https://jr-central.co.jp/news/release/nws000001_00614.html"
   },
   {
    "date": "2026-10-01",
