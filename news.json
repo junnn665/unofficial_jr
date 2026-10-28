@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T13:06+09:00",
- "checked": "2026-10-28T14:05+09:00",
+ "updated": "2026-10-28T15:00+09:00",
+ "checked": "2026-10-28T15:00+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -88,6 +88,28 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-28T13:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ObkNxV2pWV2NRRTUwa2VLZXhJbkxSSUlQbFYwMUNGdTNTbVdLNlB5Mld2YlZHR2FIel95cmdWVXpUM1pyTExYbHdJRXJPTHh0eE5yU3RKYlVhb2UyYkJ2dXJlWVJhSjZnVnpqTnhZWkEzMjRyVnV0c2k1SFIyNjQ?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "linear",
+   "title": "東海旅客鉄道株式会社（JR東海）で活躍！システム開発を通じて、リニア中央新幹線の未来を支える｜宮本真樹さん ｜明治大学",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NUdJYm41MTQwblNrQ0htZXdsc3l0RzFmY0JmbjYxZTNYdUhDRG5YRU55NDRraGF3X0I5X3A1SGtGR3VMVFJqaTlDdFhTQzQ?oc=5",
+   "src": "Meiji NOW",
+   "auto": true,
+   "added": "2026-10-28T15:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NUdJYm41MTQwblNrQ0htZXdsc3l0RzFmY0JmbjYxZTNYdUhDRG5YRU55NDRraGF3X0I5X3A1SGtGR3VMVFJqaTlDdFhTQzQ?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "shinkansen",
+   "title": "東海道新幹線の約4万2000円「個室席」を予約→ドアの向こうの光景に「ビジネスホテルみたい」（1/2） | 電車 ねとらぼ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0weFJYeFN6WVNSc19zZ2pwZXljVUd4dTVPYmpVLU9xZjJMeU9rZUNucWhGWW1PeVNwN2tleERCbk9XdHZITUxBZHljUGhROXNOX3RTQUhRUzU5LVF3dkHSAWNBVV95cUxQejk3clktRUZiZXNuV1dlai1ObE4xZ1VSN25UbUY4ODBINVI3di1GR0F1M3RCdmRJbEI3ZUhxVFRoaDlKcXF4dXZFb0NOajlxMnowejk0QmYxNzVWeTJESmdwU0U?oc=5",
+   "src": "ねとらぼ",
+   "auto": true,
+   "added": "2026-10-28T15:00+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ObkNxV2pWV2NRRTUwa2VLZXhJbkxSSUlQbFYwMUNGdTNTbVdLNlB5Mld2YlZHR2FIel95cmdWVXpUM1pyTExYbHdJRXJPTHh0eE5yU3RKYlVhb2UyYkJ2dXJlWVJhSjZnVnpqTnhZWkEzMjRyVnV0c2k1SFIyNjQ?oc=5"
   },
   {
@@ -837,6 +859,17 @@
    "auto": true,
    "added": "2026-10-28T13:06+09:00",
    "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0JXNXVwTVlfVHlzMmtMSDBNUW9MQ21DeWZQT3c2LWV2NWt4LW1OQk11b25va1MyWTFJa3R0c3FWNHl4YmVCYVZwU3YzMTdISGNFeDZhWG5JMDNZckdYbnBkT2ljcFA5WXNGUw?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "unko",
+   "title": "JR高山線 岐阜県の飛騨金山から下呂駅間で運転見合わせ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWF9LT256alY0UVByRzFWYkRKb09tU0JxMHhKcWJwQW5RbmlHMkM1ODVlX0JMR1R6eUdkNXFpOEdzaG9FczJzZTRpdzBGMEhJZ3VGMTNPSjBIcW1uR0kzbEFFVHdpTnFBQnk5QWJwOA?oc=5",
+   "src": "locipo.jp",
+   "auto": true,
+   "added": "2026-10-28T15:00+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWF9LT256alY0UVByRzFWYkRKb09tU0JxMHhKcWJwQW5RbmlHMkM1ODVlX0JMR1R6eUdkNXFpOEdzaG9FczJzZTRpdzBGMEhJZ3VGMTNPSjBIcW1uR0kzbEFFVHdpTnFBQnk5QWJwOA?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -16196,36 +16229,6 @@
    "src": "乗りものニュース",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQam10d3o5OFlWNmVKYXk4U19URmd6a1Zla0tQellCeHVUS1p1MTlISWxDbFBQSVVrcFIwa3Ezc0czd19HSWU3WnZjSWJibzhzODlUS2ZTTlR4NU94UUtvUUljMUpOenZWQjhraXR6bnlsMFVVc204WkZzTzFvRTVLUFpFVkYyYTdGNjhXWlFR?oc=5"
-  },
-  {
-   "date": "2026-10-03",
-   "cat": "linear",
-   "title": "【新型リニア】大阪―品川の開通「2050年代後半」との見方も…遅れの理由は「お金」JR東海の脳裏にある「政治の介入」への懸念 時速500キロの体感とは?【解説】",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CZFprTV9CX1FBdkRXT1lscU4wOUpzRklPUDM2NXlvaUFLNE5McTF6US1seTRaMzNHVVpFdEYxUkdvOFVLbDBmQWpRMWxmMl9IZmxtelV4SHJEVFdWNElURkZxZ3dLSUJFNF8tZlo3c0dNTU9qc2tELXkzMXU4Ulk?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CZFprTV9CX1FBdkRXT1lscU4wOUpzRklPUDM2NXlvaUFLNE5McTF6US1seTRaMzNHVVpFdEYxUkdvOFVLbDBmQWpRMWxmMl9IZmxtelV4SHJEVFdWNElURkZxZ3dLSUJFNF8tZlo3c0dNTU9qc2tELXkzMXU4Ulk?oc=5"
-  },
-  {
-   "date": "2026-10-03",
-   "cat": "kaisha",
-   "title": "JR東日本・東海・西日本―JR3社の株はいくらで買える？ 最低投資額と株主優待",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NnhTdUZWRTJYTlJZSzZUUVcwZ3p0SkRBRnplS1lBZzNJVVdiellaR21PY2NuVU1jRUU1ZjdMZmxiU3RHNHVyZ3BaVE9SRWJtQ0pmcm1pMzJOZjlsMUVfMV9ZRdIBaEFVX3lxTFBrQkQxZ1BMU25qSzZaNS1Vb3F2d09CZTllckx1SWtJcDVoWEJ0TUthbVM3R1l6S2hRVGQydGZJUjZUeVBBRUJQdkJVZmRCWWNMd2pDOTlDX2U0dXMzUy1kRV9PV0Fsb0ll?oc=5",
-   "src": "財経新聞",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NnhTdUZWRTJYTlJZSzZUUVcwZ3p0SkRBRnplS1lBZzNJVVdiellaR21PY2NuVU1jRUU1ZjdMZmxiU3RHNHVyZ3BaVE9SRWJtQ0pmcm1pMzJOZjlsMUVfMV9ZRdIBaEFVX3lxTFBrQkQxZ1BMU25qSzZaNS1Vb3F2d09CZTllckx1SWtJcDVoWEJ0TUthbVM3R1l6S2hRVGQydGZJUjZUeVBBRUJQdkJVZmRCWWNMd2pDOTlDX2U0dXMzUy1kRV9PV0Fsb0ll?oc=5"
-  },
-  {
-   "date": "2026-10-03",
-   "cat": "kaisha",
-   "title": "JR東日本・東海・西日本-JR3社の株はいくらで買える？ 最低投資額と株主優待",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CeWRnd1l4TDQ0S0RCYzlKd1VpWlpVUHN4cFV3NVhoelpBLUtSdldNNnIyamtNSE5DQy1DbkFSY1NyS0JvX0pNZ0MteHdzcl9fdkNDVWNfYjltR1h1WE00?oc=5",
-   "src": "ライブドアニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NnhTdUZWRTJYTlJZSzZUUVcwZ3p0SkRBRnplS1lBZzNJVVdiellaR21PY2NuVU1jRUU1ZjdMZmxiU3RHNHVyZ3BaVE9SRWJtQ0pmcm1pMzJOZjlsMUVfMV9ZRdIBaEFVX3lxTFBrQkQxZ1BMU25qSzZaNS1Vb3F2d09CZTllckx1SWtJcDVoWEJ0TUthbVM3R1l6S2hRVGQydGZJUjZUeVBBRUJQdkJVZmRCWWNMd2pDOTlDX2U0dXMzUy1kRV9PV0Fsb0ll?oc=5"
   },
   {
    "date": "2026-10-02",
