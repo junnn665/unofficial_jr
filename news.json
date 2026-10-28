@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T10:25+09:00",
- "checked": "2026-10-28T10:25+09:00",
+ "updated": "2026-10-28T12:04+09:00",
+ "checked": "2026-10-28T12:04+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -67,6 +67,17 @@
    "auto": true,
    "added": "2026-10-28T10:25+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VSHl2QnUzVWIyN2tSLUIydnJoNE5xYmdTdXBfcDBvZXpLQ21xUnA2LVdJdjBjbkkwQ1lSVlIwWUZsWTFMQk9UTWhtZkpHeC1nd0tVMjBhcllQQmxZbUNN?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "shinkansen",
+   "title": "値上げのぞみ誘導のため東京～名古屋間先着ひかり廃止か！ 東海道新幹線ダイヤ改正予測(2027年3月予定)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tXzJOZ1A4ei01WkkzbjZIOEZJV2gwU09LekxLXzBsNkR6bzhfaHY5ZjBCZnFWWjRWdFBaRHVkcnpXWnM0ZUJjOHBoU3RVZzhLMTJWRm5yTzVKYnZyMXM5SHlkMkR3dw?oc=5",
+   "src": "鉄道時刻表ニュース",
+   "auto": true,
+   "added": "2026-10-28T12:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tXzJOZ1A4ei01WkkzbjZIOEZJV2gwU09LekxLXzBsNkR6bzhfaHY5ZjBCZnFWWjRWdFBaRHVkcnpXWnM0ZUJjOHBoU3RVZzhLMTJWRm5yTzVKYnZyMXM5SHlkMkR3dw?oc=5"
   },
   {
    "date": "2026-10-27",
@@ -16221,16 +16232,6 @@
    "url": "https://jr-central.co.jp/news/release/nws000001_00614.html",
    "src": "JR東海",
    "g": "https://jr-central.co.jp/news/release/nws000001_00614.html"
-  },
-  {
-   "date": "2026-10-02",
-   "cat": "linear",
-   "title": "JR東海からリニア駅舎外観デザイン3案が提案されました",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DVU1BYkdlOUthX2I2aDhLUTRjaXI0MmZUMkZMSHJBOVpORHpIZ29uelNDR3FacVRieUVMRXk3dmpWZngzZnlSa1Jia2pnVDY5YnBLelVYVWVaMmRycExWbmdNeFZQUTYwMlhJd3hLLUhIUkMxeW40NWc5S3Zmdw?oc=5",
-   "src": "飯田市ホームページ",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DVU1BYkdlOUthX2I2aDhLUTRjaXI0MmZUMkZMSHJBOVpORHpIZ29uelNDR3FacVRieUVMRXk3dmpWZngzZnlSa1Jia2pnVDY5YnBLelVYVWVaMmRycExWbmdNeFZQUTYwMlhJd3hLLUhIUkMxeW40NWc5S3Zmdw?oc=5"
   },
   {
    "date": "2026-10-01",
