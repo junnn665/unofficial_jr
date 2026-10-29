@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T14:06+09:00",
- "checked": "2026-10-29T14:06+09:00",
+ "updated": "2026-10-29T15:02+09:00",
+ "checked": "2026-10-29T15:02+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -485,6 +485,50 @@
    "auto": true,
    "added": "2026-10-29T14:06+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50NVZQU0w1SUhUWFZVd2FaVElMQzVBNUljV0RSQkZaY29nMVJlZGlvclEzUjBqd0tUWTVxb0N4LTFHZy1JM3hSaVNHeXp0V0s4akV2cGtUdFE4RTBU?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "other",
+   "title": "ぎゅっと楽しむ新感覚のぴよりん・イコちゃん誕生 458.8KB",
+   "summary": "",
+   "url": "https://jr-central.co.jp/news/release/nws000001_00639.html",
+   "src": "JR東海",
+   "auto": true,
+   "added": "2026-10-29T15:02+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00639.html"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "周遊の推進を提案 県リニア活用戦略協議 有識者懇",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DYUxyZ0lIVzlIWDJ3MFplczhYeDlmMm1UWDNLV29xdGRGNmVJem82VUZ5cXZXNi0xTEYyeC1OcTh5REFzV2d6Y1pQRVo1eDF1dnhSV1hn?oc=5",
+   "src": "岐阜新聞デジタル",
+   "auto": true,
+   "added": "2026-10-29T15:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DYUxyZ0lIVzlIWDJ3MFplczhYeDlmMm1UWDNLV29xdGRGNmVJem82VUZ5cXZXNi0xTEYyeC1OcTh5REFzV2d6Y1pQRVo1eDF1dnhSV1hn?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "リニア静岡工区着工27年3月以降に JR東海「全体に影響しない」（毎日新聞）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2TEZPTmJINlNYVnVHcWkyVFJfWTI0RGlOdERJWkZfdkxvUkhPVWYtZnZlbjg0OXJmbTNVMzRMWThnVUpyMWMwY2Yyd2pod2pKZ3YtN1NXUzR0TGlFT3JoamVpc24xM1VLYnktQ0pDLWxycmFlOEQ0dEhFUVFOWUk?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-29T15:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSW1sMEJFbE5UaS15UGFBemFiaDFXbGl5VFVKc1V4NHBqbUUyQUVFYkh1VFAtcjlJbF9nRU0xbzZTa0F2MVhGTmVUTXBaVUpCbmYtZkFqc08td1FGcC1EMS15WExzUmh0?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "白金高輪、六本木、麻布十番…「港区で住みたい街」ランキング 1位はリニア始発駅化を控えるあの街",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlJyMUpPYW5WZmtxdnN3M19KWVZ2TEt6MWNWc3hXWnpLSkNvLVBtdTRFbS1LSUM2NGRKR0Vja3JNUDh6N2I3R1ZZa3U4d2hZSGlvQUhMd1UyZVJZWFp6bHVTZWNjYUsycmJtZFdLYTZuQWtCdHk2MlRrUEhRenI4M2NhRG3SAYoBQVVfeXFMTm1tNkdTbTNkdl9BU1E1TEZ4NDdQUHdWNFJUaVFZWW5mWjExZzhCM3dxdDMzMHBKWEJUbkdsaEFOZkxHVGh4NDlWdWczX1A4Ny02dU9FMlh0Vm1VOFMxQldZOHNPVmwwR0lPdXVLNTZjUUlPUGNKQWtqbURxZ2ttMjFtRDBNTENkS3B3?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-29T15:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlJyMUpPYW5WZmtxdnN3M19KWVZ2TEt6MWNWc3hXWnpLSkNvLVBtdTRFbS1LSUM2NGRKR0Vja3JNUDh6N2I3R1ZZa3U4d2hZSGlvQUhMd1UyZVJZWFp6bHVTZWNjYUsycmJtZFdLYTZuQWtCdHk2MlRrUEhRenI4M2NhRG3SAYoBQVVfeXFMTm1tNkdTbTNkdl9BU1E1TEZ4NDdQUHdWNFJUaVFZWW5mWjExZzhCM3dxdDMzMHBKWEJUbkdsaEFOZkxHVGh4NDlWdWczX1A4Ny02dU9FMlh0Vm1VOFMxQldZOHNPVmwwR0lPdXVLNTZjUUlPUGNKQWtqbURxZ2ttMjFtRDBNTENkS3B3?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -16338,46 +16382,6 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4a280bjdRR2NrNGgwVmFTaC1YMHE5Sm1KSkYxZXBxZW1RalBvLVhFRmNLVzN0WUpha2RTb05HTENzc0ROeldSczRXV2FydFB4ZjIyS0hhVmNnSjNrMXFVNm5TN2JHc2M?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線、信号誤表示で運転見合わせ（共同通信）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bkNNTTNJVFNlWFZTeG5fZHJPTTFVZnZiTFFjdl9haFhRV3llM21mZUZXWnREbWYyRjdQWXUwVldQTzZZUjRKcEp6ZnB4dk1JbnNaVlZZQjZhWUpLRVAxTEZDNEJRR2QwZnZ2dHVaU3N2ZnNISkxEN0kxWXYzMW8?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuRWtEa2JuNTNZTzFCeFhFOWkxQXRhNVVEQVZaN0x2b3JtMVVLMXBlcUFnQzUwT3d2TlpGOEZoRjhfUEVvdXo4NUZpOE1Bb0J2WjlFRUFJRldNYnEzaGtZRkZvYldsSXhxYTJYczFKckhaV3FfNGfSAYoBQVVfeXFMT2NXLWd3ZjhaeHNoZ0RuLXVvVzVSMnVqMWNRd1o0QUNBbUJvbDQ3cnlLUkFwMVp5a0ZBSTNza1R3YzlLZExoYTVtNFhTLUJiQU5rTnh2bm1xVTRHR3lpQTJJNVVzNDZldkIxWU9TY3dJVTc3dWRkSUlQUkZmUzdNaGJYZ2NQMG1JbXJB?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "東海道新幹線が一時見合わせ 同じ区間で2度の信号誤表示",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PSlA0ZTNma1hSSkNJUDlvcEpLdjZtc3RvOTJhd0V2alBYVVVXdV92a0NTeWZjSEV3dHRvVndLY2VxZGJuSVZLUmRxTUQ1RnEtdVFGUFFzVUdPTUhNVVY1dUVHQTRURmFvbG4tWlc4TkkxaEJwZFE?oc=5",
-   "src": "産経ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PSlA0ZTNma1hSSkNJUDlvcEpLdjZtc3RvOTJhd0V2alBYVVVXdV92a0NTeWZjSEV3dHRvVndLY2VxZGJuSVZLUmRxTUQ1RnEtdVFGUFFzVUdPTUhNVVY1dUVHQTRURmFvbG4tWlc4TkkxaEJwZFE?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "【生活雑学テスト】東海道新幹線の普通車、窓側席の組み合わせはどれ？ (2026年10月7日掲載)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTRlF2dmRYYUN4NnpKVGQ1dkt1UndQQjM1SUhzckY4eWwxYkZXSWVyRjNNVHZuUE9IYnl5TGNZdVN3SHptNGpUTE5KRGZFaGVSOW9LbHg5T2w4MjhMNlE?oc=5",
-   "src": "ライブドアニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTRlF2dmRYYUN4NnpKVGQ1dkt1UndQQjM1SUhzckY4eWwxYkZXSWVyRjNNVHZuUE9IYnl5TGNZdVN3SHptNGpUTE5KRGZFaGVSOW9LbHg5T2w4MjhMNlE?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線 全線で運転再開 “本来表示されるはずのない列車が表示されるトラブル”で一時運転見合わせ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04UnNRUm80cEw2X1VqVzNaa3ZoWXRoUHozVzk3aWVTUkZtSm4wRHNfa2J5WVJmVVg3QnJrS1dQaXFFb0Z5RHZpUmFsV1ZaU184bWd1Uk4wYk0yclg0eGpn?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UelhCZUpFcTJIQkxZQ0w5OTJJTmZsUkpvRThLbUFBcElQRTFuWFJIZEUtMnhZZml5MU1ickRWVi1rMG5OUmNCN00wcG5ILTFKRlM0U2hGbU1jeTZrelhtWVc3UlpwMnU2Rm01QkFxNndFcVJpbWg5MWlvRVdqUlU?oc=5"
   },
   {
    "date": "2026-10-02",
