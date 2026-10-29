@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T10:24+09:00",
- "checked": "2026-10-29T10:24+09:00",
+ "updated": "2026-10-29T12:06+09:00",
+ "checked": "2026-10-29T12:06+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -287,6 +287,105 @@
    "auto": true,
    "added": "2026-10-29T10:24+09:00",
    "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUFJHRXFfOEZLVmpZWmdCbHQ4RG9QTUlBMG12dVhubnJfQzlwWjhJb2dBblQ1Rmg1eUFVQWRkajB1M0EzMk9wMzNHVk1saFQwUWc?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "shinkansen",
+   "title": "JR東海「EXサービス」予約導入から四半世紀 破ったマルスの制約",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FVS1qRnpMLTYtZlhhV05HWFhlS041X3lNVVRWX01pSml3US1YTEU3YlNnR2l1U2l6ZEJqRTQ4a09WcHB3WFZzanJDRjNRX1BxRllMeWFDNmdVemhLSnlGS3VNUlYyTHFSWU5HZg?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FVS1qRnpMLTYtZlhhV05HWFhlS041X3lNVVRWX01pSml3US1YTEU3YlNnR2l1U2l6ZEJqRTQ4a09WcHB3WFZzanJDRjNRX1BxRllMeWFDNmdVemhLSnlGS3VNUlYyTHFSWU5HZg?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "JR東海の株価反発 27年3月期純利益12%減に上方修正、自社株買い",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WdU9XTm5fVGRobkgwMmxWVWhEQURtRHlEOG1fWDFyb1h2QnV0SVpzVEpiTHdVTUdBOHppamtxMkJHTmNxQWNwQ3BpZzk2eHE1RjBabE52a3dXQ0Y4djExRDNHR2NQSzlhaFZWZg?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WdU9XTm5fVGRobkgwMmxWVWhEQURtRHlEOG1fWDFyb1h2QnV0SVpzVEpiTHdVTUdBOHppamtxMkJHTmNxQWNwQ3BpZzk2eHE1RjBabE52a3dXQ0Y4djExRDNHR2NQSzlhaFZWZg?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "other",
+   "title": "前場コメント No.2 プレミアＧ、シンプレクスＨ、ソシオネクスト、福島銀、情報戦略、ＪＲ東海(トレーダーズ・ウェブ)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1ZoU1h5a2NuWWN1VUFwSWtvNGRnUS1Od3RsN0RNN29IQm0wUzJfMUxHSVR5MGk2RlM5b2JvMlp4UzZxc2VRemdTdjU4Z1BaOWppLUstaW1jQnNNa3o1WW8tNVVIMlQycnBMdVlXUlgyU0NvNUo0dkpiOGJ5NHlfOFE5NUd3NFU?oc=5",
+   "src": "Yahoo!ファイナンス",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1ZoU1h5a2NuWWN1VUFwSWtvNGRnUS1Od3RsN0RNN29IQm0wUzJfMUxHSVR5MGk2RlM5b2JvMlp4UzZxc2VRemdTdjU4Z1BaOWppLUstaW1jQnNNa3o1WW8tNVVIMlQycnBMdVlXUlgyU0NvNUo0dkpiOGJ5NHlfOFE5NUd3NFU?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "JR東海、リニア新幹線開業時期 「年内公表」方針維持",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hem5QRzVzcUlKc01TQ01MbDJxRy03SmVidGZaUmZXb3hVdmNNNUQtMmdEYVhJY25xSUw3ZE9CZURsN2ZNcWxDRlB4VnhYVGxZZ3hTTHJ0WW8?oc=5",
+   "src": "日刊工業新聞",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "リニア活用戦略 岐阜県が素案を公表…来年３月めどに策定：地域ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMS1uUkszM2lXR2RyRVkwd3VrbXhSX2p5N1kxcWR6dDU0R0dpZDRUZW53VGg0NldUelJpaXJLUlZuaFV0aFhjR0stcWpJQ1k3X0xBaHkzMmhVWnFaTVZZTjA4SVlubm9UNktmczdMelY?oc=5",
+   "src": "読売新聞",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMS1uUkszM2lXR2RyRVkwd3VrbXhSX2p5N1kxcWR6dDU0R0dpZDRUZW53VGg0NldUelJpaXJLUlZuaFV0aFhjR0stcWpJQ1k3X0xBaHkzMmhVWnFaTVZZTjA4SVlubm9UNktmczdMelY?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "「行政は幕の内弁当」 静岡県の平木省副知事に単独インタビュー リニア静岡工区の着工に向け、県の対策本部長として陣頭指揮を執るキーマン（静岡朝日テレビ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWkNxb1JVNERyU1k1bTA2R29QalZndk1kQmZYR05zSW4tVkJVd2owVVcwdzJKS2I0czFmamI5b3ZIX3luUkt5amQwN2YwM2lwLUZ5MEwwNGdQSEZMbW5laFVGTldvVjFLd0xWSXViTS1YaU14dmtZSnlFV3R4Zzg?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWkNxb1JVNERyU1k1bTA2R29QalZndk1kQmZYR05zSW4tVkJVd2owVVcwdzJKS2I0czFmamI5b3ZIX3luUkt5amQwN2YwM2lwLUZ5MEwwNGdQSEZMbW5laFVGTldvVjFLd0xWSXViTS1YaU14dmtZSnlFV3R4Zzg?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "【画像】“万博効果”上回る…JR東海の今年度中間決算 売上が初めて1兆円突破 純利益は3.2％減の2884億円と増収減益に",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvc0NsTER1RGFPSERhWTVRTDNNS0NOZDRQUG5fdjhWUm4wU0RvMldWaG5LdVIxbzF0VGUtbmlwNGNwaFVsX29JTXhXTGdpUTNvQVhUclA2UDExcHByNU5LQUtYNlk0Nk5GTnBrVlVfV19GZkE4MWp0dE9RUDI?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11MlJ6WUZOSXpJY3pMMEhPSkV6NlJQZy14OHlDbWw4akY4cFZQeDZPcnpLMVkyS2NzMDlPdll5WVduYVZlSTVxSDhha3lRenJfeWV0WmpqMktiN0ltSktZakJoUlRYX3Y5T1NRbl9uand5VDI1N2hINlBzdldaZGM?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "シークス Research Memo（8）：配当は20期連続の増配を予定",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3M4eW5YcUxCR0R0cEMtSTJBUTJoTEEweFBTNlZ3T2xUUUpkS1c1MG5udGlJU20xZ09xZmtGaUVKWFNjWnVYYmRkQ2hXVG9NMHFwWDQydDhiYmlkNlpialhXc213TzZaYVQ2aFZRMmstelpTT3BRdDVCaE51RUp3emxYRDdQQXPSAYwBQVVfeXFMTV9OOFFvd3Z5dFduN0ZBUEVNbUl6LVBBMGZjSk9XZ0d3bUxNdDFoTzdkQVpieGhIeklrMTI3aklFQVYtZ3dqSk42Q1oyQU1zYXd2S3k0S2dlRGhEN040VXg5aFN1dVpXVG8zS25weUVNRkhSR01BMmNlYlFNdFpOUDhKMlJlbWhTQXBWeDY?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3M4eW5YcUxCR0R0cEMtSTJBUTJoTEEweFBTNlZ3T2xUUUpkS1c1MG5udGlJU20xZ09xZmtGaUVKWFNjWnVYYmRkQ2hXVG9NMHFwWDQydDhiYmlkNlpialhXc213TzZaYVQ2aFZRMmstelpTT3BRdDVCaE51RUp3emxYRDdQQXPSAYwBQVVfeXFMTV9OOFFvd3Z5dFduN0ZBUEVNbUl6LVBBMGZjSk9XZ0d3bUxNdDFoTzdkQVpieGhIeklrMTI3aklFQVYtZ3dqSk42Q1oyQU1zYXd2S3k0S2dlRGhEN040VXg5aFN1dVpXVG8zS25weUVNRkhSR01BMmNlYlFNdFpOUDhKMlJlbWhTQXBWeDY?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "eki",
+   "title": "広島駅に全国の駅弁50種以上集結！マルシェも同時開催の「駅弁まつり」11月6日からスタート",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWWRFZVBvQUNDNkxaVjNyWEpPZzQzeVBPTWNqdWgzd2s0RDYxOFFvTDZxckFIRXhJTVVUaDc3Z0d3T1RVVW9ubGVjY0JqMDFBTk01VFZR?oc=5",
+   "src": "広島ニュース 食べタインジャー",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWWRFZVBvQUNDNkxaVjNyWEpPZzQzeVBPTWNqdWgzd2s0RDYxOFFvTDZxckFIRXhJTVVUaDc3Z0d3T1RVVW9ubGVjY0JqMDFBTk01VFZR?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -6447,6 +6546,17 @@
    "auto": true,
    "added": "2026-10-29T02:10+09:00",
    "g": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uWDIzcUs2RzdCUkxCTUZJSFNyMVZKTnc4bWNUdHJjY0hCajlnUTVpWFVoNUZWTUtYVzN6Nk5wVWlYN2dkZTk3dm1Jbm1BU3kxUjZPMG5PSlFJaEZqUmstOGFQM1VRU2dWbnFzOV95X1FoM2xDSmx4SFNqMA?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "shinkansen",
+   "title": "「ドクターイエロー」機能や「個室」つきのN700S導入へ JR東海、17本の追加投入を発表 画像（3/6ページ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjcHdBaFkxR3hsdWNjZGlNNzNGdzZSM245Q0hVcWdZOG5oZmFHMFhTeFFTanVDWTVtc2NKUXZpaFIyTHIzbURkdDIwekwzeFpXSFpCSHI3Rm9IT1RSc3ZmSUY0U2xURG5zUG1MVTF5a1ZaMVE?oc=5",
+   "src": "Tetsudo.com（鉄道コム）",
+   "auto": true,
+   "added": "2026-10-29T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjcHdBaFkxR3hsdWNjZGlNNzNGdzZSM245Q0hVcWdZOG5oZmFHMFhTeFFTanVDWTVtc2NKUXZpaFIyTHIzbURkdDIwekwzeFpXSFpCSHI3Rm9IT1RSc3ZmSUY0U2xURG5zUG1MVTF5a1ZaMVE?oc=5"
   },
   {
    "date": "2026-10-22",
@@ -16257,106 +16367,6 @@
    "src": "中日新聞Web",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83eW1qRU05ZU1ZVm9TTG9Fd1dzY3ZIY0RXNC1abTRTcWhqRXc0dVI4aGdsU05EVnpFV25lSi1vMnE0OWU4ZXJIVy1WcTN0SGY1ajlnSQ?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "【速報】東海道新幹線上下で順次運転再開（10月7日午後6時40分頃）（静岡放送（SBS））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZaVRHZnc4MC04YmkwdUJyeWxuMnhkN2RTNTVxSVhVNVV5QlBvVFlOWFAya1hsZE5XUHgweUk0MXFuSkZWNEZ0bWh3eTczQndaNzVSTHpLRHZPTnlMWWVXVzJlTFpBeFNpUHlSRllOVVgyaEZnTGt0ZlZjYlRsQlU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWlsTl80eTFHeVluZzQzNHJWZ1VLSWZjajA3UWhoazd4OWRDSEdSVzFHQjNtdDJLTUdyYUZiVjZrUy1lQVJsR3owZlNuU1dqN1pQOFFTVXdxcFNrRjRmTzljTkRraURKV3FpN0pfcWR6VEthYlhURXVZSGJqS0xUdmlzRjZwbmM?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "【速報】東海道新幹線上下で順次運転再開（10月7日午後6時40分頃） | 静岡のニュース | SBSNEWS | 静岡放送",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ZTRvRjZzbmJYNHU0bThNWF9WdGpnSWFEQlFuZW5IcG5vcTNZS3JyeXRNZmlUbG9EZmZSQjRsNmxKM2dmVXVxdXZOcmF5REZRQ1Q4c2RDTDRNdw?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWlsTl80eTFHeVluZzQzNHJWZ1VLSWZjajA3UWhoazd4OWRDSEdSVzFHQjNtdDJLTUdyYUZiVjZrUy1lQVJsR3owZlNuU1dqN1pQOFFTVXdxcFNrRjRmTzljTkRraURKV3FpN0pfcWR6VEthYlhURXVZSGJqS0xUdmlzRjZwbmM?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線 運転再開 信号設備点検で一時運転見合わせ（TBS NEWS DIG Powered by JNN）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubUFjS253dXhsZ3VpekZzcmJFQjd4ZHk1MjFmTXVVNGEyRFdqZGxHd2dib1B3ejRwamNnM0FObzIzX0dGZC13Ym1PbnozSFRubkwwRy1leERfZHJyWnpkMmRfTnEyZ3ktTElOUUNVcjc3U3JqM2ZCaFFpYzZ6aWc?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UelhCZUpFcTJIQkxZQ0w5OTJJTmZsUkpvRThLbUFBcElQRTFuWFJIZEUtMnhZZml5MU1ickRWVi1rMG5OUmNCN00wcG5ILTFKRlM0U2hGbU1jeTZrelhtWVc3UlpwMnU2Rm01QkFxNndFcVJpbWg5MWlvRVdqUlU?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "東海道新幹線 運転再開",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FeTgzVTVwSE5hV3YxQkl3a1owdkpMM2xWUEZEZjFMd0RxQ0c4T1JxWjF6UWpUcjBDcDlQM1JFcjFPSEgwa2dfbFJIZXRveDJsd1ROWlh6eEYwS2h6YnBZ?oc=5",
-   "src": "NHKニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UelhCZUpFcTJIQkxZQ0w5OTJJTmZsUkpvRThLbUFBcElQRTFuWFJIZEUtMnhZZml5MU1ickRWVi1rMG5OUmNCN00wcG5ILTFKRlM0U2hGbU1jeTZrelhtWVc3UlpwMnU2Rm01QkFxNndFcVJpbWg5MWlvRVdqUlU?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線上下で運転見合わせ 上りは米原〜掛川、下りは東京〜新大阪 信号設備点検の影響（10月7日午後6時35分現在）（静岡放送（SBS））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FUmN6UHh6bTJMS0I3dDN2Tnd0aUc5RnZmSEZKczRSd3FkbE5HaDllVWY0amd4akYtQkR2cE1vVUxnM19tUTVrSnFud1NNZUZWMzNNWl8yUEs1MDlvN0tfMDVHSW12X1oydnhzMEliRHhxQjBNdU5zWms5S1U0Rmc?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakp1a2RPT01rVi1GRXBoNGZKRUlRekFGYTFnelptSW9JRnlrTHdGQTl0UkxfdmNob1lDMW90dXE2RzhTb3F6MWpScjFVRnVKVEVxYlZyWWttemotNFd3cmdHSEhmekdITXVuUHlUTEJhUFN2ZGNieGJMdXZuNVRrNXRQeVQ2bUk?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線 一部で運転見合わせ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MbHZwVDZ0d1lfUThxUXgxZjhFS2RGNFVpV29IM0VnUVlOZmIxY05FMmJ5TEZuNk1FOWNwajdwX0l4U0dmc0wtSkk2bFNYWG1UUWg1aXRTNlpDNU1CdzVZ?oc=5",
-   "src": "NHKニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakp1a2RPT01rVi1GRXBoNGZKRUlRekFGYTFnelptSW9JRnlrTHdGQTl0UkxfdmNob1lDMW90dXE2RzhTb3F6MWpScjFVRnVKVEVxYlZyWWttemotNFd3cmdHSEhmekdITXVuUHlUTEJhUFN2ZGNieGJMdXZuNVRrNXRQeVQ2bUk?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【交通情報】東海道新幹線 上り掛川・米原間 下り東京・新大阪間で一時運転見合わせ 午後6時40分運転再開",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1eEt2SjdrS1oyN2oyaUdmYWc4cEtMYzdGUC1rNHRyZDF6ejd5M0JfLTRLaGcteXlJWlFOYTN3OTd4UjUwNjJPcXpGaDY2UQ?oc=5",
-   "src": "FNNプライムオンライン",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWlsTl80eTFHeVluZzQzNHJWZ1VLSWZjajA3UWhoazd4OWRDSEdSVzFHQjNtdDJLTUdyYUZiVjZrUy1lQVJsR3owZlNuU1dqN1pQOFFTVXdxcFNrRjRmTzljTkRraURKV3FpN0pfcWR6VEthYlhURXVZSGJqS0xUdmlzRjZwbmM?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線、信号誤表示で運転見合わせ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSGphNnBBRFQyR2R6R1RJWUx0WGpFV1VIWXpUdHhScnFsV0lEOEhrb0N5QW0yNkJDSkFNaUgzWGJlNjJoTEtKR3pEQUloZkVVNGNuWkJ6WkNkRnRid1E?oc=5",
-   "src": "沖縄タイムス社",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuRWtEa2JuNTNZTzFCeFhFOWkxQXRhNVVEQVZaN0x2b3JtMVVLMXBlcUFnQzUwT3d2TlpGOEZoRjhfUEVvdXo4NUZpOE1Bb0J2WjlFRUFJRldNYnEzaGtZRkZvYldsSXhxYTJYczFKckhaV3FfNGfSAYoBQVVfeXFMT2NXLWd3ZjhaeHNoZ0RuLXVvVzVSMnVqMWNRd1o0QUNBbUJvbDQ3cnlLUkFwMVp5a0ZBSTNza1R3YzlLZExoYTVtNFhTLUJiQU5rTnh2bm1xVTRHR3lpQTJJNVVzNDZldkIxWU9TY3dJVTc3dWRkSUlQUkZmUzdNaGJYZ2NQMG1JbXJB?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "shinkansen",
-   "title": "【速報】東海道新幹線上下で順次運転再開(10月7日午後6時40分頃)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kb1ZoUW5IT3dFQ0FNUDZTM2tZUmt1VmZNMmdTSDNQODBsdm9IYXVsdnpjN1lUQVRkZEc5WXNhY1FDMHBVSUh5MnpZeTZ3T0tTZFBCYk1Ub2ZQYVo4alY4UQ?oc=5",
-   "src": "アットエス",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWlsTl80eTFHeVluZzQzNHJWZ1VLSWZjajA3UWhoazd4OWRDSEdSVzFHQjNtdDJLTUdyYUZiVjZrUy1lQVJsR3owZlNuU1dqN1pQOFFTVXdxcFNrRjRmTzljTkRraURKV3FpN0pfcWR6VEthYlhURXVZSGJqS0xUdmlzRjZwbmM?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線 一部区間で運転見合わせ 信号設備点検のため",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IdTJKU0RUSl90VlBTNzJpYkxkWG5fQzM3OUxwTEdtenlkcVk0YTFsZVRlZmNacnN6Rl9NNEZocUlwNGxhb0ZwZ0dVb19LUHVuTTBfc2tIcDFiRFRubDNISkYwQkdwN0ZqWGFYTjF4TGZvazVC0gF6QVVfeXFMTUJqbV9IV3NKN0tRWW1kS3l2SFZ5Q1BnazhPNEtFS1AtT0tNTW1Od1RqVkFvaDdDS1VTcE1GT3RQamFjMUFzdWRISW9YMFhZeHIzeWFGS0M2cVYyS2s0TXUtTHhmS28tNUpOMGdsOGd5eVUtQ1lKQ0ZWb2c?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakp1a2RPT01rVi1GRXBoNGZKRUlRekFGYTFnelptSW9JRnlrTHdGQTl0UkxfdmNob1lDMW90dXE2RzhTb3F6MWpScjFVRnVKVEVxYlZyWWttemotNFd3cmdHSEhmekdITXVuUHlUTEJhUFN2ZGNieGJMdXZuNVRrNXRQeVQ2bUk?oc=5"
   },
   {
    "date": "2026-10-02",
