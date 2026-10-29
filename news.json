@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T02:13+09:00",
- "checked": "2026-10-30T02:13+09:00",
+ "updated": "2026-10-30T03:05+09:00",
+ "checked": "2026-10-30T03:05+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -33,6 +33,28 @@
    "src": "TBS NEWS DIG",
    "auto": true,
    "added": "2026-10-30T01:14+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PWUViSDNwWUpxZGYtRmVUMzJieGhvX3BzeFMzZHN6SGFmQi10TTMwODRuTExrMDVUSkZVd1BFX0MyU0h2dmZ4RGQ3Y3VPbzFFZEw5Y0lSNU1OZw?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "shinkansen",
+   "title": "東海道新幹線「のぞみ」14本ダイヤ目指すと表明 JR東海（CBCテレビ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YbzRlOFluWEFtQjlWZXRNaUdtZnNKT25nbTIxS292UjI5WG5vbERPUTV1YmFDZkV6MjZqN1dWNjBTNTNKbENTbXd0TEM4RFRQUzMzY3drZ3NlR3JrcUc3QUZGTGo1OVoyYm1Vazl6RXVoZE8zQmQ1TkIta2EtQ3M?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-30T03:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PWUViSDNwWUpxZGYtRmVUMzJieGhvX3BzeFMzZHN6SGFmQi10TTMwODRuTExrMDVUSkZVd1BFX0MyU0h2dmZ4RGQ3Y3VPbzFFZEw5Y0lSNU1OZw?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "shinkansen",
+   "title": "東海道新幹線「のぞみ」14本ダイヤ目指すと表明 JR東海 (2026年10月30日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OSEszU21JZW5Dcm9XUUx1bFBpQ284WFlKV2pPQlRSdFdBSzRjWlhSOEpFZHBSc3pucVByd3BjSm1aMnZaeFBFYW1BMElDdld3ODNmY1VXVEFWVjRWeFE?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-30T03:05+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PWUViSDNwWUpxZGYtRmVUMzJieGhvX3BzeFMzZHN6SGFmQi10TTMwODRuTExrMDVUSkZVd1BFX0MyU0h2dmZ4RGQ3Y3VPbzFFZEw5Y0lSNU1OZw?oc=5"
   },
   {
@@ -848,6 +870,17 @@
    "auto": true,
    "added": "2026-10-30T02:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RbGJBVDhiU3V2SEFKOG1CRXdqTFNxal9WTzNiWm9nZXRXdlFlbTNDSnZCZXlTY1VXcV9JSkJaZTJ4OG9rQldwdnAzUGRJVU44cXVJN2RCWTNIQjJCeHdFVFdaZGh4WGJjY1E?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "unko",
+   "title": "飯田線、倒木で一時運転見合わせ（29日）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMN0Fxbk5EQmo3TnN0c0FSLVR1VDFMaGJ6M3FudjFXXy1zUkJhazU1a3Y3dWNDeE5aeVlEQTZ4WTRubXBITWg2WHpLSjgtMy1Tc25uUlF1ZnU2cXBoRXZ1SFF6Q1dOalptNkNULWU0aHk?oc=5",
+   "src": "信濃毎日新聞デジタル",
+   "auto": true,
+   "added": "2026-10-30T03:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMN0Fxbk5EQmo3TnN0c0FSLVR1VDFMaGJ6M3FudjFXXy1zUkJhazU1a3Y3dWNDeE5aeVlEQTZ4WTRubXBITWg2WHpLSjgtMy1Tc25uUlF1ZnU2cXBoRXZ1SFF6Q1dOalptNkNULWU0aHk?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -5413,6 +5446,17 @@
    "auto": true,
    "added": "2026-10-26T19:06+09:00",
    "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZGNjZlVhQXplYUw0TkdxVEJsZng2VU1sYkhPOW0xWW4zNWdBMTdBS1VYWGNoZ1dYMDhuTkd0aWg2TTRBUHhEMURGdm1rSEltYk1BeU1nSUxjMk0?oc=5"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "linear",
+   "title": "リニアのホーム工事初公開 神奈川県駅｜全国のニュース｜Web東奥",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LUy1aMU1udUhHM2kwX1cyd3lTZ21vdVRfS0g5QXY0d1FMZFE5cUVlcmZVSXAwckMySWJzNm1oZDdDUjlVTkJtMVhNMXVhS0J2QlJOZElqYmI?oc=5",
+   "src": "東奥日報社",
+   "auto": true,
+   "added": "2026-10-30T03:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1McklBSXQ2WkZ4X2owSzZrdnplRmNfVjBtekRMZ3IzVWNmSjhvQ2tPNjJoN0ZRcnY4ZGtuWnZyNURFaXF3VHBZYl8xb2NuX0tXd0RQdjV4NzFsaTQ?oc=5"
   },
   {
    "date": "2026-10-23",
@@ -16368,46 +16412,6 @@
    "src": "レイルラボ",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HVUJaWFc4b1g5Y3BOc1B0SUlmd0Rsekp6MXI3dVJBVTExNFc3NXplSER5TEo0TEZNUVNsbjhGem4zNjJJbmU3SGJBbnU5QQ?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "linear",
-   "title": "品川区地下のリニアトンネル掘削工事でシールドマシン部品に損傷確認 点検完了に半年以上 工事再開はさらに先の見通し JR東海（TBS NEWS DIG Powered by JNN）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peEExU3ZlN2Q4elM1WHV5TElyaFZVc3drNUJLaTFJT2hMTDRmUUZFZkxuY0E5eHlCWTNfNUwyWVR1c0NyVk41ejRNTERlY0FGeEFMSnBTTjkzMmxMTUIyeFZfN0x2VzVUeHR3OW92Mi1VWlgtWTBTQVNXQUNVSGs?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aTnpydmM0VGFjZ25jaDNoT05Od01OX2xPcDFfNkR0dGhjUE1xVlFVYnJwU19OWmpEeDB3RUpfcU1JbWNCbmtHRFFrTnVtTy1hTjZHMEtwc1gtLW9U?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "event",
-   "title": "「アンジュルム」が伊勢初公演 JR東海コラボ曲「おいないさ、伊勢」で熱気",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OY3BrV1M5V0p6MzVmcGdVZ05feU5Wd19VRkNpZllVV0kyeGMxdDFqcEgwVnhqanhrUjFzd2E5RVkzdlQzTWNkZUlER0RJQklpNTFTNUtBZUxBeVM4SktTZ1hOY0txWXNvblRsVkNmTmNIRE9pb0JMUDd4NlhMd9IBgwFBVV95cUxPeGxFOGtSREJnQUNrT05RVHIyQ3ZnWWlFQVNjR2g2MW84VWFmcmEwLXJjZmIxY0dSaTVLU1VkblJoemNoNG45SjVHNFliWnp4LUNDSEdVbjRNYkh1cGtMTTVaakFManA3VUJCenRfLTlSQ0cwQTN1U1Zuc01QUElneHZsNA?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tdDV3cU1aTGZ1NFZtZWxCTEhaRlVsRHZ5SGpuV2NHcW1DalNJZE5UR2Y5czhWWHdKRnJjU3ZZR0RrandUdk13M1ZjejBwNkJoOUlYRVhhR2J2OTZBcTg2UUdWeEI1Z05MQ2ZENExhREw3MjZtaU9IWXVtQWtvYU0?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "linear",
-   "title": "リニア中央新幹線 開業はいつに？静岡工区の“着工容認”で大きく前進も… ｢南アルプストンネル｣の難工事は10年以上かかる見込み 開通すると何が変わる？",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4bnh6aWZkMU11TkVyV3dDSDRRSUFvXzB4aGNvQjFIVDBuNnMxV1RLMXk0ZC03ajc0YjMzbzN2RzBIZHM1Y2hMX2J6elVuNDJfNGNvLVRuODRmQkI5T2tn?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4bnh6aWZkMU11TkVyV3dDSDRRSUFvXzB4aGNvQjFIVDBuNnMxV1RLMXk0ZC03ajc0YjMzbzN2RzBIZHM1Y2hMX2J6elVuNDJfNGNvLVRuODRmQkI5T2tn?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "shinkansen",
-   "title": "【4K】東京ディズニーシー開業25周年！！東海道新幹線N700A系G47編成 「Spaking Jubille Shinkansen」こだま815号が名古屋駅を発車するシーン",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BOHppc3AycTktR0NVSlgwTC1zLXM2Ym9feC1nYnZhVTV6dVd2M2pmOWJHVFVwaE1KdFRiem9KX0xhZU1NbUJzZU1PZXlEcXR4OEU5M1FNX2VvZEc3?oc=5",
-   "src": "YouTube",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BOHppc3AycTktR0NVSlgwTC1zLXM2Ym9feC1nYnZhVTV6dVd2M2pmOWJHVFVwaE1KdFRiem9KX0xhZU1NbUJzZU1PZXlEcXR4OEU5M1FNX2VvZEc3?oc=5"
   },
   {
    "date": "2026-10-02",
