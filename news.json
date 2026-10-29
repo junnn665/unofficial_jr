@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T20:05+09:00",
- "checked": "2026-10-29T20:05+09:00",
+ "updated": "2026-10-29T21:02+09:00",
+ "checked": "2026-10-29T21:02+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -727,6 +727,50 @@
    "auto": true,
    "added": "2026-10-29T20:05+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBheTQzWDFpUHFVT0dPQUcyRGF0b3RlUTh4bmtxVEwwcWdZSnZUVWlOUWE0RUZ4Z2hHa2xYZFBxTUhtZ1dIbUxYUGE4ZFZpQ3lfMTQyZFdPQXBkVkRRMzRHWlV1QkRyU21KdS1sU2N3?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "リニア新幹線 談合事件で静岡工区の着工は来春以降に JR東海・丹羽社長「全体工期に影響なし」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wMzZhQlIydE5hT0FCVUxrNjNFVTJ0VVV5M2xjcW5OQ0x6MExRQ0c0YWl5a2dhX0E4S040V3FGZzF5bGxyUWRlcHptUUhUdw?oc=5",
+   "src": "FNNプライムオンライン",
+   "auto": true,
+   "added": "2026-10-29T21:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ra1NYenBWeE01eU1LYVNaSDhUclNMSzYybjJjZXFRcGFiSnRUVk4yRzAwVWFQUlVxSDR6eHczckNjclRWMl9YaXlhTlptQ1dUNTY5M0k1Tzl5bmhDaS16c0ROTC1XQ3hvMllFbVIzOEhxR3NiT3dPTDM5ODBhdE0?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "リニア山梨県駅周辺 屋内運動施設整備へ研究会発足へ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54bnJaMTFMMndrakZnSjRfNk84RUswT01CLXRtNXZ4aGV5SUFuWUJnemJHMTRsRlNTOF9pWllVQWx1X1l5LVlIM1RKRWhQWi05RHg4cElMcGZqZ2xXcXR3?oc=5",
+   "src": "NHKニュース",
+   "auto": true,
+   "added": "2026-10-29T21:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54bnJaMTFMMndrakZnSjRfNk84RUswT01CLXRtNXZ4aGV5SUFuWUJnemJHMTRsRlNTOF9pWllVQWx1X1l5LVlIM1RKRWhQWi05RHg4cElMcGZqZ2xXcXR3?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "「賑わいを創出する集客施設」 リニア県駅周辺への屋内運動施設の整備を検討へ 年内にも研究会 山梨県",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1UTNET0FXc3VuamdBNTlVWERvaEtjcW04VWd2UWFlQXFRNWMwdDM4cEpvVDdhZ09ndXNOZ1FQREFPWmZ5R0hFdy04aGxkNS0zdXNnaFhxbw?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-10-29T21:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54bnJaMTFMMndrakZnSjRfNk84RUswT01CLXRtNXZ4aGV5SUFuWUJnemJHMTRsRlNTOF9pWllVQWx1X1l5LVlIM1RKRWhQWi05RHg4cElMcGZqZ2xXcXR3?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "リニア新幹線 談合事件で静岡工区の着工は来春以降に JR東海・丹羽社長「全体工期に影響なし」（テレビ静岡NEWS）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9teURHS29KZ0M3bTJhQnUwVWZ6c1ZCWG9rb1o0cE5FWTJDSE95R3NGT1VBWEEzVFl4bXVwQ29scXpEbWdKbDE5bm1ieC1udGYxN0k3Y2pmcm5uYUJ5V2hOSElpTHZ6YmloamhCZHhMb3hMMmJLcl80ZG5xTENINEU?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-29T21:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ra1NYenBWeE01eU1LYVNaSDhUclNMSzYybjJjZXFRcGFiSnRUVk4yRzAwVWFQUlVxSDR6eHczckNjclRWMl9YaXlhTlptQ1dUNTY5M0k1Tzl5bmhDaS16c0ROTC1XQ3hvMllFbVIzOEhxR3NiT3dPTDM5ODBhdE0?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -16357,50 +16401,6 @@
    "auto": true,
    "added": "2026-10-11T13:38+09:00",
    "g": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xSmVWMU5RUGZFMXh6Smo2aW5jbnRLN1lZME95cVdtMVRqcnNSZ1ZTcUhfZnZTUlJrTlN3MTJDX1hVTXpxczQxVWVEYWdBWTNONm5od2hCWVM3UjdwWmVtN0xGUUlIQQ?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "shinkansen",
-   "title": "500系新幹線が“丸裸”？！NHK「鉄道王国物語」新幹線スペシャル、10月12日に再放送",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Tb0o3UW5pNUZMOVBJcm8wZWhBZHZZN0xHOHJKbENBRDJNM0FNZWlPM2p4R0EwUzVvLURyTkJKNktvQnlyRW44UUJzYm5odw?oc=5",
-   "src": "レイルラボ",
-   "auto": true,
-   "added": "2026-10-12T00:37+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Tb0o3UW5pNUZMOVBJcm8wZWhBZHZZN0xHOHJKbENBRDJNM0FNZWlPM2p4R0EwUzVvLURyTkJKNktvQnlyRW44UUJzYm5odw?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "shinkansen",
-   "title": "【2026年最新】新幹線でお得なクレジットカードおすすめランキングTOP10｜路線別の選び方も解説",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iYkhGaEw3WkpWTlVndnNxOUN6bWFma3FGOFcwMDNiZGdIbVRwaVpZcXNDWDZXS2x0VDFuQ1A2RkRuQ2t5cTNxVjVnbmM5RG1LWV92em1XV25GcVcxb3VwWGF5OG10MzA2NGcxTUREUQ?oc=5",
-   "src": "新日本保険新聞社",
-   "auto": true,
-   "added": "2026-10-12T01:37+09:00",
-   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iYkhGaEw3WkpWTlVndnNxOUN6bWFma3FGOFcwMDNiZGdIbVRwaVpZcXNDWDZXS2x0VDFuQ1A2RkRuQ2t5cTNxVjVnbmM5RG1LWV92em1XV25GcVcxb3VwWGF5OG10MzA2NGcxTUREUQ?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "other",
-   "title": "令和8年度第1回黒岩知事と当事者とのオンライン対話",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SWnRWZ1pjZWlIdUpIQmY2Rk5lVHp3N2dYQjFCaHhRUmlyMUNldDU3VUU2eTEtOHVsMDV6VWR0ekIzXzlLZ1RidFNyWVFXMlFqazBDQXFXamktVFpzeVZveHdyU3dGZnZCUnJvT2p5ZkFRN3lhSm11aA?oc=5",
-   "src": "神奈川県",
-   "auto": true,
-   "added": "2026-10-13T00:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SWnRWZ1pjZWlIdUpIQmY2Rk5lVHp3N2dYQjFCaHhRUmlyMUNldDU3VUU2eTEtOHVsMDV6VWR0ekIzXzlLZ1RidFNyWVFXMlFqazBDQXFXamktVFpzeVZveHdyU3dGZnZCUnJvT2p5ZkFRN3lhSm11aA?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "event",
-   "title": "500系・ドクターイエロー 引退記念グッズ 販売",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RN3J0VG9hVm5qT0RGMU9sTS1UaWtYZ2Vyekg1S3hxc1hfU19VOWNWUFprZ2FhRHJjeklaVzlWRkY1dUd3bU8yMERWRmJ6Z3h0OVZDbk8yUmxwSFFmcWpoTFdkMU1RUnVpeWlYd1NSMm1UV01iRGZOVFc2Y2FrZ9IBgwFBVV95cUxOX2NaYmNzTWFzUFV3Sk44RHpvMExPSmVST3FpckhtMDduRUhQLXRiYWpOV0l1NnlhQ3M1bl9vZ3RqTmFpcF96OVV5TXlNZXp6TWJ5VUFyWE9KaW1YVDFlLTl1SFZxMjVNbEZLa01aaFdpbmZOODRIdjBLaUVrZ0FXQk93SQ?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "added": "2026-10-13T14:41+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tYzRKSW5fcVFxLURxQ3NHQUpRdUtFMnFIOEFhYWE5MEUzMU9uY2pjWGZtcDl2ZWc4Nld2aWZvM1ZxWUxDckhPbm5UTVE?oc=5"
   },
   {
    "date": "2026-10-02",
