@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T19:11+09:00",
- "checked": "2026-10-29T19:11+09:00",
+ "updated": "2026-10-29T20:05+09:00",
+ "checked": "2026-10-29T20:05+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -683,6 +683,50 @@
    "auto": true,
    "added": "2026-10-29T19:11+09:00",
    "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEFNUG9WNGNkZGsta1lHbWZWOW15N3p6RHoxOVQxVmxoR0c2TUp6UmFwOUM1TXZONFEyZ0NBRXhUUmZsOEU1NEV4ZWM1M0JXTVVHaVNhVlA2LW5tVVFRTWd6UHppT1M1SDhHZXhlY3kzWl8waVBibDJQeG9hdFRPV2ZCQkJoZjg?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "shinkansen",
+   "title": "JR東海 のぞみ13本ダイヤを拡充へ・将来的に14本化も検討",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KVjNCbGdjdEx5dW5ldWt0dEpZNHBIWGtxUXlMbUk3dXhiTkltZ3VlbzdQcVY4ZHgtOTYyOXB2MG9vSklWVXBlUjg2R2VOUlU?oc=5",
+   "src": "4号車の5号車寄り",
+   "auto": true,
+   "added": "2026-10-29T20:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KVjNCbGdjdEx5dW5ldWt0dEpZNHBIWGtxUXlMbUk3dXhiTkltZ3VlbzdQcVY4ZHgtOTYyOXB2MG9vSklWVXBlUjg2R2VOUlU?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "event",
+   "title": "名古屋の「ぴよりん」がゴジラになっちゃった 可愛すぎるコラボグッズ続々、ぬいぐるみは受注生産受付中",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5URXVDOUxxLVZGZ2JycXpBa3VDaGhqczJ4OVZ6Q3NDMlFCWGdYZnRPN2tpS3o1enJJcDNkR0F4eUMzdG1hRzRqc0lIdVpkQkIyWmh6c05XYW1ZdE1CeDVSOEtB?oc=5",
+   "src": "Infoseek",
+   "auto": true,
+   "added": "2026-10-29T20:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5URXVDOUxxLVZGZ2JycXpBa3VDaGhqczJ4OVZ6Q3NDMlFCWGdYZnRPN2tpS3o1enJJcDNkR0F4eUMzdG1hRzRqc0lIdVpkQkIyWmh6c05XYW1ZdE1CeDVSOEtB?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "linear",
+   "title": "リニア中央新幹線「年内に開業時期を示す」着工は早くても来年春の見込み (2026年10月29日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11N2NNblAyMDVtOE9KOUQxTE5Ta0NQT0pwM01wMmxnS0hOUDlUMElEaEhodXB0ckhpekh2bXQ2NTNINzZ4RjJkd0VUTzlrUVpTRUxoa09NVW5fVE4wbVE?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-29T20:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JVXlvRHpRMFRITnpvODN5RGFJdzh0S0pNX2ZrZTJpdHQ1RjRDOGtYY0Vrd2UxX1F1QzhsVVBoV2k2X1c3eDk1VnF0eW11UFp4bWhjSjF1cGJqWGNK?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "中部電力 浜岡原発のデータ改ざんを受けて…業績予想を下方修正 2150億円の赤字見込み",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBheTQzWDFpUHFVT0dPQUcyRGF0b3RlUTh4bmtxVEwwcWdZSnZUVWlOUWE0RUZ4Z2hHa2xYZFBxTUhtZ1dIbUxYUGE4ZFZpQ3lfMTQyZFdPQXBkVkRRMzRHWlV1QkRyU21KdS1sU2N3?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-10-29T20:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBheTQzWDFpUHFVT0dPQUcyRGF0b3RlUTh4bmtxVEwwcWdZSnZUVWlOUWE0RUZ4Z2hHa2xYZFBxTUhtZ1dIbUxYUGE4ZFZpQ3lfMTQyZFdPQXBkVkRRMzRHWlV1QkRyU21KdS1sU2N3?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -15705,7 +15749,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14WEhDQmh2SFN6LURSdHRvRFlSUlk2cnE5YXVsdnNVcjlEMGphbi1pMFd4bjZnR3A2VVdNNV93R2JBQ1k3T1YzVmNkdmVxNE9XaGZfaDgtRQ?oc=5",
    "src": "鉄道ファン・railf.jp",
    "auto": true,
-   "g": "https://jr-central.co.jp/news/release/nws000001_00615.html"
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14WEhDQmh2SFN6LURSdHRvRFlSUlk2cnE5YXVsdnNVcjlEMGphbi1pMFd4bjZnR3A2VVdNNV93R2JBQ1k3T1YzVmNkdmVxNE9XaGZfaDgtRQ?oc=5"
   },
   {
    "date": "2026-10-09",
@@ -15725,7 +15769,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydlVEXzhBc1J3VmlhTmVCZmtfS2ZrSlJnSkdsTnZxNFBQTU53ZzhRX2U5QnJHUE5EX0pqcGR3a3hudU9tNWZudmM3R09XTXlEVWtfWFNKUQ?oc=5",
    "src": "鉄道ファン・railf.jp",
    "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydlVEXzhBc1J3VmlhTmVCZmtfS2ZrSlJnSkdsTnZxNFBQTU53ZzhRX2U5QnJHUE5EX0pqcGR3a3hudU9tNWZudmM3R09XTXlEVWtfWFNKUQ?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14WEhDQmh2SFN6LURSdHRvRFlSUlk2cnE5YXVsdnNVcjlEMGphbi1pMFd4bjZnR3A2VVdNNV93R2JBQ1k3T1YzVmNkdmVxNE9XaGZfaDgtRQ?oc=5"
   },
   {
    "date": "2026-10-09",
@@ -16357,47 +16401,6 @@
    "auto": true,
    "added": "2026-10-13T14:41+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tYzRKSW5fcVFxLURxQ3NHQUpRdUtFMnFIOEFhYWE5MEUzMU9uY2pjWGZtcDl2ZWc4Nld2aWZvM1ZxWUxDckhPbm5UTVE?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "eki",
-   "title": "名古屋駅から刈谷駅(2026年06月20日) 鉄道乗車記録(鉄レコ・乗りつぶし) by RAPIDさん",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NYXB1WnlDZkxsMWItaUFkMjRMT050NEYzYjFQM1dIR0RzYWU1NnRuMnZ4UE9xQ1FER1V1OHNsa2RGNjlkZk1r?oc=5",
-   "src": "レイルラボ",
-   "auto": true,
-   "added": "2026-10-14T20:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NYXB1WnlDZkxsMWItaUFkMjRMT050NEYzYjFQM1dIR0RzYWU1NnRuMnZ4UE9xQ1FER1V1OHNsa2RGNjlkZk1r?oc=5"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "event",
-   "title": "ＪＲ東海ＭＡＲＫＥＴで今年も「鉄道の日 記念特集」を実施します！ 680.2KB",
-   "summary": "",
-   "url": "https://jr-central.co.jp/news/release/nws000001_00615.html",
-   "src": "JR東海",
-   "auto": true,
-   "g": "https://jr-central.co.jp/news/release/nws000001_00615.html"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "event",
-   "title": "鉄道の日を記念しＪＲ東海「ＪＲ東海ＭＡＲＫＥＴ」とＪＲ西日本「ＷＥＳＴＥＲモール」が初コラボ！ 559.3KB",
-   "summary": "",
-   "url": "https://jr-central.co.jp/news/release/nws000001_00616.html",
-   "src": "JR東海",
-   "auto": true,
-   "g": "https://jr-central.co.jp/news/release/nws000001_00616.html"
-  },
-  {
-   "date": "2026-10-07",
-   "cat": "unko",
-   "title": "東海道新幹線 停電で新富士駅〜静岡駅間の上下で一時運転見合わせ 最大20分遅れ4900人影響=JR東海",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4a280bjdRR2NrNGgwVmFTaC1YMHE5Sm1KSkYxZXBxZW1RalBvLVhFRmNLVzN0WUpha2RTb05HTENzc0ROeldSczRXV2FydFB4ZjIyS0hhVmNnSjNrMXFVNm5TN2JHc2M?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4a280bjdRR2NrNGgwVmFTaC1YMHE5Sm1KSkYxZXBxZW1RalBvLVhFRmNLVzN0WUpha2RTb05HTENzc0ROeldSczRXV2FydFB4ZjIyS0hhVmNnSjNrMXFVNm5TN2JHc2M?oc=5"
   },
   {
    "date": "2026-10-02",
