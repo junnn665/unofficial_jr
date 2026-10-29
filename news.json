@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T06:05+09:00",
- "checked": "2026-10-30T06:05+09:00",
+ "updated": "2026-10-30T07:02+09:00",
+ "checked": "2026-10-30T07:02+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -2047,6 +2047,17 @@
    "auto": true,
    "added": "2026-10-30T02:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "zairai",
+   "title": "飯田線を今春退役の213系車両、富山地方鉄道へ 本年度から順次運用：ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFJyNTVUOHVhZldzZVp3b2tmeXA2LUhTX0FxbERQdnRPYnRHR240MGhPcVNCQlRZUGQ3cHVxeDZMUVlaZFllNWprN0NTN3pHWUliM0ttM2dIeHNVOUlQZWwxUmo?oc=5",
+   "src": "中日BIZナビ",
+   "auto": true,
+   "added": "2026-10-30T07:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFJyNTVUOHVhZldzZVp3b2tmeXA2LUhTX0FxbERQdnRPYnRHR240MGhPcVNCQlRZUGQ3cHVxeDZMUVlaZFllNWprN0NTN3pHWUliM0ttM2dIeHNVOUlQZWwxUmo?oc=5"
   },
   {
    "date": "2026-10-27",
@@ -16407,16 +16418,6 @@
    "src": "レイルラボ",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xNC02VkpvdWNPejVIVGczNDJkTzd3c0xwNGdtTFdtM3lvN0dnN1dRWk9SM3JsbjlMclF5ZzhSRUZ1VHp1YW5wNVFBQlA5Zw?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "linear",
-   "title": "リニア工事で掘削機の部品が欠ける 北品川工区、工期遅れの可能性も（朝日新聞）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03LVlid2pCZjIzQVNDdUFUU3JZZ1Z5bmduNlNGcnZaelA0ZEMtWm9tV1JRZTJVN3JPNVRXYVlDY3U0eUt2QVJ1NWVvd2o2NGJYbXlXTUdLZ0FiVENLYWVUcE1lOVNKNnIzQzlic0x4bGJySWQ5TThIazJRd2dkVHc?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03LVlid2pCZjIzQVNDdUFUU3JZZ1Z5bmduNlNGcnZaelA0ZEMtWm9tV1JRZTJVN3JPNVRXYVlDY3U0eUt2QVJ1NWVvd2o2NGJYbXlXTUdLZ0FiVENLYWVUcE1lOVNKNnIzQzlic0x4bGJySWQ5TThIazJRd2dkVHc?oc=5"
   },
   {
    "date": "2026-10-02",
