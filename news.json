@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T04:17+09:00",
- "checked": "2026-10-30T04:17+09:00",
+ "updated": "2026-10-30T05:05+09:00",
+ "checked": "2026-10-30T05:05+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -56,6 +56,28 @@
    "auto": true,
    "added": "2026-10-30T03:05+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PWUViSDNwWUpxZGYtRmVUMzJieGhvX3BzeFMzZHN6SGFmQi10TTMwODRuTExrMDVUSkZVd1BFX0MyU0h2dmZ4RGQ3Y3VPbzFFZEw5Y0lSNU1OZw?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "kaisha",
+   "title": "JR東海の人事部長「採用面接は価値観の一致を重視」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVE9HV0kweE9RcWxvdjZLLVdvc0JyRUNOWGVVSUpUQXV4MEx2aldjNldwN2s3aVVkZWJSdWpsVmlfMGtIS0lKSy1iNndEeVJkczdLY3FqMkszRDctazIzN0Z0WnI5VEtPbjd5Sg?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-30T05:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVE9HV0kweE9RcWxvdjZLLVdvc0JyRUNOWGVVSUpUQXV4MEx2aldjNldwN2s3aVVkZWJSdWpsVmlfMGtIS0lKSy1iNndEeVJkczdLY3FqMkszRDctazIzN0Z0WnI5VEtPbjd5Sg?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "linear",
+   "title": "山梨：リニア 駅周辺に屋内運動施設 県検討 有識者研究会設置へ ：地域ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81QkpiQUJCNGtiZjdXNGNlZTlfb2JZXzV0ODRtYlZZVVAzeXNhdDRPU1NEeFRJdks0SXBjZllUUEZWcWRBY1FYdlJLMUlhUk04V19YQ2lvOElKTEFfSk85bktPOWYxLW90QkVGZGNOVlluMmpUd3c?oc=5",
+   "src": "読売新聞",
+   "auto": true,
+   "added": "2026-10-30T05:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81QkpiQUJCNGtiZjdXNGNlZTlfb2JZXzV0ODRtYlZZVVAzeXNhdDRPU1NEeFRJdks0SXBjZllUUEZWcWRBY1FYdlJLMUlhUk04V19YQ2lvOElKTEFfSk85bktPOWYxLW90QkVGZGNOVlluMmpUd3c?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -16392,26 +16414,6 @@
    "src": "Tetsudo.com（鉄道コム）",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tYzRKSW5fcVFxLURxQ3NHQUpRdUtFMnFIOEFhYWE5MEUzMU9uY2pjWGZtcDl2ZWc4Nld2aWZvM1ZxWUxDckhPbm5UTVE?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "event",
-   "title": "「50０系新幹線」・「ドクターイエロー（T5）」引退記念グッズ “チョロQ”・“TOMIX製貨車・コム１形”・“シール”・“絵本”の発売！",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XT2MtajR6cGczWDlGVzByd1JiWnphZ0NBX01HdkNyMFlGZW9Sb1Y4SUJEUDllcDJSU2FJNWZnRGNWb0p0NDdoZWcyQUlkbndfdTRMTFhicWtRNlhiWXdfOENmZkFoaU5DVjVF?oc=5",
-   "src": "時事ドットコム",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tYzRKSW5fcVFxLURxQ3NHQUpRdUtFMnFIOEFhYWE5MEUzMU9uY2pjWGZtcDl2ZWc4Nld2aWZvM1ZxWUxDckhPbm5UTVE?oc=5"
-  },
-  {
-   "date": "2026-10-08",
-   "cat": "event",
-   "title": "500系＆923形T5編成がドレスに！2027年引退記念「リカちゃん」登場 ロゴ・車番入り",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HVUJaWFc4b1g5Y3BOc1B0SUlmd0Rsekp6MXI3dVJBVTExNFc3NXplSER5TEo0TEZNUVNsbjhGem4zNjJJbmU3SGJBbnU5QQ?oc=5",
-   "src": "レイルラボ",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HVUJaWFc4b1g5Y3BOc1B0SUlmd0Rsekp6MXI3dVJBVTExNFc3NXplSER5TEo0TEZNUVNsbjhGem4zNjJJbmU3SGJBbnU5QQ?oc=5"
   },
   {
    "date": "2026-10-02",
