@@ -1,12 +1,18 @@
 {
  "date": "2026-10-30",
- "generated": "2026-10-30T21:02+09:00",
+ "generated": "2026-10-30T22:21+09:00",
  "ai": false,
  "items": [
   {
    "text": "決算マイナス・インパクト銘柄・寄付 … 日立、ＮＥＣ、ＪＲ東海 (10月28日発表分)",
    "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBYzdoMEFpN2loZURiaWhWUFVZOWtGeFhYTUlWT1VwZzBiNHl2UUcwNzE2RnpEdXdsMmNxejM0LVJSMGVqd0twMkoyc20xNm5yb3c?oc=5",
    "title": "決算マイナス・インパクト銘柄・寄付 … 日立、ＮＥＣ、ＪＲ東海 (10月28日発表分)",
+   "n": 4
+  },
+  {
+   "text": "静岡県、リニア工区を視察",
+   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYWIxbXlFUDEtVU5DYk93S3B5VnBCSUUxNFd2MkMwWGtTczgtaFdybzJEUkpTME1hTVdfYXctQ0JKVzhYS1k3cm9WYWFpeXJTX1E?oc=5",
+   "title": "静岡県、リニア工区を視察",
    "n": 4
   },
   {
@@ -25,12 +31,6 @@
    "text": "リニア開業時期 年内公表で検討",
    "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5",
    "title": "リニア開業時期 年内公表で検討",
-   "n": 3
-  },
-  {
-   "text": "東海道新幹線「のぞみ」14本ダイヤ目指すと表明 JR東海",
-   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PWUViSDNwWUpxZGYtRmVUMzJieGhvX3BzeFMzZHN6SGFmQi10TTMwODRuTExrMDVUSkZVd1BFX0MyU0h2dmZ4RGQ3Y3VPbzFFZEw5Y0lSNU1OZw?oc=5",
-   "title": "東海道新幹線「のぞみ」14本ダイヤ目指すと表明 JR東海（CBCテレビ）",
    "n": 3
   }
  ]
