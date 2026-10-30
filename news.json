@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T23:20+09:00",
- "checked": "2026-10-30T23:20+09:00",
+ "updated": "2026-10-31T00:14+09:00",
+ "checked": "2026-10-31T00:14+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -1464,6 +1464,17 @@
    "auto": true,
    "added": "2026-10-30T22:21+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWkNxb1JVNERyU1k1bTA2R29QalZndk1kQmZYR05zSW4tVkJVd2owVVcwdzJKS2I0czFmamI5b3ZIX3luUkt5amQwN2YwM2lwLUZ5MEwwNGdQSEZMbW5laFVGTldvVjFLd0xWSXViTS1YaU14dmtZSnlFV3R4Zzg?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "eki",
+   "title": "JR名古屋駅に着いたら『えびの、勝ち』と言われて一瞬で負けて鬱→老舗のえびせん屋さんの広告で1本まるまる姿焼きもあるから「負けを認めざるを得ない」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSE1idUJNMGFDRndNNjlVdVNxLVhvZnY0ZTd3NTRxTFVOU2hESWdFMUVOMk5jTHJ4TWhEODhoZlQ0NGgwOVE?oc=5",
+   "src": "Togetter",
+   "auto": true,
+   "added": "2026-10-31T00:14+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSE1idUJNMGFDRndNNjlVdVNxLVhvZnY0ZTd3NTRxTFVOU2hESWdFMUVOMk5jTHJ4TWhEODhoZlQ0NGgwOVE?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -16458,16 +16469,6 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aUnZ2d21DT1ZYanp4ejNiUDhrSkxOMFhPV0hUMEdVMzR0cUQyUEpvVjFkYmRNUTI4d2NBVTFYU0RyZ2NKbXlDc3U5Sk14U0RMSmxhbVV4dUEyNlJtRGJHTVRUVQ?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "shinkansen",
-   "title": "【NewDays,JR東海リテイリング・プラス限定！鉄道の日企画】伊藤園×OJICO新幹線や電車デザインのペットボトルカバーが付いてくる！",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zT2RLNDRiU0ZGaF9tM2Q1V0lwQTUzQ0htekV4NUNKY0RkbEZwSUdFRE53TzZRS0ZWQ3N4Y2dtcHpYeVJhLVJmSnI4czM5eVNSTzAwNnE5Z05WSlkyb3lYc0VLZUZ2VXpndWc?oc=5",
-   "src": "PR TIMES",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zT2RLNDRiU0ZGaF9tM2Q1V0lwQTUzQ0htekV4NUNKY0RkbEZwSUdFRE53TzZRS0ZWQ3N4Y2dtcHpYeVJhLVJmSnI4czM5eVNSTzAwNnE5Z05WSlkyb3lYc0VLZUZ2VXpndWc?oc=5"
   },
   {
    "date": "2026-10-02",
