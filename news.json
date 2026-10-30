@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T15:03+09:00",
- "checked": "2026-10-30T15:03+09:00",
+ "updated": "2026-10-30T16:26+09:00",
+ "checked": "2026-10-30T16:26+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -243,6 +243,61 @@
    "auto": true,
    "added": "2026-10-30T15:03+09:00",
    "g": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9mSUtOQzE2azBFMjJEWURLNkRlRWtFMi1HMTllb0lXZUViSXZfdTVTWGhVWkZxNVJQdkFr?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "shinkansen",
+   "title": "ＪＲ東海、ＪＲ西日本 「のぞみ」「みずほ」の指定席特急料金と新幹線全列車のグリーン料金改定",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HUVFoXzFQZ1hZRzlZY3BqVTRGV181dHJOLTczUjhNV2I5S09UV2VXLW9taThXcmlXWERBSHJiUVNFbkxiZGFYTGpvNE5jdTZCRkxrUA?oc=5",
+   "src": "観光経済新聞",
+   "auto": true,
+   "added": "2026-10-30T16:26+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HUVFoXzFQZ1hZRzlZY3BqVTRGV181dHJOLTczUjhNV2I5S09UV2VXLW9taThXcmlXWERBSHJiUVNFbkxiZGFYTGpvNE5jdTZCRkxrUA?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "kaisha",
+   "title": "JR東海、中間売上高が初の1兆円超え 新幹線需要が支える一方、労務費増で減益",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QTDUzS3psQXlYZnViRXlmNUhCeWt1eE5RMUM4LWUzSENjanJFdnJpbmduWFdQUW52N2t3amJlbHdqZ1c4UW9tbUxfZXh2OTRwVW5r?oc=5",
+   "src": "東京報道新聞",
+   "auto": true,
+   "added": "2026-10-30T16:26+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QTDUzS3psQXlYZnViRXlmNUhCeWt1eE5RMUM4LWUzSENjanJFdnJpbmduWFdQUW52N2t3amJlbHdqZ1c4UW9tbUxfZXh2OTRwVW5r?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "event",
+   "title": "11/1より東海道新幹線モバイルオーダーのコーヒーがリニューアル！～車窓の景色とともに、世界を旅するような贅沢な一杯を～",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aSV9QclJvQjB6cXd6c0FzSVljOFVONFNhTHVucDF2eFZpRkkyM3VTa1JDdUU3enJwWnMtTHRZdXNRWW5UYS1NSWkyUTI5ZEJfdTlucGtrUENUY3dQeEE?oc=5",
+   "src": "沖縄タイムス社",
+   "auto": true,
+   "added": "2026-10-30T16:26+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aSV9QclJvQjB6cXd6c0FzSVljOFVONFNhTHVucDF2eFZpRkkyM3VTa1JDdUU3enJwWnMtTHRZdXNRWW5UYS1NSWkyUTI5ZEJfdTlucGtrUENUY3dQeEE?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "event",
+   "title": "にじさんじ Girls Idol Festival ✕ JR東海 SPECIAL GIRLS TALK!!｜推し旅公式サイト｜ＪＲ東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE92UnBadTJvdFByNzgxVVVvMEZvSW13RmpLdkxwejhYbVZzQkZ1UGpXRTVGSzY2TGtyTllr?oc=5",
+   "src": "Howl.Link",
+   "auto": true,
+   "added": "2026-10-30T16:26+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE92UnBadTJvdFByNzgxVVVvMEZvSW13RmpLdkxwejhYbVZzQkZ1UGpXRTVGSzY2TGtyTllr?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "other",
+   "title": "ドクターイエローT5編成 新大阪へ！",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tX0gyYl9jWDV5YUlfeUwweDgzZTlCQmpvenp6Mk1zRWFwQUNDd1NvM1RxS1FKdk5lVktUdU9hdmlmak9CMS1lMl9BVURQbkVmRVpIbUdER0E3Ykx6?oc=5",
+   "src": "YouTube",
+   "auto": true,
+   "added": "2026-10-30T16:26+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tX0gyYl9jWDV5YUlfeUwweDgzZTlCQmpvenp6Mk1zRWFwQUNDd1NvM1RxS1FKdk5lVktUdU9hdmlmak9CMS1lMl9BVURQbkVmRVpIbUdER0E3Ykx6?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -2267,6 +2322,17 @@
    "auto": true,
    "added": "2026-10-30T08:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHcHVPODd2U2N0VFFpTnFFVXFQX0s2VUNVYlpiaXVpc3V2ZUMyRzZmck5kaS1GV09NNVU4VzhmSUd4OXo3eFFJTHQ2alNtaWtnOWRHd1dYdUhKQQ?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "kaisha",
+   "title": "ヒューリックが後場プラス圏に再浮上、２６年１２月期業績予想及び配当予想を上方修正",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpNjRzTXJZYU5BbXF2aU9BckJrU1lhamVSRlJDblc5MEc3QWNHbWg2SXctdlNsOGFMMUw3bHZadzN3R0Uya2c?oc=5",
+   "src": "みんかぶ",
+   "auto": true,
+   "added": "2026-10-30T16:26+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpNjRzTXJZYU5BbXF2aU9BckJrU1lhamVSRlJDblc5MEc3QWNHbWg2SXctdlNsOGFMMUw3bHZadzN3R0Uya2c?oc=5"
   },
   {
    "date": "2026-10-27",
@@ -16375,66 +16441,6 @@
    "src": "Tetsudo.com（鉄道コム）",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTWdqZmhOdGlpWUNINWxpa2VpbXlIZ043ek94M2Y5U05KUzV0akY4dlgzcGh4cXpRcEh1SVZMd19MeVY1YndKNEU5UDI?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "event",
-   "title": "特急しらさぎ・ひだ JR東海・西コラボグッズ 販売",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rbHZoNTZfRmFFeWFWUkoyWFJmanJ5N0VscTRXcTdSMkE1dE5wTnpaWHR4Z2xJV1BTNVdiNmJHQ0pnc2JwOXZ5UzhlN3RyQnFJbGxyX3lfRWdOb3FvX1ZxV1h3aDFBN1BCUng5VENrWEZ3THJzMFJreGNaUHNlUdIBgwFBVV95cUxOS25ReVZqOGZSRUVDZFJFWkZSSWtqcWdDNmdfN2lHYW5CcXlrZU0yWmpfdmN1Wksxcm1RYzZ2NkN5UTVvbHg3bUhYZDVBcTIxZDFrbmxuSy1lTXZ3RmUtSTJkWkhEdEliakxubDNvZjRWM0YwWWQ3XzE5MEw0dENBaHRPQQ?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTWdqZmhOdGlpWUNINWxpa2VpbXlIZ043ek94M2Y5U05KUzV0akY4dlgzcGh4cXpRcEh1SVZMd19MeVY1YndKNEU5UDI?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "other",
-   "title": "前場コメント No.5 ＪＲ東海、乃村工、アルバイトタイ、ファンデリー、ブックオフＧＨ、トーセ(トレーダーズ・ウェブ)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUd2eFpwNWF3aFM2YVFleXpnUWpsYi1JSUpYcVhwaFdWV2dBd0ZId2FqMDVSS3lXbGY3NnVKLXJQMUZZZ00yNS1ydkU3WHNjUnhQTTJMMFRPOHJ2cFRWTU1VemFhaG5ZelhJUDREZWFaM1A4dkEyR0dlWldoSTB0RWtfeUsyU0U?oc=5",
-   "src": "Yahoo!ファイナンス",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUd2eFpwNWF3aFM2YVFleXpnUWpsYi1JSUpYcVhwaFdWV2dBd0ZId2FqMDVSS3lXbGY3NnVKLXJQMUZZZ00yNS1ydkU3WHNjUnhQTTJMMFRPOHJ2cFRWTU1VemFhaG5ZelhJUDREZWFaM1A4dkEyR0dlWldoSTB0RWtfeUsyU0U?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "kaisha",
-   "title": "東海旅客鉄道(株)【9022】：今の株価の理由は？値動きの背景をAIが解説",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tNDlhbS1OSk9QWFRta05Fc3g4QUxCTTJTMVJUc2l6YlFoQWRYMHJjMkpfdm5mTWoxOEZuOGRRczhBaVdKMGR4MWNwY0R6cGM3Y1puSFNLRFFsbWJkanRz?oc=5",
-   "src": "Yahoo!ファイナンス",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tNDlhbS1OSk9QWFRta05Fc3g4QUxCTTJTMVJUc2l6YlFoQWRYMHJjMkpfdm5mTWoxOEZuOGRRczhBaVdKMGR4MWNwY0R6cGM3Y1puSFNLRFFsbWJkanRz?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "shinkansen",
-   "title": "N700S・ALFA-Xなど ペットボトルカバーつきお茶 販売（2026年10月13日～）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Jb0hhQW1kc2YxYUR5UEJOOWxuRTlYTG1VQnRNLUlMTWthSmRvLURKUW55RVNDcVBiRXo2NUhlWXVic2RXck9wc3U0V1c?oc=5",
-   "src": "Tetsudo.com（鉄道コム）",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yNzZySDd4WEVGWXR5eENidEZ6SEppZ2JlTDY4X0VoTTV6SE85SEw2Nk12dVlscEtyS3QxMmJZeWpQVVVMbEV1WVY1VUwya2RZNW9lT2I1eS1nbGxWVTljWjVmREtuTC1IdEZTMXZ6bUFxeUJzWUxXUHBrSVp3UdIBgwFBVV95cUxNYjVwcWFQMXotQ0s5WExGLUxfREQxN1BDUWtjT2hlS0E3R0tsdUVldmdueFEzR0gwb054N3Z2WmZzYmFYREQ5MzdHWmxTU1N5V0h1Q0FFWVBxN29CNUVyZVNnX1FaZ2RYaXRGeVRtbi1SVi0xNzdvSEV5ZGRNbjJkVFJ4dw?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "linear",
-   "title": "JR東海、北品川工区リニア工事の再開見通し立たず 掘削機損傷で：ニュース",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82V1NZSnp5WmE2Z0tsUy0zdE5DN0RtR21Mc3FlVVlzbEFCUzJ4MDNsVGRUU1Y5Q0NsZkhaYkpTSDdQeUwzUE15UlYzQ2ZWS1Q2QlhDY3UxMS10U3F2UUk0?oc=5",
-   "src": "中日BIZナビ",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82V1NZSnp5WmE2Z0tsUy0zdE5DN0RtR21Mc3FlVVlzbEFCUzJ4MDNsVGRUU1Y5Q0NsZkhaYkpTSDdQeUwzUE15UlYzQ2ZWS1Q2QlhDY3UxMS10U3F2UUk0?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "other",
-   "title": "JR西日本、2028年に新型「レール輸送用気動車」導入 JR東海「キヤ97系」がベース（鉄道コム）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSmxmX1c5RXBLNjdCbXUwOFhJa21YRUlON016S0pDSnNfQkFpNUtUWExNeFEyN0tGUGJwTjB5ZElWeHpTU251eDRTQ2VGdGFEeUNyeUJpRkk2c0g5X05hbDlLSWpYUEVVWlBqaGxCVVBqSjE1elR3c2lndlRSeUE?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczVLblBIS2twWVZPME01Y0w3YzVjNmZjNGtRdjN1R3h5MDlGUkZnZ1hWbVdWYkhtM1ZYMkllNUdBaVdGbzE4QTZLbnpmT200MS1yckFGYXRJMlh2bWhHZ1BURi0zcFJ5eTd1ZmFPaEh1SmdwaG85a2VQNHJIZXMzQlE3bFZJdGVGdHFvMm9n0gGAAUFVX3lxTE5PQ1htenJicWpibUVFR3IwTV9MckprLVJMc2diQjdsQUFJUkluNEVmdlA3R2dZajVHcEU3TXpaX3FwUGhpRHRYSFRURDN5MmtVSHFIdXNPSEw3UFRkT2p3WmdQMVFNUUxnMndfZWh0eEh0Y1dleHN4OGFlUWZYV3hv?oc=5"
   },
   {
    "date": "2026-10-02",
