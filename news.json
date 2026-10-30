@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T22:21+09:00",
- "checked": "2026-10-30T22:21+09:00",
+ "updated": "2026-10-30T23:20+09:00",
+ "checked": "2026-10-30T23:20+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -550,6 +550,39 @@
    "src": "南日本新聞",
    "auto": true,
    "added": "2026-10-30T22:21+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYWIxbXlFUDEtVU5DYk93S3B5VnBCSUUxNFd2MkMwWGtTczgtaFdybzJEUkpTME1hTVdfYXctQ0JKVzhYS1k3cm9WYWFpeXJTX1E?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "linear",
+   "title": "静岡県の有識者会議委員らがリニア工区を視察 湧水を大井川に戻す導水路トンネルの出口予定地など確認",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLSTNyOGFaLXJhTHFQUkJBTkIydnhYaldXVWZvRW96RGZ4RkUxNTBkMHAzRXZ5bURHbXI1TnZ2VG9qbkZXR1FKeEJ6cnZlRVZJMWhJVnlZUm1zVThhdjFKdGtPSkppbDlwdzdR?oc=5",
+   "src": "中日新聞Web",
+   "auto": true,
+   "added": "2026-10-30T23:20+09:00",
+   "g": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLSTNyOGFaLXJhTHFQUkJBTkIydnhYaldXVWZvRW96RGZ4RkUxNTBkMHAzRXZ5bURHbXI1TnZ2VG9qbkZXR1FKeEJ6cnZlRVZJMWhJVnlZUm1zVThhdjFKdGtPSkppbDlwdzdR?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "linear",
+   "title": "【リニア】「現地を確認するのは非常に意義があった」静岡工区を監視する県のモニタリング部会が初視察 田代ダムや椹島ヤードで環境対策を確認 着工は2027年3月以降か（静岡放送（SBS））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oclh2VDJRVkhYRjFma3RzakdMTjJFTmVWSTQtVTdxM25BbTBtWWdVMi1xNGxUN05zZGdhR1VZbEM0Tll5R0p5R3F1dWRYSkV6TVhJSGVjbmJfQktqYjFFOXJHQUk1R0kzdHJmdkcwa0FaaU82WWE4UmJlMXJVMjQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-30T23:20+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjMmFJZlJSWmxIeVkyX0l6Ym5LeWlqNjNrUHhvcHRqS00yclhrb01rZWpwQ2FpWFBVaGhQRGhkSDlMbWVQUHI5Z3JqSzdkVzZfUEw1MWtjbUhZMWh2MklJVA?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "linear",
+   "title": "静岡県、リニア工区を視察 環境保全策を確認 (2026年10月30日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zVjAzYVBqdWs3R2w0YV9tMFVqVmFJcVRaRWZTdFFxQnJQZWtKMUgzRU53T3VIWFdpSFo3VEJ2NmRXaF9qenNpRDh5X01sYzZPVnhKMDJpTkY1eWpJc2c?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-10-30T23:20+09:00",
    "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYWIxbXlFUDEtVU5DYk93S3B5VnBCSUUxNFd2MkMwWGtTczgtaFdybzJEUkpTME1hTVdfYXctQ0JKVzhYS1k3cm9WYWFpeXJTX1E?oc=5"
   },
   {
@@ -16435,36 +16468,6 @@
    "src": "PR TIMES",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zT2RLNDRiU0ZGaF9tM2Q1V0lwQTUzQ0htekV4NUNKY0RkbEZwSUdFRE53TzZRS0ZWQ3N4Y2dtcHpYeVJhLVJmSnI4czM5eVNSTzAwNnE5Z05WSlkyb3lYc0VLZUZ2VXpndWc?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "other",
-   "title": "静岡県知事、国交相と意見交換 空港振興など 「お祝い伝えた」",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xUjdWdW90bGlEaDAzV3R4X3R4d1hBRDl3LWlIU3lnYjdxSEF4MDYyVVpaVEJ4TUlfc0FXN0pVajlrNlExWThFdXdCcWRwZw?oc=5",
-   "src": "静岡新聞DIGITAL",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xUjdWdW90bGlEaDAzV3R4X3R4d1hBRDl3LWlIU3lnYjdxSEF4MDYyVVpaVEJ4TUlfc0FXN0pVajlrNlExWThFdXdCcWRwZw?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "shinkansen",
-   "title": "【NewDays,JR東海リテイリング・プラス限定！鉄道の日企画】伊藤園×OJICO新幹線や電車デザインのペットボトル",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53N2RBNkk4UFE5VktBQ3hwZEYwaXNjdTVGTVFoeDJjMGVuWUY4d3RJTU1aTUdWNS1xcmMxVEFyMFZHbFRfZEdRVW1uM3M1V0UwMkthdDJyN0JBMlhHY3dPSnVPRk12Vzl3U0JUdlVHN0YwQ2ZQRUg3MXAzNA?oc=5",
-   "src": "ニコニコニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zT2RLNDRiU0ZGaF9tM2Q1V0lwQTUzQ0htekV4NUNKY0RkbEZwSUdFRE53TzZRS0ZWQ3N4Y2dtcHpYeVJhLVJmSnI4czM5eVNSTzAwNnE5Z05WSlkyb3lYc0VLZUZ2VXpndWc?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "event",
-   "title": "JR東海バス×名鉄バス、共同採用企画 運転体験会＆職場見学ツアーを開催",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCeWdJclEtSDdkSUJmTmlqRXBKY1U0VFR5OWU1dWVvY2VmaF92LTI2aEUwMllGbFkyWUh4RE5tWjBLWWxJQkoyTnVpWEFzQQ?oc=5",
-   "src": "旅行新聞",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCeWdJclEtSDdkSUJmTmlqRXBKY1U0VFR5OWU1dWVvY2VmaF92LTI2aEUwMllGbFkyWUh4RE5tWjBLWWxJQkoyTnVpWEFzQQ?oc=5"
   },
   {
    "date": "2026-10-02",
