@@ -157,11 +157,7 @@
    "note": "品川から西へ掘る約9.2kmのシールドトンネル。約734m進んだところで、シールドマシンの中で異音がしたため掘進を止めて点検している（JR東海 10/19資料）。",
    "src": "https://company.jr-central.co.jp/chuoshinkansen/urban_shield-tunnel/progress/_pdf/000046071.pdf",
    "status_date": "2026-10-09",
-   "latest": {
-    "date": "2026-10-09",
-    "title": "品川区地下のリニアトンネル掘削工事で大型掘削機の部品に損傷確認 点検完了に半年以上 工事再開はさらに先の見通し JR東海",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nZk9aa0dMbUxhdG9PWGllak5DUlN3My1FLWtHM24xTnhCaFhicGZseFZ1N1pKN29vNC1OTVVYZV9EUURXdUdiSUw5S0w4LXBiVHRrZWhiNXdhb2h2dHpVUjByVnp3WEk5RE5NalhHVdIBdEFVX3lxTE1xb0czR0VOaFNWemJxZEtta3JlVXpFN1dGcTlseEloZUN0REpzMFFISjdvbEtmVF9xOVVHM01OM080M1RIUG8xX1pMaUdoOUhudl9YaDJHbHdBRllVbFZrX0pLTU9USkxTWHpmWjAteFFidm1m?oc=5"
-   },
+   "latest": null,
    "status_src": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nZk9aa0dMbUxhdG9PWGllak5DUlN3My1FLWtHM24xTnhCaFhicGZseFZ1N1pKN29vNC1OTVVYZV9EUURXdUdiSUw5S0w4LXBiVHRrZWhiNXdhb2h2dHpVUjByVnp3WEk5RE5NalhHVdIBdEFVX3lxTE1xb0czR0VOaFNWemJxZEtta3JlVXpFN1dGcTlseEloZUN0REpzMFFISjdvbEtmVF9xOVVHM01OM080M1RIUG8xX1pMaUdoOUhudl9YaDJHbHdBRllVbFZrX0pLTU9USkxTWHpmWjAteFFidm1m?oc=5"
   },
   {
@@ -1099,5 +1095,5 @@
    "latest": null
   }
  ],
- "checked": "2026-10-31T03:04+09:00"
+ "checked": "2026-10-31T04:11+09:00"
 }
