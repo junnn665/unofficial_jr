@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T02:03+09:00",
- "checked": "2026-10-31T02:03+09:00",
+ "updated": "2026-10-31T03:04+09:00",
+ "checked": "2026-10-31T03:04+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -1497,6 +1497,17 @@
    "auto": true,
    "added": "2026-10-31T00:14+09:00",
    "g": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSE1idUJNMGFDRndNNjlVdVNxLVhvZnY0ZTd3NTRxTFVOU2hESWdFMUVOMk5jTHJ4TWhEODhoZlQ0NGgwOVE?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "JR東日本の人事担当役員「新入社員も幅広い仕事に挑戦」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERVREZzFiS2JCanBjTi1VNlo4S0VGVUIyTW1YRkVPd2IzSHNOOWRCSkREelAtbC1rTktsd2xmRzdoVWtPMTM5STNzc3Y0SU5Bdi0tUWloNjZqcS1mMmxpUUdfbTRlNVlNTTA2Sg?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-10-31T03:04+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERVREZzFiS2JCanBjTi1VNlo4S0VGVUIyTW1YRkVPd2IzSHNOOWRCSkREelAtbC1rTktsd2xmRzdoVWtPMTM5STNzc3Y0SU5Bdi0tUWloNjZqcS1mMmxpUUdfbTRlNVlNTTA2Sg?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -16461,16 +16472,6 @@
    "src": "デジカメ Watch",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aUnZ2d21DT1ZYanp4ejNiUDhrSkxOMFhPV0hUMEdVMzR0cUQyUEpvVjFkYmRNUTI4d2NBVTFYU0RyZ2NKbXlDc3U5Sk14U0RMSmxhbVV4dUEyNlJtRGJHTVRUVQ?oc=5"
-  },
-  {
-   "date": "2026-10-09",
-   "cat": "shinkansen",
-   "title": "3連休は新幹線「のぞみ」自由席なし。指定席の予約必須につき要注意（トラベル Watch）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSMnJxR0daNHpEeUhabldGcVVrbTdocm1yVGhGeWJIV25xcl9RWVRXVko4Y0hPSTJBLUFxdUJ6SGNYUkUzT1NxZC1uUU14TW01SnVaNjVTbWNIVWEtU2JHeWE5MDhaU1ZuNzZrbU1lTEhSTGprVlY0aUpFVXFZSlU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Gc2t6OXFybi13akV5dVNjbE9uZXY3clRsbThzMnRFQnU2b3NoYVZDTjVwV2kwckxnd1JwWk44R0xqR3g2V29rNHpxeUVfbXd3dFY2RTVLb1ROcHVFaEE2SFB5aVhGZzVF?oc=5"
   },
   {
    "date": "2026-10-02",
