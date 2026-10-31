@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T22:15+09:00",
- "checked": "2026-10-31T22:15+09:00",
+ "updated": "2026-10-31T22:59+09:00",
+ "checked": "2026-10-31T22:59+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -165,6 +165,17 @@
    "src": "オトナンサー",
    "auto": true,
    "added": "2026-10-31T22:15+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JcGJHdkRQUG5NSDQ5azBPV01CaGtxY3BuZ3RFem1wRmtkM0ZaOUdUS0hGVXZQTUlIN2NyV0ZzNGNmR1k3dnczX1NR?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "shinkansen",
+   "title": "【新幹線】荷物棚だけじゃない！ 忘れ物が見つかりやすい“意外な場所”とは（オトナンサー）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jODNlZFR2NEJETHIzVkRTYzZsMERVYlhLSHhCbWd2djM5OUxDTzNQVmZpRmJCa3Z3RVprZFhRbWd2bTZ3cWYwdTFkSHZjNndfVDVZb0dhUElwTm9VZkQwbC1SbUdzTF9WT09TOXBFYzlfQXpiek8tVnI1Nm5qeW8?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-31T22:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JcGJHdkRQUG5NSDQ5azBPV01CaGtxY3BuZ3RFem1wRmtkM0ZaOUdUS0hGVXZQTUlIN2NyV0ZzNGNmR1k3dnczX1NR?oc=5"
   },
   {
@@ -16476,16 +16487,6 @@
    "src": "Tetsudo.com（鉄道コム）",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYldRbDlsSk12WGlSaTJ0MHBUYVh2MTROTC1Xc1JpWjdVSTJlRkFCUDUxaVhtT0ZwLVlld2VURHRXUlRxZ2dWU05maXhFMTFyNDNFVS1kQW9zRUx4RlFROHhnRDd0ajZ3a1Z2emFyZzg5Q2NYYTc2RHZNN1VubEU?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "event",
-   "title": "小田原市とJR東海ら 駅西口構内に臨時案内所 荷物預かり併設で外国人旅行者などに回遊促進〈小田原市・箱根町・湯河原町・真鶴町〉",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KYVJGODViOW5RcmlTaC02b28wd3dOWVF2ejl2ZUZWQlZQbTBqRmhueW1PMjdGdGlrZUV5NHZaOHRYQmxGd3ZnLVRNcXVrRUIzajNxYlV4UGd4XzVPUnYzelo0M1I4SmswR2R3UzhXdWVpY2wxUXVxcWhoWdIBgAFBVV95cUxNNW9lN2ZBRVdGeWNOVWNaekRYS1ZsNEczYTRhbUJWQUNLWURFY0h4UUdYTEkwTS13dnh2NmR3U1hKM2lQT1BiUTh5ekVPTExvRTZhR1FhZWV2Q1lhZ050OERCamJTUmZxdThyNVlaZExDa19DUHJjUk5zSVRYVHN0WA?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZnpxZGtpLXdWY3pQTjVIY1Q4RjlEVFA2U0NmamI0Rkx5Unp6RlF2eFVuRDJHYnB0Uy1sMnN4cXJ2c3BvbC1PMmxHZldvVHdscnN2SGwzbzgydTdTU0JvMHJFb2w?oc=5"
   },
   {
    "date": "2026-10-02",
