@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T10:25+09:00",
- "checked": "2026-10-31T10:25+09:00",
+ "updated": "2026-10-31T12:06+09:00",
+ "checked": "2026-10-31T12:06+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -45,6 +45,50 @@
    "auto": true,
    "added": "2026-10-31T10:25+09:00",
    "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NWDNrMHgxb3doXy1aQkwteUdIdEpVV2RNOEhJcUlLdVBIdmZMNXlwRmhrWVRJZHZnZFctbWF0R3dNR25oZUs0Z19Dd3QyUWc?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "linear",
+   "title": "超電導リニアの乗り場は「まるで飛行機」⁉ なぜ通常の鉄道と異なる構造が採用されているのか（鉄道コム）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pby0yanI0bU9lX2NyVHFoZFFyM0MzbE1veXhXXzZ4aUQ1dC1QTlF1VDNnUFV2dTRjVkppalBhbXV5ZHo5UzN4Vm96OGdIUWk4MXMtLTRsMzRDM2toc3pKWlpBT3l2Z21ab0txNjRLMGdFS0U3cUxHeU1aT2g4ck0?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-31T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pby0yanI0bU9lX2NyVHFoZFFyM0MzbE1veXhXXzZ4aUQ1dC1QTlF1VDNnUFV2dTRjVkppalBhbXV5ZHo5UzN4Vm96OGdIUWk4MXMtLTRsMzRDM2toc3pKWlpBT3l2Z21ab0txNjRLMGdFS0U3cUxHeU1aT2g4ck0?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "linear",
+   "title": "超電導リニアの乗り場は「まるで飛行機」⁉ なぜ通常の鉄道と異なる構造が採用されているのか",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nSXEwTkpsUUdrZFZONHB4RWRGczdONTNHYjAxcmswR09QTG1hZ21QNUZQQlU2X1hTUU5aUTRJZEhNMjhaaVAtYUY4TQ?oc=5",
+   "src": "Tetsudo.com（鉄道コム）",
+   "auto": true,
+   "added": "2026-10-31T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pby0yanI0bU9lX2NyVHFoZFFyM0MzbE1veXhXXzZ4aUQ1dC1QTlF1VDNnUFV2dTRjVkppalBhbXV5ZHo5UzN4Vm96OGdIUWk4MXMtLTRsMzRDM2toc3pKWlpBT3l2Z21ab0txNjRLMGdFS0U3cUxHeU1aT2g4ck0?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "event",
+   "title": "第18回 飯田 丘のまちフェスティバル",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNmVDNjZRVHJ5UkZJT3VWMkpMUUtJblFoYUF0UkY4bmxCVlQ4OXE4ZUduWkVLeWJrbkcyT21HYXYxM0EtTlJxVGxGNnhVNUJUYTZ1N3JxU1pSVWFWajNBeldacnRTdnZtSjJBUVgyN294OWoxNUlyblJOVk9HLU00SEQtRFBIS0NZakxKbkdZMFJTQ0laYmtfeUNidllPYnJ0MjNQY1JiTXBaMllsT3A5RTJNWVl0SzYxMGJuMlplekpaYWwtVC1ORnZzaUs4UWtQY1FJM293WdIBhgFBVV95cUxOdVgycjZjdm9uYjNVdlVFS1Q2MzY3NU96UFEzVURjX2gtTGJIdVVpdDRhcTV2MXZHam9ZZ0pGbm9VLTJhRmtMdklIbzdmdUpzeW9mY1NlREY1STRobUFvdEJRZXNYRzFFV05HbFlfYkRkTjdLSS1haHNWbVJFd2ZwUzNyY2k1QQ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-31T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNmVDNjZRVHJ5UkZJT3VWMkpMUUtJblFoYUF0UkY4bmxCVlQ4OXE4ZUduWkVLeWJrbkcyT21HYXYxM0EtTlJxVGxGNnhVNUJUYTZ1N3JxU1pSVWFWajNBeldacnRTdnZtSjJBUVgyN294OWoxNUlyblJOVk9HLU00SEQtRFBIS0NZakxKbkdZMFJTQ0laYmtfeUNidllPYnJ0MjNQY1JiTXBaMllsT3A5RTJNWVl0SzYxMGJuMlplekpaYWwtVC1ORnZzaUs4UWtQY1FJM293WdIBhgFBVV95cUxOdVgycjZjdm9uYjNVdlVFS1Q2MzY3NU96UFEzVURjX2gtTGJIdVVpdDRhcTV2MXZHam9ZZ0pGbm9VLTJhRmtMdklIbzdmdUpzeW9mY1NlREY1STRobUFvdEJRZXNYRzFFV05HbFlfYkRkTjdLSS1haHNWbVJFd2ZwUzNyY2k1QQ?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "other",
+   "title": "参候祭",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObS0zUWZSczFJd1BHSkJhZmFOUHMxZkZ0V0JKalM5OGVFbjJjZk9lQm95SHRZQThwWWpzZmNhUGtnQUd6U3FVRVZ5WjdMd1hCQjJZUlN2WkdkRkxhLTBpSXcyVGVic2ZsbmZsTXlfNXBFVG4wOWV0MU5DMW9JSUtEX2REY082QzctelZWajh3OS01eFVSZGlxTXhPODdUaDZmYnJUY185WDVjSFQ2N0w0clJHWXhCNmdoRnVERmFsWXlmN1VxS0FsLVVjWXBpbGRQRmx2MTRB0gGGAUFVX3lxTE5XNzY2eWlNaEZYUFJEWnhDdnpIZ0lGeEtTaDNEVTd3OFZwNnp6WG1FRGFyWE80Z3F6NUVvY1c3N3pjeXAxc3BrdUM2YUl6aTBHcFJva0RORG5ZUlpkQW5OdkZVbjZlRVZmc0l2a3dYWm5LancxQjJNbVBFV19PUDhEdzA3SDJB?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-31T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObS0zUWZSczFJd1BHSkJhZmFOUHMxZkZ0V0JKalM5OGVFbjJjZk9lQm95SHRZQThwWWpzZmNhUGtnQUd6U3FVRVZ5WjdMd1hCQjJZUlN2WkdkRkxhLTBpSXcyVGVic2ZsbmZsTXlfNXBFVG4wOWV0MU5DMW9JSUtEX2REY082QzctelZWajh3OS01eFVSZGlxTXhPODdUaDZmYnJUY185WDVjSFQ2N0w0clJHWXhCNmdoRnVERmFsWXlmN1VxS0FsLVVjWXBpbGRQRmx2MTRB0gGGAUFVX3lxTE5XNzY2eWlNaEZYUFJEWnhDdnpIZ0lGeEtTaDNEVTd3OFZwNnp6WG1FRGFyWE80Z3F6NUVvY1c3N3pjeXAxc3BrdUM2YUl6aTBHcFJva0RORG5ZUlpkQW5OdkZVbjZlRVZmc0l2a3dYWm5LancxQjJNbVBFV19PUDhEdzA3SDJB?oc=5"
   },
   {
    "date": "2026-10-30",
@@ -672,6 +716,17 @@
    "auto": true,
    "added": "2026-10-31T04:11+09:00",
    "g": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jTnBDVDJZX2tfaWZ6RlA3ZF9oc1Z0UDBvWGxzQkVOMGdxcnQ3SUVLZ1NpVklpZ19kdFJ4UzRnMC1HZEhUVXhOT0dsZ1k1UEdfZ1NtN2RjWnBsR25Rdk04a1RoRVBvWjZMZjZYYmlEc0JoQQ?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "event",
+   "title": "【2026年12月】Mr.Children 横浜アリーナ平日公演の宿｜新幹線で新横浜に着いてそのまま泊まれる、終演後に歩いて戻れるホテル5選",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UMHBqbDFZSnJTaUhnM1YwbjktWUpzQXJuQlMyU2Z1LWVnZHBZYWVtMTJKLW1DalNlUmFqZ0pZc0t2d21BWDZQeEhHVGxwRXI0dzlCY0c3TlRROHR3bER2a2JveUlKMFZEYzJxdXRqUS0yRGpHV2EtZHpXWDRtUQ?oc=5",
+   "src": "https://mediadogs.jp/",
+   "auto": true,
+   "added": "2026-10-31T12:06+09:00",
+   "g": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UMHBqbDFZSnJTaUhnM1YwbjktWUpzQXJuQlMyU2Z1LWVnZHBZYWVtMTJKLW1DalNlUmFqZ0pZc0t2d21BWDZQeEhHVGxwRXI0dzlCY0c3TlRROHR3bER2a2JveUlKMFZEYzJxdXRqUS0yRGpHV2EtZHpXWDRtUQ?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -16423,61 +16478,6 @@
    "auto": true,
    "added": "2026-10-11T06:36+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdEhtQ2Via3JBRl9KbFg3Z2NQRnVJVndSQzhaUi15V0F6RnZUUHVGSFJZRFVGdnVLTVQ2RUJLc0doeTJ0NDhReExJVXlDMGk2Z3VobVlZcjU0cFNzTW9tcTZOUVJ5My1mOXhmcXZRMTMxSzZlN0x2eWdmb3ZBRjA?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "shinkansen",
-   "title": "【投稿動画】海を走る!?新幹線『every.特集』",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85SWRiQ1FsQ0RXRUMyOGZsSkNXcGctR0NYd29VR25MNl9MaU9VVUNmaTJoVzIxNnVLdjZhZDRWU1BFX3VPT1I4WGVJRk41cDFRanlyeGk1R3N5X0E4?oc=5",
-   "src": "YouTube",
-   "auto": true,
-   "added": "2026-10-11T12:39+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85SWRiQ1FsQ0RXRUMyOGZsSkNXcGctR0NYd29VR25MNl9MaU9VVUNmaTJoVzIxNnVLdjZhZDRWU1BFX3VPT1I4WGVJRk41cDFRanlyeGk1R3N5X0E4?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "other",
-   "title": "【(株)ジェイアール西日本デイリーサービスネット】10月14日（水）エキマル",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fNnFLY2NuTGZ6cVQwaHpseXZteDZvbFIwbXpDWjRhUXMxWjB6Zzk2TjNzOVdPZGFWQl90UmxOVjA1NkNXUU9VRm5FU1l2LXFheW5UVmh6RE5MNEVGVll5OFAxQXExZjJMRHFuOGlwbk05c3daSk45SEdYRQ?oc=5",
-   "src": "ニコニコニュース",
-   "auto": true,
-   "added": "2026-10-11T13:38+09:00",
-   "g": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fNnFLY2NuTGZ6cVQwaHpseXZteDZvbFIwbXpDWjRhUXMxWjB6Zzk2TjNzOVdPZGFWQl90UmxOVjA1NkNXUU9VRm5FU1l2LXFheW5UVmh6RE5MNEVGVll5OFAxQXExZjJMRHFuOGlwbk05c3daSk45SEdYRQ?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "shinkansen",
-   "title": "3連休初日 新幹線や高速道路で混雑（ABEMA TIMES）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTmNQSU8xS3FKazM3UXFEUWxPekRvVzMzcWV0dXB1TGV1OUhXTGFNdGY0LW91dUs3Zzk5WDdRTWVmLWVDSGxnYkNMNm9aaTgyYjg4cndXakJCV2plY09Pb1Iwek9kWjZjVjlZb21ud1dFYWgwaWVKUXdsbEZETEU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-11T14:37+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tcmVwWHdPUkZXVy0zeHM4Mk02UXpFajJ0cExpXzZlYndHTkZpaGgyaUNqRk5yMFJ0djNaand5c0xfZHpfYnVxWm5IUlhIdXlKRXFPQw?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "other",
-   "title": "JRゲートタワーの地下1階ごみ処理室で“ぼや騒ぎ” 消防車など20台出動 けが人なし 名古屋・中村区（2026年10月10日掲載）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckhuUWhraUpWRnh2akRmeXd5ZkNjTGRlMk80ell2Y3phY0UwTnFLUWxUbDlsNkdaYXE1WThPNkZ2ZzI2YlNtQXBobWlsQ2ZvMzJMMmVVVkJTVUhMRjE0UnN0RXRTazAyUUgzX3lfaFFycTNkMVJRVkVOQ0VHOVgyYnZ2Ujk5LWs?oc=5",
-   "src": "日テレNEWS NNN",
-   "auto": true,
-   "added": "2026-10-12T05:37+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RNVF2dXhuVHlyOWp3aERieF8zblRZSkdHXzlQQ2RyLUkzck1LYUZhUUlJUUM2SzlQUXVaWGE5SjBFM1RRVk55YkJiOXZQOHJSN3RMOQ?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "event",
-   "title": "「地球の歩き方」×「JR-PLUS」初コラボ！ 東海道新幹線の駅ナカで「東海道フェア」開催。非公開の研修センター見学も当たるかも!? (2026年10月10日掲載)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVTE5NWXlFVFRNU0llblhnR3I1bkM0bDV6SFFjcWhjTGtieFBER3RnM2JHdnA3WnhoSGtEZmhtcUhhWldtRzhwV3poeWRwOTdLbGJYT3pZZEhhTHB4YlE?oc=5",
-   "src": "ライブドアニュース",
-   "auto": true,
-   "added": "2026-10-12T06:37+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yXzlfWlJMUUhjai1XbXpXSkxvcWNRbjNOeERhdHc2LVN2ajhHTG9ZMGFqLXgyemp0OW96X3dXZkc3YnVzbjJtQUFIOHI?oc=5"
   },
   {
    "date": "2026-10-02",
