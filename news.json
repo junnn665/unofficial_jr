@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T18:00+09:00",
- "checked": "2026-10-31T18:00+09:00",
+ "updated": "2026-10-31T18:58+09:00",
+ "checked": "2026-10-31T18:58+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -782,6 +782,17 @@
    "auto": true,
    "added": "2026-10-31T14:02+09:00",
    "g": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBhUXFJcDAzWVlYb3pyLWRtOTliaVNEWUVjT2taS2hTLXNSUGZQck5FMlcybGVyclBzUXJB?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "linear",
+   "title": "【リニア】静岡・平木副知事が「発生土置き場」や田代ダム視察「非常に意義があった」（LOOK）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qM0trVUJ5RGtNYWNkbXhqNmdJYlFhRWUtcnFwYnFSa0gwcWFYYVVwcTFsWWJQSWtIelNMTnoxNFJ5TmVJU1ZxWXgzWU11Vm5HaXdIZlJUY1NPVEkwbXg4dWEzRS1Ic0pjakV4T1FxWWU?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-31T18:58+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FR3d0emhXenpQYi1tdUxza1VxdEs1Q19Cd0xoRHIwdmlEN2dDcV8tQXZuOEdQV1FJbktDTEM2UENvcjFNaXhzdC0xR2E2T2ZYbXo3SmtwWmxjcV9fNFNTQVNYbkpqR0RmTTlQUVBB?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -16192,7 +16203,7 @@
    "src": "YouTube",
    "auto": true,
    "added": "2026-10-12T06:37+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NNG5xdEtJc0FTTE5ma1I5RHVfR055SEF3QmhYUnRqU05vVUtTTHQtV2hPZHpwMkF4N0k3RjFtR3Qtcmh6?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93SWVnSTZxc0p5Nng0VlFfUXZ5UE5BUnlyNElzenU3azhmSmt6ZnE2R1dvS3U1dEJSTGZxSEY4NHhVdm1qdlJTU3lR?oc=5"
   },
   {
    "date": "2026-10-11",
@@ -16469,16 +16480,6 @@
    "src": "ｄメニューニュース",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWmFlYk9UZVE0MFAzQURuYWhsQzE3Y0tZMS12Y2F2VVUwWWphR0NVLUZMM2lwemZaLVNjUjhvcXlXZDZ2MnVscUJpeW1EdmFMeGFFQno0VnA2UnNVMFctLUk4cVA4NV9uOENTZnNDRjBJd2hnZUk5NnBDb0FiWlN0ZmFRRTBEYzE2MnRReWZzLXZJUGVDczBMWFVCWkFJQm01WE1ZaVVQQUJvUnVLZi1oTG1JREN1Ym9EVzdBQWZWMjRIV0VfRGV1aVM2cGRpU3FOVE9uMGZMVdIBhwFBVV95cUxQUS15eWoyRC1MRnNTUnAwZFZ4Q3ZReXIxdWlxTXVFa24tZlhvMHBtakh0TFk2MmUtMlNFc3F5SDN1OHBvRlVnZ2tDS3pYdml6X3dnRXN6S1d6TWxtWWUzanMwSElNdUNJUzd5UklrUDljN2h6Zm84NW1nQ3N0djNYSFplTmdKSWM?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "shinkansen",
-   "title": "深夜時間帯に〝停車〟するメリットとは？夜行新幹線「東海道ルミエールエクスプレス」が人気の理由",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NNG5xdEtJc0FTTE5ma1I5RHVfR055SEF3QmhYUnRqU05vVUtTTHQtV2hPZHpwMkF4N0k3RjFtR3Qtcmh6?oc=5",
-   "src": "@DIME アットダイム",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NNG5xdEtJc0FTTE5ma1I5RHVfR055SEF3QmhYUnRqU05vVUtTTHQtV2hPZHpwMkF4N0k3RjFtR3Qtcmh6?oc=5"
   },
   {
    "date": "2026-10-02",
