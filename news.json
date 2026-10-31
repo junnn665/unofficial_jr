@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T20:55+09:00",
- "checked": "2026-10-31T20:55+09:00",
+ "updated": "2026-10-31T22:15+09:00",
+ "checked": "2026-10-31T22:15+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -144,6 +144,28 @@
    "auto": true,
    "added": "2026-10-31T20:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zd0V2NTBlcGYtQTZUWk5GNWw4d3lDb1k3cjIxZG5NazZENXEwMi1uX3BfR0tIVVhDWTBSaEI0MmlLVUptSFJxMi1veEVLdDhjWmRYcTg4eHNwZ3d6ZmduektZX0pqYzRrbW5uZDV0NGFzRWRwNnphcS0yTQ?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "event",
+   "title": "元JR東海の213系電車にファン注目 富山地方鉄道で「ちてつフェス」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nZVVhQVdFTW1WSzY1WkhaQlhxaDQ2MnMtN3R3UzU0dTNnMmxBTXVIcXF3RW5rR0ZyRnotSVlWNWNZNXRYRmdTRjB2VjJnX19XNzBqUA?oc=5",
+   "src": "中日新聞Web",
+   "auto": true,
+   "added": "2026-10-31T22:15+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nZVVhQVdFTW1WSzY1WkhaQlhxaDQ2MnMtN3R3UzU0dTNnMmxBTXVIcXF3RW5rR0ZyRnotSVlWNWNZNXRYRmdTRjB2VjJnX19XNzBqUA?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "shinkansen",
+   "title": "【新幹線】荷物棚だけじゃない！ 忘れ物が見つかりやすい“意外な場所”とは",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JcGJHdkRQUG5NSDQ5azBPV01CaGtxY3BuZ3RFem1wRmtkM0ZaOUdUS0hGVXZQTUlIN2NyV0ZzNGNmR1k3dnczX1NR?oc=5",
+   "src": "オトナンサー",
+   "auto": true,
+   "added": "2026-10-31T22:15+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JcGJHdkRQUG5NSDQ5azBPV01CaGtxY3BuZ3RFem1wRmtkM0ZaOUdUS0hGVXZQTUlIN2NyV0ZzNGNmR1k3dnczX1NR?oc=5"
   },
   {
    "date": "2026-10-30",
@@ -815,6 +837,17 @@
    "auto": true,
    "added": "2026-10-31T18:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FR3d0emhXenpQYi1tdUxza1VxdEs1Q19Cd0xoRHIwdmlEN2dDcV8tQXZuOEdQV1FJbktDTEM2UENvcjFNaXhzdC0xR2E2T2ZYbXo3SmtwWmxjcV9fNFNTQVNYbkpqR0RmTTlQUVBB?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "other",
+   "title": "個別銘柄戦略: キーエンスやコナミGに注目",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWhlRF9xdW56QjlibmhIdkcyaGMzbzBnMlpWTXBIYy16R0RBXzBld1VHOWRmLWZNU1RCV1BWWmFma094TU5HdUEtZEVTQ3ZMM1dpd2R0dUo4VWtjcE15Z2htVnJRU1hnWjRhRWpwNzBuYzdQeWtwTE9yN3dVbEp2SW4xSlh3NU5XREZrT9IBjAFBVV95cUxOZWhlRF9xdW56QjlibmhIdkcyaGMzbzBnMlpWTXBIYy16R0RBXzBld1VHOWRmLWZNU1RCV1BWWmFma094TU5HdUEtZEVTQ3ZMM1dpd2R0dUo4VWtjcE15Z2htVnJRU1hnWjRhRWpwNzBuYzdQeWtwTE9yN3dVbEp2SW4xSlh3NU5XREZrTw?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-10-31T22:15+09:00",
+   "g": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWhlRF9xdW56QjlibmhIdkcyaGMzbzBnMlpWTXBIYy16R0RBXzBld1VHOWRmLWZNU1RCV1BWWmFma094TU5HdUEtZEVTQ3ZMM1dpd2R0dUo4VWtjcE15Z2htVnJRU1hnWjRhRWpwNzBuYzdQeWtwTE9yN3dVbEp2SW4xSlh3NU5XREZrT9IBjAFBVV95cUxOZWhlRF9xdW56QjlibmhIdkcyaGMzbzBnMlpWTXBIYy16R0RBXzBld1VHOWRmLWZNU1RCV1BWWmFma094TU5HdUEtZEVTQ3ZMM1dpd2R0dUo4VWtjcE15Z2htVnJRU1hnWjRhRWpwNzBuYzdQeWtwTE9yN3dVbEp2SW4xSlh3NU5XREZrTw?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -1750,6 +1783,17 @@
    "auto": true,
    "added": "2026-10-31T04:11+09:00",
    "g": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pd3d1WEJTbW1hX01mWXlSS3Nfa0tYTkJIejd4bGtEOHYtQ1VEQnVPU1FrdlB2d1o3VWZfLXBSM29IZUdTMTdETTlGUEpqbnliZXBqWm9nbmJmUVhJRmdZbl9GS0hkOGRiZ1E0?oc=5"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "kaisha",
+   "title": "リニア静岡工区の着工来年3月以降もJR東海社長「全体の工期に影響はない」（静岡）（Daiichi-TV（静岡第一テレビ））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOalNFbnUzVVl5NVBPcmxEUVdrUk16MTE3WnVieU5vMkV4Q0NZU0I1empETUVwM2Q0ZVFDM1lhOU1JSmJHOG9ybWN3cVVtTjNFWTVJZENjQWpUN2NJUi1EbVBUTnhsSDVJazdSS2hkM09yNHpHSllBbDNiOXo3dDQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-10-31T22:15+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSW1sMEJFbE5UaS15UGFBemFiaDFXbGl5VFVKc1V4NHBqbUUyQUVFYkh1VFAtcjlJbF9nRU0xbzZTa0F2MVhGTmVUTXBaVUpCbmYtZkFqc08td1FGcC1EMS15WExzUmh0?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -16442,46 +16486,6 @@
    "src": "ｄメニューニュース",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZnpxZGtpLXdWY3pQTjVIY1Q4RjlEVFA2U0NmamI0Rkx5Unp6RlF2eFVuRDJHYnB0Uy1sMnN4cXJ2c3BvbC1PMmxHZldvVHdscnN2SGwzbzgydTdTU0JvMHJFb2w?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "event",
-   "title": "「地球の歩き方」×「JR-PLUS」初コラボ！ 東海道新幹線の駅ナカで「東海道フェア」開催。非公開の研修センター見学も当たるかも!?",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yXzlfWlJMUUhjai1XbXpXSkxvcWNRbjNOeERhdHc2LVN2ajhHTG9ZMGFqLXgyemp0OW96X3dXZkc3YnVzbjJtQUFIOHI?oc=5",
-   "src": "旅とおでかけ 鉄道チャンネル",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yXzlfWlJMUUhjai1XbXpXSkxvcWNRbjNOeERhdHc2LVN2ajhHTG9ZMGFqLXgyemp0OW96X3dXZkc3YnVzbjJtQUFIOHI?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "event",
-   "title": "「地球の歩き方」×「JR-PLUS」初コラボ！",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLbjJjUkdhekllMC1BcG1LNkItYldELUM1OW0yUDlGUklsVDFqNU9oYnNrYkdJZ0RwMmc0MWh5UzJEcXQta0VuMGdMUjJSdXRkWW5oWEtwalNRb1VZMlJXRkZyRHFyajRxd2xub0x3UHlrTnhySE1ta2JkNA?oc=5",
-   "src": "ニコニコニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yXzlfWlJMUUhjai1XbXpXSkxvcWNRbjNOeERhdHc2LVN2ajhHTG9ZMGFqLXgyemp0OW96X3dXZkc3YnVzbjJtQUFIOHI?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "shinkansen",
-   "title": "JR九州新幹線の全線運転再開に「新幹線の各駅長」から温かいエール 遠く離れた場所から繋がる絆に感動",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44eDE3VjYtY2tZcjlvMUNhXzJoRWpDSF9MTmp2QnpianhoZjVTdTFiS1Bfald6WjRISzZnbnhqeTFJMHhzUkVDdHkydGk?oc=5",
-   "src": "LIMO | くらしとお金の経済メディア",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44eDE3VjYtY2tZcjlvMUNhXzJoRWpDSF9MTmp2QnpianhoZjVTdTFiS1Bfald6WjRISzZnbnhqeTFJMHhzUkVDdHkydGk?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "other",
-   "title": "江田島の「鍛え牡蠣」やドクターイエローなどPR 大阪で中四国9県の物産展盛況",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13bkdTOWNyYUF2V0twZU1zMmVObWNzZ2tjWGctUG5pdWpKT0JYOGt3SjdzVjFveS1WM0RockJodk1VSEhrUjd3ZlRRQQ?oc=5",
-   "src": "47NEWS",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13bkdTOWNyYUF2V0twZU1zMmVObWNzZ2tjWGctUG5pdWpKT0JYOGt3SjdzVjFveS1WM0RockJodk1VSEhrUjd3ZlRRQQ?oc=5"
   },
   {
    "date": "2026-10-02",
