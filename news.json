@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T16:21+09:00",
- "checked": "2026-10-31T16:21+09:00",
+ "updated": "2026-10-31T17:08+09:00",
+ "checked": "2026-10-31T17:08+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -111,6 +111,17 @@
    "auto": true,
    "added": "2026-10-31T13:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUMtMXVSTnIwcVVZNFdjWTdLR1hjTkxnT0FPTjJmZVRIbDFBM0dfVkdGR3FYaFdmZEZZLWhReEZ4NFlRN2FJOUFvSnRNU1JES2RBZlRfNzNVc0F0el9qMlFKbGpHdDY5a1E4bGQxMWNPcWVCSDZDY1J4RDgwbVBtTzZPMjdEUTc2NnFZWmZB?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "linear",
+   "title": "リニア静岡着工、７月にも容認か 知事「判断材料は整いつつある」",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4X1prQk1PNkVzbW9UMnN1cVhjTFl0TGN0YjI2TWlodmZrTFBhaC1TWlJNc0F1LS1SckZGdUVkSlF1Q2VSVHZpc0o4UXE5VzFpRzBSX1M4NUZYejBqb05oRld1MlE?oc=5",
+   "src": "山陽新聞",
+   "auto": true,
+   "added": "2026-10-31T17:08+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4X1prQk1PNkVzbW9UMnN1cVhjTFl0TGN0YjI2TWlodmZrTFBhaC1TWlJNc0F1LS1SckZGdUVkSlF1Q2VSVHZpc0o4UXE5VzFpRzBSX1M4NUZYejBqb05oRld1MlE?oc=5"
   },
   {
    "date": "2026-10-30",
@@ -16468,16 +16479,6 @@
    "src": "@DIME アットダイム",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NNG5xdEtJc0FTTE5ma1I5RHVfR055SEF3QmhYUnRqU05vVUtTTHQtV2hPZHpwMkF4N0k3RjFtR3Qtcmh6?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "eki",
-   "title": "ＪＲ名古屋駅隣のゲートタワーでぼや 地下１階「ごみ処理室から煙」",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OSVpUcjNTNDBLZkNaSFRRdlQ2UjBObkZ3cmU5RE84czc4Y3BuSllyM2FQQTFLQm02ZG1aN2poM1VYNWl2Rno2djdHVTJRX1YzX1d5OU1UZzlubjRQRE40X2ln?oc=5",
-   "src": "中日新聞Web",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OSVpUcjNTNDBLZkNaSFRRdlQ2UjBObkZ3cmU5RE84czc4Y3BuSllyM2FQQTFLQm02ZG1aN2poM1VYNWl2Rno2djdHVTJRX1YzX1d5OU1UZzlubjRQRE40X2ln?oc=5"
   },
   {
    "date": "2026-10-02",
