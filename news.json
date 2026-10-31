@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T01:57+09:00",
- "checked": "2026-11-01T01:57+09:00",
+ "updated": "2026-11-01T02:52+09:00",
+ "checked": "2026-11-01T02:52+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -177,6 +177,17 @@
    "auto": true,
    "added": "2026-10-31T22:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JcGJHdkRQUG5NSDQ5azBPV01CaGtxY3BuZ3RFem1wRmtkM0ZaOUdUS0hGVXZQTUlIN2NyV0ZzNGNmR1k3dnczX1NR?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "zairai",
+   "title": "JR東海 クハ315-3010 (315系) 車内設備、様子(乗車記録の写真一覧) 投稿日(新しい順)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qeGt5OHlxNGFJS0tZdUFJRmthR0htd0tCUWdXVzU4VTVUTmVWZzFCT2h1VF9nWU9pcENiczBCb1Q3UGRZT3c4a3NxRjcwOFVhMUYtZXhkWi1EZk42TUd0c2t4cEloYlUwN014RzM2UEw?oc=5",
+   "src": "レイルラボ",
+   "auto": true,
+   "added": "2026-11-01T02:52+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qeGt5OHlxNGFJS0tZdUFJRmthR0htd0tCUWdXVzU4VTVUTmVWZzFCT2h1VF9nWU9pcENiczBCb1Q3UGRZT3c4a3NxRjcwOFVhMUYtZXhkWi1EZk42TUd0c2t4cEloYlUwN014RzM2UEw?oc=5"
   },
   {
    "date": "2026-10-30",
@@ -16478,16 +16489,6 @@
    "src": "au Webポータル",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZnpxZGtpLXdWY3pQTjVIY1Q4RjlEVFA2U0NmamI0Rkx5Unp6RlF2eFVuRDJHYnB0Uy1sMnN4cXJ2c3BvbC1PMmxHZldvVHdscnN2SGwzbzgydTdTU0JvMHJFb2w?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "shinkansen",
-   "title": "3連休初日 新幹線や高速道路で混雑",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tcmVwWHdPUkZXVy0zeHM4Mk02UXpFajJ0cExpXzZlYndHTkZpaGgyaUNqRk5yMFJ0djNaand5c0xfZHpfYnVxWm5IUlhIdXlKRXFPQw?oc=5",
-   "src": "ABEMA TIMES",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tcmVwWHdPUkZXVy0zeHM4Mk02UXpFajJ0cExpXzZlYndHTkZpaGgyaUNqRk5yMFJ0djNaand5c0xfZHpfYnVxWm5IUlhIdXlKRXFPQw?oc=5"
   },
   {
    "date": "2026-10-02",
