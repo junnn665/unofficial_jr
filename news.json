@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T13:04+09:00",
- "checked": "2026-10-31T13:04+09:00",
+ "updated": "2026-10-31T14:02+09:00",
+ "checked": "2026-10-31T14:02+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -760,6 +760,17 @@
    "auto": true,
    "added": "2026-10-31T13:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXFwOEJRNFdOQjBQUTdycjdQODlPMWxzTnExaktxc2szRFIyYU1Zc3NJMkg2WmsyTUx5NUpkSWdCX1lIWWZ2N2h5RXpPcjZ6akFNcWJMbmRYQ2E2cEpSWEFIcTdWdlFyVmU1TGdNUzhOTXF1Z05wNnEyVEI0MzZVZWNWSFo4UnM?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "linear",
+   "title": "【自動運転・ロボタクシー】空飛ぶクルマ、リニア中央新幹線…未来のモビリティ最前線｜佐久間宣行のHello Future",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBhUXFJcDAzWVlYb3pyLWRtOTliaVNEWUVjT2taS2hTLXNSUGZQck5FMlcybGVyclBzUXJB?oc=5",
+   "src": "Howl.Link",
+   "auto": true,
+   "added": "2026-10-31T14:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBhUXFJcDAzWVlYb3pyLWRtOTliaVNEWUVjT2taS2hTLXNSUGZQck5FMlcybGVyclBzUXJB?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -16467,17 +16478,6 @@
    "src": "中日新聞Web",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OSVpUcjNTNDBLZkNaSFRRdlQ2UjBObkZ3cmU5RE84czc4Y3BuSllyM2FQQTFLQm02ZG1aN2poM1VYNWl2Rno2djdHVTJRX1YzX1d5OU1UZzlubjRQRE40X2ln?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "other",
-   "title": "JRゲートタワー「ごみ処理室から煙」 名古屋、鎮火しけが人なし",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RNVF2dXhuVHlyOWp3aERieF8zblRZSkdHXzlQQ2RyLUkzck1LYUZhUUlJUUM2SzlQUXVaWGE5SjBFM1RRVk55YkJiOXZQOHJSN3RMOQ?oc=5",
-   "src": "中日新聞Web",
-   "auto": true,
-   "added": "2026-10-10T22:08+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RNVF2dXhuVHlyOWp3aERieF8zblRZSkdHXzlQQ2RyLUkzck1LYUZhUUlJUUM2SzlQUXVaWGE5SjBFM1RRVk55YkJiOXZQOHJSN3RMOQ?oc=5"
   },
   {
    "date": "2026-10-02",
