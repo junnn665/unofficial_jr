@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T23:57+09:00",
- "checked": "2026-11-01T23:57+09:00",
+ "updated": "2026-11-02T00:54+09:00",
+ "checked": "2026-11-02T00:54+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -342,6 +342,17 @@
    "auto": true,
    "added": "2026-11-01T23:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWp2VktNcVlFT2RTS1hmUXczcE9rbl9RZ2k3SkZCRF84dkNXRTdTWVRSN3lMWU0yb3FicVk1ODItTEZ5SU9WTEo4WXJXOTZ0c04yNkhGQ3gweVNFNmNSdk1lcWtzcjllYXBXMnhqS1l0VGhsdmxiemdGYUpsaGN3TFl0VGd2US0tS3NOdDJB?oc=5"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "shinkansen",
+   "title": "子連れでも気にせず新幹線に 名古屋で個室体験、ＪＲ東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqeXJrN1Jac19hZXdFMWxtMEpUcndfTjgyZUVvb1RKSVZfcXpEc2NqNGJraVdsckZqZUVXNUJHMEU1SXVWM2swdTdXRmZkOHZpaTBuSEhEbDR3RENS?oc=5",
+   "src": "琉球新報デジタル",
+   "auto": true,
+   "added": "2026-11-02T00:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScjU2ZEM0bFJoZzdjaDhUUkJ2cU1iWmd5Zkp6bDN0bXFobmJhSWZ6SDczZzRHcUdfbVhvM01DamNsSDV0eXpfYkoxYlpKTXhzU19lZVE1WHFQTUtyWGI4a3gyZnEwalRuWG5rYzJIMnNmWUk4UHlnMmVsT3Y4V0k?oc=5"
   },
   {
    "date": "2026-10-31",
@@ -16487,17 +16498,6 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZlFvbGZhQm5zYlpxbjNfRzVzY2ZpWjFmV2pkT1E4SGx2WHdob2FaSlpLUFZpVUpGRFMtcEFseUMwRHA2LVFFc3o4b0FsR1BvcFhtLXZ2Z0ZZQQ?oc=5",
    "src": "KBC九州朝日放送",
-   "auto": true,
-   "added": "2026-10-11T13:38+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZlFvbGZhQm5zYlpxbjNfRzVzY2ZpWjFmV2pkT1E4SGx2WHdob2FaSlpLUFZpVUpGRFMtcEFseUMwRHA2LVFFc3o4b0FsR1BvcFhtLXZ2Z0ZZQQ?oc=5"
-  },
-  {
-   "date": "2026-10-11",
-   "cat": "shinkansen",
-   "title": "500系やドクターイエロー最後の雄姿 博多総合車両所で「新幹線ふれあいデー」",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JYkxCdmJ0RkhaZzc3SWgtSmQ0UklPSlhfZmptWk1DZnVTWXhCNmdOdkNlN0ZTTmdxRjBVWl80RFJxVWZQM3p0RzMydUZLSncwelo3blJQZmJzTXBxY29abVRfd0dMLUFpZVVLVGRR?oc=5",
-   "src": "au Webポータル",
    "auto": true,
    "added": "2026-10-11T13:38+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZlFvbGZhQm5zYlpxbjNfRzVzY2ZpWjFmV2pkT1E4SGx2WHdob2FaSlpLUFZpVUpGRFMtcEFseUMwRHA2LVFFc3o4b0FsR1BvcFhtLXZ2Z0ZZQQ?oc=5"
