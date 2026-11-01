@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T08:53+09:00",
- "checked": "2026-11-01T08:53+09:00",
+ "updated": "2026-11-01T10:32+09:00",
+ "checked": "2026-11-01T10:32+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -881,6 +881,17 @@
    "auto": true,
    "added": "2026-10-31T22:15+09:00",
    "g": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWhlRF9xdW56QjlibmhIdkcyaGMzbzBnMlpWTXBIYy16R0RBXzBld1VHOWRmLWZNU1RCV1BWWmFma094TU5HdUEtZEVTQ3ZMM1dpd2R0dUo4VWtjcE15Z2htVnJRU1hnWjRhRWpwNzBuYzdQeWtwTE9yN3dVbEp2SW4xSlh3NU5XREZrT9IBjAFBVV95cUxOZWhlRF9xdW56QjlibmhIdkcyaGMzbzBnMlpWTXBIYy16R0RBXzBld1VHOWRmLWZNU1RCV1BWWmFma094TU5HdUEtZEVTQ3ZMM1dpd2R0dUo4VWtjcE15Z2htVnJRU1hnWjRhRWpwNzBuYzdQeWtwTE9yN3dVbEp2SW4xSlh3NU5XREZrTw?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "shinkansen",
+   "title": "N700系X66編成が浜松入場",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSXJuM3FDeVZUX2VlMnU4enVNbnYxcUg1bzE1YWdQaUJSekU4ajRmQ0RoYVpHXzRJRFBxRGIxcnZITEF3dUlPOV9iR0tFenc?oc=5",
+   "src": "4号車の5号車寄り",
+   "auto": true,
+   "added": "2026-11-01T10:32+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSXJuM3FDeVZUX2VlMnU4enVNbnYxcUg1bzE1YWdQaUJSekU4ajRmQ0RoYVpHXzRJRFBxRGIxcnZITEF3dUlPOV9iR0tFenc?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -16480,16 +16491,6 @@
    "src": "Wedge ONLINE",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SUFI2V0FMVC1LQXRjanJEcWpVeFJhZnhmZGZqZ0pxdjE1M0FkVlRMbHRnTG5SWFdvSEtINm1IeGRUNTJKX2JzV3YtamthdDJEcDV6dDJScTgzYlJEMW9VUTl6cTY1VnJlS1p6dFdqT1p3c0ZHbmpUNlBGNUQ1MFE?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "linear",
-   "title": "リニア「時速500キロ」の大迫力走行が見学できる場所とは？ 本物の車両も展示「リニア見学センター」（鉄道コム）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYldRbDlsSk12WGlSaTJ0MHBUYVh2MTROTC1Xc1JpWjdVSTJlRkFCUDUxaVhtT0ZwLVlld2VURHRXUlRxZ2dWU05maXhFMTFyNDNFVS1kQW9zRUx4RlFROHhnRDd0ajZ3a1Z2emFyZzg5Q2NYYTc2RHZNN1VubEU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYldRbDlsSk12WGlSaTJ0MHBUYVh2MTROTC1Xc1JpWjdVSTJlRkFCUDUxaVhtT0ZwLVlld2VURHRXUlRxZ2dWU05maXhFMTFyNDNFVS1kQW9zRUx4RlFROHhnRDd0ajZ3a1Z2emFyZzg5Q2NYYTc2RHZNN1VubEU?oc=5"
   },
   {
    "date": "2026-10-02",
