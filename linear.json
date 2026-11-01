@@ -558,11 +558,7 @@
    "note": "大鹿村の約3.6km。2026年9月に可燃性ガスが検知され、掘削が止まっている。換気設備の部品の調達が遅れ、再開は年明けの見込み。",
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
    "status_date": "2026-10-10",
-   "latest": {
-    "date": "2026-10-10",
-    "title": "掘削再開は年明けに リニア中央新幹線青木川工区 換気設備の部品調達に遅れ【長野県大鹿村】（南信州新聞）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RXZvRm53WWlHYnA4bkJETGlmWmtHU0wyRVh3bi1McHVWWGhCbzBRa3NZdVQ5R2VzTF9wLUZ2clhJOGh0cE5vTHR2UnhmNjBwaURKakswT2xhUXRMOUFmcWJTQmZnd0VrMXg5ZFluVFNzVnd2U2tGZVR0clhXcDQ?oc=5"
-   },
+   "latest": null,
    "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RXZvRm53WWlHYnA4bkJETGlmWmtHU0wyRVh3bi1McHVWWGhCbzBRa3NZdVQ5R2VzTF9wLUZ2clhJOGh0cE5vTHR2UnhmNjBwaURKakswT2xhUXRMOUFmcWJTQmZnd0VrMXg5ZFluVFNzVnd2U2tGZVR0clhXcDQ?oc=5"
   },
   {
@@ -1095,5 +1091,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-01T13:14+09:00"
+ "checked": "2026-11-01T14:10+09:00"
 }
