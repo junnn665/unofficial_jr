@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T12:07+09:00",
- "checked": "2026-11-01T12:07+09:00",
+ "updated": "2026-11-01T13:14+09:00",
+ "checked": "2026-11-01T13:14+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -78,6 +78,28 @@
    "auto": true,
    "added": "2026-11-01T12:07+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KVkRISWtjRTRibk8xeGhjMmZnQTBjU1IzdDA0X1lvSVd6Y2RDNHhrZXRsWE1odEdQVFZfS1JiVWstNzhuajB1aFhWNkZjZk5RU2FNTVRWY2lRZXpicHdaX0gyUVpVSVJ1eHFUVUZjZjFvckhkZHgxRXpjQzZHTnc?oc=5"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "shinkansen",
+   "title": "宇多田ヒカル、JR東海『GOOD DAY EXPRESS』テーマソング「Intentions」配信リリース決定（THE FIRST TIMES）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QUjVfbTVsWHN5Q2tNU2I2MEhUZkphLWU1dzRIdElDWTVyckd6TEsxdmZteGVvX1hEVy1FUEEtQ2FhMURDS190VmVIYk5ob3lDUGp6SDNSX1BTQVVZVlAxSzRUVFZNTlppZW1uM3RtejM2Z21xYlYxNE12TlpRXzQ?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-01T13:14+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5COGZNS2NXTkoyWjVyRmNFWXpBMzFIXzh2SDh1U1B2R3E1SVI3OVdoNmVpNlZvVjVSNXRzekl6dUgweFE3ZWEtMU9lbjZzbVpRWkpIdG1oc1Z2b1dRalZxaXdn?oc=5"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "event",
+   "title": "宇多田ヒカルがJR東海キャンペーン提供曲「Intentions」配信リリース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04UzhBWlZ1eUdLbC0xM3VTQllLYmZjRXJBT090RHBVaGQ0RVBvQ0lJMDBNNEJUeWhYNUtlSG45N25wTWJ5a1Y0ZXBJWHA?oc=5",
+   "src": "ナタリー",
+   "auto": true,
+   "added": "2026-11-01T13:14+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xRnVfY0RmOE9zN3YxeGctUU1UT1ZCQmZ4VWNJaWt2WmFaMHpLMjI2MGI4bUdmS3E3X0lEdkFXeTdXbThBb0lacC1VTGRuYmdScWFGS0tKMUk4bVU1ZHJfb0QxTE9iMm5GWmJ2c3doRFZic3FBRFZNUHA0MUNBbE0?oc=5"
   },
   {
    "date": "2026-10-31",
@@ -16476,26 +16498,6 @@
    "src": "奈良新聞",
    "auto": true,
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JbFdGck4wNjlRVHBObmJRc251U1ljWDhPdHV6bTJZemZLbTRHSmNYWTJKeFNmWlkxU1hZN2F4UUJsWk9Ga0luMk1Pc0Q4QmtaQmN1YWJhZUpRNHZnY0Uw?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "eki",
-   "title": "JR東海 小田原駅で周遊観光促進の取り組み開始 シェアサイクル事業や手荷物預かり実証実験",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PWENWSnJ1a1d5Qm1ybGRQUmJVc3Bzd18yOVUxVktieHl4TWloZnZaM2JhMnRHSlgwb1NOZlhSNHNnVlBkNmhrZGFwck5LYjJjLU5FYg?oc=5",
-   "src": "観光経済新聞",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PWENWSnJ1a1d5Qm1ybGRQUmJVc3Bzd18yOVUxVktieHl4TWloZnZaM2JhMnRHSlgwb1NOZlhSNHNnVlBkNmhrZGFwck5LYjJjLU5FYg?oc=5"
-  },
-  {
-   "date": "2026-10-10",
-   "cat": "event",
-   "title": "小田原市とJR東海ら 駅西口構内に臨時案内所 荷物預かり併設で外国人旅行者などに回遊促進",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZnpxZGtpLXdWY3pQTjVIY1Q4RjlEVFA2U0NmamI0Rkx5Unp6RlF2eFVuRDJHYnB0Uy1sMnN4cXJ2c3BvbC1PMmxHZldvVHdscnN2SGwzbzgydTdTU0JvMHJFb2w?oc=5",
-   "src": "タウンニュース",
-   "auto": true,
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZnpxZGtpLXdWY3pQTjVIY1Q4RjlEVFA2U0NmamI0Rkx5Unp6RlF2eFVuRDJHYnB0Uy1sMnN4cXJ2c3BvbC1PMmxHZldvVHdscnN2SGwzbzgydTdTU0JvMHJFb2w?oc=5"
   },
   {
    "date": "2026-10-02",
