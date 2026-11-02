@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T05:07+09:00",
- "checked": "2026-11-03T05:07+09:00",
+ "updated": "2026-11-03T06:02+09:00",
+ "checked": "2026-11-03T06:02+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -1574,6 +1574,17 @@
    "auto": true,
    "added": "2026-11-03T04:18+09:00",
    "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYWIxbXlFUDEtVU5DYk93S3B5VnBCSUUxNFd2MkMwWGtTczgtaFdybzJEUkpTME1hTVdfYXctQ0JKVzhYS1k3cm9WYWFpeXJTX1E?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "event",
+   "title": "11/1より東海道新幹線モバイルオーダーのコーヒーがリニューアル！～車窓の景色とともに、世界を旅するような贅沢な一杯を",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pWENUNnFUX3lWaEdHRE5GNXo4TFdqQnNCUVVlMjVCdFZfN0pDR0tLdHpvNTdvMkhUdmZGQmE5d3NvNXJreHNqZzVPNnZUODZWVGtnN1ZtUFlIdw?oc=5",
+   "src": "北海道新聞デジタル",
+   "auto": true,
+   "added": "2026-11-03T06:02+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aSV9QclJvQjB6cXd6c0FzSVljOFVONFNhTHVucDF2eFZpRkkyM3VTa1JDdUU3enJwWnMtTHRZdXNRWW5UYS1NSWkyUTI5ZEJfdTlucGtrUENUY3dQeEE?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -16490,17 +16501,6 @@
    "auto": true,
    "added": "2026-10-12T17:45+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKVWtuOExZLXd2UmZPc0FKWm1EYzFyYU13dl8zNnRFdGJBR2JKVElER2dVVHJIb0E1a3VBVUpXU1cycmRudUMxVUFSMzAwUUdqaUhJQm1BeFJkRXhuTWR6cnFPR2VhNWw3VWFuNTJyNm9WYVhLV1BqVEVIV28xVEU?oc=5"
-  },
-  {
-   "date": "2026-10-12",
-   "cat": "shinkansen",
-   "title": "【密着】1日50万人超が利用「東海道新幹線」知られざる真夜中の保守作業 超過密ダイヤを支える職人たち（読売テレビ）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQU9fUy1tNTFfM3RaSGxma3V2UEZLQXJVakROMjZGZ0lMQ19zVXEtbG9BdlRCcnhUQ1FGNlN2NjV4aHBaNmM4RXItWWVTWTlJdlY0SmRfeFlwSGpJQXpJSXRkbGR4UXp6SmNJeEdqVFJHUHhLVkpnbU8xMTMtYVk?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-12T18:44+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQU9fUy1tNTFfM3RaSGxma3V2UEZLQXJVakROMjZGZ0lMQ19zVXEtbG9BdlRCcnhUQ1FGNlN2NjV4aHBaNmM4RXItWWVTWTlJdlY0SmRfeFlwSGpJQXpJSXRkbGR4UXp6SmNJeEdqVFJHUHhLVkpnbU8xMTMtYVk?oc=5"
   },
   {
    "date": "2026-10-02",
