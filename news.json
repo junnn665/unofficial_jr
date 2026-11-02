@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T07:59+09:00",
- "checked": "2026-11-03T07:59+09:00",
+ "updated": "2026-11-03T08:54+09:00",
+ "checked": "2026-11-03T08:54+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -23,6 +23,17 @@
    "auto": true,
    "added": "2026-11-03T07:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oVVJqZnhWanNabkd1VTBRX1pVX2dJQzJaUlViWVhJVE5mMHdCQXFhRExwOVQ2SjJpMWZidTFPN2V4NThZR3o4WUh0ODM5XzA?oc=5"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "event",
+   "title": "JR東海「EX旅先予約」、観光施設や体験が10％OFF アクアパーク品川・ハルカス300など対象",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWb2ZGNEtLblFIZGhTZlNFTFg5X0NHa0wzWFR3QkRYUll4bGwyWk5kdFc4OTg3dHZxbjc1ZGZwNmcwbTdaTVlOclBWbW5WUQ?oc=5",
+   "src": "ポイ探ニュース",
+   "auto": true,
+   "added": "2026-11-03T08:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWb2ZGNEtLblFIZGhTZlNFTFg5X0NHa0wzWFR3QkRYUll4bGwyWk5kdFc4OTg3dHZxbjc1ZGZwNmcwbTdaTVlOclBWbW5WUQ?oc=5"
   },
   {
    "date": "2026-11-02",
@@ -815,6 +826,17 @@
    "auto": true,
    "added": "2026-11-01T23:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWTRMY2tnQ1ptUG4xY1VpZ1VCSHppa1lZQWtVUXhTSVI1WmthUDY2cVltbGFoSzI2bktPVjllcm92eTFPYWFCYjU1MElOaGJjVTdGeFZvUHRXWDY5eXJB?oc=5"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "other",
+   "title": "｢かけがえのない思い出をありがとう｣ 閉校する長野市鬼無里中学校で最後の文化祭",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvMDRHcDhqb3RkMUtMUnljZERmY21TcV9kNnp4T1Q2RkxjRnVfU19EZ1lNdDNkcFBvaWEzVkMxdmZBQzBlQ0MxM0FTdEpOOXB4a3hSZlM2VmE1TDNFY29kSkhIZGJDM2NIUFMtR0RPano?oc=5",
+   "src": "信濃毎日新聞デジタル",
+   "auto": true,
+   "added": "2026-11-03T08:54+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvMDRHcDhqb3RkMUtMUnljZERmY21TcV9kNnp4T1Q2RkxjRnVfU19EZ1lNdDNkcFBvaWEzVkMxdmZBQzBlQ0MxM0FTdEpOOXB4a3hSZlM2VmE1TDNFY29kSkhIZGJDM2NIUFMtR0RPano?oc=5"
   },
   {
    "date": "2026-10-30",
@@ -16478,28 +16500,6 @@
    "src": "テレ朝NEWS",
    "auto": true,
    "added": "2026-10-12T10:40+09:00",
-   "g": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvNVpPc1NiZWFmT0ZyMjllUmJtMlBXUldMS1FSb3N0a1M2UjNBOV9pd3pBSXJEamcxVDVhRk15aXRYckVmWDdkVnlmeWRDNmV2eU5XeEdKTDBRS29leTNUVlZiZVRaSTVNbl9QS0czZW5nZw?oc=5"
-  },
-  {
-   "date": "2026-10-12",
-   "cat": "shinkansen",
-   "title": "これが「のぞみ」なの!? 16両のうち1両が「異世界」に！ 車内が“緑まみれ”の列車が運行される その目的とは",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOemNBM0kzcmNVN1dxbDh5Y0Z4am05WjNHNUc0Ynl4LTdSbnZ0QjQwMFYyRUhDQnRXTnVQNFFWa3IwbjhBVTVzRDZFR2taNHhiME1NcjRza3NEcHRwbW41UGpzUVdjcGthZDEzak4yc3BRdTY5T0wzeHZjVlRKX002SjhWeDBvV2FWMFFXN3paMmpwYnhGMjZuNWRNXzdrdGxSbmMtcjZEbnlVS3dhbE04NnNPZkFORFBLcVNEd09ZbzRROHQxaXNJejVpcENSSjNKSUhMQXRSQdIBhwFBVV95cUxOZ3c0dEVLYUdqVjFhVHRza0w3b2h1RTd6SWtUaGFKV3J4c1hDS0JCa1p6V2xQaVcxMVRtZFRjS0NXU25XRi04SmctbDloeE5DLXNSeFB6YWdEaWtEZjRVYXhTakEtMDFhXzh0UGlHY29iNHdoWDRyYnFOVlJTaE5XZXlZc21od1U?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "added": "2026-10-12T11:40+09:00",
-   "g": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOemNBM0kzcmNVN1dxbDh5Y0Z4am05WjNHNUc0Ynl4LTdSbnZ0QjQwMFYyRUhDQnRXTnVQNFFWa3IwbjhBVTVzRDZFR2taNHhiME1NcjRza3NEcHRwbW41UGpzUVdjcGthZDEzak4yc3BRdTY5T0wzeHZjVlRKX002SjhWeDBvV2FWMFFXN3paMmpwYnhGMjZuNWRNXzdrdGxSbmMtcjZEbnlVS3dhbE04NnNPZkFORFBLcVNEd09ZbzRROHQxaXNJejVpcENSSjNKSUhMQXRSQdIBhwFBVV95cUxOZ3c0dEVLYUdqVjFhVHRza0w3b2h1RTd6SWtUaGFKV3J4c1hDS0JCa1p6V2xQaVcxMVRtZFRjS0NXU25XRi04SmctbDloeE5DLXNSeFB6YWdEaWtEZjRVYXhTakEtMDFhXzh0UGlHY29iNHdoWDRyYnFOVlJTaE5XZXlZc21od1U?oc=5"
-  },
-  {
-   "date": "2026-10-12",
-   "cat": "shinkansen",
-   "title": "来年引退ドクターイエロー撮影会 JR西日本・博多総合車両所で「新幹線ふれあいデー」（テレビ朝日系（ANN））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ha1hNam1BNTI5YXlUYzhkelJuU08tWEFzRjJSQnIydDZvdTl1eVNNcXpQT1UwWlp1SXlNbWNVdXdRZ2plVEhMYVlYcmNuQk5HTnRIb19WWTAxUzZObHg5OUs4U0VjYWdoZm1zcXp4SlI2TEMzbll3MDVBekQ3TEU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-12T11:40+09:00",
    "g": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvNVpPc1NiZWFmT0ZyMjllUmJtMlBXUldMS1FSb3N0a1M2UjNBOV9pd3pBSXJEamcxVDVhRk15aXRYckVmWDdkVnlmeWRDNmV2eU5XeEdKTDBRS29leTNUVlZiZVRaSTVNbl9QS0czZW5nZw?oc=5"
   },
   {
