@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T20:17+09:00",
- "checked": "2026-11-02T20:17+09:00",
+ "updated": "2026-11-02T21:12+09:00",
+ "checked": "2026-11-02T21:12+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -209,6 +209,17 @@
    "src": "TBS NEWS DIG",
    "auto": true,
    "added": "2026-11-02T20:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85RjdjTU16cnBmeDVjeklBZHhGMjJtVEFoU3RERmFVa0stMFNiY0JBU25wbEFhOXl1YTdlY3oxMUJxcUFkZE5veFZXQ0JpQWRUUUJMamxZQ2Q3TV82U1V3LVl6TlVydHlGRUhrTVRYaVNTZjc5bDdQMGh1d2E3cGs?oc=5"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "event",
+   "title": "東海道新幹線の“最上位”個室を体験 ｢乗り心地がいい｣｢世界で一番いい｣ 来年度導入の半個室も登場 体験イベントは名古屋で初開催 (2026年11月2日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UVWpmMTNnVFlicXdudU00Yi1NMkYtaHJBaTFwNlZ0Ni1Zak5jbkRvQTJZN2ctcFo3RFJLUmJoQVBjb0otM096NlBOSHZZRmpWOWlfOXpia054RzBRQnc?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-11-02T21:12+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85RjdjTU16cnBmeDVjeklBZHhGMjJtVEFoU3RERmFVa0stMFNiY0JBU25wbEFhOXl1YTdlY3oxMUJxcUFkZE5veFZXQ0JpQWRUUUJMamxZQ2Q3TV82U1V3LVl6TlVydHlGRUhrTVRYaVNTZjc5bDdQMGh1d2E3cGs?oc=5"
   },
   {
@@ -16490,17 +16501,6 @@
    "auto": true,
    "added": "2026-10-12T22:04+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wcWdYV0xGNHIwOC1ySkRiZ2Vza19PdFNtS0s4am12NG9KRkN2dXpIbmVWY3lPR1h3MGdPc2JWTkV2akhaT1cxLVM2VGNaQXhLeDdnQ3hIMEJob0lSRkFr?oc=5"
-  },
-  {
-   "date": "2026-10-12",
-   "cat": "shinkansen",
-   "title": "東北新幹線が一時見合わせ 盛岡―仙台間、信号確認で",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QOTdwaWZEQ1ljWnV5YTJDZFA3bGlvX080aWdubzVTWlA2NjdpakFrM0d3T2VoMWg1aU1ZUjA5czc4RmdydXliVnN6cUU1dWk3RmRzX0FmekdndEJuS3YxOVZJbHZNcFI0VkJCRzRR?oc=5",
-   "src": "au Webポータル",
-   "auto": true,
-   "added": "2026-10-13T00:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QOTdwaWZEQ1ljWnV5YTJDZFA3bGlvX080aWdubzVTWlA2NjdpakFrM0d3T2VoMWg1aU1ZUjA5czc4RmdydXliVnN6cUU1dWk3RmRzX0FmekdndEJuS3YxOVZJbHZNcFI0VkJCRzRR?oc=5"
   },
   {
    "date": "2026-10-02",
