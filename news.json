@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T13:15+09:00",
- "checked": "2026-11-03T13:15+09:00",
+ "updated": "2026-11-03T14:17+09:00",
+ "checked": "2026-11-03T14:17+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -122,6 +122,17 @@
    "auto": true,
    "added": "2026-11-03T13:15+09:00",
    "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Wb0U1T2ZEOUVxZ1RvUkZ6eThWZGRQZWEycGlidk51LVFIYWZVMUFYQ25XRDItR1NWb2xXaDJjemk0VDdFQ1JiNDRYMUhKRXJmMWJoM2NSVEpqZGdhZFhxQlc3U2Rhd2VT?oc=5"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "eki",
+   "title": "JR名古屋駅「ぴよりん」真っ黒ゴジラ仕様に 販売店舗に早朝から列",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdkJmb2FESUVfMkNrSWdPS0FYWGZEelRLNmd5SDdrV1piRHZNVl9iVDdzSFFHN2xPVTIwbFpxVTVkVVJQYWh0YlJITUN4T2tNaS1ReG4xc3ZKTzFTdUFITnpwNzUtQjY2NWF0bQ?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-11-03T14:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdkJmb2FESUVfMkNrSWdPS0FYWGZEelRLNmd5SDdrV1piRHZNVl9iVDdzSFFHN2xPVTIwbFpxVTVkVVJQYWh0YlJITUN4T2tNaS1ReG4xc3ZKTzFTdUFITnpwNzUtQjY2NWF0bQ?oc=5"
   },
   {
    "date": "2026-11-02",
@@ -16490,17 +16501,6 @@
    "auto": true,
    "added": "2026-10-15T13:54+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqYUF3N2FVaENXazBFSThYUnY5a21UOV9rRkwzWUpRbVlfSGkycG9BVGdDRVA2XzJDUVpPdmRDSEZKX2h4RkdnR1I2dWIzVDNWWUxpeWZoa0ZlVVRrOHRV?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "other",
-   "title": "JR東海のECサイト、不正アクセスで個人情報1万5千件漏洩か",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tV3ZZQjNoRk5JWWd2ZmJ5WFJDb1ZTclFiMzljcE5vZzNNUkxjU09QOHczTzNIT3BaQjFiRHpoYVExdzlwU0E1TnJXNVZtWFd2dGVqdU9YdHlOQUgwR01hQWhfXzhudlU?oc=5",
-   "src": "朝日新聞",
-   "auto": true,
-   "added": "2026-10-15T18:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oVHVuM0RoaUhGMnhaY1Y1X3hOWml3TzdCMmNjOU5fZG42eWRJSTRmUmRsTTlUZWRGMWprbmxpM0Z2MGVHTm9PMUxaVHUxQQ?oc=5"
   },
   {
    "date": "2026-10-02",
