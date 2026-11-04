@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T07:07+09:00",
- "checked": "2026-11-05T07:07+09:00",
+ "updated": "2026-11-05T08:05+09:00",
+ "checked": "2026-11-05T08:05+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -67,6 +67,39 @@
    "auto": true,
    "added": "2026-11-05T07:07+09:00",
    "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMFh6TWVIRVpiUTNBT1ZmY3ZoSWN6ZW53SDlMci1YblhpekprMkpyUXNJdE0xbnFORTB4SzVTNlgzSGdkRTA0MEZYU19UT1NhaGhtQ3NJWDZJN3N6SUk2R0NnZkRxb2huUzgxUFpieUw4T1dmOVE?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "eki",
+   "title": "東急の電車が「名古屋駅」に出現！ いよいよ“三重県”まで乗り入れへ 何がスゴいのか体験してみた",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XYkc4NXRYWjJjWUJyY2F3djBFUzZraVFpbTJ6WGY0dlQ2NmNZOGFzeEpmd1RZTnRROUNGcjFBUk1yMmhqajNUX2VR?oc=5",
+   "src": "乗りものニュース",
+   "auto": true,
+   "added": "2026-11-05T08:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XYkc4NXRYWjJjWUJyY2F3djBFUzZraVFpbTJ6WGY0dlQ2NmNZOGFzeEpmd1RZTnRROUNGcjFBUk1yMmhqajNUX2VR?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "shinkansen",
+   "title": "極上の個室、座り心地は? 東海道新幹線の最上位クラス体験会",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50WFNBZUotXzNGUTRjVkJPTDZacVMxY0ZRUDdFa0k5VWV3dXF3U1ZZclJmT3pWa2YyWVhNdlpsajVac2lCRmFTZGtiNHE5TXg3ZFR2OGtWWkhtOGwzRFVaR1pTUnpxVXJZ?oc=5",
+   "src": "毎日新聞",
+   "auto": true,
+   "added": "2026-11-05T08:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50WFNBZUotXzNGUTRjVkJPTDZacVMxY0ZRUDdFa0k5VWV3dXF3U1ZZclJmT3pWa2YyWVhNdlpsajVac2lCRmFTZGtiNHE5TXg3ZFR2OGtWWkhtOGwzRFVaR1pTUnpxVXJZ?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "shinkansen",
+   "title": "極上の個室、座り心地は? 東海道新幹線の最上位クラス体験会（毎日新聞）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVGRlV1pVNG5vZHJzUnRrRkNiQTU0YXdBMkFtcHduX2RfOHdHaFRtaTNmOGVIV0c2WjFDVENxLVVZeEVVQTJlTG9URW9PZ1BwNU42cTMtTEQ5MmxYRHNBS2Z1VFZaNzhwalUtYmRRQWJaVjIxMzhZR1p4N3Z1TkE?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-05T08:05+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50WFNBZUotXzNGUTRjVkJPTDZacVMxY0ZRUDdFa0k5VWV3dXF3U1ZZclJmT3pWa2YyWVhNdlpsajVac2lCRmFTZGtiNHE5TXg3ZFR2OGtWWkhtOGwzRFVaR1pTUnpxVXJZ?oc=5"
   },
   {
    "date": "2026-11-04",
@@ -550,6 +583,17 @@
    "src": "福井新聞社",
    "auto": true,
    "added": "2026-11-05T03:10+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEMW1jSXJTWjc3LUxuRkVvaGZ5Rl91SkZzUjVHRldxU1FyaHBSdmxfUGhkRUlyemVBaEg0LVR2SDBydVc2ZE5jY20yU3U4Z0ZSMnNyTzFPOA?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "kaisha",
+   "title": "【独自】リニア工事費再び増額へ JR東海、11兆円から (2026年11月4日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkczlvLUtxWTcyUzg1bVJhZ21SaEFSY2JsX2ZrcV9lTHEwZGlZUnRNS2xLanNTZkVTZVZMVklMdXF4bDg1d3NUZXV1bThreWJnRVhkZDgzTHdpREhPMVE?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-11-05T08:05+09:00",
    "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEMW1jSXJTWjc3LUxuRkVvaGZ5Rl91SkZzUjVHRldxU1FyaHBSdmxfUGhkRUlyemVBaEg0LVR2SDBydVc2ZE5jY20yU3U4Z0ZSMnNyTzFPOA?oc=5"
   },
   {
@@ -16457,50 +16501,6 @@
    "auto": true,
    "added": "2026-10-13T11:41+09:00",
    "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xX0Fvd21sZi1pbHJGenFuYnVoMWJNbm1oUWhpbzRqMDNhMmE2RXY2ZEQ4LVZPZjBma0tjbVBRNVhNMVBjblJuMHRibVpsUXNJSVZ4WWpEaG5fVnFPVno1cS0xUlMxQ19M0gFuQVVfeXFMTXZGa3g2bGM2cEZWNEl6RklFQ0lRcXZvT3RXVFBWUENZdXJSNGhOcm11emhxNDdNME0zRzA4NUhLdVF1YUtMR0NoNFUzZmE2eWRLUC1YRUlfSVN4R282QWE3U2hFYjc1TWI2Q1g1MlE?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "other",
-   "title": "★JR東海、「鉄道の日」特集を過去最大規模で展開",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TbTg5Z1dmd0kxQ0k4X3d3ZHpoZks1S25nVzJnd2hBRUxFSWdmMFhIT09MRU1zNXNuWEVsNTU3RmZzQWlfQzNUWQ?oc=5",
-   "src": "航空新聞社",
-   "auto": true,
-   "added": "2026-10-13T13:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TbTg5Z1dmd0kxQ0k4X3d3ZHpoZks1S25nVzJnd2hBRUxFSWdmMFhIT09MRU1zNXNuWEVsNTU3RmZzQWlfQzNUWQ?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "shinkansen",
-   "title": "新幹線の車内が“緑だらけ”、「目の愛護デー」に特別列車『目のグリーン車』を運行",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmVjZWhSc3VkVWtTMzZ1elJwYTJHNk1ZbkdpaGxiRTVJQ2E5cmlieDF6UFNTdHRVZTZsQ3J1djJ4OS02SUF6ZDNqcWpXbE9SWUVCR240SmhUNWFFc3BCS2QtdWxLNjhXSnpKZzlfQS1fTFZIZG8yaDFNdlhhd3pYSGZWaXRZZlRw0gF7QVVfeXFMTnk0cTMyb0psd3pFYWJKWFcxclBzcmhKSndKTkdXVkFyTnRaUjBVMEFtN3o5YjRDTVJHaDl2Y1ZFcHBsVTFxUlNYcHFJUms2REw4MTFrWGlWRUo2NUhqNkdQWDc1QS1saHFIakJtYlYzWWVURnU4cXlBcU5B?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "added": "2026-10-13T13:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmVjZWhSc3VkVWtTMzZ1elJwYTJHNk1ZbkdpaGxiRTVJQ2E5cmlieDF6UFNTdHRVZTZsQ3J1djJ4OS02SUF6ZDNqcWpXbE9SWUVCR240SmhUNWFFc3BCS2QtdWxLNjhXSnpKZzlfQS1fTFZIZG8yaDFNdlhhd3pYSGZWaXRZZlRw0gF7QVVfeXFMTnk0cTMyb0psd3pFYWJKWFcxclBzcmhKSndKTkdXVkFyTnRaUjBVMEFtN3o5YjRDTVJHaDl2Y1ZFcHBsVTFxUlNYcHFJUms2REw4MTFrWGlWRUo2NUhqNkdQWDc1QS1saHFIakJtYlYzWWVURnU4cXlBcU5B?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "other",
-   "title": "「500系＆ドクターイエロー メモリアルショップ withカモノハシのイコちゃん」を期間限定で開催",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQ1ZMaU0yVWJpQVVQWGVzX0ZGMTVoSnU0VG9WRzNXMXk1cHFKTkRyZFBiNno2aFEzSVJ6Q1VtREFoRC0zV0tqU21iSXVta0dNNHpyNXhndWk?oc=5",
-   "src": "鉄道ファン・railf.jp",
-   "auto": true,
-   "added": "2026-10-13T13:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQ1ZMaU0yVWJpQVVQWGVzX0ZGMTVoSnU0VG9WRzNXMXk1cHFKTkRyZFBiNno2aFEzSVJ6Q1VtREFoRC0zV0tqU21iSXVta0dNNHpyNXhndWk?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "shinkansen",
-   "title": "新幹線の車内が“緑だらけ”、「目の愛護デー」に特別列車『目のグリーン車』を運行（オリコン）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43ajVXbW01eTVqc2ZCZWdGZ280Q3BFeC1jcGhWNGJKUHpBZFhNc09XOVZmX3BNUzByTmJJc2tTbXRoS3UxZENRenl2WnJGT3RlbFYxM1VOVXFCVV9URFhpbHVvX0NxaXpOeWlveW5ER1prRjd5cWxfUS1PSlkwSDA?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-13T14:41+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmVjZWhSc3VkVWtTMzZ1elJwYTJHNk1ZbkdpaGxiRTVJQ2E5cmlieDF6UFNTdHRVZTZsQ3J1djJ4OS02SUF6ZDNqcWpXbE9SWUVCR240SmhUNWFFc3BCS2QtdWxLNjhXSnpKZzlfQS1fTFZIZG8yaDFNdlhhd3pYSGZWaXRZZlRw0gF7QVVfeXFMTnk0cTMyb0psd3pFYWJKWFcxclBzcmhKSndKTkdXVkFyTnRaUjBVMEFtN3o5YjRDTVJHaDl2Y1ZFcHBsVTFxUlNYcHFJUms2REw4MTFrWGlWRUo2NUhqNkdQWDc1QS1saHFIakJtYlYzWWVURnU4cXlBcU5B?oc=5"
   },
   {
    "date": "2026-10-02",
