@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T01:24+09:00",
- "checked": "2026-11-05T01:24+09:00",
+ "updated": "2026-11-05T02:16+09:00",
+ "checked": "2026-11-05T02:16+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -22,6 +22,17 @@
    "src": "ｄメニューニュース",
    "auto": true,
    "added": "2026-11-05T01:24+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcWtaczFNXzVWTXVYZUYwUDBtTzZtTTB4TnlkTXpPTVJNb2lDeTZfX0JPMXpqZ0lIX0ZNVzBrTVN5MVczR01VM1F6dmFjSzJxblBMYXNiX3RCS1Q5eEZ3cjE0VnJ5WTg2Q1otREhXVdIBdEFVX3lxTE9UeDQzdnd5ZlhxQ0NkekhaQXp0Qk1BVTAwc3E5OEZjcllHaUdzMUhHaUFGZTNFRGFaLVZlYmd4RUR5d2gzbFNCSnVVTmFVbC0xR0tPZU5FTnZOclNwb3ZsVVg3X29KU1lxWm9HZlpLUktIZU1x?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "shinkansen",
+   "title": "JR東日本でも秋田行き“夜行新幹線”を年末に限定で運行へ（TBS NEWS DIG Powered by JNN）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rWWplZW1UQThadk1HLUZKaW1ma25CTGlOZzlNQ3BHczM5cEo0TUg2LVk2UTliRy1EcTJPUW1PQVhhS04wNU9uLWFuVWxRdTdNV21uZ1VFREhGekdKQmYyTmx3MlBGdk5XbTZwNFB6ckZsZEZEaklyeExqV3RRODA?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-05T02:16+09:00",
    "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcWtaczFNXzVWTXVYZUYwUDBtTzZtTTB4TnlkTXpPTVJNb2lDeTZfX0JPMXpqZ0lIX0ZNVzBrTVN5MVczR01VM1F6dmFjSzJxblBMYXNiX3RCS1Q5eEZ3cjE0VnJ5WTg2Q1otREhXVdIBdEFVX3lxTE9UeDQzdnd5ZlhxQ0NkekhaQXp0Qk1BVTAwc3E5OEZjcllHaUdzMUhHaUFGZTNFRGFaLVZlYmd4RUR5d2gzbFNCSnVVTmFVbC0xR0tPZU5FTnZOclNwb3ZsVVg3X29KU1lxWm9HZlpLUktIZU1x?oc=5"
   },
   {
@@ -485,6 +496,17 @@
    "auto": true,
    "added": "2026-11-05T01:24+09:00",
    "g": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wTVZHNXg4VkVCRkVqX2RqNFZ3SXNSODg0Vll2QlZxSllXS0Rxc1phY0V0bXdsTFoxdHlKY1ZZRkt1WGhOOEtZQ3lnRFdyaG1G?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "kaisha",
+   "title": "キッセイ、純利益27.4％減に下方修正 27年3月期の業績予想 「タブネオス」巡り特別損失計上",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XamVGaWxNZ29haTBxMEVDcDNlSFlvN3djYzAzM0FScWJTdEtZclhiQ3AzcE5pRFNnTmRsaFdJX3lCbWpZN3pSWk5mYy03a09oUHhsR1RMWTNROTNEOGpyenBKM1pqYThQNjRxTG1nYlQ?oc=5",
+   "src": "信濃毎日新聞デジタル",
+   "auto": true,
+   "added": "2026-11-05T02:16+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XamVGaWxNZ29haTBxMEVDcDNlSFlvN3djYzAzM0FScWJTdEtZclhiQ3AzcE5pRFNnTmRsaFdJX3lCbWpZN3pSWk5mYy03a09oUHhsR1RMWTNROTNEOGpyenBKM1pqYThQNjRxTG1nYlQ?oc=5"
   },
   {
    "date": "2026-11-03",
@@ -16479,28 +16501,6 @@
    "auto": true,
    "added": "2026-10-13T15:51+09:00",
    "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWhkYm1iUERiZVRZVEtmU2Z4cnMybk0xVUItMU13MW4zU1BTVGNlZEZacVYxRjE0QU1sVFRtLWRCTXNKTllEanhQR0JCRmROMWlmcnd2LUtUamg3SFV2c21rREx2MVRoZHhaOVJlM2ZZeHBhRUQ2eTdkWS0tbFVWONIBhgFBVV95cUxPNW5KLVAySmZxSTlRSVcxdlJKVFMxXzFSRWEwV1FvdG04YXNSUzI2UWFWZHJwQ1dSczBQbmt0UU8xQ1FjQThhbTNDWFdKRDUwUnFLRVlvY0xwa19lLVBlQXNyMEV3SnZJdy14bHByVjNkTGZSVlo5R1JaSF9JMnZBX0t1WS1fdw?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "event",
-   "title": "松任谷由実 × JR東海「推し旅」東海道新幹線とのスペシャルコラボレーション決定！",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JbXZleGRrd0M0QkZWeFRvMmw1RVpDdXRFSlIxUE50MFJLNEwwUF9WeU92b2l5X1JVc1loWV9Obzc1b0J2b2c?oc=5",
-   "src": "POPSCENE - ポップシーン",
-   "auto": true,
-   "added": "2026-10-13T15:51+09:00",
-   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHeEtlQWxHdFF2ZE54aWpZQXhPcUw5Uk5jV2EzemEyWVZtdENHT1NFWXl3SkY4enpTczZHMHZ6bnB5bWJFLUhlWDhwSWRla19TTFNzMXBLbFdfVm1FNFRneTZUR2tIaVpXQlh5NXVnNFY5RWM?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "shinkansen",
-   "title": "今年は東海道新幹線に関する鉄道古物を数量限定販売！天王寺公園で開催の「駅祭ティング2026」に出店",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a205M3NyT2haRlFoRm9ROXlZRTExeEp1dUdVQnJxaDlHMlhXQlJNSUxaams3Y0lUeU03RS1ZOFJ3YV9xQVJVWGJldjZIdS1YSGYyNg?oc=5",
-   "src": "河北新報オンライン",
-   "auto": true,
-   "added": "2026-10-13T15:51+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a205M3NyT2haRlFoRm9ROXlZRTExeEp1dUdVQnJxaDlHMlhXQlJNSUxaams3Y0lUeU03RS1ZOFJ3YV9xQVJVWGJldjZIdS1YSGYyNg?oc=5"
   },
   {
    "date": "2026-10-02",
