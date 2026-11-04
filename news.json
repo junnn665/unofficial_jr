@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T00:13+09:00",
- "checked": "2026-11-05T00:13+09:00",
+ "updated": "2026-11-05T01:24+09:00",
+ "checked": "2026-11-05T01:24+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -12,6 +12,17 @@
    "auto": true,
    "added": "2026-10-21T16:11+09:00",
    "g": "https://jr-central.co.jp/news/release/nws000001_00624.html"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "shinkansen",
+   "title": "JR東日本でも秋田行き“夜行新幹線”を年末に限定で運行へ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcWtaczFNXzVWTXVYZUYwUDBtTzZtTTB4TnlkTXpPTVJNb2lDeTZfX0JPMXpqZ0lIX0ZNVzBrTVN5MVczR01VM1F6dmFjSzJxblBMYXNiX3RCS1Q5eEZ3cjE0VnJ5WTg2Q1otREhXVdIBdEFVX3lxTE9UeDQzdnd5ZlhxQ0NkekhaQXp0Qk1BVTAwc3E5OEZjcllHaUdzMUhHaUFGZTNFRGFaLVZlYmd4RUR5d2gzbFNCSnVVTmFVbC0xR0tPZU5FTnZOclNwb3ZsVVg3X29KU1lxWm9HZlpLUktIZU1x?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-11-05T01:24+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcWtaczFNXzVWTXVYZUYwUDBtTzZtTTB4TnlkTXpPTVJNb2lDeTZfX0JPMXpqZ0lIX0ZNVzBrTVN5MVczR01VM1F6dmFjSzJxblBMYXNiX3RCS1Q5eEZ3cjE0VnJ5WTg2Q1otREhXVdIBdEFVX3lxTE9UeDQzdnd5ZlhxQ0NkekhaQXp0Qk1BVTAwc3E5OEZjcllHaUdzMUhHaUFGZTNFRGFaLVZlYmd4RUR5d2gzbFNCSnVVTmFVbC0xR0tPZU5FTnZOclNwb3ZsVVg3X29KU1lxWm9HZlpLUktIZU1x?oc=5"
   },
   {
    "date": "2026-11-04",
@@ -452,6 +463,28 @@
    "auto": true,
    "added": "2026-11-05T00:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEMW1jSXJTWjc3LUxuRkVvaGZ5Rl91SkZzUjVHRldxU1FyaHBSdmxfUGhkRUlyemVBaEg0LVR2SDBydVc2ZE5jY20yU3U4Z0ZSMnNyTzFPOA?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "kaisha",
+   "title": "リニア工事費再び増額へ、JR東海、11兆円から 資材・人件費高騰響く 年内にも公表",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkWGtzMks0NWJKMTQybXFNMEJJUjhIYjZWdHZ0MkpfWDU4MW1kbzN5c1B2Ykl4T1hlQXdXdjZ2dHhzU0VkN3FjMFZ2ZEFHSGxSLTE2NkQxcVVQVXNtczViZ3BMQ1RZREp3amNrZVI3YU0wQjVsT2c?oc=5",
+   "src": "産経ニュース",
+   "auto": true,
+   "added": "2026-11-05T01:24+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkWGtzMks0NWJKMTQybXFNMEJJUjhIYjZWdHZ0MkpfWDU4MW1kbzN5c1B2Ykl4T1hlQXdXdjZ2dHhzU0VkN3FjMFZ2ZEFHSGxSLTE2NkQxcVVQVXNtczViZ3BMQ1RZREp3amNrZVI3YU0wQjVsT2c?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "kaisha",
+   "title": "リニア工事費従来の１１兆円から増へ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wTVZHNXg4VkVCRkVqX2RqNFZ3SXNSODg0Vll2QlZxSllXS0Rxc1phY0V0bXdsTFoxdHlKY1ZZRkt1WGhOOEtZQ3lnRFdyaG1G?oc=5",
+   "src": "www.nnn.co.jp",
+   "auto": true,
+   "added": "2026-11-05T01:24+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wTVZHNXg4VkVCRkVqX2RqNFZ3SXNSODg0Vll2QlZxSllXS0Rxc1phY0V0bXdsTFoxdHlKY1ZZRkt1WGhOOEtZQ3lnRFdyaG1G?oc=5"
   },
   {
    "date": "2026-11-03",
@@ -16467,39 +16500,6 @@
    "src": "河北新報オンライン",
    "auto": true,
    "added": "2026-10-13T15:51+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a205M3NyT2haRlFoRm9ROXlZRTExeEp1dUdVQnJxaDlHMlhXQlJNSUxaams3Y0lUeU03RS1ZOFJ3YV9xQVJVWGJldjZIdS1YSGYyNg?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "shinkansen",
-   "title": "プレスリリース：今年は東海道新幹線に関する鉄道古物を数量限定販売！天王寺公園で開催の「駅祭ティング2026」に出店（Digital PR Platform）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uSGdFYXdtQ0NxdndRWkoxemYwcW5MTG84OHloMTM3RGJsa0xLZzNWVWRsUW12VTUwSm1mSHB1SU1vOUJoYmtEQllYcjhPRF9uNGJrYnZCbGRNR0RoVTZrQjZzRnMxYVYz?oc=5",
-   "src": "毎日新聞",
-   "auto": true,
-   "added": "2026-10-13T15:51+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a205M3NyT2haRlFoRm9ROXlZRTExeEp1dUdVQnJxaDlHMlhXQlJNSUxaams3Y0lUeU03RS1ZOFJ3YV9xQVJVWGJldjZIdS1YSGYyNg?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "event",
-   "title": "松任谷由実、JR東海「推し旅」とコラボ決定 東海道新幹線で限定トーク配信＆オリジナルグッズプレゼント（オリコン）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RzU4cnRNTHQ4ZzFvUDBOQlBZMHAzc2c5bWNOTC03cExlZUdwSzcwSk1ocGN2TFhBNnVZaXFTcUZyWmZhQTJzUnlMNFRWT1dNTlgtNVluVEdIRTlkUjVRMlc3NzNzNXU4QURqZWh5NEh3ODJUaWhvQ05wbjA1V0U?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-13T16:44+09:00",
-   "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWhkYm1iUERiZVRZVEtmU2Z4cnMybk0xVUItMU13MW4zU1BTVGNlZEZacVYxRjE0QU1sVFRtLWRCTXNKTllEanhQR0JCRmROMWlmcnd2LUtUamg3SFV2c21rREx2MVRoZHhaOVJlM2ZZeHBhRUQ2eTdkWS0tbFVWONIBhgFBVV95cUxPNW5KLVAySmZxSTlRSVcxdlJKVFMxXzFSRWEwV1FvdG04YXNSUzI2UWFWZHJwQ1dSczBQbmt0UU8xQ1FjQThhbTNDWFdKRDUwUnFLRVlvY0xwa19lLVBlQXNyMEV3SnZJdy14bHByVjNkTGZSVlo5R1JaSF9JMnZBX0t1WS1fdw?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "shinkansen",
-   "title": "JR東海 駅祭ティング 東海道新幹線鉄道古物 販売（2026年10月18日）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YMGQ0UW0teGs3TVZsY3hmRC1RNUF6YXNnYy1nS2dtdEVHWjA4R0VqejNXeVJQZlZEbnBfMjNGa1JXS2h5bk55cy1PUVk?oc=5",
-   "src": "Tetsudo.com（鉄道コム）",
-   "auto": true,
-   "added": "2026-10-13T16:44+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a205M3NyT2haRlFoRm9ROXlZRTExeEp1dUdVQnJxaDlHMlhXQlJNSUxaams3Y0lUeU03RS1ZOFJ3YV9xQVJVWGJldjZIdS1YSGYyNg?oc=5"
   },
   {
