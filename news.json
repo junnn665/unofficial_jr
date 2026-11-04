@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T16:43+09:00",
- "checked": "2026-11-04T16:43+09:00",
+ "updated": "2026-11-04T18:17+09:00",
+ "checked": "2026-11-04T18:17+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -199,6 +199,50 @@
    "auto": true,
    "added": "2026-11-04T16:43+09:00",
    "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTeFFBYnFGZjhDSF9OOTVwWnhMeUhveGVPQkQ0blFlenVrcnYtOUNubUFyR05rRDRaVDhCQXhpR1ZZeU12U0VPc0FQOGNnZw?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "other",
+   "title": "元JR東海211系、流鉄の新たな車両「6000形」愛称「青空」号に決定",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wcFZaNjhMZWdnQWh2eUtkSHBVRFMwbER0U3VzV0ZhMW1pUjJlTmtpT3c4dFJDLTNJblMtYzROQ1YxbmhWWHRqdXA2aUd3V0Y3dV9nUzRJWkJ3Szcx?oc=5",
+   "src": "マイナビニュース",
+   "auto": true,
+   "added": "2026-11-04T18:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wcFZaNjhMZWdnQWh2eUtkSHBVRFMwbER0U3VzV0ZhMW1pUjJlTmtpT3c4dFJDLTNJblMtYzROQ1YxbmhWWHRqdXA2aUd3V0Y3dV9nUzRJWkJ3Szcx?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "linear",
+   "title": "「降りたくなる駅」テーマに意見交換 知事と県民、相模原のリニア新駅巡り",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM1JZeXJMTWN1UUdjWERmazN5ekw2S2c1Szk0aklxdDBJdGY3RW1TSTB6c0xJdDM5LVVSd0JmRzQ2TDNXS25vTW9PdlVlNmxuRmlUNDNCRXgzeTItZkJyUDNGSWdhb180OVpOWQ?oc=5",
+   "src": "カナロコ",
+   "auto": true,
+   "added": "2026-11-04T18:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM1JZeXJMTWN1UUdjWERmazN5ekw2S2c1Szk0aklxdDBJdGY3RW1TSTB6c0xJdDM5LVVSd0JmRzQ2TDNXS25vTW9PdlVlNmxuRmlUNDNCRXgzeTItZkJyUDNGSWdhb180OVpOWQ?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "linear",
+   "title": "リニア・北陸新幹線専門委員会講演会を開催",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVzhSUnRSNXBZaVRYc0tCRkVrNEttVHBCODJ0ODVmNDhoZno0OHZJU2JwczY5X3lZVUYzOHlhRDN5dUNFOVNFbThUWUFLcW5vWmJMU2V1N0dQMXZJTVVJY1pWbkhYQlVrUHc?oc=5",
+   "src": "公益社団法人 関西経済連合会",
+   "auto": true,
+   "added": "2026-11-04T18:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVzhSUnRSNXBZaVRYc0tCRkVrNEttVHBCODJ0ODVmNDhoZno0OHZJU2JwczY5X3lZVUYzOHlhRDN5dUNFOVNFbThUWUFLcW5vWmJMU2V1N0dQMXZJTVVJY1pWbkhYQlVrUHc?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "linear",
+   "title": "「降りたくなる駅」テーマに意見交換 神奈川・黒岩知事と県民、相模原のリニア新駅巡り",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNFLWZ4cjAxejNrRnU2d1hsd1I5dml5dFdYXzlMQnZ0RGxlcWx2czBRQ1BiYUc1VEtVTlN4Q2laRWVTZXEySUNubw?oc=5",
+   "src": "47NEWS",
+   "auto": true,
+   "added": "2026-11-04T18:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM1JZeXJMTWN1UUdjWERmazN5ekw2S2c1Szk0aklxdDBJdGY3RW1TSTB6c0xJdDM5LVVSd0JmRzQ2TDNXS25vTW9PdlVlNmxuRmlUNDNCRXgzeTItZkJyUDNGSWdhb180OVpOWQ?oc=5"
   },
   {
    "date": "2026-11-03",
@@ -16457,50 +16501,6 @@
    "auto": true,
    "added": "2026-10-13T19:42+09:00",
    "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81dHJKN0lCRVhoWnJMWUlHNkxGTkNYS1l3Z05sMWp3NTViSFpPek5vVTlnLXduX0E4MkhxOFNBdUVhYXVzM2xOVWx0cTJqVGQxR19OdmRydWZTN0k?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "zairai",
-   "title": "東海道本線全線電化70周年！1956年11月・12月の国鉄時刻表を復刻、JTBパブリッシングが発売",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Sc3FlNGlLXzU1TE9NN2t1ZF9iY0FLZEVUM1MzNkl2ZXZmQU9XTVg0aFZ2dm5vMGZ5RmlraVNBelVJUVhwOEJMbDFEOFF0QQ?oc=5",
-   "src": "レイルラボ",
-   "auto": true,
-   "added": "2026-10-13T19:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Sc3FlNGlLXzU1TE9NN2t1ZF9iY0FLZEVUM1MzNkl2ZXZmQU9XTVg0aFZ2dm5vMGZ5RmlraVNBelVJUVhwOEJMbDFEOFF0QQ?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "other",
-   "title": "JR東海、顧客情報漏えいか 1万5000人、不正アクセス（共同通信）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81TnZmc2hXWGh0b211V1dLdDRVSDBxOWZ1b254YVdvRDB3Qm5IWXpSOV8tb3hiV2JwZFhPYVItMjNaLXV4UVVQYnUzOFhhNUlpYlJ0eVhFMnFGaGxJOXNYZ2cxejNmcHlEb0thaTRfbFVnMU9YenVOX1pvUkFEQnc?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-13T20:40+09:00",
-   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LOWViTUhvbGlsOGFFTy1TT0RuTHpTZ285QXBOdnY3cDdCcFRrU3VZWnE3SzNMMWNuU25nNWR0QnVfcGhhUlJiYTNmc2RxbC03Vk9ya3F0TGt5U3FUVzh6TVZjbGZPQUxuYVRDNXhyakgyV3U3WVE?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "other",
-   "title": "JR東海のECサイト「JR東海MARKET」「いいもの探訪」で個人情報漏洩の可能性（静岡朝日テレビ）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMG5xWGNleDh0a1JtNjcxWk05djBYSUItbmlybC1FSk05blkwb08zMVFvc1pDdkZqRTc0OGVYVll2Vm5fSU1teTN1T3oyY2lzZU53aVFqbzN1d0tranBLZWxlR01zX3NRVlV0VlY1ZTdIWWhvQnFkSDdIMm1hWms?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-13T20:40+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oVHVuM0RoaUhGMnhaY1Y1X3hOWml3TzdCMmNjOU5fZG42eWRJSTRmUmRsTTlUZWRGMWprbmxpM0Z2MGVHTm9PMUxaVHUxQQ?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "other",
-   "title": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pLUxGX1l5N2JndUZDTEJUN0E0dUFNLXcxOGR3TEdzX0pHQl94ZWJDWTdDYkpESWFLc3Etd0QtV1E4YndTbzl2d3VlT191b2RnRzZhRXppdVM2UWdKcjlj?oc=5",
-   "src": "NHKニュース",
-   "auto": true,
-   "added": "2026-10-13T20:40+09:00",
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWE2RzFWLTBVOGZPQVhzN05UeWhJS2hDTFBHT3JDYmRocUhqR3c2TzMyeWt3YjYzZ2VBR2UwbElOMlpXamlIZUlJSkw3MFVHT1pUWHl1NVdXYUZQczA0RU5RS3l1eXdFU21pOVFOazhvajQzaDVhUHlJMFVhWU5FZFp5bmZPbnc?oc=5"
   },
   {
    "date": "2026-10-02",
