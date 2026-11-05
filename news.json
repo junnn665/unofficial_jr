@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T08:58+09:00",
- "checked": "2026-11-05T08:58+09:00",
+ "updated": "2026-11-05T10:33+09:00",
+ "checked": "2026-11-05T10:33+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -100,6 +100,17 @@
    "auto": true,
    "added": "2026-11-05T08:05+09:00",
    "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50WFNBZUotXzNGUTRjVkJPTDZacVMxY0ZRUDdFa0k5VWV3dXF3U1ZZclJmT3pWa2YyWVhNdlpsajVac2lCRmFTZGtiNHE5TXg3ZFR2OGtWWkhtOGwzRFVaR1pTUnpxVXJZ?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "kaisha",
+   "title": "ＪＲ東海[9022]：半期報告書－第40期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nYU9qNmgwcUQyUm5KMUVUWUYtdXI5Y2ZCX2NWbGV4aGtzUkFWNG1HSThEN0RLSjBYbHlIN3l2UktZMldKYlUyc0s0MlpMOHJJZEY5LVZoU3pLc0Z1aHZDem5jVXlTc0FXRnc0Rg?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-11-05T10:33+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nYU9qNmgwcUQyUm5KMUVUWUYtdXI5Y2ZCX2NWbGV4aGtzUkFWNG1HSThEN0RLSjBYbHlIN3l2UktZMldKYlUyc0s0MlpMOHJJZEY5LVZoU3pLc0Z1aHZDem5jVXlTc0FXRnc0Rg?oc=5"
   },
   {
    "date": "2026-11-04",
@@ -606,6 +617,17 @@
    "auto": true,
    "added": "2026-11-05T08:58+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SaHp6ZzJkcWRlMENwODRLRzJsY0Q3WWNsdkFPOGxpOVZ2NGdMdXNwYzJUMDBQci1iNGFYZmw1c1ZTVFhkbHRmQ1YydkNRckFLa0JkcVV2NXFmRTNn?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "kaisha",
+   "title": "半導体大手インテルの株価が暴落、業績は予想超えも「再建に疑問符」がつく理由",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45WDR0MmpBb3hCYUhCeFExZjN2ZDhUODVOY2JraXEyN3QxcEYtR3VpSTQxMzZjcjgwY0g2OV9BdW1yMndNTmJhUnBxU1dSZkU2bmJCMF9ZUTVrQQ?oc=5",
+   "src": "Forbes JAPAN",
+   "auto": true,
+   "added": "2026-11-05T10:33+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45WDR0MmpBb3hCYUhCeFExZjN2ZDhUODVOY2JraXEyN3QxcEYtR3VpSTQxMzZjcjgwY0g2OV9BdW1yMndNTmJhUnBxU1dSZkU2bmJCMF9ZUTVrQQ?oc=5"
   },
   {
    "date": "2026-11-03",
@@ -16479,28 +16501,6 @@
    "auto": true,
    "added": "2026-10-13T09:52+09:00",
    "g": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Od0RjRUtGaHY0alpRY2toSkpvTm82a0lpQ0prcEloZ1lSMDRIXzI5a1NxcG5XYS1qSkhXZTN2NUpJUzA?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "unko",
-   "title": "身延線 一部に遅れ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81czNXUnBMQXZfNmR4SVB1Z1dLY1dOTk5XZjgwUVgwdDRhRkhJRkJpYjBoUzJHSDJyMnVjQ05CTWR5ZUE0WFNVMldvemtSZVJjZnRqSXl3X3o3TkFiczJjUWltaTQtRTFwTWthWWpPME9DdmJl?oc=5",
-   "src": "sannichi.co.jp",
-   "auto": true,
-   "added": "2026-10-13T10:41+09:00",
-   "g": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81czNXUnBMQXZfNmR4SVB1Z1dLY1dOTk5XZjgwUVgwdDRhRkhJRkJpYjBoUzJHSDJyMnVjQ05CTWR5ZUE0WFNVMldvemtSZVJjZnRqSXl3X3o3TkFiczJjUWltaTQtRTFwTWthWWpPME9DdmJl?oc=5"
-  },
-  {
-   "date": "2026-10-13",
-   "cat": "eki",
-   "title": "東京駅の“1400円駅弁”→開けたら……「これイイ！」 まさかの中身に「一度食べてみようかな」「買いに行く！」",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BdHRzQTJnY29PWU9WR0tZeTdJRnlCSThsYWJrOU9RSk05QWVrYi1SRzJVT3BJSHFFbTA1eHJoY09vX3hVcjRiSzNnUUQ0WWZwYzhQc0g2RlUzSTJoMS1SWFkzNWN6UEtlMHhVamtwX2t1VTQtTWV2QVEwZw?oc=5",
-   "src": "ニコニコニュース",
-   "auto": true,
-   "added": "2026-10-13T11:41+09:00",
-   "g": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BdHRzQTJnY29PWU9WR0tZeTdJRnlCSThsYWJrOU9RSk05QWVrYi1SRzJVT3BJSHFFbTA1eHJoY09vX3hVcjRiSzNnUUQ0WWZwYzhQc0g2RlUzSTJoMS1SWFkzNWN6UEtlMHhVamtwX2t1VTQtTWV2QVEwZw?oc=5"
   },
   {
    "date": "2026-10-02",
