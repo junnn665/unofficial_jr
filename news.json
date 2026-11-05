@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T14:22+09:00",
- "checked": "2026-11-05T14:22+09:00",
+ "updated": "2026-11-05T15:25+09:00",
+ "checked": "2026-11-05T15:25+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -188,6 +188,39 @@
    "auto": true,
    "added": "2026-11-05T14:22+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YekhsOTJENmJINWV0aUxXd192ZWxLd2lZOFZoa2RtNlNrSzJfWVRWMEFVVUU5b3FUZWJjY2ZVTENLYzVZWW9uSFN4NjBXUUxBdmJUdWFFUVd0a2FSSkxGRmxzN0VoOHBqMFpDVlZnWmxmV19sQnpOQ3pkaTNhNzQ?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "other",
+   "title": "ユミルリンク株式会社で発生した不正アクセスに伴うメールアドレス等の漏えいについて（第２報） 117.1KB",
+   "summary": "",
+   "url": "https://jr-central.co.jp/news/release/nws000001_00641.html",
+   "src": "JR東海",
+   "auto": true,
+   "added": "2026-11-05T15:25+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00641.html"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "other",
+   "title": "JR東、「みせるモバイル定期券」27年3月開始 JR東海エリアでも定期・グリーン券",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDdThBSE94dHo4YnhRaDhzbFc2TzdxMWRYemNMcVBJUjN2VTBUN3hwWkpxMjdyWjc4Vks1T2tZVTVlZHR1dlpfbWp6LWlXVk8tQ04yN2Z1RXA3YkpybThqdkYwa3I?oc=5",
+   "src": "Impress Watch",
+   "auto": true,
+   "added": "2026-11-05T15:25+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDdThBSE94dHo4YnhRaDhzbFc2TzdxMWRYemNMcVBJUjN2VTBUN3hwWkpxMjdyWjc4Vks1T2tZVTVlZHR1dlpfbWp6LWlXVk8tQ04yN2Z1RXA3YkpybThqdkYwa3I?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "shinkansen",
+   "title": "ありがとう、幸せの黄色い新幹線。BRUNO×JR-PLUS限定デザインマグカップを発売",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ODYtajduR3hJWTZoNDNYeFA2VkhkbExETldCdUMxZ1BYYW5IbnRsMV9sbFA4QkNvZ3kxQmM1RUFjRFFVbzZfSGpxQXc2WnIxNWtJ?oc=5",
+   "src": "ZDNET Japan",
+   "auto": true,
+   "added": "2026-11-05T15:25+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ODYtajduR3hJWTZoNDNYeFA2VkhkbExETldCdUMxZ1BYYW5IbnRsMV9sbFA4QkNvZ3kxQmM1RUFjRFFVbzZfSGpxQXc2WnIxNWtJ?oc=5"
   },
   {
    "date": "2026-11-04",
@@ -1607,6 +1640,17 @@
    "auto": true,
    "added": "2026-11-05T04:24+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScjU2ZEM0bFJoZzdjaDhUUkJ2cU1iWmd5Zkp6bDN0bXFobmJhSWZ6SDczZzRHcUdfbVhvM01DamNsSDV0eXpfYkoxYlpKTXhzU19lZVE1WHFQTUtyWGI4a3gyZnEwalRuWG5rYzJIMnNmWUk4UHlnMmVsT3Y4V0k?oc=5"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "kaisha",
+   "title": "今週の上方修正【大予想】 36社選出 ＜成長株特集＞",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJUHh5T3NPWFVmMks3VHZPZ0JraGIwazZQc0dwTG5aMFZaSlAwYkVSV3lXRnpCUXhwVkhPWXVmUkZUejhsN3dZZ3VhWmIwM0tEYU4ySW5SX0NCejNiZExIWg?oc=5",
+   "src": "株探",
+   "auto": true,
+   "added": "2026-11-05T15:25+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJUHh5T3NPWFVmMks3VHZPZ0JraGIwazZQc0dwTG5aMFZaSlAwYkVSV3lXRnpCUXhwVkhPWXVmUkZUejhsN3dZZ3VhWmIwM0tEYU4ySW5SX0NCejNiZExIWg?oc=5"
   },
   {
    "date": "2026-10-31",
@@ -16457,50 +16501,6 @@
    "auto": true,
    "added": "2026-10-14T12:55+09:00",
    "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54aEMzT2dzLWpJWkdTTjlTVUNBWWI2bVBzQ1hndVhtLVByWGpIWmFZeUpXM3ZiQldya2hvd0Rvd1ZhVmY4T29TVWxlaXhsTlZVRWhiQ2dJYmh5bWZtRTRiMGJ5TmZucHU5MU1OcVNyZ9IBdEFVX3lxTE0yV2dMWGZ2bW9ieGIzc3hQTzZab0o4TVh0al9ZbC1NQzFNaWkzX2ZmU3MzRkxMc3p3SE9BRzltTDJaQzNRSXg1ZkM1VHNJX2luLXF0QVZNRXNHSDcyT1NKNWJoQ3JfaldPdTY0RnpyQkJrblpB?oc=5"
-  },
-  {
-   "date": "2026-10-14",
-   "cat": "other",
-   "title": "JR東海の運営するECサイトでも会員情報約1万5000件漏えいか メールアドレスなど=JR東海",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45REJlVTFzX2QwQm5XamFZam11M0hOR0IyX3FzdTlKdE5XbGNBZnB1dnpJa2JleF9sMi1TbVcxVWR3MUt6Q3JLQ1hBT0RUb2dXemc5UmNqZGFYRk9kZENHWg?oc=5",
-   "src": "アットエス",
-   "auto": true,
-   "added": "2026-10-14T13:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54aEMzT2dzLWpJWkdTTjlTVUNBWWI2bVBzQ1hndVhtLVByWGpIWmFZeUpXM3ZiQldya2hvd0Rvd1ZhVmY4T29TVWxlaXhsTlZVRWhiQ2dJYmh5bWZtRTRiMGJ5TmZucHU5MU1OcVNyZ9IBdEFVX3lxTE0yV2dMWGZ2bW9ieGIzc3hQTzZab0o4TVh0al9ZbC1NQzFNaWkzX2ZmU3MzRkxMc3p3SE9BRzltTDJaQzNRSXg1ZkM1VHNJX2luLXF0QVZNRXNHSDcyT1NKNWJoQ3JfaldPdTY0RnpyQkJrblpB?oc=5"
-  },
-  {
-   "date": "2026-10-14",
-   "cat": "other",
-   "title": "JR東海の運営するECサイトでも会員情報約1万5000件漏えいか メールアドレスなど=JR東海（静岡放送（SBS））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdlVkb2RHSXpfM3Z1VHB0dFZaWDZwZEdSVlRCN2wwYnFoWlVuamUxWk1WdkdQdUVQcUtiT0ExT3JZbFZ1dHpMdnBlY1JBQWxBMFV5WVFBek5BUWlRVkRtek5tZXhTZ0IwUTY1Mnl5c0hVRklGakVnNXRXUEhkOTg?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-14T13:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54aEMzT2dzLWpJWkdTTjlTVUNBWWI2bVBzQ1hndVhtLVByWGpIWmFZeUpXM3ZiQldya2hvd0Rvd1ZhVmY4T29TVWxlaXhsTlZVRWhiQ2dJYmh5bWZtRTRiMGJ5TmZucHU5MU1OcVNyZ9IBdEFVX3lxTE0yV2dMWGZ2bW9ieGIzc3hQTzZab0o4TVh0al9ZbC1NQzFNaWkzX2ZmU3MzRkxMc3p3SE9BRzltTDJaQzNRSXg1ZkM1VHNJX2luLXF0QVZNRXNHSDcyT1NKNWJoQ3JfaldPdTY0RnpyQkJrblpB?oc=5"
-  },
-  {
-   "date": "2026-10-14",
-   "cat": "event",
-   "title": "売切れ必至！ 引退間近の500系新幹線やオーシャンアローなど、JR西日本グッズが10月14日の鉄道の日に登場",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yM0pndktCWWhtOVpTU0NXZmNHTkNHcjNQeVd6MFlRRWJ1dWh5SU5vOFVLNEc0VmtrT2l4ZFBROExSdw?oc=5",
-   "src": "https://miyoca.jp/",
-   "auto": true,
-   "added": "2026-10-14T18:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yM0pndktCWWhtOVpTU0NXZmNHTkNHcjNQeVd6MFlRRWJ1dWh5SU5vOFVLNEc0VmtrT2l4ZFBROExSdw?oc=5"
-  },
-  {
-   "date": "2026-10-14",
-   "cat": "other",
-   "title": "“実写映像”の鉄道ゲーム『鉄道にっぽん！",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94S2I3akpxX3o1NW5nN0FzaTE1bFgtSU1wcUJweEJ5OVEtbjhKc0JvVHdyaTkxVnNDaGR4RHVLb01xdURYLWtQTXI2aUpVUHk3SkFGd0hPU1prTlFMYlk3UjQ3dEI5NGNmbWlXYXc5ejZoeW8?oc=5",
-   "src": "ニコニコニュース",
-   "auto": true,
-   "added": "2026-10-14T20:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94S2I3akpxX3o1NW5nN0FzaTE1bFgtSU1wcUJweEJ5OVEtbjhKc0JvVHdyaTkxVnNDaGR4RHVLb01xdURYLWtQTXI2aUpVUHk3SkFGd0hPU1prTlFMYlk3UjQ3dEI5NGNmbWlXYXc5ejZoeW8?oc=5"
   },
   {
    "date": "2026-10-02",
