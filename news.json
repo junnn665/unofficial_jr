@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T06:30+09:00",
- "checked": "2026-11-06T06:30+09:00",
+ "updated": "2026-11-06T11:35+09:00",
+ "checked": "2026-11-06T11:35+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -78,6 +78,50 @@
    "auto": true,
    "added": "2026-11-06T06:30+09:00",
    "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWVRTMVlkQ1NnY3VwSW9ra1c5VFBhYmNiU0lOb2gzNEV5TGtIMUFGei1sODVSWmdGSW80TkJFNXBpanl6aXFXaDl1WG9jaEJieFZsZk01bkg?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "linear",
+   "title": "物価高でリニアの遅れ懸念、建設費は５兆５２００億円から１１兆円に…値上げの柔軟化を国に要望",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51WXl6QUxrb1g3eGdRVjNOR0VvOHYweEYwaGt6TV92d0NHalRLVXdkWGVickwyV0JOaUtrSFE3ZFBnNFdSU1E3X3l5cUxzYU5mVTIyU25oVEd5ODN1MlVVQl90OWxNc1pvVUh1ZVdn?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-11-06T11:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02c0psZWpnOHhyUHI4OW5yRmxpT1JMUEk3VDkxZGlTNFlvZzQySHJSR1E4ZjBvOU5vaUlvY3JoUms1V05uUnRxaUY3d0JWQzc1dno5MGNKN0JQSzkxeVlwS1kwMUM?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "shinkansen",
+   "title": "500系のぞみ復活へ！ 山陽新幹線臨時列車運転(2027年1月～7月)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NMWdGU05QX0ZHZlptZzE5eWpQOVd2YjJqVXVwWlhxenh5ZHF0Z19Jamk0cGxNT21EWG5teGhwaW9MT3lMc3ZQUlRFNlo4OGt3TVJSZ1kwRm81SGxtcDhtWEdyTWs?oc=5",
+   "src": "鉄道時刻表ニュース",
+   "auto": true,
+   "added": "2026-11-06T11:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NMWdGU05QX0ZHZlptZzE5eWpQOVd2YjJqVXVwWlhxenh5ZHF0Z19Jamk0cGxNT21EWG5teGhwaW9MT3lMc3ZQUlRFNlo4OGt3TVJSZ1kwRm81SGxtcDhtWEdyTWs?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "linear",
+   "title": "物価高でリニアの遅れ懸念、建設費は５兆５２００億円から１１兆円に…値上げの柔軟化を国に要望 (2026年11月6日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14QlptcS1ReHo5cFl6TmxBcVh1Z0NqVkVLWHlJUUpKaDBVWVUyN1B1Nnh6QmNSVkEtdndPUDluNGtETkJuamZwNmRSYTUydXlaVW1FSnBxTnJsY1d0UWc?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-11-06T11:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02c0psZWpnOHhyUHI4OW5yRmxpT1JMUEk3VDkxZGlTNFlvZzQySHJSR1E4ZjBvOU5vaUlvY3JoUms1V05uUnRxaUY3d0JWQzc1dno5MGNKN0JQSzkxeVlwS1kwMUM?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "kaisha",
+   "title": "リニア工事費さらに増 １１兆円から、ＪＲ東海検討｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GQzhtd3g0V2xoZXZRNGNETE0wcFpZUzNNMEluOGZmXzVNN1dMU1pqUnZBcGc4WWNaSU9DOW41M1JRaFdkd2tsN2taLVhEX2llcGR0SkViTDVQS28?oc=5",
+   "src": "下野新聞社",
+   "auto": true,
+   "added": "2026-11-06T11:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMFh6TWVIRVpiUTNBT1ZmY3ZoSWN6ZW53SDlMci1YblhpekprMkpyUXNJdE0xbnFORTB4SzVTNlgzSGdkRTA0MEZYU19UT1NhaGhtQ3NJWDZJN3N6SUk2R0NnZkRxb2huUzgxUFpieUw4T1dmOVE?oc=5"
   },
   {
    "date": "2026-11-05",
@@ -716,6 +760,28 @@
    "auto": true,
    "added": "2026-11-06T06:30+09:00",
    "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rRkJrT0gtREM2R0lRbzR5MnV0ZS05N2tQclJyRENUUGI1SDgxZ25adlptZl9yRHF3ZERfc2ZJQXdXQnByMHRMNW51WVlodTRLOE1McGlHVHFrcUJ6TGc?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "other",
+   "title": "推し活の関連画像",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EeDlVWVc3ZDh6TWcwcHlqcXFjNWx2b2pvb3ZSUFpJaFRBeXh0Y2Etb0xmS1hYU01pUHBSY0Nwek1KUkp2NE9ua29kUDVCN2RrQXpPcXZPRUMtR3lmcG96N0Vwcw?oc=5",
+   "src": "推し楽",
+   "auto": true,
+   "added": "2026-11-06T11:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EeDlVWVc3ZDh6TWcwcHlqcXFjNWx2b2pvb3ZSUFpJaFRBeXh0Y2Etb0xmS1hYU01pUHBSY0Nwek1KUkp2NE9ua29kUDVCN2RrQXpPcXZPRUMtR3lmcG96N0Vwcw?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "event",
+   "title": "JR東海、浜松工場ツアーを10月開催へ 引退ドクターイエロー一部展示など",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Pb21pWjFYczBLX0lva3h0V2dtc1hpSVVwMzBvRVRYZkVlcGJwRHRjQVhPTTdjcmZLYktWNU5paXVyQ2xnd0E?oc=5",
+   "src": "Dellows News",
+   "auto": true,
+   "added": "2026-11-06T11:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Pb21pWjFYczBLX0lva3h0V2dtc1hpSVVwMzBvRVRYZkVlcGJwRHRjQVhPTTdjcmZLYktWNU5paXVyQ2xnd0E?oc=5"
   },
   {
    "date": "2026-11-04",
@@ -15950,7 +16016,7 @@
    "src": "リスク対策.com",
    "auto": true,
    "added": "2026-10-17T08:44+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sYWg3d200eTU1MmRYMkptZnBZWHpNbDFKeE9yRjAtb3VTeTdfb1JqMWV4cjMxaC1lVGx0dVRnX2pjNGZyS0VZd0p3aGxIOVZHZUh6eUh4N0lPamltb2FQNkUyR0k0LTNMemVxd1ZHWEZvaVlaNG8xSm5sbnd1VjA?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJUDREQ2lZOE93eW5ocGcwMXNvazRQcU1tU1hfVHgxVzUwaGhicGVURWZLeWVEbGh6RlRIejMtV2VkRXFQS1phMXJEbkpDdG16WGY2WEtqZnk?oc=5"
   },
   {
    "date": "2026-10-16",
@@ -16435,72 +16501,6 @@
    "auto": true,
    "added": "2026-10-15T19:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVWhocWowSXp6ZU9QWjFsTzQ5Z0x3OHd5V1VCZ3RVY3hTVjV6S1p3SGN5MzJCaW9iX3pYZkczaWNjdzBPSFRfT1FWSmE1ZU1xSHhMTzFwOXNsV3pQdFJydzk1OERnTzBfbXZKSXNubGQ4aEFkcWxXTWo3dWc3T0E?oc=5"
-  },
-  {
-   "date": "2026-10-15",
-   "cat": "other",
-   "title": "JR東海個人情報の漏えいは「確認されず」 不正アクセスの調査結果を発表",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4teDRESVZJMTREOWh2TldkZnNmZ21uTmpJQVhDUzFxMUlaMTRhb0czRFEwS3g0NzBvcUhqSG8zdGMzQ2hDQUNFazk3RUhLOHRubGQ2Q1pOQnpuZjE2UWFYZUdzNHByVEVQcWozenN3?oc=5",
-   "src": "au Webポータル",
-   "auto": true,
-   "added": "2026-10-15T19:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVWhocWowSXp6ZU9QWjFsTzQ5Z0x3OHd5V1VCZ3RVY3hTVjV6S1p3SGN5MzJCaW9iX3pYZkczaWNjdzBPSFRfT1FWSmE1ZU1xSHhMTzFwOXNsV3pQdFJydzk1OERnTzBfbXZKSXNubGQ4aEFkcWxXTWo3dWc3T0E?oc=5"
-  },
-  {
-   "date": "2026-10-15",
-   "cat": "other",
-   "title": "JR東海、ECサイトの個人情報流出なし（時事通信）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sYWg3d200eTU1MmRYMkptZnBZWHpNbDFKeE9yRjAtb3VTeTdfb1JqMWV4cjMxaC1lVGx0dVRnX2pjNGZyS0VZd0p3aGxIOVZHZUh6eUh4N0lPamltb2FQNkUyR0k0LTNMemVxd1ZHWEZvaVlaNG8xSm5sbnd1VjA?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-15T20:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sYWg3d200eTU1MmRYMkptZnBZWHpNbDFKeE9yRjAtb3VTeTdfb1JqMWV4cjMxaC1lVGx0dVRnX2pjNGZyS0VZd0p3aGxIOVZHZUh6eUh4N0lPamltb2FQNkUyR0k0LTNMemVxd1ZHWEZvaVlaNG8xSm5sbnd1VjA?oc=5"
-  },
-  {
-   "date": "2026-10-15",
-   "cat": "other",
-   "title": "JR東海 不正アクセス受けたECサイトの会員情報 「漏えいの事実は確認されなかった」と発表（メ〜テレ（名古屋テレビ））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbGRYTlFtenU1cUVodjZDZVhDdElVX1M4cm5rRlZRUGpTYWtOSXdRNnZRdmhGZkhnQ0lGMGNVR0d5UTBJTzRPR29nLXhmNW5wa0VyblJac051NmFCTVdCMEhnMDFUSmY0WnRyV1BkenpuR2h4c19OSlRDOEhPUFU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-15T20:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbGRYTlFtenU1cUVodjZDZVhDdElVX1M4cm5rRlZRUGpTYWtOSXdRNnZRdmhGZkhnQ0lGMGNVR0d5UTBJTzRPR29nLXhmNW5wa0VyblJac051NmFCTVdCMEhnMDFUSmY0WnRyV1BkenpuR2h4c19OSlRDOEhPUFU?oc=5"
-  },
-  {
-   "date": "2026-10-15",
-   "cat": "other",
-   "title": "ＪＲ東海、ＥＣサイトの個人情報流出なし",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfa1FRQ3lMLVBZMWFvMEtDVEpTQV9WU1lwa3FfMVBjZDFDTExTUFZHR2R6UVFqamdjTmtNVW5DYlFMb2w3S0I4UXJBcWd2RU9RODlGZERYSEtnbWk1dTZDYUJIXzZiYnhyTzcxNzFWUTBLTS1zRGhBQVRab9IBgAFBVV95cUxOV1VnclkybHpSZUo5X2gxRkZpbm5mQzQ0V2c3b3BRVGxKbW43WGdGQmRRTkotUXk5UkFkNEFVdlJ6ZlpHQ2NxZDR1ZEQ1bkZYMEVxbzZHR0lYa1Y1cGhIVHRPdURRNlJWMGxJbVg0YWYxQUwzVE9WcHZRb2puRm0yaA?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "added": "2026-10-15T20:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sYWg3d200eTU1MmRYMkptZnBZWHpNbDFKeE9yRjAtb3VTeTdfb1JqMWV4cjMxaC1lVGx0dVRnX2pjNGZyS0VZd0p3aGxIOVZHZUh6eUh4N0lPamltb2FQNkUyR0k0LTNMemVxd1ZHWEZvaVlaNG8xSm5sbnd1VjA?oc=5"
-  },
-  {
-   "date": "2026-10-15",
-   "cat": "other",
-   "title": "JR東海「個人情報の漏えいの事実は確認されなかった」委託業者の調査結果を発表（CBCテレビ）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdHVvZXkybUVNVGhWZUlXNnV5WWJma2cwV2FlMFZLVFNjUmlZVGw5bl9IN3Y2WjdOZnlPcF9FVUxnLVMxZWUydktLc0huZFVGNE5ESldoYmtQNWRPU1cyUW9OYjFUUUpYamUwWHhramdOVzc3NTRTZ1d6cE5tODQ?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-15T22:09+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVWhocWowSXp6ZU9QWjFsTzQ5Z0x3OHd5V1VCZ3RVY3hTVjV6S1p3SGN5MzJCaW9iX3pYZkczaWNjdzBPSFRfT1FWSmE1ZU1xSHhMTzFwOXNsV3pQdFJydzk1OERnTzBfbXZKSXNubGQ4aEFkcWxXTWo3dWc3T0E?oc=5"
-  },
-  {
-   "date": "2026-10-15",
-   "cat": "other",
-   "title": "JR東海、ECサイトの個人情報流出なし＝ソフトバンク子会社の不正アクセスで(時事通信)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWdSYnhsVjU0enU4UTJ4UWFoNHBkWkl1d2taUGhCNndpdzQ1ejFDRHEwQUhBQXpvS1dNMGh4dktIc1F1T0JEZHJIX1JjbWhPbnJ0VkRPZXJIWEZLbVduUWlobmptSmVCM0VpQk9uNWlVVmxfZk5TRjZKbXNOLXhlbHBNX203Snc?oc=5",
-   "src": "Yahoo!ファイナンス",
-   "auto": true,
-   "added": "2026-10-15T22:09+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sYWg3d200eTU1MmRYMkptZnBZWHpNbDFKeE9yRjAtb3VTeTdfb1JqMWV4cjMxaC1lVGx0dVRnX2pjNGZyS0VZd0p3aGxIOVZHZUh6eUh4N0lPamltb2FQNkUyR0k0LTNMemVxd1ZHWEZvaVlaNG8xSm5sbnd1VjA?oc=5"
   },
   {
    "date": "2026-10-02",
