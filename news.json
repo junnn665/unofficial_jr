@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T03:07+09:00",
- "checked": "2026-11-07T03:07+09:00",
+ "updated": "2026-11-07T08:17+09:00",
+ "checked": "2026-11-07T08:17+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -23,6 +23,50 @@
    "auto": true,
    "added": "2026-11-07T03:07+09:00",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4a08yQjlyZ1VidkNCMlFVclFpVnU0Sy1Ga3hvdHdnRDlVbUZQQmpTU2FYRExSbHlIZldwSVNuYm1qN3lBWlc5SlB5UjdDaDZvZkdKRVpRdHQtYTRjTDdj?oc=5"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "unko",
+   "title": "スペイン列車事故「17分の空白」から何を学ぶか？ JR東海が200人で挑む「鉄壁多層防衛」、新幹線「代用保安方式」の底力",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWJ4akFDOEpUaXVTOVFGMmdfSW53dlVhV1VVeVJRODdGdEtaSVF6bktRSTRrbldnQkVrLWhWV0tSSUN1SXZkckpfQnRXNzR3UjRmM2tCc3cxS2FjQkhyZTRJM0dpbzdtQmI0cWlYNy1QRmRlRS1paVR3UThoc2paMExtODY2bjFp?oc=5",
+   "src": "carview!",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWJ4akFDOEpUaXVTOVFGMmdfSW53dlVhV1VVeVJRODdGdEtaSVF6bktRSTRrbldnQkVrLWhWV0tSSUN1SXZkckpfQnRXNzR3UjRmM2tCc3cxS2FjQkhyZTRJM0dpbzdtQmI0cWlYNy1QRmRlRS1paVR3UThoc2paMExtODY2bjFp?oc=5"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "event",
+   "title": "庭園観光切り口に欧米から中部へ誘客 中部国際空港やJR東海、ロンドンで開催の旅行見本市で魅力紹介",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3aVYtLUt6bERNbHl4dkk3cHctTzlIckkwQUV5TjMyQVVTSmR5MjdkM1Bfb3doVGxYbnkyWkJDNmlDaVpWT21HREZZNW13b21DUk9Qdg?oc=5",
+   "src": "中日新聞Web",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3aVYtLUt6bERNbHl4dkk3cHctTzlIckkwQUV5TjMyQVVTSmR5MjdkM1Bfb3doVGxYbnkyWkJDNmlDaVpWT21HREZZNW13b21DUk9Qdg?oc=5"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "shinkansen",
+   "title": "東海道新幹線が「西海道新幹線」じゃないのは京都への配慮？「京都ぎらい」井上章一さんが地名の謎を斜め斬り",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02T1FSb21fbmxGdzEyT2RYc0JQTnRUSTFIdmpoR3pveFJFa0hUTVpfM0hLeGRPay1QejltTGdaRmdvVmNlYTcwSkhfWkt4X2Z3NzRfX1ViSmw?oc=5",
+   "src": "京都新聞デジタル",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02T1FSb21fbmxGdzEyT2RYc0JQTnRUSTFIdmpoR3pveFJFa0hUTVpfM0hLeGRPay1QejltTGdaRmdvVmNlYTcwSkhfWkt4X2Z3NzRfX1ViSmw?oc=5"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "event",
+   "title": "イベント＆おでかけ情報",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NbXZhQ01XaFN6NWZpaUJsVHFXMHlFTk5rMHRSVFhxRTAtY3JyaHA1SjFvYzN6WmVnQU9ob2Z5SkxDSFZLRDQ1OFNRLURidl9wR0F3Q1ZpdFRxcTQ?oc=5",
+   "src": "信濃毎日新聞デジタル",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NbXZhQ01XaFN6NWZpaUJsVHFXMHlFTk5rMHRSVFhxRTAtY3JyaHA1SjFvYzN6WmVnQU9ob2Z5SkxDSFZLRDQ1OFNRLURidl9wR0F3Q1ZpdFRxcTQ?oc=5"
   },
   {
    "date": "2026-11-06",
@@ -386,6 +430,28 @@
    "auto": true,
    "added": "2026-11-07T03:07+09:00",
    "g": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0k3ZElZUkc5cnl6NHBxYXFHRElhazhvdFEtQk02dnZXQm1JRkhZTGM3UER1NVlCLWxIMDlSS1gwenk5Vzk5ZVJ3YVN0aG10TkNLWFItNk1RZUdOQVJ5OW9ETnJTZmJtaHVWVWFmRnlja21jN3VIQmIxelRzT2x6S2pGSFBITUMxai1xVTZITzRrcnpaUEY2S2xaUXJRekZPYzUxOEpnbGVsSThYR29PSkdyekdQZk5uM2lGMGJnYUZYSUJa?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "linear",
+   "title": "物価高でリニアの遅れ懸念、建設費は５兆５２００億円から１１兆円に…値上げの柔軟化を国に要望（読売新聞オンライン）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YT3FDTVV3cThwNnlNSmZtVGVtZUpLQ0otTk5FVmtJZEZVSS11V3FEUGpZUmZIVUVkV3N0dHlyYVNsclNGeWVNV003eHQybVFRZTF1VDh0OE1XUGJsLUY0N0pUaDg0OWtKVE8ySk9SdTVCbHo4U2RlNEVwLXNlaGc?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02c0psZWpnOHhyUHI4OW5yRmxpT1JMUEk3VDkxZGlTNFlvZzQySHJSR1E4ZjBvOU5vaUlvY3JoUms1V05uUnRxaUY3d0JWQzc1dno5MGNKN0JQSzkxeVlwS1kwMUM?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "other",
+   "title": "豊丘村で「とよおかまつり」 ミニSL復活、AR体験や音楽花火も（みんなの経済新聞ネットワーク）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhNWQyUmxUYjdJN1pSbGpTRzdaV1MwazFZZVBLZGZaekVXMUI3SWFOWGJLaG9KMWhNOTdXWVFrUGVOdlgwSmd1QVRBb010R3pZOWxtRGhOSXNkLXZqaE01QVBCdEMtZFdJaXZSVVltVHB6dWM3RjFiVjRKTThjTWM?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhNWQyUmxUYjdJN1pSbGpTRzdaV1MwazFZZVBLZGZaekVXMUI3SWFOWGJLaG9KMWhNOTdXWVFrUGVOdlgwSmd1QVRBb010R3pZOWxtRGhOSXNkLXZqaE01QVBCdEMtZFdJaXZSVVltVHB6dWM3RjFiVjRKTThjTWM?oc=5"
   },
   {
    "date": "2026-11-05",
@@ -1651,6 +1717,17 @@
    "auto": true,
    "added": "2026-11-07T03:07+09:00",
    "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PemVMeEQwNVlyd3laUm1VdmY2M1dBTDdsdzVPVFd4djA1cnJ5YmtyZ2pPNHFBTEdUOExVUlc3Z09jVUNoOENoX1Rpa3NvRmMxUThfcUxpSlVCLVVHTGJ3cGVhSTg5MDZFZnc?oc=5"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "kaisha",
+   "title": "【独自】リニア工事費再び増額へ／ＪＲ東海、１１兆円から",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVdyd1FSbHZjNDJhZ2NEdURrV2V0bnhFclh2eEVkNHpQNF93RmdsMVpOZjJNZWtEMl95b2U5WldMSnlZcGV5YThqZlJVSGlFN3o4NE9SSGtBM1pyTkV4ek1QeGJLM1VlYklpS3AtQWpxc3NaUXJMX3I0N2EzVV8zNVFWRVZvWWpn?oc=5",
+   "src": "四国新聞",
+   "auto": true,
+   "added": "2026-11-07T08:17+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEMW1jSXJTWjc3LUxuRkVvaGZ5Rl91SkZzUjVHRldxU1FyaHBSdmxfUGhkRUlyemVBaEg0LVR2SDBydVc2ZE5jY20yU3U4Z0ZSMnNyTzFPOA?oc=5"
   },
   {
    "date": "2026-11-03",
@@ -16424,83 +16501,6 @@
    "auto": true,
    "added": "2026-10-17T16:03+09:00",
    "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWHFJVXhzYktPZU5sc0lhZlpPZThDOEQtMjBlNFpwdlFCSDhrOGxST1VIVTl0TTZzbFNMR1RJcmNPcWJpc1Jhek9aWE4zUTdtMTVSNnRhRXAyTXFsVlBYUHptRzZUMUhO?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "linear",
-   "title": "リニア談合で有罪確定 大成・鹿島の「無競争」主張、最高裁も認めず",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWWFzam5ra1FEZUJQVmxmQzdFdUtpYTVpVWVZR0VOLTNMVGJ5cElYWXZONDJKSmdOX1p1UlhTN3ZLXy1JVlplU3YtajlRTm1pQlhFY09ELUMtNlV0QlVNU0pYWGI0OWNSYmJpVA?oc=5",
-   "src": "日本経済新聞",
-   "auto": true,
-   "added": "2026-10-17T17:50+09:00",
-   "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWWFzam5ra1FEZUJQVmxmQzdFdUtpYTVpVWVZR0VOLTNMVGJ5cElYWXZONDJKSmdOX1p1UlhTN3ZLXy1JVlplU3YtajlRTm1pQlhFY09ELUMtNlV0QlVNU0pYWGI0OWNSYmJpVA?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "kaisha",
-   "title": "西日本旅客鉄道(株)【9021】：株価・株式情報（夜間PTS含む）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42dnVEQ0VuOF9heXczUGZzUU9iWGwtZVpZSkFNdDZlSS1FdmZqZ21RRXdBN1A5V1hoZHU3VWgyeDd6eEtrX2lCMm1pN3UzbUQwcWc?oc=5",
-   "src": "Yahoo!ファイナンス",
-   "auto": true,
-   "added": "2026-10-18T17:50+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42dnVEQ0VuOF9heXczUGZzUU9iWGwtZVpZSkFNdDZlSS1FdmZqZ21RRXdBN1A5V1hoZHU3VWgyeDd6eEtrX2lCMm1pN3UzbUQwcWc?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "zairai",
-   "title": "約4万人ものお客様にご来場いただきました。JR名古屋駅1番線「六厘舎」から感謝を込めて【特製生七味つけめん】を10/17より追加販売！ | 株式会社松富士食品のプレスリリース",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TOV9jcUhRbkJMYm5YMHg1N2JNdFR0MHdBTG1OQ2RSSHVsUTBsVzRGT3Z4RXZnaFdyXzFMRWp4bGV2Z2VIcDZWWHRkMy1yeFMtMl9sQXZ1eFRSSGtnUzZOQkxSNFFSVGpyb0E?oc=5",
-   "src": "PR TIMES",
-   "auto": true,
-   "added": "2026-10-18T18:49+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWHFJVXhzYktPZU5sc0lhZlpPZThDOEQtMjBlNFpwdlFCSDhrOGxST1VIVTl0TTZzbFNMR1RJcmNPcWJpc1Jhek9aWE4zUTdtMTVSNnRhRXAyTXFsVlBYUHptRzZUMUhO?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "kaisha",
-   "title": "九州旅客鉄道(株)【9142】：株価・株式情報（夜間PTS含む）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEVFlFNE90VlpUdnlPN3R4Z3dIZzVEb3dJS2hTWWg4Y19PNW9MbUYtM3FiUjRtNG1OdzM0X3hSc0hxMElqRXhhZ2diVVUzb2tSTHc?oc=5",
-   "src": "Yahoo!ファイナンス",
-   "auto": true,
-   "added": "2026-10-18T23:48+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42dnVEQ0VuOF9heXczUGZzUU9iWGwtZVpZSkFNdDZlSS1FdmZqZ21RRXdBN1A5V1hoZHU3VWgyeDd6eEtrX2lCMm1pN3UzbUQwcWc?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "kaisha",
-   "title": "【画像】「のぞみ」値上げ 東京－新大阪の普通席700円増 さらに新型新幹線「S0系」もデビューへ形状CGお披露目 価格変更で物価高騰対応と設備投資へ JR東海 - ライブドアニュース",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1b0RLVzdjTkFSajJVeWJzbHU0RE5MaVdteFhOWXhpYXhvM3ZDUncxQTFlUUJhU0hRY053ZldFclpTbmE1QnQtVXNiaGxsbENoUktXMkpyVXViS3Y5eUlQZFM2TTRZVVBVQ0EwbkgtU2tlWUNfd25kWVNfd3Q?oc=5",
-   "src": "ライブドアニュース",
-   "auto": true,
-   "added": "2026-10-18T23:48+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jQS0tUlg2dmhSdEQ4M0hxeFVlYTRULTBXUm9tVTB3b0dPWUxiLUtUMzNXSEZrd0ZtNjMyQ01EdjBtN2IyWnBUVDFud2NxcWlRdjF5WDg4RHpnekZsSHBkRWoyamVkdlFWVXI0bW9mdm83N1dnSUtNWWhaaHhGbk0?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "新幹線「のぞみ」指定席値上げ 東京-新大阪で700円 グリーン車用待合室も",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVGZJQzBlWGRWQ3AtRHN5a0hxUlVpQ19GeWNCeWphdGptaXhCVkZUT1pfTm96TEl0QUxlRGo2MzhLSkhTSVZ4ZUt1MWNvV1JjMjFzSkE5TlZsQ3Z5MU9XeS1aT2o?oc=5",
-   "src": "Impress Watch",
-   "auto": true,
-   "added": "2026-10-19T05:46+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KSVUyc3FOYUlIM3NrU0NFQVBwOUdleXZzMXNXWFM5TjI1SGtWMnYwcjBKUHZ4YVBNVEVnYlJBcGl6ZnNJSDRIcExnZlRiX2I5RkRJYg?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "kaisha",
-   "title": "大末建設がカイ気配、業績予想の上方修正と増配、自社株買いを好感(ウエルスアドバイザー)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWIwMS1HUjI0cDF0LWplRGhZckg1anhPcy1EcjMyVm9ORUdtWGNyTDd3aFlScWlyM2hFNXhuclJXRlpDX1pLT1FvV0hsZE5EbklWQTkza3ZUY0FJNEY5b3pVclU3RXd3Rkp5ZVo2RldHMlVaeHF2MnpOTlpZSXd5RF9KZ0JFMG8?oc=5",
-   "src": "Yahoo!ファイナンス",
-   "auto": true,
-   "added": "2026-10-19T08:42+09:00",
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWIwMS1HUjI0cDF0LWplRGhZckg1anhPcy1EcjMyVm9ORUdtWGNyTDd3aFlScWlyM2hFNXhuclJXRlpDX1pLT1FvV0hsZE5EbklWQTkza3ZUY0FJNEY5b3pVclU3RXd3Rkp5ZVo2RldHMlVaeHF2MnpOTlpZSXd5RF9KZ0JFMG8?oc=5"
   },
   {
    "date": "2026-10-02",
