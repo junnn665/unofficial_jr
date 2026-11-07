@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated": "2026-11-07T08:17+09:00",
+ "generated": "2026-11-07T11:56+09:00",
  "ai": false,
  "items": [
   {
@@ -13,7 +13,13 @@
    "text": "東海道新幹線 一部で運転見合わせ",
    "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PZV9TOExEWFhxYjNSdkNmb1BQU0xmMmktMjEtNGNCdHcxeEd2RkIydW1YdksyX0dnNXEtWFpSNjE0QjdyZ20xVURCVThUZzZKTkY3cEQxRWE?oc=5",
    "title": "東海道新幹線 一部で運転見合わせ",
-   "n": 3
+   "n": 4
+  },
+  {
+   "text": "阿田和駅舎、解体に遅れ ＪＲ東海、着工は来年に 御浜町・三重",
+   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OZWFEYVRDSnhXcE0wMVg5VmxmbDlfQl9fVm1XOEVidzJsRmdVR01YZ2VMcHZWTm5zOUlDUmtzM2lUb0xyX3BlNWxIQQ?oc=5",
+   "title": "阿田和駅舎、解体に遅れ ＪＲ東海、着工は来年に 御浜町・三重",
+   "n": 2
   },
   {
    "text": "神奈川県駅の軌道階を公開！去年からの進捗は？",
@@ -26,12 +32,6 @@
    "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tSW9FRmpmQ0VZaHY1R0FBbVlTN0ZVRnhOcHVMNExwVU9taEhRMmkzeFNDY0ZsSG13YkwzZl9fRjNWa0JJQjh4ZE9SQUJDLXRlUmM5Nw?oc=5",
    "title": "【速報】山陽新幹線の一部列車に遅れ 停電の影響で 今後上り方面で直通する東海道新幹線にも影響の見込み",
    "n": 2
-  },
-  {
-   "text": "「コートヤード・バイ・マリオット新横浜駅」日開業 532.6KB",
-   "g": "https://jr-central.co.jp/news/release/nws000001_00624.html",
-   "title": "「コートヤード・バイ・マリオット新横浜駅」日開業 532.6KB",
-   "n": 1
   }
  ]
 }
