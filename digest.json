@@ -1,19 +1,19 @@
 {
  "date": "2026-11-08",
- "generated": "2026-11-08T09:47+09:00",
+ "generated": "2026-11-08T16:30+09:00",
  "ai": false,
  "items": [
   {
-   "text": "東北新幹線、東京―盛岡間の運転再開",
+   "text": "東海道新幹線、所定速度で運転再開",
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92Nm9pTnhWSFhkalBkOWhmdzJnRmxOa25TNENuRVk2UXBaSkJmUkdKVFlFUmN5dlF0U3FoYmEwdGpBckh0d0J1aXRKTjA5Y0RKVlhlSks5dk90SndveThv?oc=5",
-   "title": "東北新幹線、東京―盛岡間の運転再開",
-   "n": 13
+   "title": "東海道新幹線、所定速度で運転再開",
+   "n": 21
   },
   {
    "text": "ＪＲ東海、在来線で始発から運転見合わせ",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UGhGMDFQRmUwbmQwQTNpTkhZWXJ2NUI4OWxidlR3aE03azdlTTMxd3VTcXF1Q3ZvYi1jdVZfRVdyOVVDV1VOUThiWk8wUVpSVmdjdERPM1ppcE8yM0twMjgyZkNYdS1NSTVzU2NoU2JzclpyR3g3c1NFQXpldWM?oc=5",
    "title": "ＪＲ東海、在来線で始発から運転見合わせ",
-   "n": 11
+   "n": 13
   },
   {
    "text": "東海道新幹線、東京―新横浜間運転見合わせ",
@@ -25,13 +25,13 @@
    "text": "東海道新幹線で遅れ（静岡）",
    "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WVGFYYmZZZFRmMWFoWko5dVg2bXlZbjVkYzVEbnlOVGlXLXlGSzFQUmV4QUxSdElyTlRPeWRla2RidUFRdXIwOE1MTQ?oc=5",
    "title": "【浜松市で震度５弱】東海道新幹線で遅れ（静岡）",
-   "n": 4
+   "n": 5
   },
   {
-   "text": "東海道新幹線、始発から遅れが出る可能性",
-   "g": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04eHNxVExPbDdKY0JEQ05DdUtmcXVvcGpHdnN5eWhJU0cwUzhwOUJLX3o0RTlBUlMzTEFxNm9Fc1c2bkt3Yzl0MHd2UDZiZVpO?oc=5",
-   "title": "東海道新幹線、始発から遅れが出る可能性",
-   "n": 3
+   "text": "東北新幹線運転見合わせ",
+   "g": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rdllXM2NFVE11RHp4V3VTQ1NBX3k3ZWtDRU43WDllRHZQSnRQeURxNk9DYlJxcDhqVmdVWnIwOHR4REg3M2FONElkN0dlNlRXdmxLZEhSeG5LRjhvcjJNSjF1R0ZHRDM2RV9IQUlqRUNzYjJwUWRST2sxOVo?oc=5",
+   "title": "東北新幹線運転見合わせ",
+   "n": 4
   }
  ]
 }
