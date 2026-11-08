@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T16:30+09:00",
- "checked": "2026-11-08T16:30+09:00",
+ "updated": "2026-11-09T00:23+09:00",
+ "checked": "2026-11-09T00:23+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -1026,6 +1026,105 @@
    "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNjItejBuSzZpZzBvWlJaS0l0WXh6bHZwdzdJYUxQTXdsODdvZmx0aFpRY2xNM2FtUThWMlZJY2VrY2dZVm56UGtIcHF4VzlUd3dWWFpmS0ZsZEFZU3lB?oc=5"
   },
   {
+   "date": "2026-11-08",
+   "cat": "shinkansen",
+   "title": "東海道新幹線 運転再開 | NHKニュース | 鉄道、交通・インフラ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSXU2NG5KQUpOd1pKZmxPMUNtNUR5TkdxZjY4aFMzWGRFS2dERmRtSUUwWWRtejhFNUdoMFhVcXk2eHFaYmlOdW9mMy1kV2ljT3djSWV6YlVZd3pFMjJJ?oc=5",
+   "src": "NHKニュース",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92Nm9pTnhWSFhkalBkOWhmdzJnRmxOa25TNENuRVk2UXBaSkJmUkdKVFlFUmN5dlF0U3FoYmEwdGpBckh0d0J1aXRKTjA5Y0RKVlhlSks5dk90SndveThv?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "shinkansen",
+   "title": "【JR東海】東海道新幹線 午前9時前に全区間で所定の速度で運転再開 影響は1万7千人に (2026年11月8日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00LWFZZWRQdTFSZjV4aU9YYUF4T0pWOVpMTDFhZk56TTlFM2wwNXZRcGh4cExobHktSzh4TE8tMXd2Qi1fYUxVdEZYUDBleS1oUlBKRTJuWEJJc0ZRVkE?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92Nm9pTnhWSFhkalBkOWhmdzJnRmxOa25TNENuRVk2UXBaSkJmUkdKVFlFUmN5dlF0U3FoYmEwdGpBckh0d0J1aXRKTjA5Y0RKVlhlSks5dk90SndveThv?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "event",
+   "title": "中部空港やJR東海、ロンドン旅行見本市でPR 本紙「庭」に着想―庭園観光を切り口に：ニュース",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LN08zZzdlMXY4ckc3WEt1RlBqTTNPaFYtMFI0VzNTM19zQXJ6UlRZZU5Kei1ldlFzSTlkelhuWVNWZEUyT1htTVNlcHF3Nk1rakpvM2NhelhTOVpRaGlJ?oc=5",
+   "src": "中日BIZナビ",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LN08zZzdlMXY4ckc3WEt1RlBqTTNPaFYtMFI0VzNTM19zQXJ6UlRZZU5Kei1ldlFzSTlkelhuWVNWZEUyT1htTVNlcHF3Nk1rakpvM2NhelhTOVpRaGlJ?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "other",
+   "title": "流鉄211系1編成目の車両愛称「2代目」に JR東海からの譲受車両、西武車を更新",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hVERtWVQxTmc4MUtReGRManFsNHBOUWtwdEVRV19DTHl1eUp5MnVBbkhDNjFKZ2ZFaEpMaVlJbTQ0Vy1tbklXOEQ4cm9TU0hFTGJtWkZpRkhSUDhv?oc=5",
+   "src": "鉄道プレスネット",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hVERtWVQxTmc4MUtReGRManFsNHBOUWtwdEVRV19DTHl1eUp5MnVBbkhDNjFKZ2ZFaEpMaVlJbTQ0Vy1tbklXOEQ4cm9TU0hFTGJtWkZpRkhSUDhv?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "other",
+   "title": "【一部憶測も】JR東海211系SS9編成･湘南色帯撤去＜改造近況＞",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVduRzBYbGlHRXUwanFsZUlLYk9CWnZWZHZOU0RCVmhKc3g1SmUyNzdHWjVJTmllNnFyVTQyMzBCQmxjVzV4eVV1ZHVpVTVYb0l5dU93WnNHb2RkeVA1SHZvZkE1MndFbnozeXZWYXdSd1BEbGtzdzVLZFdaLUlVckRUMTJyREFIdWJLcGFsNG40Yl94VTN2SE5PRjBsbDltVXF1a1J2UjN4aGs?oc=5",
+   "src": "湘南色の部屋",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVduRzBYbGlHRXUwanFsZUlLYk9CWnZWZHZOU0RCVmhKc3g1SmUyNzdHWjVJTmllNnFyVTQyMzBCQmxjVzV4eVV1ZHVpVTVYb0l5dU93WnNHb2RkeVA1SHZvZkE1MndFbnozeXZWYXdSd1BEbGtzdzVLZFdaLUlVckRUMTJyREFIdWJLcGFsNG40Yl94VTN2SE5PRjBsbDltVXF1a1J2UjN4aGs?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "shinkansen",
+   "title": "「超高頻度ローカル私鉄」を空撮 カラフル電車が新幹線をまたいで静岡の街を結ぶ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TEpLWXFoSkJNOXNuWTVsNFNOakhiTzZOQWVrXy1QRVhaSjkwVlBPX3BWNkRmN2tEUlRSNGFaQk50Nnd6dGNST3VB?oc=5",
+   "src": "乗りものニュース",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TEpLWXFoSkJNOXNuWTVsNFNOakhiTzZOQWVrXy1QRVhaSjkwVlBPX3BWNkRmN2tEUlRSNGFaQk50Nnd6dGNST3VB?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "unko",
+   "title": "浜松市浜名区で震度5弱 広範囲で揺れ県内3人けが JR東海道新幹線も遅れ、1万7千人影響",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DbG5FVF8yazdoZ0VrbWRITnVlRVVkN2tNYmtsWnd0R25yaTA5NTB3ZjJfSEx3M2c3UU5qWHBjQzdpSU5BbzRmaWJFd0hSZw?oc=5",
+   "src": "静岡新聞DIGITAL",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DbG5FVF8yazdoZ0VrbWRITnVlRVVkN2tNYmtsWnd0R25yaTA5NTB3ZjJfSEx3M2c3UU5qWHBjQzdpSU5BbzRmaWJFd0hSZw?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "unko",
+   "title": "愛知県で最大震度5強 少なくとも21人がけが 東海道新幹線に遅れ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BcUU2cXdPUDFuUEljblBWUDBGSl9MSEdaRWhOb04yblp6NC1VR010SHhaSVdGaUNfOXRTRmtRTC1QdmJ3VUZVMVBVa1ptZVU4R0ViTTdVYUpRV3k3dFF3dV9hZEt0NW44NXBtcW10UdIBdEFVX3lxTE1JOG1razNCcGVJUXhOa1VPOFFmZWhCX01CdHZCTWVSZkI4MEU4Q0lXVkoxVlg1NElfOWNJeDBqeDVKVHhlUFkwdXhJZm50YmlhZ0loN0RlMXRZZzU0YUw5RzVsbjJ3U0VET0wtVjA1cGtwbjA3?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XTkRhUUstMzFtZC14OWhkQVJUQk43dGtRUVJZT1R4QklpMGVaN0ZXN1dfU2lfTEdYWDdLNHhkWlQtSXBHRE4wSkFLcDdTSGVlbHlWUDY5bw?oc=5"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "unko",
+   "title": "最大震度5強の地震の影響…東海地方のJR在来線 一部区間で始発から運転見合わせの可能性【8日午前4時半時点】",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96akh6ZnVfMTBvRWozRTBDaERYYWpiay1LSWEwREc2Xzd3bnMtRThTNlRRMUk5cnhKZ3Q2S2dMWXN1SzBCbG84VV96UHFLM1k3dUNGWU8wa0FnaXNYTVlpelJyWFpUdjBGQkNqa1Vn?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UGhGMDFQRmUwbmQwQTNpTkhZWXJ2NUI4OWxidlR3aE03azdlTTMxd3VTcXF1Q3ZvYi1jdVZfRVdyOVVDV1VOUThiWk8wUVpSVmdjdERPM1ppcE8yM0twMjgyZkNYdS1NSTVzU2NoU2JzclpyR3g3c1NFQXpldWM?oc=5"
+  },
+  {
    "date": "2026-11-07",
    "cat": "event",
    "title": "ドクターイエローや500系新幹線、103系をデザインしたアイテムをラインナップ！大好評の鈴川絢子さんプロデュース、コラボ商品が明日からバースデイで販売がスタート！",
@@ -1684,6 +1783,17 @@
    "auto": true,
    "added": "2026-11-08T05:59+09:00",
    "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RQWU3Q0I2N0FBSzRQbTg0blp5aDUwcnhtbm1Sc3pCVnVPMEsxMWZjREdDYkpXeXZIemRXRWVvaldyc1hBN2pVRm9yRXNSQVZHbGppZFJ4NA?oc=5"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "kaisha",
+   "title": "東海旅客鉄道(株)【9022】：株価・株式情報（夜間PTS含む）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZXBNbS1ubUJCQXVDbjRhYk5UcHdLTDZnQWN3eWhLVFFCbVRvU01fSFlCbkV0MkZvcjFRMVBXMms3S3RTU3F2ZDRfVFQ2ZlN3M0E?oc=5",
+   "src": "Yahoo!ファイナンス",
+   "auto": true,
+   "added": "2026-11-09T00:23+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZXBNbS1ubUJCQXVDbjRhYk5UcHdLTDZnQWN3eWhLVFFCbVRvU01fSFlCbkV0MkZvcjFRMVBXMms3S3RTU3F2ZDRfVFQ2ZlN3M0E?oc=5"
   },
   {
    "date": "2026-11-05",
@@ -16391,116 +16501,6 @@
    "auto": true,
    "added": "2026-10-16T16:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsUGFkSnhjQTkxRFRyblR5eUoxWFFCT3dyVWZUYnhKcGR1Q3hKVl9EYW1mU1JMRFZsQnMwRWVyYWF2dDdwSDdTZmhDQVRGQVExS1dMTklXRnFTdWloamx0MzBlQU5NTDZfMkNlMQ?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "東海道・山陽新幹線に「次期車両」を導入へ N700S以来のフルモデルチェンジ！ 新たな先頭形状を採用（乗りものニュース）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dVJHeTRGWk9jRE9hOTlobmRMN1RfOU9oeEc4cjRqRjhPRGdqWWZ6QnliSmp0VU5yUFc2Tko3WVFwbWpwNFVnSU52LV91VmhsQlFGbldwUXlwWGlnNjZnZkJ3Qmx6a1RnUUFoaGwwUXp5WmNJNWlnQ0UxdlFMOG8?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iYkRsRUwxTE5CMDEwYlZ3M3NBV1JRVG9YNU9ka3NsNFI2am1JbGJZRldQVm9ZZXBwZTc1Y1FmdmhVZ3hENnpIMkJn?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "新幹線「のぞみ」「みずほ」の指定席・グリーン料金を値上げへ 自由席は改定なし",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50RTZpVVJuT2dNMU9pNHNtRjcyZ0h6ejFKSDAzYWN6ajdaRW8wUXYzeEU4bm9xN0lNY1FQd3hQaHNrdHhHSEZkV0F4OXJRZlVJR1lpWEYtMVlDY29yWW1QMnFCdUJ6QTY3eEZ6UmgzN0JhY01HRGtlcnZIa0l0dUU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50RTZpVVJuT2dNMU9pNHNtRjcyZ0h6ejFKSDAzYWN6ajdaRW8wUXYzeEU4bm9xN0lNY1FQd3hQaHNrdHhHSEZkV0F4OXJRZlVJR1lpWEYtMVlDY29yWW1QMnFCdUJ6QTY3eEZ6UmgzN0JhY01HRGtlcnZIa0l0dUU?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "【写真】東海道新幹線、新型車両はＳ０系 ２９年７月の営業運転開始目指す",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmQU5pSi0yektKSzhYQ1hpM0ZoWThwSnFxdjdjaDlRRDRENTVnVGs3cUx5NF84Z2xUV0c1UDU2Ym9kT0dZR0tUWnRBTkNkMkdPdndZcVRfV1A2amRNNzVubVpQYl9GS2ZW?oc=5",
-   "src": "南日本新聞",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WdzF3dHNSRTVaVE1NQ3hZemcybTFCM3pDR0Y3RVFFS0dFOW9jX3dsQlJsYmRaUFpXVjAxUXZFZWNjZDNGUnE1Ulo2bVNfMFZzWlltcVp5bnJCeEFjWnZJb2Nvcw?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "東海道・山陽新幹線「のぞみ」「みずほ」指定席値上げへ 東京—新大阪700円増、名古屋580円増 次世代「S0系」も発表",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tNkRWV1pOSng0LTRfQ3BVXzZLX3ZGTzQ0dGJFR0hEZkJWY3RLbUg2NWZJLWpiOXo5R1JXb0NIQThUZms1eWpHajNqNA?oc=5",
-   "src": "47NEWS",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tNkRWV1pOSng0LTRfQ3BVXzZLX3ZGTzQ0dGJFR0hEZkJWY3RLbUg2NWZJLWpiOXo5R1JXb0NIQThUZms1eWpHajNqNA?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "東海道・山陽新幹線、主要駅にグリーン車・Supreme Class専用待合室 2027年12月15日から順次",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mUmpreFhOR0N5MWI1TEdSVnlRcmhuVVZMZHJiM1FmNkdSYnFOS05mMXljNjRoQk10OS01MUNVN1pVa0ZmTHNrRExnRU56MUFtOWZpTFAzUQ?oc=5",
-   "src": "TRAICY（トライシー）",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mUmpreFhOR0N5MWI1TEdSVnlRcmhuVVZMZHJiM1FmNkdSYnFOS05mMXljNjRoQk10OS01MUNVN1pVa0ZmTHNrRExnRU56MUFtOWZpTFAzUQ?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "東海道・山陽新幹線に次期車両「S0系」を投入 2029年7月に営業運転開始",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxUlNSVHZabWNDUnBWXzg5VGpTX0w0b2tOdndWcHg0Wm1YYjdxN1lTc2JJN1NFM0tCRTJOc1pNWkdrZnJyVkprX0RGSlh3aUJTc2w1MmR6VQ?oc=5",
-   "src": "TRAICY（トライシー）",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fckp6VTFUaGU4c1JZYjJtNzNBaWlLSjdnMEJlTXFxX0w0S0s0RWRIbHBYSVlkU3FxZFBURmxoRTdFZEppSTdHQkxWQVZwMXhyRll5YWIxMkNraDVHWEV5NEVSdWpweTcxNjVSbFAzaFdpak5YOGlrT3pIbURscFk?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "東海道・山陽新幹線「のぞみ」「みずほ」特急料金とグリーン料金値上げへ。2027年7月から順次（トラベル Watch）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fQVBfYzVMX1BPUVhDbWt0c1ZIMlFmTTI2dmltQnVlZTB0LVV1ZEE1b0k5Z2RvMEJNUHQyNnp3VjBjN2d0ZUltV2RBazdUR3ljaG14S0tjUC1wSHBEOUtyazZBcGZ0ekNlb0lKaDFrNFN5V2UyTXhtRnoxTU8xWlE?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeHJzcDBQNXpnQ19XWjJJT3pQMGVLRkRFZFlSbzhfVXBydktPM0xNM2Eza2hNVnAxVzN0T2RFcmJPc3lVOXlaWnF2Yw?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "東海道新幹線、新型車両はＳ０系 - ２９年７月の営業運転開始目指す",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tcjEycUhpbFBfc3h5Y3Q1NFhCd0oyWjlzcG14S2NFRFUzRHg3V1ZRcWFGOEp6YlVNWUU4M253UWh3YnkyWGNEb3A3U19PZjg5OE55Y3dmUVU4c1BfS2lqQWo5dXQ?oc=5",
-   "src": "奈良新聞",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WdzF3dHNSRTVaVE1NQ3hZemcybTFCM3pDR0Y3RVFFS0dFOW9jX3dsQlJsYmRaUFpXVjAxUXZFZWNjZDNGUnE1Ulo2bVNfMFZzWlltcVp5bnJCeEFjWnZJb2Nvcw?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "JR3社、「EXサービス」の商品価格を改定 東京〜新大阪駅間は700円値上げ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NX2JPT0NFOTAxUHJEeDdaaGJvaWRrNFdWT1BLa0JBSUphQVBUNUNINGR2UFEtR3BWcnJtSWR3TmoyTDJBMkc3T18tdndoMks5TjhUNHpZZw?oc=5",
-   "src": "TRAICY（トライシー）",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NX2JPT0NFOTAxUHJEeDdaaGJvaWRrNFdWT1BLa0JBSUphQVBUNUNINGR2UFEtR3BWcnJtSWR3TmoyTDJBMkc3T18tdndoMks5TjhUNHpZZw?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "cat": "shinkansen",
-   "title": "【速報】東海道・山陽新幹線 次期新型車両「S0系」投入へ 2029年営業運転開始予定｜Infoseekニュース",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQTk5SU5GN1UxWDIyQjk0VmhKaWxaNkwwbGo3R2laQTVWTnc0MUxFcWpnMlhhOVY2dzV5RzJrd2tsRW1SbkdYWjg2WFBnaDZOOUphTXFET0VUOWNKSWhLeTJnbThOcW00?oc=5",
-   "src": "Infoseek",
-   "auto": true,
-   "added": "2026-10-16T16:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fckp6VTFUaGU4c1JZYjJtNzNBaWlLSjdnMEJlTXFxX0w0S0s0RWRIbHBYSVlkU3FxZFBURmxoRTdFZEppSTdHQkxWQVZwMXhyRll5YWIxMkNraDVHWEV5NEVSdWpweTcxNjVSbFAzaFdpak5YOGlrT3pIbURscFk?oc=5"
   },
   {
    "date": "2026-10-02",
