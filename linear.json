@@ -121,21 +121,21 @@
    "place": "名古屋市中村区",
    "term": true,
    "status": "done",
-   "label": "完成（11/9報道）",
+   "label": "完成（11/10報道）",
    "kw": [
     "名古屋駅",
     "リニア名古屋"
    ],
    "note": "名古屋駅の地下に長さ約1km・幅最大60mの駅をつくる工事。品川と同じく、営業中の駅の下での工事になる。",
    "src": "https://linear-chuo-shinkansen.jr-central.co.jp/sp/plan/eki/",
-   "status_date": "2026-11-09",
+   "status_date": "2026-11-10",
    "latest": {
     "date": "2026-11-10",
     "title": "リニア名古屋駅の工事完了は2033年以降 当初想定から遅れ JR東海：ニュース",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGTkpOMkw4VFpPbzhSR05LMkMyRmhpOXh5LU5OTHV4X1BtbXVQZFNyRXNwS0NJUmJoREFQMlJMSU5FenZ0LXN2T3NpOGtQdHJ4OEFFNzJxVEJ5RDE0Qzc4?oc=5"
    },
    "km": 285.6,
-   "status_src": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWWUFWLVBXSjY2NC12cVFnQ0UwUkRiZVkwMG5qcHZFVExzQ2pIcExZU3Jic2JWUm45U0VKY3hJT3hyXzFLWGNQd3o5UjZZUmhk?oc=5"
+   "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDRS02WG1qZloySzJFdHlmYzVFWXFsWDhLWEpOQ1ZIcVdCazlkVHdvT0ZKZkpud1dmbi1zQTZGRklUdGFyaG5Ta2phUjhPTzJNQjdWTFJOM2RqNEQ0QUtCX1dhS3MwWW9KbHBSY0lpTmcxQk8tRmxTOFBCR1FiTkk?oc=5"
   }
  ],
  "works": [
@@ -1092,5 +1092,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-10T02:40+09:00"
+ "checked": "2026-11-10T10:40+09:00"
 }
