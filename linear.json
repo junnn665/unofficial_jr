@@ -63,20 +63,21 @@
    "name": "山梨県駅（仮称）",
    "place": "甲府市",
    "status": "start",
-   "label": "2026年3月着工",
+   "label": "着工（11/7報道）",
    "kw": [
     "山梨県駅",
     "甲府"
    ],
    "note": "2026年3月に起工式を行い、駅舎の工事が始まった。在来線の甲府駅から離れているため、アクセス手段が地元の課題になっている。",
    "src": "https://hirogoro.com/linear-chuo-shinkansen-opening-route-fare/3717/",
-   "status_date": "2026-03-31",
+   "status_date": "2026-11-07",
    "latest": {
-    "date": "2026-10-29",
-    "title": "リニア山梨県駅周辺 屋内運動施設整備へ研究会発足へ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54bnJaMTFMMndrakZnSjRfNk84RUswT01CLXRtNXZ4aGV5SUFuWUJnemJHMTRsRlNTOF9pWllVQWx1X1l5LVlIM1RKRWhQWi05RHg4cElMcGZqZ2xXcXR3?oc=5"
+    "date": "2026-11-07",
+    "title": "リニア山梨県駅で起工式 品川―名古屋間の全６駅着工",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUE9CUUtzTXBnZjlRUXl4eERCN1BPNzhuM3BUUTgwWHRKaUU2aUhUTm5BQ3NPUW4tSlg0RlBYNWtWLUczd1ZmUnZjVTBaX0t4bHc?oc=5"
    },
-   "km": 104
+   "km": 104,
+   "status_src": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUE9CUUtzTXBnZjlRUXl4eERCN1BPNzhuM3BUUTgwWHRKaUU2aUhUTm5BQ3NPUW4tSlg0RlBYNWtWLUczd1ZmUnZjVTBaX0t4bHc?oc=5"
   },
   {
    "name": "長野県駅（仮称）",
@@ -621,7 +622,11 @@
    "note": "喬木村の高架橋（約900m）とトンネル（約170m）。2024年11月に準備工事を始めた。2029年3月末完成予定。",
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
    "status_date": "2026-10-24",
-   "latest": null
+   "latest": {
+    "date": "2026-11-11",
+    "title": "リニア高架橋、完成を待たず日照権補償へ JR東海が姿勢転換、喬木村の希望者に",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ET2xfMUJuMmJETUE5WkRXSlZiXzN2SlEybnlsRlJNaFpYVU1GUTJtNUc2b29qYVJEZFprdWNhR3hNSHhUaV9OMWlGNmJ4Q29uRDRwZks2VjZoLTdRSUUwY3FtcTRJTl9WZjJscXdXdnI?oc=5"
+   }
   },
   {
    "name": "天竜川橋りょう",
@@ -1097,5 +1102,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-11T15:47+09:00"
+ "checked": "2026-11-12T00:27+09:00"
 }
