@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T02:53+09:00",
- "checked": "2026-11-14T02:53+09:00",
+ "updated": "2026-11-14T08:43+09:00",
+ "checked": "2026-11-14T08:43+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -34,6 +34,28 @@
    "auto": true,
    "added": "2026-11-14T02:53+09:00",
    "g": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SLW5qTHMwbVVXUVpsWkNqQi1GLTl1anRWeGJkZ1diUHJ2V3hCTnk3R2JJdmtvUGVfQk9wWFdYdXFKUlM5aTV4dEN4akVWcktVTWZZc2VhX3kyQTNDWFF3Q3lydGNFWnJqNnMwZQ?oc=5"
+  },
+  {
+   "date": "2026-11-14",
+   "cat": "shinkansen",
+   "title": "【年末年始の新幹線】12月25日から「のぞみ」は全席指定。3辺160cm超のスーツケースは専用の座席を予約しないと手数料1000円（LIMO）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yRHlDLVM1M2s0a3pUZGdweXc4ak5nUXk3cEhSNC1jMEI1ZjVzRXRPNURPMGtvZUlWRFlSVERkbmYtSWRjUGZIVDUzU3Z4VUlxNGkxd08tQ29vNWtrbWdQSXYweW83WXVCeVNFbWdhT01HRDI3THBfSG9wQUR0TFU?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-14T08:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yRHlDLVM1M2s0a3pUZGdweXc4ak5nUXk3cEhSNC1jMEI1ZjVzRXRPNURPMGtvZUlWRFlSVERkbmYtSWRjUGZIVDUzU3Z4VUlxNGkxd08tQ29vNWtrbWdQSXYweW83WXVCeVNFbWdhT01HRDI3THBfSG9wQUR0TFU?oc=5"
+  },
+  {
+   "date": "2026-11-14",
+   "cat": "eki",
+   "title": "「あんなの初めて見たよ」 アメリカ人がドクターイエローを見るため東京駅へ 衝撃を受けた設備とは",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yaEJnU2xOUzRjUEtxem1Qc3laWldrdlBGVHVxbm96M1RmeXhWdkJKbEdXMXZ0TDVQUkNUTXNfZTU0VTRBSEtRelU1QnJDRUU0LTNOcjhibFdGTzh1NHJJQ0dGd3NkSW5kdlhzaWVoS3NuZjZuVWNB0gF8QVVfeXFMUE1nU09NQTVaR2t3TENrdURBcHpxT01PUWEta3loSldraHZKYWp2bUczRHpmaEYwWWV4dVpjNkFuQWdySXBMUzZHTzZNcWlBRzA5cGNtNzBIcndvRUtiSFpneXRWcnNCTk5GVEdHLXJSLXNSbmU0RkVzMU9uRQ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-11-14T08:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yaEJnU2xOUzRjUEtxem1Qc3laWldrdlBGVHVxbm96M1RmeXhWdkJKbEdXMXZ0TDVQUkNUTXNfZTU0VTRBSEtRelU1QnJDRUU0LTNOcjhibFdGTzh1NHJJQ0dGd3NkSW5kdlhzaWVoS3NuZjZuVWNB0gF8QVVfeXFMUE1nU09NQTVaR2t3TENrdURBcHpxT01PUWEta3loSldraHZKYWp2bUczRHpmaEYwWWV4dVpjNkFuQWdySXBMUzZHTzZNcWlBRzA5cGNtNzBIcndvRUtiSFpneXRWcnNCTk5GVEdHLXJSLXNSbmU0RkVzMU9uRQ?oc=5"
   },
   {
    "date": "2026-11-13",
@@ -1147,6 +1169,17 @@
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xTWR3QTJOb0ZiR3dtSjloeEVkS2RCQ04yQUFiUEJHcG1uR09JMHpScnFkOXdNLWN4NTV1SGM4RjR3eG1NdDlSNnhmSWJvWGl4OWU1aFFGbko1bWJ4MGNOc2RKbG9HcE9JbEoybXFnaUwzSmd3aTJ2Z1FoYnc4SVk?oc=5"
   },
   {
+   "date": "2026-11-12",
+   "cat": "shinkansen",
+   "title": "新幹線車両に検査支援システム 自動判定へJR東海（共同通信）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyNTBtWXRHaEtWNmlacnE1cXZaNWZJYXJGQW1GcG9DbjFLZkVnVzNSb3EwbUkwNDRMMTV1dkRMZHVnUHZkOGhtOEJrNzltRTFFcE5EUmI1R2cxdTdOUUhMSmhvNTkzS1NadkFvVUhqSTBfeTRRcVNqdGQxTXJoazA?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-14T08:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45R2tQV3BTeHhjYjhKTlZ1aFRtc0JPTU02RFg2WWJHcHN1WEhsNW00Qnp3OHRabU9zRHVfVVEzWFhBTTJNWFctMHdRektxeS0tYTkteWhkWQ?oc=5"
+  },
+  {
    "date": "2026-11-11",
    "cat": "shinkansen",
    "title": "東海道新幹線自由席で混雑時に“無料枠”の幼児「1席利用」投稿が賛否、JR東海の見解と「思いやる気持ちを持って」のお願い《2026年11月Choice》",
@@ -1684,6 +1717,17 @@
    "auto": true,
    "added": "2026-11-13T18:45+09:00",
    "g": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWo0cEcwWXp1bmNVdnk3UjZaRlJEZEg4c1N0NkNfLXA2ZF8tR3E1c0JwYjlHWXhRU1BSM0ZHbjByY2FfZjdna3poZ3lucHNkUlRub3k2bGtadGFRS0VuUzRWR0tQNkFBU01tSUdseExMeDJVejVId3B3VGJ5SzAwcU5xaDdjQm1JQ05HMDVDZ2lkRXNWT3JaNmZlUldJanRjUkJIbTc2cnpzNFIxMi1uVnpLQ1g?oc=5"
+  },
+  {
+   "date": "2026-11-11",
+   "cat": "other",
+   "title": "ドクターイエロー・ぴよりん 巾着つきリウォームエコカイロ 販売",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfU0liTGkwQ0FZZ2RKWWoyUE1CQUluTldtVnp3b0k5V3g3NDNuT0FJUGw1OFdGQUg3dnNpU2QxOGJwbTg5RU05eG5wUUJHVlFLQU5VMnFtVUN2WW0wcmJHa1YtSXE1X01pWHdJV3ZNREstTjkxSTZHWjc3bTM1UdIBgwFBVV95cUxPRkVlSjAzUFhIYUpVSWNqOEJjY0tCNVlKZ29jR2FZYWZ0QS1qLS1aenVHNXZrZjFlX19KaE83eGhRU1JjQTJwWVZnY09jTGxodDlzaHhHa3dMU3ltbmIxWk5xQ0tsNFFydkVQSERuUGtDaGR3UzhqOW16YlZLQXhKSG1odw?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-11-14T08:43+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTWdjSHVhR1dsRzkybVFzeExMck1WRGhyRDJvdndPUFFOUjBzbG9EaWp3U2hwVmlabEMxQklZRmQyQUYyMjBzdHFXelc?oc=5"
   },
   {
    "date": "2026-11-10",
@@ -16457,50 +16501,6 @@
    "auto": true,
    "added": "2026-10-23T11:56+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalB6ZlhPWG1FS2RGNjk2QUtzX2NzdzNrNi1KbGdKZTNwdVV3eGxZVEhnaE1DSnNfWVlzOFlMcV9GRnc2b05LTTdtLXhFaDFHeUtDN25vdjRJZGtlblNBa2dlRGZZOVo3cUNHZGtVT1FiMGhKM2VNZi1Md1I5M3M?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "cat": "zairai",
-   "title": "【東海のうに編成】315系3000番台静ｼｽU2編成（473M）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83U1JseEdueWVMSDJaQnNWbTg2NHYxN2U0cFlYTmg1UzlRbjByWGxqdkN6UXlLMXlaQ0VHNDdwNFU1VHJZMXBXMmlwS296dFJ0dkV5S3hZcEtxa2ZE?oc=5",
-   "src": "YouTube",
-   "auto": true,
-   "added": "2026-10-23T14:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83U1JseEdueWVMSDJaQnNWbTg2NHYxN2U0cFlYTmg1UzlRbjByWGxqdkN6UXlLMXlaQ0VHNDdwNFU1VHJZMXBXMmlwS296dFJ0dkV5S3hZcEtxa2ZE?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "cat": "eki",
-   "title": "ＪＲ名古屋駅で天井パネル落下 重さ約３０キロ、男性が頭にけが",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxY3hMZFpRakZZcHVHVWJqWmNtbEpCWWRYY3VRaXRnaGNiSmx6cmZIc3FlWkF4QlpHRHJZVWpkYlRpSGZjUnZmWnE1Z2FVTzFPSGc1Vy1VV3Z2QTJYWm14WkczS05iRTQ?oc=5",
-   "src": "山陽新聞",
-   "auto": true,
-   "added": "2026-10-25T11:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxY3hMZFpRakZZcHVHVWJqWmNtbEpCWWRYY3VRaXRnaGNiSmx6cmZIc3FlWkF4QlpHRHJZVWpkYlRpSGZjUnZmWnE1Z2FVTzFPSGc1Vy1VV3Z2QTJYWm14WkczS05iRTQ?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "cat": "other",
-   "title": "ＪＲ東海車両に川崎復帰 振り子式の技術力評価",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MM3VjSnF6Vk0wQzI2eER5SEJIdlNGaUJsSVRydW9vc05zRFdMc21tcVZCa3VUdGcyaXZVV19aQnd6MHBxcHhGNGZkaURNOG0zNlFfSW9yRUVPRFUya0lCLU0zREFxdms?oc=5",
-   "src": "山陽新聞",
-   "auto": true,
-   "added": "2026-10-26T02:48+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MM3VjSnF6Vk0wQzI2eER5SEJIdlNGaUJsSVRydW9vc05zRFdMc21tcVZCa3VUdGcyaXZVV19aQnd6MHBxcHhGNGZkaURNOG0zNlFfSW9yRUVPRFUya0lCLU0zREFxdms?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "cat": "zairai",
-   "title": "線路上のビアガーデン「世界の山ちゃん 名古屋駅1番線店」が9月1日(金)に期間限定オープン！",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVWNxb1ZnWFc4a3g3SjhnRjNlMGlyOWgwZGNYUm5RdTg4ZXBXbWtFS2U4RVJsOS1KVjJVLXpvalZuV1lfalBMQWhaMDNSb2lfZWFDQzl30gFbQVVfeXFMUDFQaUlERTVHUzh2R1VzbEpnWGJaWC1Bc0ZxdFdoOGNmdWtpVWJUVndEUzhQSkI5Sk5MbW95ZEZyQ1JYMzB6VkxISWN3ZEc3dGhRRmk3UWdGemdkQQ?oc=5",
-   "src": "ウォーカープラス",
-   "auto": true,
-   "added": "2026-10-26T10:17+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVWNxb1ZnWFc4a3g3SjhnRjNlMGlyOWgwZGNYUm5RdTg4ZXBXbWtFS2U4RVJsOS1KVjJVLXpvalZuV1lfalBMQWhaMDNSb2lfZWFDQzl30gFbQVVfeXFMUDFQaUlERTVHUzh2R1VzbEpnWGJaWC1Bc0ZxdFdoOGNmdWtpVWJUVndEUzhQSkI5Sk5MbW95ZEZyQ1JYMzB6VkxISWN3ZEc3dGhRRmk3UWdGemdkQQ?oc=5"
   },
   {
    "date": "2026-10-02",
