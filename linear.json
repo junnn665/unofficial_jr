@@ -37,9 +37,9 @@
    "src": "https://linear-chuo-shinkansen.jr-central.co.jp/sp/plan/eki/",
    "status_date": "2026-10-06",
    "latest": {
-    "date": "2026-11-15",
-    "title": "リニア品川－名古屋開業、最短2040年代か 本紙試算、湧水対策など不確定要素",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvQzFuZnphV21RMnVxZ0ZPYXRxQkRjSzFDb3R6R1VLSlJHVlNXcUdnLWFQUFl4azdMdE91ZGpEYlQyaXlzLUthYkFkSEM0MzlGeVdfMQ?oc=5"
+    "date": "2026-11-18",
+    "title": "リニア品川－名古屋間の開業時期 JR東海が年内の公表断念へ…名古屋駅の工事遅れや静岡工区の停滞響く",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMUklYZFR1Z1VNUERKZXZ4d0Z3VDNlUEt2NEVMWk5ZZlloMjZVRy12TUZkNHhBNmtOa2ZrLV96X0Z1dEZRb2xLTEtZU3RnOGVvel9xdURyZzZLZkNjakc4VHJDN2tLckt4a0JfcmM2ZDNDWl8xZ1lVakFVTm1ab2c?oc=5"
    },
    "km": 0
   },
@@ -86,21 +86,22 @@
   {
    "name": "長野県駅（仮称）",
    "place": "飯田市",
-   "status": "build",
-   "label": "建設中",
+   "status": "wait",
+   "label": "工事停止（11/18報道）",
    "kw": [
     "長野県駅",
     "飯田"
    ],
    "note": "高架橋とトンネルの工事が進行中。完成すれば品川まで約45分。県内52.9kmのうち48.5kmがトンネル。",
    "src": "https://newswitch.jp/p/49438",
-   "status_date": "2026-06-14",
+   "status_date": "2026-11-18",
    "latest": {
-    "date": "2026-11-15",
-    "title": "リニア駅のため廃業の危機 飯田市の老舗工場が再出発 “5代目”たちの選択",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZ2hOUXlsTnVHblFVczlZU0lOekVpUmRmWkNrQkY2S09nYzlmY1VyanhyTUNoNjJwRW9VcW1qSGYxY0lROElMbnRZSjM1UUo0a2ZtLTgtM094ZHMzM1d5c2NWOHFQMmdVRWdHVWpNV08?oc=5"
+    "date": "2026-11-18",
+    "title": "軽トラ火災でリニア工事中断 長野・飯田の中央アルプストンネル掘削工事現場",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5"
    },
-   "km": 182.5
+   "km": 182.5,
+   "status_src": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5"
   },
   {
    "name": "岐阜県駅（仮称）",
@@ -125,22 +126,22 @@
    "name": "名古屋",
    "place": "名古屋市中村区",
    "term": true,
-   "status": "done",
-   "label": "完成（11/10報道）",
+   "status": "wait",
+   "label": "工事停止（11/18報道）",
    "kw": [
     "名古屋駅",
     "リニア名古屋"
    ],
    "note": "名古屋駅の地下に長さ約1km・幅最大60mの駅をつくる工事。品川と同じく、営業中の駅の下での工事になる。",
    "src": "https://linear-chuo-shinkansen.jr-central.co.jp/sp/plan/eki/",
-   "status_date": "2026-11-10",
+   "status_date": "2026-11-18",
    "latest": {
-    "date": "2026-11-11",
-    "title": "リニア名古屋駅、用地取得や安全対策で工期に遅れ 完成は未定（毎日新聞）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44RE8tOWxHY1ZwU2gxc1piWXM3c09iM2QzSGtVX09pYU9QX3lFbEVkbm9IZGJEalVOZjVjaHQ2Z29qU0xjY0Q1T3ZfM3d6YnE3OV85TE1GbFE3MldXakpGR3ZZai1BR2ZVcUtqbF83LVF2MVZ4dmNDdDN6d1FLNFk?oc=5"
+    "date": "2026-11-18",
+    "title": "リニア開業時期の年内公表をJR東海が断念 工事請け負う大成建設の営業停止や名古屋駅建設工事の遅れが影響（東海テレビ）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53eldnOW1iT2xLSm14WnB0UzYwcVVmaEhGYVFReHdueWZnVXdfaE1lS0JfVDdkVGJkN1M2MFlLNWgzTkNJTDF0blY4VV9adTd5a1RLak9UVUNxU0l6YllPcWhsMDk3UDk3NEEwcm5lM0l2QkVhRkxhRmR0WlVWTTA?oc=5"
    },
    "km": 285.6,
-   "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDRS02WG1qZloySzJFdHlmYzVFWXFsWDhLWEpOQ1ZIcVdCazlkVHdvT0ZKZkpud1dmbi1zQTZGRklUdGFyaG5Ta2phUjhPTzJNQjdWTFJOM2RqNEQ0QUtCX1dhS3MwWW9KbHBSY0lpTmcxQk8tRmxTOFBCR1FiTkk?oc=5"
+   "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53eldnOW1iT2xLSm14WnB0UzYwcVVmaEhGYVFReHdueWZnVXdfaE1lS0JfVDdkVGJkN1M2MFlLNWgzTkNJTDF0blY4VV9adTd5a1RLak9UVUNxU0l6YllPcWhsMDk3UDk3NEEwcm5lM0l2QkVhRkxhRmR0WlVWTTA?oc=5"
   }
  ],
  "works": [
@@ -750,16 +751,21 @@
     208.1,
     210.5
    ],
-   "status": "build",
-   "label": "掘削中",
+   "status": "wait",
+   "label": "工事停止（11/18報道）",
    "kw": [
     "山口工区",
     "中央アルプス"
    ],
    "note": "南木曽町〜中津川市山口の区間で、中央アルプストンネル（全長約23.3km）の岐阜側の端。2017年10月に着手し、工期は2027年11月まで。",
    "src": "https://www.pref.gifu.lg.jp/page/16609.html",
-   "status_date": "2026-10-24",
-   "latest": null
+   "status_date": "2026-11-18",
+   "latest": {
+    "date": "2026-11-18",
+    "title": "軽トラ火災でリニア工事中断 長野・飯田の中央アルプストンネル掘削工事現場",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5"
+   },
+   "status_src": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5"
   },
   {
    "name": "第一木曽川橋りょう",
@@ -1102,5 +1108,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-18T08:00+09:00"
+ "checked": "2026-11-18T13:35+09:00"
 }

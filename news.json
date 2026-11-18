@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T08:00+09:00",
- "checked": "2026-11-18T08:00+09:00",
+ "updated": "2026-11-18T13:35+09:00",
+ "checked": "2026-11-18T13:35+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -77,7 +77,7 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-11-18T08:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HRjg4UjVRc09md1lnLTFQZzg5TVZqYS13eWFBZVhqd1NNWGRpdjdPVEZZOS1Vd0szd3lNalRSaDYxUFBYZDVUVVMtVXYzRkZVYUR2ZTBWc2FMdUVtUDNQQy1sU3h0MGtZX3V5TmxzQkJCY0pUN0J5QXVYSlFFRHc?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
   },
   {
    "date": "2026-11-18",
@@ -99,7 +99,436 @@
    "src": "朝日新聞",
    "auto": true,
    "added": "2026-11-18T08:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HRjg4UjVRc09md1lnLTFQZzg5TVZqYS13eWFBZVhqd1NNWGRpdjdPVEZZOS1Vd0szd3lNalRSaDYxUFBYZDVUVVMtVXYzRkZVYUR2ZTBWc2FMdUVtUDNQQy1sU3h0MGtZX3V5TmxzQkJCY0pUN0J5QXVYSlFFRHc?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア中央新幹線開業時期 年内の公表を断念 JR東海（テレビ朝日系（ANN））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVGRBMnJQRGtDWjNZZGN3UU04Uk9pemdySFRMZ1BMY2pYSzROVENQTVhnYXJKMUpuQ2VJSDd0VTYzNnlXVUN3ZUVpNHNjOGN1N2dVUlZOYWZVc3cwTVp5LXJ3c21LTFV5X0ROU3VWcnE3dGpyeFA2eGZ6VUswRWs?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVGRBMnJQRGtDWjNZZGN3UU04Uk9pemdySFRMZ1BMY2pYSzROVENQTVhnYXJKMUpuQ2VJSDd0VTYzNnlXVUN3ZUVpNHNjOGN1N2dVUlZOYWZVc3cwTVp5LXJ3c21LTFV5X0ROU3VWcnE3dGpyeFA2eGZ6VUswRWs?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "other",
+   "title": "ＪＲ東海で「匠」とあがめられる営業マンは、転職組の異端児 鉄道の常識を次々に覆すアイデア…会社への強烈な「違和感」から生まれた",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HN05WZF9FMVRROW1vMDM0TFhwUEVuaVkzMGJveUVvWGYwQjQ4S09FRjFiRElLR0hmWmRDTDBoWHRYV1k5Q2xXd1VnaW1hajVUZUh5V25FUTZjNFE3SlE?oc=5",
+   "src": "沖縄タイムス社",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HN05WZF9FMVRROW1vMDM0TFhwUEVuaVkzMGJveUVvWGYwQjQ4S09FRjFiRElLR0hmWmRDTDBoWHRYV1k5Q2xXd1VnaW1hajVUZUh5V25FUTZjNFE3SlE?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "other",
+   "title": "ＪＲ東海で「匠」とあがめられる営業マンは、転職組の異端児",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWU9HXzNSNUZFd3NOemJtX05GMTk4QjJfWWExQUx5ZHppT3JTYlZ0ZHN0OWVmbjhyNnRwQ1RrNm5sX08yQjhFcEJ2ZHVsU05nTlZjQVJ6MEpVdw?oc=5",
+   "src": "中国新聞デジタル",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HN05WZF9FMVRROW1vMDM0TFhwUEVuaVkzMGJveUVvWGYwQjQ4S09FRjFiRElLR0hmWmRDTDBoWHRYV1k5Q2xXd1VnaW1hajVUZUh5V25FUTZjNFE3SlE?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "other",
+   "title": "JR東海で「匠」とあがめられる営業マンは、転職組の異端児 鉄道の常識を次々に覆すアイデア…会社への強烈な「違和感」から生まれた",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTT21OOURicWxMcWt6TlN6ZFBuRTFiT01WN2EyOHkyUTVyZmRfT1pMcFNlQ1JwdUtOU2dlY3cwTHpDSldtYmRaU2ljVkNGRk1OTHA4b2hfY3RJdw?oc=5",
+   "src": "北海道新聞デジタル",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HN05WZF9FMVRROW1vMDM0TFhwUEVuaVkzMGJveUVvWGYwQjQ4S09FRjFiRElLR0hmWmRDTDBoWHRYV1k5Q2xXd1VnaW1hajVUZUh5V25FUTZjNFE3SlE?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期の公表、ＪＲ東海が来年以降に先送りへ…談合事件の影響などで静岡工区の工期見通せず",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wZnJPaU45anpCd0J6UzlIOG1kX1N4TWU4LVZERjEtbFItZmpBZ0ZzWXMySk13QldueEV2QjBlQnBBUWJPdHllVFJDMXpiVUJzcjl4dG9PdzY3cjJMTHlzcS03dHo?oc=5",
+   "src": "読売新聞",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wZnJPaU45anpCd0J6UzlIOG1kX1N4TWU4LVZERjEtbFItZmpBZ0ZzWXMySk13QldueEV2QjBlQnBBUWJPdHllVFJDMXpiVUJzcjl4dG9PdzY3cjJMTHlzcS03dHo?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニアの開業時期、年内示せず JR東海、午後に会見",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zVEk0UHRVT1ZmbkptMzIxZEVxWVExM1hKS1Z5TS1LYmFrNEd1ejVGeEhsWXdIMmdXMFV2S1pXSmVXZ0lWeFhzLU1pNA?oc=5",
+   "src": "47NEWS",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア中央新幹線開業時期 年内の公表を断念 JR東海 – Quebee キュエビー",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82TUFCeFoyN1JiWXdqVk5QWkQtRGNjYVZkZk8zZE1wWm03T3Z0Q3VEbkgyUzJfWms4SzNIUnU2NzFWdGoyd3FWOXVnMEVnaEppSkhzcktjVWc?oc=5",
+   "src": "QAB 琉球朝日放送",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82TUFCeFoyN1JiWXdqVk5QWkQtRGNjYVZkZk8zZE1wWm03T3Z0Q3VEbkgyUzJfWms4SzNIUnU2NzFWdGoyd3FWOXVnMEVnaEppSkhzcktjVWc?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期の年内公表をJR東海が断念 工事請け負う大成建設の営業停止や名古屋駅建設工事の遅れが影響（東海テレビ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53eldnOW1iT2xLSm14WnB0UzYwcVVmaEhGYVFReHdueWZnVXdfaE1lS0JfVDdkVGJkN1M2MFlLNWgzTkNJTDF0blY4VV9adTd5a1RLak9UVUNxU0l6YllPcWhsMDk3UDk3NEEwcm5lM0l2QkVhRkxhRmR0WlVWTTA?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア新幹線 JR東海が開業時期の見通し年内公表を断念 静岡工区を担うゼネコンの営業停止処分や名古屋駅の完成遅れなどを踏まえ（テレビ静岡NEWS）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRW5KcW51d2w3ZDA0M25kNnZ2RmJsR0NtX3VnZVBrRUZwdVRQRldiQzFRZDdlSGtYWVQzckVpQmg4SXVhdGphbmhFTTNiSUhkaE5GLXAtMW4yeUJZdkhPOC1uVWgxUHRzaXd2UmJ5N0xRMGMyQmowY3dHX212R0E?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア品川－名古屋間の開業時期 JR東海が年内の公表断念へ…名古屋駅の工事遅れや静岡工区の停滞響く",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMUklYZFR1Z1VNUERKZXZ4d0Z3VDNlUEt2NEVMWk5ZZlloMjZVRy12TUZkNHhBNmtOa2ZrLV96X0Z1dEZRb2xLTEtZU3RnOGVvel9xdURyZzZLZkNjakc4VHJDN2tLckt4a0JfcmM2ZDNDWl8xZ1lVakFVTm1ab2c?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeFhLLWRwbEhPWEhsb0NteXNqaXVsQkxrVkJIU0M1V3FEUGlRYjdVbVk0RUtUUy05LTZhZ2ZGX0JYdzVlSU54c1IyTWNWUTZxcmxkWGpKb2UwTDBnSVpnX3M2a01EdmhoTFktVDZfMA?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "kaisha",
+   "title": "リニアの開業時期 年内公表を断念 工事請け負う大成建設が談合事件で営業停止処分に 18日午後の会見でJR東海･丹羽社長が説明 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwalkzald5SlpuTHJHY0tqMXROQ1ZXY3RMTzdOM2drdGkzS0N2bFIwTHFIcTRsRDNSM05IQkZkVFp3Z1pxYXRpSlMtOXF3dXlGNktPTzJTaGdBUQ?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア中央新幹線・品川ー名古屋間の開業時期 JR東海が年内提示を断念 （メ〜テレ（名古屋テレビ））",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ILVkyTU4tZXdzLUdpTGd5M0puYm5qYnBpaVdMWnA1ZEZKRnByZ3FITXBWYzZKa1Z2dERvc0cwUlpRWHlIY3E2bTRta0FSV3pmR1JTbUhObktkSFpjNGJ3bERMR1o1R1U1a2xfbl9uUmVqaDZ1UFJ5azBkS0g2dWM?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeFhLLWRwbEhPWEhsb0NteXNqaXVsQkxrVkJIU0M1V3FEUGlRYjdVbVk0RUtUUy05LTZhZ2ZGX0JYdzVlSU54c1IyTWNWUTZxcmxkWGpKb2UwTDBnSVpnX3M2a01EdmhoTFktVDZfMA?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "【リニア】JＲ東海が品川～名古屋間の開業時期について年内の公表を断念 談合事件で大成建設が３ヵ月間の営業停止処分",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVjh4elJTbkoyRHhQbmx0N3hPcEZyTHY3UTBIbnl5TzI5M2twUGpmTFRGNENCamdpMkYyMkdkME5YVnAzbkxzUldsZnlfT2xzeUhzcVRJdkFNaWdOUmY1N2U0aW9SYlE5NjZGTU43ZEZRT2Iwb3BPYkh5WlRNdlE?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeFhLLWRwbEhPWEhsb0NteXNqaXVsQkxrVkJIU0M1V3FEUGlRYjdVbVk0RUtUUy05LTZhZ2ZGX0JYdzVlSU54c1IyTWNWUTZxcmxkWGpKb2UwTDBnSVpnX3M2a01EdmhoTFktVDZfMA?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニアの開業時期 “2026年内の公表断念” 談合事件でゼネコン営業停止や名古屋駅の完成遅れ影響=JR東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tYjBYeDM3NEFLZGdXcU9idktvUloycjB6bXl0TkZpOVR3MkZRWTVHNHFqZHAyMnAxUklCMmVhNnhrU0F4aXU3elRKaE10OFI4NFZ1QVhVYV9qYlN3WkJudXNpVjJjY09KMjhNcHhSdkNPNmNyWkhzWUg0M21ESTg?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "kaisha",
+   "title": "リニアの開業時期 年内公表を断念 工事請け負う大成建設が談合事件で営業停止処分に 18日午後の会見でJR東海･丹羽社長が説明",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RVjZmSE5VLXYtUzgyYnN3WjZ4VjAxYVFPYkt2TnlGMjBSZVpabkJuVUZNRko3R2xjRDROS19Ra1J3TDcwZ0g2QnItUnJhWEk3R1VUR0thd3RGaFVjODNj?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期、年内公表断念＝工事遅れで―ＪＲ東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FaGlZNXVnaUxtbFZnMmdfNkZva3lGamVfZWlNT05aNVJLWjhURmxMNFY4QlB4SzVBNHM4OUZ0bHVLMHVLSHVtMGMxNmoyWmMyazc2Uw?oc=5",
+   "src": "時事通信ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期、年内の提示困難 JR東海、午後に会見",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92QXJZdG1yc1hFOG5IOE5ucWNfV1BHQmw2R0tYY2g5ekFxZ2hqdUM5YWpkenY5RV9sMjBjUkdPRng2MVVIS2xDb001anFRM091Y1ZXTXZNWlBzTDdkZVFBUFZpVjgzcE1tZFJzRVdHNUU?oc=5",
+   "src": "信濃毎日新聞デジタル",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92QXJZdG1yc1hFOG5IOE5ucWNfV1BHQmw2R0tYY2g5ekFxZ2hqdUM5YWpkenY5RV9sMjBjUkdPRng2MVVIS2xDb001anFRM091Y1ZXTXZNWlBzTDdkZVFBUFZpVjgzcE1tZFJzRVdHNUU?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニアの開業時期、年内示せず",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tcW5KcnpGY2hfWUotdlB5RzExWGhXMmVOdTQ1Q1R3UUJIRjE0dElhTmtSN1JYaXlhX3ZzcmNqazZJMlhoWW53MkMxOTc3ZHU4bnc0eGtvOWotbG8?oc=5",
+   "src": "下野新聞社",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニアの開業時期 “2026年内の公表断念” 談合事件でゼネコン営業停止や名古屋駅の完成遅れ影響＝JR東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoclB1QWI4b3pwSl84eGpNdzBxM2xqaHZid0Q0bFgzVzJ3Zldic1NHbWFZQ0pQZWdodERPRjlYbjdDVl9JdGVHRndFU3VtUmZUNFBxYVdBQVotUQ?oc=5",
+   "src": "TBS NEWS DIG",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期 年内公表を断念",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OS292bXdfaE9tOHVLaHl4bm0tSW9RZUt2eDBXMERzaXJEM2dnUXpGUWstTU5xSTJUdFBYZXpWdU1IWWlkbFJjaGt2NVBhTWJk?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "【写真】リニアの開業時期、年内示せず ＪＲ東海、午後に会見",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JX0phMEhBZ192SWhMZXJzSzg2UFRac1BuSEVLV0ZhcGs2NEV6SkN1TWk5RFl4YjRMLW5lVjNjXzZQZmU2SDBJcC0xbG5na0N2cTBvR2pfdkZDLXlNTFIycGxDOTNGR1lN?oc=5",
+   "src": "南日本新聞",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92QXJZdG1yc1hFOG5IOE5ucWNfV1BHQmw2R0tYY2g5ekFxZ2hqdUM5YWpkenY5RV9sMjBjUkdPRng2MVVIS2xDb001anFRM091Y1ZXTXZNWlBzTDdkZVFBUFZpVjgzcE1tZFJzRVdHNUU?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "other",
+   "title": "ＪＲ東海で「匠」とあがめられる営業マンは、転職組の異端児|ニュースの核心",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YMExJNVdWWXdLZlJkTWZtYWpyRUVzakxvRE1iRUM2ZWhUVW10d2k1Y2tuMWVCZ3ZCM2RpUkR1dlB5bHFPTkVETkhoVTlER09DdWVaOWJ3THVrYzJ2bEQ5S1gwOFhmdi1uZVBOdUN4Nk1YaWZhdVEyQXJxVG4?oc=5",
+   "src": "神戸新聞",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HN05WZF9FMVRROW1vMDM0TFhwUEVuaVkzMGJveUVvWGYwQjQ4S09FRjFiRElLR0hmWmRDTDBoWHRYV1k5Q2xXd1VnaW1hajVUZUh5V25FUTZjNFE3SlE?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア中央新幹線 開業時期の「年内公表」断念、品川 - 名古屋間 建設会社の談合事件で着工ずれ込む JR東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmM5b0oyWUNiVnpPZ0IwNzFuQUZzNnZTZ3h6dlZsQTZzOEQtWGVJZmhpMHZnZGJhYU9zQXd6dTNFSEd6cHE4TDFkTDFfMC1jSlRkaDFSbzhfaVVlYzFCbVBHc1BHYk9RbEx4REloWWk3Z2FWSFVkLUlBRGVzQ3Rtck8wdmU?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア中央新幹線・品川～名古屋間の開業時期 JR東海が年内提示を断念 (2026年11月18日掲載)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mekJidmRYTjZnSHdWUjZ0dXdKTmVxWmprVXpKLTRydk9CWXh6eVNoSkxFUmRlVkgwVjUySzh0bnlLUVloSFNiSHRKd3VGcldsdHBLcDdXRFI3RXhoT2c?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeFhLLWRwbEhPWEhsb0NteXNqaXVsQkxrVkJIU0M1V3FEUGlRYjdVbVk0RUtUUy05LTZhZ2ZGX0JYdzVlSU54c1IyTWNWUTZxcmxkWGpKb2UwTDBnSVpnX3M2a01EdmhoTFktVDZfMA?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期の年内公表をJR東海が断念 工事請け負う大成建設の営業停止や名古屋駅建設工事の遅れが影響",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX2xmZWgwZnNQSnZWNEpESHNLNU1iRHo5RWlWQmRpa0tMSjRGeU11c1drajRpODgtdjFvS0JreERKSmxGTG5sY2JMTTlKQlVaZEc1aVhZb3BVWlRhTlE?oc=5",
+   "src": "ライブドアニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "shinkansen",
+   "title": "画像ギャラリー | なぜ東海道新幹線と東北新幹線は「直通」しない？ 東京駅で“分断”されているワケ 幻と消えた直通運転計画",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mWmNLeUtqNkJhQksxeFlKaXN3RFZpZGpBSnVYdTdNT1ZMdXUzVk5lcWVKZ2l3R0d1ZlVjZkpwbFhMVGFzc216bGZ3cw?oc=5",
+   "src": "乗りものニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSi03SzlBWjZ2cFpmWk9LbjhzMFRpa2FCemFsaGdYTUZGcjZNTklxM1JjLVFOeXlfTFZGTFRZZ2FsY0V2dmxEbEdxYWVOeGtMRmlIU3VkT24wV0FhZnltZUhrYXQwY2FmWEpaMVppZnNJNjA0aFVicXJhWnA5MXV2cHJ30gGHAUFVX3lxTE9fNjZSVGY4cWhBWTlDdVcwRUVSZ293TEtQb1E0Qmxxb1JFQ01EZ1llNWVWODVBVUZrYlZKd0I0RWJ5Ujd0Q2pLZnVrb1lOWVF1WDNHd05pZElRTENacEE1UEZBanZObGZBWDJfb0d0U2xlTEhwU3R6eS1qR2phRnVnbkZ4TVVfWQ?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "shinkansen",
+   "title": "ジュニアタイムス 東海道新幹線 ２０２９年に新型車両",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45VmY3YlhQNW1KWkZqbGt2ZFQzYlFOaWRZR2tIV0FBZnVaWi1ETW5oSkV5eFEtLVZJcnR5SVk5eGtuQ29GbGxUaGtjeGoyYVk?oc=5",
+   "src": "福島民報デジタル",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45VmY3YlhQNW1KWkZqbGt2ZFQzYlFOaWRZR2tIV0FBZnVaWi1ETW5oSkV5eFEtLVZJcnR5SVk5eGtuQ29GbGxUaGtjeGoyYVk?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "JR東海、リニア開業時期の年内公表断念 コスト減へ工法見直しも",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5leXJjd0FseWZQYUJtVFl6bDgwRjdIS3pqUTBPRkxibGxDOE43TDhwc2JfQjhMMXZ0amdJZzBaa0hITm10RWQ1SDNnQ3R5V2FJNmdSTHhSMmpnMTBXV05NTm9OYWxCVDBtNXlTbQ?oc=5",
+   "src": "日本経済新聞",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "other",
+   "title": "「日本のユーザーが中国高速鉄道のスピードに驚き」と中国メディア、ネットでは冷静な指摘も",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByRUR2VHRJRjRJR1loekYyRkdIUlMwQVVHV1pwUGFuV3V1NU9WdlRueGE0N1hSZ21uOU5ZX3V1QWVvcmVmb3E5Z3I2NHFPSGxVdzhjMUFlc0E2S2MyUzUtVkM1M210SXE4X3c?oc=5",
+   "src": "Infoseek",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByRUR2VHRJRjRJR1loekYyRkdIUlMwQVVHV1pwUGFuV3V1NU9WdlRueGE0N1hSZ21uOU5ZX3V1QWVvcmVmb3E5Z3I2NHFPSGxVdzhjMUFlc0E2S2MyUzUtVkM1M210SXE4X3c?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "軽トラ火災でリニア工事中断 長野・飯田の中央アルプストンネル掘削工事現場",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5",
+   "src": "産経ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期、年内提示困難に（共同通信）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUjU5eXNvZHpkam9ha3RSdXVLODFpUTYyNHQtYk5VU0VzUXFjUGRuZmhUbXFrbEhiN3JQODlzSWZVUk9CMlQweUZqdlpncUxLRTZldkUyQkZTeTlLd1g1YV9YbTE5QVZjcTJ5cUpaSWxSX0lLR0l0a1RSUmdncXc?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92QXJZdG1yc1hFOG5IOE5ucWNfV1BHQmw2R0tYY2g5ekFxZ2hqdUM5YWpkenY5RV9sMjBjUkdPRng2MVVIS2xDb001anFRM091Y1ZXTXZNWlBzTDdkZVFBUFZpVjgzcE1tZFJzRVdHNUU?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニアの開業時期、年内示せず ＪＲ東海、午後に会見",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS0YwZno2QlFaUUN1V3JBZ09jODRUZ29Ub3hQYlRPdGNZbVNVS2lyWGlYOG5hc21HbGlxajZweEJYSkR5MlNYLW9nS1FXOGVzNlM3bDRPRDlJWk5KZzR6d3NBYU1TaEZsWXlUQ3dhcHZKX21zZld0c3VheDhXU3dSM2pRRF9LUQ?oc=5",
+   "src": "山形新聞",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92QXJZdG1yc1hFOG5IOE5ucWNfV1BHQmw2R0tYY2g5ekFxZ2hqdUM5YWpkenY5RV9sMjBjUkdPRng2MVVIS2xDb001anFRM091Y1ZXTXZNWlBzTDdkZVFBUFZpVjgzcE1tZFJzRVdHNUU?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "【速報】リニア開業時期、年内提示困難に",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JWTBULWhvRnA2aC1EU0lMOFFZa0hXVUxoQWVDUG9jWU5RSzJ4ZGVZRkV5NWM5LVJvN25vV1gxbkZhTFExWUhYYl9vdw?oc=5",
+   "src": "47NEWS",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92QXJZdG1yc1hFOG5IOE5ucWNfV1BHQmw2R0tYY2g5ekFxZ2hqdUM5YWpkenY5RV9sMjBjUkdPRng2MVVIS2xDb001anFRM091Y1ZXTXZNWlBzTDdkZVFBUFZpVjgzcE1tZFJzRVdHNUU?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "軽トラック火災で工事一時中断 長野県飯田市のリニア中央アルプストンネル掘削現場",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3OTZxMHB6Qm9CSjllNVhqanhOeGFPNnZkTmVIb1RSWVFCMzRUZjlONDdWTnNSdU5rNTlybTRlU2cwLUtZX0dmRTU2dw?oc=5",
+   "src": "47NEWS",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSlp4MUdsZGk4QV92a2hvRW92elprdEdBaFhpUFJ5MnlRWFp1OFd6NC0wbWpyeEdNYXB5b0VjdnZaNGc4aEVuMUVDbUNiWGM4OVgyYkZyVnpFakRvRktmWm83LWE3N1B0Z2ZuSEN0c2JYdDBXLXc?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア新幹線 JR東海が開業時期の見通し年内公表を断念 静岡工区を担うゼネコンの営業停止処分や名古屋駅の完成遅れなどを踏まえ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXFMbnhvTWd4U29PQVpJMjZMVHg2LWNmbnNxU0VxbF9rZ0RRQ01QR0ZEWVRrbEFGNS02cURGRkhfc3NNdGZDRlMzOENONkw1MzJ6M1h0S19mX2x3ZjY2bExWemlIVU9VbG5LRFhSOW9ORmZzNGp0UzRlY1pNUGRoUERhV1VGMkZOZnFRWlRNZ1VfY25QNHdSaVFEOVBBUE1fR2xtQlFTeGhXTTdBeHctd2JRNEo5TS1rMFFzRS11ODZadkFDWXRJ?oc=5",
+   "src": "ｄメニューニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "kaisha",
+   "title": "リニアの開業時期 年内公表を断念 工事請け負う大成建設が談合事件で営業停止処分に 18日午後の会見でJR東海･丹羽社長が説明（CBCテレビ）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5helhkMWxXZjYxM2QtRzZMQXlzSUgtR1BRTENGNld3cTEtRzUya3cwTTFKX19TT216VjN1V2Y0VUJYN2hZc1NaTFVpd2ZqMXB6a3pXbnVEZ2tDV0pYRnZEM0VLeGRqVzhWQ3I4RGItTmh0bFpoRGFwRTJlYWdTd1E?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "kaisha",
+   "title": "リニア開業時期を年内示せず JR東海、午後に社長が会見 計画の見通し難しく",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WWTNsUkpwZXRIY09Md0VuTFA1am5vSGcydjBqWnE3Ni01X3p0eXdPZXNLX3RUVll0Uks0QXd1MDRrUEg5Wnd1eHpZNkJ2czZLVGxBOGd6dEVmN2FxNXRUcl9VSS1KaExqQWdGSVdHeVNtWjlabVE?oc=5",
+   "src": "産経ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア中央新幹線開業時期 年内の公表を断念 JR東海",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcEhaeURuTEtKMWpuMWFFa2pCVTVOOG9wZVNSYmNKTVpRdklaMzdvX25Ed0NQZ1dIVnV0UFdBN2pteEVwaXZfdVpIZFhrTTgzYWN4d0VB?oc=5",
+   "src": "KAB 熊本朝日放送",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVGRBMnJQRGtDWjNZZGN3UU04Uk9pemdySFRMZ1BMY2pYSzROVENQTVhnYXJKMUpuQ2VJSDd0VTYzNnlXVUN3ZUVpNHNjOGN1N2dVUlZOYWZVc3cwTVp5LXJ3c21LTFV5X0ROU3VWcnE3dGpyeFA2eGZ6VUswRWs?oc=5"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "linear",
+   "title": "リニア開業時期、年内公表断念 工事遅れで JR東海（時事通信）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fZFdXVnluaFpsX0l2RUpSZXh1enA3Q3pWTmR4b0pKeDNKbHE3ekZaOG5aNEFiaE9kYXNuQmZsajU4OVFZbTZuWkU2Nld3eHFUSXRJUS1nY1o2Vl9ienYzbnZFOHp0RkR3M19aZlM0UWU4VktsWGhlT1pHbjZSNGM?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZ0FUY0lkZGJ4eDBuR18tWnozS2hINXVtLU5oaFpvRXVrekFSQlk2MEIwelNiM2xFaGQwVkc0ajBKV25yOF96QkxHLWlYYnRZbGlFcw?oc=5"
   },
   {
    "date": "2026-11-17",
@@ -386,6 +815,50 @@
    "auto": true,
    "added": "2026-11-18T08:00+09:00",
    "g": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTdExfY3pqbWxqdVRTYnVkbmxEcFR3TG5OSWt6T3dLTlJybkt0R21fWDVETUQ3TDJuUnBGaEZCaVppSGFmbHpaRVFFRlFjeGNDeHlGTHNFc0hMWlgzci1oR0J4VGFfQnBIWFVj?oc=5"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "eki",
+   "title": "10月岐阜羽島駅ランキング JR東海リテイリング・プラス調べ：ナゴヤスタイル",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFTzMzUjdvODdRejN2bmN0NG1OTlJRVWUtNmYtOUIybWo1ZzdjZWJpTWpJbmpqOTBoUmpvZDYzbGpFcVhUdmRzNFlhR1Z2MjZJT2RQZTdBTml6NjFzalRr?oc=5",
+   "src": "中日BIZナビ",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xWUNNZmgzTklKaVhBZGJ2QWJrV3VMUV90Qk1tRGpaeUl6eFhnQS13a1BZYVI3ajZCdExQRWZoZ0hBd3pvVE4zTlByVUFmLUpjVEpjWnByUzNONkgwRmVj?oc=5"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "linear",
+   "title": "リニア中央新幹線 JR東海“開業時期の見通し 年内公表断念” | NHKニュース | 鉄道、交通・インフラ、企業・経営",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5",
+   "src": "NHKニュース",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWxFTDVxVUVlRkZXNUd5X1JvR3c3bmNZRGZ5dFlXUmhGaW1ZUGhYYjZYMWk5NXRxOHBuYmxZOHhPNnhoZTc4TTVmNHo4UGZZV1NrMi1fbmZzWjdnSnBn?oc=5"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "event",
+   "title": "花芽すみれ、藍沢エマらが出演―「ぶいすぽっ！」×JR東海「推し旅」コラボが11月30日から 1枚目の写真・画像",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcVE1N2VEUWxWVHBZTkt1ZVBVOEJjWWRQajlrUFJ0bF9Pc3JFT3V1V0hfMEhSUjg2VmR5OUd5blBrTzQwdDQyQjNqYVNCYTVpb0M2cVl6QkIybHdJb0J4ejYxdW9SckFGRmlxa1hGNW0?oc=5",
+   "src": "FISTBUMP",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04R1VnbDlja2I1ZjZIOV9rbGd0clhjeENoNWJ2SVVMUHF0QW0tVUI2Y2FzeE1RaUVrOGVFdkxOc2l5dWxJdkQxVE15aUFKOE82ZGhzWi11czdYZk41bG1xTUJnMA?oc=5"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "linear",
+   "title": "リニア中央新幹線・品川ー名古屋間の開業時期 JR東海が年内提示を断念",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeFhLLWRwbEhPWEhsb0NteXNqaXVsQkxrVkJIU0M1V3FEUGlRYjdVbVk0RUtUUy05LTZhZ2ZGX0JYdzVlSU54c1IyTWNWUTZxcmxkWGpKb2UwTDBnSVpnX3M2a01EdmhoTFktVDZfMA?oc=5",
+   "src": "locipo.jp",
+   "auto": true,
+   "added": "2026-11-18T13:35+09:00",
+   "g": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeFhLLWRwbEhPWEhsb0NteXNqaXVsQkxrVkJIU0M1V3FEUGlRYjdVbVk0RUtUUy05LTZhZ2ZGX0JYdzVlSU54c1IyTWNWUTZxcmxkWGpKb2UwTDBnSVpnX3M2a01EdmhoTFktVDZfMA?oc=5"
   },
   {
    "date": "2026-11-16",
@@ -10043,7 +10516,7 @@
    "src": "日テレNEWS NNN",
    "auto": true,
    "added": "2026-10-29T01:11+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWjhVWllzcGo2M1lTSGsxX3hDa3A5Q0s3TEcwNEk5LVExblhnWTRmR1d0bUNGSUZlLUVucEl4WlpoWl9KNWx6N1NhSDNObklLa2hXZG9VUUx1c2huNFZqY2tuZE5BS2pISUliclg1SjVHdnlxNlRrQ1hremFXZEU?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wcThzbTBYZjgtSUIzb3k2RUYwTWhqalQtQUZqZVNwTWZEZ2tMNkh1V1dTVXYzWXl6R0c1T3JzQTNZRUVUblgwOHJtaDlLNjd1MFVIeTRVTnBacWFrclQw?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -10472,7 +10945,7 @@
    "src": "日テレNEWS NNN",
    "auto": true,
    "added": "2026-10-29T13:07+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWjhVWllzcGo2M1lTSGsxX3hDa3A5Q0s3TEcwNEk5LVExblhnWTRmR1d0bUNGSUZlLUVucEl4WlpoWl9KNWx6N1NhSDNObklLa2hXZG9VUUx1c2huNFZqY2tuZE5BS2pISUliclg1SjVHdnlxNlRrQ1hremFXZEU?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSW1sMEJFbE5UaS15UGFBemFiaDFXbGl5VFVKc1V4NHBqbUUyQUVFYkh1VFAtcjlJbF9nRU0xbzZTa0F2MVhGTmVUTXBaVUpCbmYtZkFqc08td1FGcC1EMS15WExzUmh0?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -10813,7 +11286,7 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-29T22:25+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWjhVWllzcGo2M1lTSGsxX3hDa3A5Q0s3TEcwNEk5LVExblhnWTRmR1d0bUNGSUZlLUVucEl4WlpoWl9KNWx6N1NhSDNObklLa2hXZG9VUUx1c2huNFZqY2tuZE5BS2pISUliclg1SjVHdnlxNlRrQ1hremFXZEU?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wcThzbTBYZjgtSUIzb3k2RUYwTWhqalQtQUZqZVNwTWZEZ2tMNkh1V1dTVXYzWXl6R0c1T3JzQTNZRUVUblgwOHJtaDlLNjd1MFVIeTRVTnBacWFrclQw?oc=5"
   },
   {
    "date": "2026-10-29",
@@ -11440,7 +11913,7 @@
    "src": "NHKニュース",
    "auto": true,
    "added": "2026-10-28T19:09+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNzB0Vy1jMUY5S3pjbFF2ekVBdnBBWEJCakFsZ3UxSzJ1VFdidlJnc1ZFbGxrWXotMXZRWDBLTWVTRU5ZQ1QtS083QUhKR0VaS3Jz?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wcThzbTBYZjgtSUIzb3k2RUYwTWhqalQtQUZqZVNwTWZEZ2tMNkh1V1dTVXYzWXl6R0c1T3JzQTNZRUVUblgwOHJtaDlLNjd1MFVIeTRVTnBacWFrclQw?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -11847,7 +12320,7 @@
    "src": "NHKニュース",
    "auto": true,
    "added": "2026-10-28T22:23+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNzB0Vy1jMUY5S3pjbFF2ekVBdnBBWEJCakFsZ3UxSzJ1VFdidlJnc1ZFbGxrWXotMXZRWDBLTWVTRU5ZQ1QtS083QUhKR0VaS3Jz?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wcThzbTBYZjgtSUIzb3k2RUYwTWhqalQtQUZqZVNwTWZEZ2tMNkh1V1dTVXYzWXl6R0c1T3JzQTNZRUVUblgwOHJtaDlLNjd1MFVIeTRVTnBacWFrclQw?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -13189,7 +13662,7 @@
    "src": "Yahoo!ファイナンス",
    "auto": true,
    "added": "2026-10-26T10:17+09:00",
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHA0NzI0UTd6NmhKWkZtdUlXOHp1WWVfZ1l2OXN3VThrekJuWWMySFhYTF9PbHJQRG1qS2xlSVF2X3ZTM04wX3F1ZE01R1pNSWRXMDVEbmlMRHU2WElET183cGJ1Ym9Na2xpdnhwZnBFR3FGVTU0NnRLd016dnVRRGwtU2MwRms?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xeVBOWVllVzhNd2hEQWZiNjhQeU40SFJYbXJpU3VQN21fS3NEWWFLRW1scHNDY004aUVqTms5TndFRVF6SkoySERVajY5LWhyTkJUeldlXzBBYTdLYkdBY1ozTFdQNWdjY1lkS091SXI0bFE?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -13332,7 +13805,7 @@
    "src": "東京報道新聞",
    "auto": true,
    "added": "2026-10-26T12:59+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNzB0Vy1jMUY5S3pjbFF2ekVBdnBBWEJCakFsZ3UxSzJ1VFdidlJnc1ZFbGxrWXotMXZRWDBLTWVTRU5ZQ1QtS083QUhKR0VaS3Jz?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xeVBOWVllVzhNd2hEQWZiNjhQeU40SFJYbXJpU3VQN21fS3NEWWFLRW1scHNDY004aUVqTms5TndFRVF6SkoySERVajY5LWhyTkJUeldlXzBBYTdLYkdBY1ozTFdQNWdjY1lkS091SXI0bFE?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -13706,7 +14179,7 @@
    "src": "TradingView",
    "auto": true,
    "added": "2026-10-26T18:06+09:00",
-   "g": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHA0NzI0UTd6NmhKWkZtdUlXOHp1WWVfZ1l2OXN3VThrekJuWWMySFhYTF9PbHJQRG1qS2xlSVF2X3ZTM04wX3F1ZE01R1pNSWRXMDVEbmlMRHU2WElET183cGJ1Ym9Na2xpdnhwZnBFR3FGVTU0NnRLd016dnVRRGwtU2MwRms?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xeVBOWVllVzhNd2hEQWZiNjhQeU40SFJYbXJpU3VQN21fS3NEWWFLRW1scHNDY004aUVqTms5TndFRVF6SkoySERVajY5LWhyTkJUeldlXzBBYTdLYkdBY1ozTFdQNWdjY1lkS091SXI0bFE?oc=5"
   },
   {
    "date": "2026-10-26",
@@ -14927,7 +15400,7 @@
    "src": "西日本新聞me",
    "auto": true,
    "added": "2026-10-26T18:06+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrbDF6SGdKUkRxN1NLclhvcm9tSzduOWFoaVJ5SUF3ck05U1Q3emZZeXJGalFhVkdlclNkODMxNWRQZzVhb29obkxzRHFoTFBOQzVpM2Rn?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrUDJ1UTM0NjZwbnRrRzNnQWFhQzJjV21EUzR5QWtDM0ctZGFrRUVGOHFRVURBazdKVXZ6YXdqc0toNDN2YTU4bnJkbEhwVkRvZjR5U2Fn?oc=5"
   },
   {
    "date": "2026-10-25",
@@ -14993,7 +15466,7 @@
    "src": "au Webポータル",
    "auto": true,
    "added": "2026-10-24T00:59+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3FEREJiUkttZWJSbGFUT3ZOMlpnNWpRLWRuTW1vanZ3cUpQZ003VzRtR3R3TG5kYUR6R0hsZzNGQ3hUcU1hSGVkbE9XVG5Sci1fMWJZcElmUjloNUZ3TTd1aFNsNFlLVFZzS09R?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15004,7 +15477,7 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-24T04:03+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3FEREJiUkttZWJSbGFUT3ZOMlpnNWpRLWRuTW1vanZ3cUpQZ003VzRtR3R3TG5kYUR6R0hsZzNGQ3hUcU1hSGVkbE9XVG5Sci1fMWJZcElmUjloNUZ3TTd1aFNsNFlLVFZzS09R?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15037,7 +15510,7 @@
    "src": "下野新聞社",
    "auto": true,
    "added": "2026-10-24T08:48+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZGNjZlVhQXplYUw0TkdxVEJsZng2VU1sYkhPOW0xWW4zNWdBMTdBS1VYWGNoZ1dYMDhuTkd0aWg2TTRBUHhEMURGdm1rSEltYk1BeU1nSUxjMk0?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3FEREJiUkttZWJSbGFUT3ZOMlpnNWpRLWRuTW1vanZ3cUpQZ003VzRtR3R3TG5kYUR6R0hsZzNGQ3hUcU1hSGVkbE9XVG5Sci1fMWJZcElmUjloNUZ3TTd1aFNsNFlLVFZzS09R?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15048,7 +15521,7 @@
    "src": "www.chukei-news.co.jp",
    "auto": true,
    "added": "2026-10-24T08:48+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YbkRUS0pXSXBfMlY4d3JhM0NYajhURVNmWm56VXNETTYxeldOLWhCa21Jd3dFU2hPaWxkcy1rVkwwak9HTkRsaFVhTWhGV3piY004c1BXMnNfSDRxNjJydkxDbk1ZZWpVVkdwRm5IOS1OajNOU2NnMzVuZUVaNkU?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xeVBOWVllVzhNd2hEQWZiNjhQeU40SFJYbXJpU3VQN21fS3NEWWFLRW1scHNDY004aUVqTms5TndFRVF6SkoySERVajY5LWhyTkJUeldlXzBBYTdLYkdBY1ozTFdQNWdjY1lkS091SXI0bFE?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15092,7 +15565,7 @@
    "src": "日テレNEWS NNN",
    "auto": true,
    "added": "2026-10-24T10:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3FEREJiUkttZWJSbGFUT3ZOMlpnNWpRLWRuTW1vanZ3cUpQZ003VzRtR3R3TG5kYUR6R0hsZzNGQ3hUcU1hSGVkbE9XVG5Sci1fMWJZcElmUjloNUZ3TTd1aFNsNFlLVFZzS09R?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15202,7 +15675,7 @@
    "src": "ｄメニューニュース",
    "auto": true,
    "added": "2026-10-24T12:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZGNjZlVhQXplYUw0TkdxVEJsZng2VU1sYkhPOW0xWW4zNWdBMTdBS1VYWGNoZ1dYMDhuTkd0aWg2TTRBUHhEMURGdm1rSEltYk1BeU1nSUxjMk0?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjNYM2NNRl9NN1ZyVVpGQk51S0xyTWM0NGtXYXBIYWpyN2plLVpyeDUtUWVfUmc4TUJSUHBkbi01eXhHQU1vRXp3SE1IV2xab3QxUGUtZDIycFN5NVgtcjdqNkw0Q0xKandOalZGSDVwUmdfS3pZQ0RmX1QzWVhNZNIBhgFBVV95cUxNT2ZGenRFYUlza21oNnczXzRKcUN5SFBBMkFhUVZPWXgzUU1OdEF5ZWMtYUUzbzd5OHBYSFRabDBWWVdmZlVDUFRHcHhZbmJFaUZpQ0dmWUVwM3FiN1gxTmRzSnRfdzVJOVp5ZW9BQWxQWVFVYjBVZHJhZGViS0NlT2FhUkJFQQ?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15213,7 +15686,7 @@
    "src": "liv-plus.jp",
    "auto": true,
    "added": "2026-10-24T12:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZGFmYUthMThZM01rVThlV18yN2RCZU5YZE13Y25wQjVYOFVZc3ZsdmV3bVN1amd2TGp0clMxN2RzNXhpQ3RtdktFN08wNXNxeXNxRUNEZnVPTy1PQi1CNnlxSXA2LU0?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVks2alQyUzl0NUNqbU10WU1pX1hBMlFQZlV0V00xcDJkMVYzdFhXeVJjVlEyd3dhQzRvTVp4QkR0N2VsNFVlZ2R3MXJhZ2RTSnc?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15224,7 +15697,7 @@
    "src": "日テレNEWS NNN",
    "auto": true,
    "added": "2026-10-24T13:53+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZGNjZlVhQXplYUw0TkdxVEJsZng2VU1sYkhPOW0xWW4zNWdBMTdBS1VYWGNoZ1dYMDhuTkd0aWg2TTRBUHhEMURGdm1rSEltYk1BeU1nSUxjMk0?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjNYM2NNRl9NN1ZyVVpGQk51S0xyTWM0NGtXYXBIYWpyN2plLVpyeDUtUWVfUmc4TUJSUHBkbi01eXhHQU1vRXp3SE1IV2xab3QxUGUtZDIycFN5NVgtcjdqNkw0Q0xKandOalZGSDVwUmdfS3pZQ0RmX1QzWVhNZNIBhgFBVV95cUxNT2ZGenRFYUlza21oNnczXzRKcUN5SFBBMkFhUVZPWXgzUU1OdEF5ZWMtYUUzbzd5OHBYSFRabDBWWVdmZlVDUFRHcHhZbmJFaUZpQ0dmWUVwM3FiN1gxTmRzSnRfdzVJOVp5ZW9BQWxQWVFVYjBVZHJhZGViS0NlT2FhUkJFQQ?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15312,7 +15785,7 @@
    "src": "Yahoo!ニュース",
    "auto": true,
    "added": "2026-10-24T16:52+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QSzM4S0szLVVVVDVaNG1BTGltV0w3RmkxWWN5U01XeUJtUVZpRHNRbUtDam1hOGp2LU5YUFQ2dmJZNGVJOXRoTzF4bUtlTjVYQnJVbGNaRHVETktwQU1GMU1IcFNSQlhvWHFyQkFYWFVjUkpWcmNaRGxCVzdoTE0?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjNYM2NNRl9NN1ZyVVpGQk51S0xyTWM0NGtXYXBIYWpyN2plLVpyeDUtUWVfUmc4TUJSUHBkbi01eXhHQU1vRXp3SE1IV2xab3QxUGUtZDIycFN5NVgtcjdqNkw0Q0xKandOalZGSDVwUmdfS3pZQ0RmX1QzWVhNZNIBhgFBVV95cUxNT2ZGenRFYUlza21oNnczXzRKcUN5SFBBMkFhUVZPWXgzUU1OdEF5ZWMtYUUzbzd5OHBYSFRabDBWWVdmZlVDUFRHcHhZbmJFaUZpQ0dmWUVwM3FiN1gxTmRzSnRfdzVJOVp5ZW9BQWxQWVFVYjBVZHJhZGViS0NlT2FhUkJFQQ?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -15686,7 +16159,7 @@
    "src": "ライブドアニュース",
    "auto": true,
    "added": "2026-10-26T19:06+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QSzM4S0szLVVVVDVaNG1BTGltV0w3RmkxWWN5U01XeUJtUVZpRHNRbUtDam1hOGp2LU5YUFQ2dmJZNGVJOXRoTzF4bUtlTjVYQnJVbGNaRHVETktwQU1GMU1IcFNSQlhvWHFyQkFYWFVjUkpWcmNaRGxCVzdoTE0?oc=5"
+   "g": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjNYM2NNRl9NN1ZyVVpGQk51S0xyTWM0NGtXYXBIYWpyN2plLVpyeDUtUWVfUmc4TUJSUHBkbi01eXhHQU1vRXp3SE1IV2xab3QxUGUtZDIycFN5NVgtcjdqNkw0Q0xKandOalZGSDVwUmdfS3pZQ0RmX1QzWVhNZNIBhgFBVV95cUxNT2ZGenRFYUlza21oNnczXzRKcUN5SFBBMkFhUVZPWXgzUU1OdEF5ZWMtYUUzbzd5OHBYSFRabDBWWVdmZlVDUFRHcHhZbmJFaUZpQ0dmWUVwM3FiN1gxTmRzSnRfdzVJOVp5ZW9BQWxQWVFVYjBVZHJhZGViS0NlT2FhUkJFQQ?oc=5"
   },
   {
    "date": "2026-10-24",
@@ -16028,479 +16501,6 @@
    "auto": true,
    "added": "2026-10-23T12:57+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mcDU1ZnNxeU9IaXZyUFptWGMwUE5pZlZzMm12YnQ2d1c1UGJ6Q2o1Mm81cUI2NXkwUTg4M1pDNVBsb0F3eXlZNjd1RW1mSnlrTW5TempXU29Hdm5HdmcxTjM3X3BCa0szSjFxWVFfY1RoYk9uZkxYOW9aV2RxZFE?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、2026年内着工は困難か ゼネコン談合事件の影響で 「早くても2027年春」との見方も",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "added": "2026-10-23T12:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区 着工は来年にずれ込む見通し 駅工事を巡る談合事件で工事請け負う建設会社が｢営業停止処分｣へ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5b2p1UWZwejdZMjFDSDJJZE5DV2Y0MjBTOXBZRW1JNFU3RXU0aHpRaGZ0bFNaUzN4TWROc2RUdHBETHdfNGxoSy10VThOdlJ4QUw0TkhlUjFIS09kRm5QVEtPMHA1c1ZFcHZKNGxB?oc=5",
-   "src": "au Webポータル",
-   "auto": true,
-   "added": "2026-10-23T12:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5b2p1UWZwejdZMjFDSDJJZE5DV2Y0MjBTOXBZRW1JNFU3RXU0aHpRaGZ0bFNaUzN4TWROc2RUdHBETHdfNGxoSy10VThOdlJ4QUw0TkhlUjFIS09kRm5QVEtPMHA1c1ZFcHZKNGxB?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "4人用普通個室休止で700系ひかりレールスター廃止か！ 山陽新幹線ダイヤ改正予測(2027年3月予定)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YTjRQZk02R3h1LUttMzlMcmx5WEtYM1JacDZNYk9BaWJOQVhsMXpHaXVHV3dXYkM4YmJWbXJwUjc5NUhiVG90Vm1KSUs0Vm5QaGJrMzY4d0RxTjRzUlVlT3BHUzhYUQ?oc=5",
-   "src": "鉄道時刻表ニュース",
-   "auto": true,
-   "added": "2026-10-23T13:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YTjRQZk02R3h1LUttMzlMcmx5WEtYM1JacDZNYk9BaWJOQVhsMXpHaXVHV3dXYkM4YmJWbXJwUjc5NUhiVG90Vm1KSUs0Vm5QaGJrMzY4d0RxTjRzUlVlT3BHUzhYUQ?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、2026年内着工は困難か ゼネコン談合事件の影響で 「早くても2027年春」との見方も（静岡放送（SBS））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwZUdLYWc2a2dKV2ZoMGhFS2ppYWozWGVuUUFkZjNFbnI3RmJtbUdoMEhraXlQazF3Szl3RDZoUm50OHJ3LXpKSDJiLV9CM2trcGJ4clNXYXBaaXpDbnZ0eGNxZ1Jsc2p5VWk3MDhiRjAyUng5UDk1dXp3LVhmTTQ?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T13:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZkFBQURnV0tUUTZOOUpaclczRG1ITm8xN0JaMEFOWS1hQXdxbWFXaTc0SFZBUkhGd0cxdlpBVEs0d3pNaDhmaFZXaGRrWDJuN3hmZnk2TGFkc18taHlueTk5SjM?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "山陽新幹線 平常運転（10月23日）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrbDF6SGdKUkRxN1NLclhvcm9tSzduOWFoaVJ5SUF3ck05U1Q3emZZeXJGalFhVkdlclNkODMxNWRQZzVhb29obkxzRHFoTFBOQzVpM2Rn?oc=5",
-   "src": "西日本新聞me",
-   "auto": true,
-   "added": "2026-10-23T14:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrbDF6SGdKUkRxN1NLclhvcm9tSzduOWFoaVJ5SUF3ck05U1Q3emZZeXJGalFhVkdlclNkODMxNWRQZzVhb29obkxzRHFoTFBOQzVpM2Rn?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区 着工は来年にずれ込む見通し 駅工事を巡る談合事件で工事請け負う建設会社が「営業停止処分」へ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQkEtckNJNFlxYjIzVkNENmNtaVpreDFFLS1RWlhwanNzRFI4ckFHNDB4d1VBZVY5OFJOckh6NzlYT3R1Mk13Qy10bjFaNDV6MDBHVzRKaWRSUklCRGRtOWtvMVhuNjA5N04wLTdYeDNWclV1Q3YtT0RlNldMQ1U?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T14:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5b2p1UWZwejdZMjFDSDJJZE5DV2Y0MjBTOXBZRW1JNFU3RXU0aHpRaGZ0bFNaUzN4TWROc2RUdHBETHdfNGxoSy10VThOdlJ4QUw0TkhlUjFIS09kRm5QVEtPMHA1c1ZFcHZKNGxB?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "「エクスプレス予約」・「スマートＥＸ」で「ＥＸ 精神障がい者割引」商品を発売します 177.0KB",
-   "summary": "",
-   "url": "https://jr-central.co.jp/news/release/nws000001_00631.html",
-   "src": "JR東海",
-   "auto": true,
-   "added": "2026-10-23T16:12+09:00",
-   "g": "https://jr-central.co.jp/news/release/nws000001_00631.html"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "other",
-   "title": "臨時快速「RIDE ON MAKINOHARA」号の運転について 194.1KB",
-   "summary": "",
-   "url": "https://jr-central.co.jp/news/release/nws000001_00630.html",
-   "src": "JR東海",
-   "auto": true,
-   "added": "2026-10-23T16:12+09:00",
-   "g": "https://jr-central.co.jp/news/release/nws000001_00630.html"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "unko",
-   "title": "京都駅で線路内に人が侵入 新幹線が一時運転見合わせ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEZpYmt0TGVFTGgxNkRzcGpvSmRLR0hGUVJQQVA5OGlPQUJUSGgzcndGZHU1WU0tblFpeW8yRUU5WFg2b0NSeDlkb2xuSmNfU09pSlZSSTBEX3RHU090OUhkWV8wbVlNRUptVjQ5cVE2RmJJb1BRQ0Nxa1dkVjh5b3JadnNQQdIBiwFBVV95cUxQazJCczFwdTNlZ3R6bExKNEpwaGN3UmVXVDkzTkhPSDl2X3czTFpSbjBhRGtibVh2WjFvUXBoMGFUaVFPNm9yX0hheXBQeHlrVVpDU202bUtlbktxSkdidkJpN2lmTVZJM3VLdF8xSmhjWGtFR0h5dFpYcXNacFNyTUZ4QkVPMXYxOGlR?oc=5",
-   "src": "ｄメニューニュース",
-   "auto": true,
-   "added": "2026-10-23T16:12+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wRy1aN1hwb1hEYlFkRTMxRHViVUhvLWI4ejdsR0ZPVHJjQUIwMURsVHpVQlUySWR4VEEwVnMtX1I1bm9vZzEyaF9LTWJWbnBtV2owU2s5WWc3elJveUhRNFVkWEdodDREbDdmRzF5YVVaUVFsU1h5QW52V3dPLWc?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア中央新幹線の開業に期待していますか？",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqR2JrX01fVVlVNUNIVWh3elA4RkpCS3ZyeHdTS1oxQzZnNnBNMVpfWmY1aTFSOWM2RnZIamFwek1yRnZBOUFCYjNQdTE?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T16:12+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqR2JrX01fVVlVNUNIVWh3elA4RkpCS3ZyeHdTS1oxQzZnNnBNMVpfWmY1aTFSOWM2RnZIamFwek1yRnZBOUFCYjNQdTE?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "大成建設・鹿島に120日間の営業停止処分、リニア談合で有罪確定を受け",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZGFmYUthMThZM01rVThlV18yN2RCZU5YZE13Y25wQjVYOFVZc3ZsdmV3bVN1amd2TGp0clMxN2RzNXhpQ3RtdktFN08wNXNxeXNxRUNEZnVPTy1PQi1CNnlxSXA2LU0?oc=5",
-   "src": "日経クロステック",
-   "auto": true,
-   "added": "2026-10-23T16:12+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZGFmYUthMThZM01rVThlV18yN2RCZU5YZE13Y25wQjVYOFVZc3ZsdmV3bVN1amd2TGp0clMxN2RzNXhpQ3RtdktFN08wNXNxeXNxRUNEZnVPTy1PQi1CNnlxSXA2LU0?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、来年３月まで着手できず｜全国のニュース｜Web東奥",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5",
-   "src": "東奥日報社",
-   "auto": true,
-   "added": "2026-10-23T17:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、来年3月まで着手できず",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SM2k2VDFxb3VfT3p3enV2UHpmVFNBallyUjF4TlhQNWp2eGJuWDdFejBuQVBPbzVJMXZvekJzMU9oS0ltdl94M2Y5b1J5TmJVeVliS3ZTRVJCRHlUdnY3MmF4c3pKcHd0cWllZkp1a9IBdEFVX3lxTE5YTVQwc2FzcjhBNTM0SlhqSmltMEhMS0Voc1hlTzFaT0lrS3lZeGd3b3pGckc1TWhtRGhxSmU5WWRib3J6VEdoZWpnZDg5THNWRk0ydmJWVmkxb0w1VzlvTGhqUE9LNGwwWkVOYWE1YUQ3QWlW?oc=5",
-   "src": "Infoseek",
-   "auto": true,
-   "added": "2026-10-23T17:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、来年３月まで着手できず",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZ1l0VGU5UXJzdkRwaTFKbDg4d3RjVF9telVVb0h6Q3FyV2pObWlNbmlmMi03NDBlRkJqNkc3YUxJT3diY2x4QlpMWi1icHRSMHhiZ3VB?oc=5",
-   "src": "徳島新聞デジタル",
-   "auto": true,
-   "added": "2026-10-23T17:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線 米原～名古屋の上下線 運転再開 線路内に人が立ち入り一時運転見合わせ｜Infoseekニュース",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZTliRXc0MWVSZ25nQjYwT1Q1bUppS2ZMd01SOERpSzJPOXl4NndENm01MmVCaDhPeWxKUnVsVElsV0dLeFFQYnp3SHZObnhrVF8zMjZ2d2xteXVa?oc=5",
-   "src": "Infoseek",
-   "auto": true,
-   "added": "2026-10-23T17:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZTliRXc0MWVSZ25nQjYwT1Q1bUppS2ZMd01SOERpSzJPOXl4NndENm01MmVCaDhPeWxKUnVsVElsV0dLeFFQYnp3SHZObnhrVF8zMjZ2d2xteXVa?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線 線路内に人が立ち入り 一部区間で運転見合わせ（CBCテレビ）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zcWRRMXNJZnlnSGMzWHZsa2JjQWlFbm9pMzM3c0s2V3V4YXRzWTBsYUpLMXVZSkRtVEhfSXpIWUhiV2djb2hTclluQURSTUtLc1d0dTNsWUNJYVN5SlZZRkZfekttUGptcnRqa0YzbkRVQ0NqNmx5dkJFVmVYYzA?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T17:00+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZTliRXc0MWVSZ25nQjYwT1Q1bUppS2ZMd01SOERpSzJPOXl4NndENm01MmVCaDhPeWxKUnVsVElsV0dLeFFQYnp3SHZObnhrVF8zMjZ2d2xteXVa?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア「静岡工区」JR東海との契約協議も中断で年内着工は困難か リニア談合で大成建設と鹿島建設に営業停止処分",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YbkRUS0pXSXBfMlY4d3JhM0NYajhURVNmWm56VXNETTYxeldOLWhCa21Jd3dFU2hPaWxkcy1rVkwwak9HTkRsaFVhTWhGV3piY004c1BXMnNfSDRxNjJydkxDbk1ZZWpVVkdwRm5IOS1OajNOU2NnMzVuZUVaNkU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YbkRUS0pXSXBfMlY4d3JhM0NYajhURVNmWm56VXNETTYxeldOLWhCa21Jd3dFU2hPaWxkcy1rVkwwak9HTkRsaFVhTWhGV3piY004c1BXMnNfSDRxNjJydkxDbk1ZZWpVVkdwRm5IOS1OajNOU2NnMzVuZUVaNkU?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、来年３月まで着手できず 大成建設の営業停止命令受けJR東海が見解",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4R281SWVEeW5iY0tqVlV0a2RqM2NqWm1QbWxZZHkzNFpjZmoxNEpXa1JCZTRvWWJNYksycG1HS3cwUXBmZVBOeGppOA?oc=5",
-   "src": "47NEWS",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア3月まで着工できず 静岡工区、大成営業停止",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KcjMwWV91U0ZHMFFyTExZcDlJUG5faWQ4SHliZThONzRWUGw0cl82bTlPNFpfNmREc3k1aHBCSkktS0JPbWcyQTJnWTc2a3k0N05NYjlGbHRoZnplME95THE2eXNaWkJfelozb3U3WdIBdEFVX3lxTFBrNHdFUUNCTGxRRU1Na2NVbFFqVVFtc3ZQWmttZXZaN1JjSVh6NWgxRHA3bXRvTFZOcUVBZEk1TDYxakxYRFAwSi1WUlhJVk9yNHFJeFpUTlM1ekZZaUkzMmN5V3ZYb0g3Y1lUYi05enB6SDlT?oc=5",
-   "src": "Infoseek",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "新幹線グリーン車で“被害”、ダブルヒガシ大東翔生が訴え 「これはヒドいw」「言えばいいんじゃないの？」さまざまな声",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3MWxKbUdXZXlfaDc2Q0NjU0xZaWpSbHZxSFpJamg5TlkwRml4anZpRWh1VmVqQU9KSXpGSFI0SDdVcDI0cEZPQnJEQktDVEVVNTg3dG93?oc=5",
-   "src": "佐賀新聞",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mcDU1ZnNxeU9IaXZyUFptWGMwUE5pZlZzMm12YnQ2d1c1UGJ6Q2o1Mm81cUI2NXkwUTg4M1pDNVBsb0F3eXlZNjd1RW1mSnlrTW5TempXU29Hdm5HdmcxTjM3X3BCa0szSjFxWVFfY1RoYk9uZkxYOW9aV2RxZFE?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "また遅れ？リニア中央新幹線の静岡工区の年内着工が難しい事態に…国交省が大手ゼネコン2社を営業停止処分",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOFVvcnd0elItQ2JLaVhxWl9jd2xXektya21scGswMU55Z0ZYM3hnV1ZrM3JqTU5CVkpHUVl1MlZfR3pZcVRzdUkxZUFuUDlVdVh3anhsbGNjbDdEZGRLYXV1Y0taU2swSHBmU05XeUU3YzFBb0E4bUNDcnNraGM?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOFVvcnd0elItQ2JLaVhxWl9jd2xXektya21scGswMU55Z0ZYM3hnV1ZrM3JqTU5CVkpHUVl1MlZfR3pZcVRzdUkxZUFuUDlVdVh3anhsbGNjbDdEZGRLYXV1Y0taU2swSHBmU05XeUU3YzFBb0E4bUNDcnNraGM?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "【速報】リニア静岡工区、来年3月まで着手できず",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nUThESlc2eDQ3eVIxLU95bTVNaE1wX19RV2ROaUxKSmU3SzZIVk1IOGVtUDhPYXBUYkY5akNhaXdZc2tXV3plcnlvZw?oc=5",
-   "src": "47NEWS",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア３月まで着工できず",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVcmNEdngzcmZfLWcxaG50ZUItMnpHbWtPamRCZGw0OC1sM0dBTDB3OEVhQU13VVNXYjE3NlZmVktzTEhwUWRpSWpWRHRCdGdTc01tRmtPN3dTM3ZBamdNZXpnVjNCQQ?oc=5",
-   "src": "愛媛新聞",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "大成建設と鹿島建設に民間の土木工事120日間の営業停止命令 リニア談合事件受け国土交通省",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ONG1HYjkzcTI3RV9JSGgxX3FxaFNIUjJQYWlNU2hqNE1FdEhYUHF4MVZmRWkwamJIN3dIUjFKTUxmcW9HcmQtekw5UzZDLWFOWk9pckxWTVRmSDcwMG00cGYtMXc2ajlsZ1NpaTJSZWt4dDFRekdvNHVDYmxEb2M?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZGFmYUthMThZM01rVThlV18yN2RCZU5YZE13Y25wQjVYOFVZc3ZsdmV3bVN1amd2TGp0clMxN2RzNXhpQ3RtdktFN08wNXNxeXNxRUNEZnVPTy1PQi1CNnlxSXA2LU0?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "「リニア談合」大成建設と鹿島建設を営業停止処分 土木工事業で120日間 国交省（テレビ朝日系（ANN））",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42X1p4TG5SRnZtbnpXTy05SldTeDhnVWQ2UHY1SmlILU0yV044dFVBaUJvUzNDOGRzQjR0bDJ5NVVZdy1ybk9ZVDVHUFRnZ2xlMlJoUUJJTWhvSEptUFdiYkNLNkUyRVhaWFJvRHZfWHAzc3VVeU5JanhYSDRSWUU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42X1p4TG5SRnZtbnpXTy05SldTeDhnVWQ2UHY1SmlILU0yV044dFVBaUJvUzNDOGRzQjR0bDJ5NVVZdy1ybk9ZVDVHUFRnZ2xlMlJoUUJJTWhvSEptUFdiYkNLNkUyRVhaWFJvRHZfWHAzc3VVeU5JanhYSDRSWUU?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "鹿島・大成建設、民間土木工事で120日間営業停止 リニア談合有罪で",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRG9ka1ZjOWtZc2o1TTk5WU1fRFJzWUFmZkFjV005dDh5S0l2RUREbnNKQnBtYkhpeTRDQlE2dl82VGcwN1pQaDZtZF9vay02QlYyNmlfalMtTEF1ZDkxY19Oa2VyWWN0a3JEYw?oc=5",
-   "src": "日本経済新聞",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42X1p4TG5SRnZtbnpXTy05SldTeDhnVWQ2UHY1SmlILU0yV044dFVBaUJvUzNDOGRzQjR0bDJ5NVVZdy1ybk9ZVDVHUFRnZ2xlMlJoUUJJTWhvSEptUFdiYkNLNkUyRVhaWFJvRHZfWHAzc3VVeU5JanhYSDRSWUU?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア３月まで着工できず 静岡工区、大成営業停止",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tV3R6blFhYnh3dGJxQ2hPNlNmbmx3ZkFSTFdubERUcGNXeDBBdzRmbmR2TXROMzgwMHJIQzRMay1lTHlqQjlIbjBOMnZfOTVzdzN4NlhjVlJZRjBJ?oc=5",
-   "src": "琉球新報デジタル",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア3月まで着工できず 静岡工区、大成営業停止（共同通信）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MeTRJS3dDSzJaTEt1SVVya1JHRTJqUEU1QTZGYm1LUnlPcGpOd29PZmdsTVNyV3hNdXNJQ0YzTVl3MzZYREd6aklRMkVMZlRMOVRWc0JPTEdaNi1NallPN1lrY3RRaEJVb1ZZeEZqU3hOX2l4STMzNkc3YnpNUUU?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T17:57+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区は年内着工せず JR東海、大成建設の営業停止処分で",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJU19oS2taN1pNam1ENmlPRmdnUTdod1htd2NrbS1jb2t5Y21EUkttcExoVzJhYzlTTkJsczAzRjBjUHdWRHZoX2V3YUZmM2VFNEZtc0dwNzNUcjhhYkF4UGh1aTVYN3dFQzQ3LQ?oc=5",
-   "src": "日本経済新聞",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YbkRUS0pXSXBfMlY4d3JhM0NYajhURVNmWm56VXNETTYxeldOLWhCa21Jd3dFU2hPaWxkcy1rVkwwak9HTkRsaFVhTWhGV3piY004c1BXMnNfSDRxNjJydkxDbk1ZZWpVVkdwRm5IOS1OajNOU2NnMzVuZUVaNkU?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、来年３月まで着手できず 大成建設の営業停止処分受けJR東海が見解",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aNnpJU2c5SDBVYWRaS0JYUDZhUUs0OTVZbk9zbFZ5dDQ5bFo5RGQ0ODlrNXUzdkNyOUMzRDJTTlhrNFExWTgwd05FNA?oc=5",
-   "src": "47NEWS",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "【JR東海】今年も「冬の臨時列車」を運行 新幹線は1日平均390本、1月3日は486本で過去最多に",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMzRXV0lzTXhFRFB0Z0kyM3VEeXJnaGdNZ082VEZpbXU0MloycDA1RmxhMHJkbVpNQ2JQZkk0UGJPTUNhaFU3S1Uyd1gzeTZrTm5rcWVULWd2YnBfeUxBemNucGhQTS10aDJXTnJn?oc=5",
-   "src": "au Webポータル",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMzRXV0lzTXhFRFB0Z0kyM3VEeXJnaGdNZ082VEZpbXU0MloycDA1RmxhMHJkbVpNQ2JQZkk0UGJPTUNhaFU3S1Uyd1gzeTZrTm5rcWVULWd2YnBfeUxBemNucGhQTS10aDJXTnJn?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア中央新幹線の静岡工区 年内の着工は困難に 大成建設の談合事件が影響 着工は早くて来年春以降か 静岡",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wZWd3VFVHN0d6RDM5aGFMenNlYm9OQ0dVbjRjalY2Qk1vSjk4SVRkZlRKaUZubTlVUmxJalgtZzdUWXEtcHR4Y3c4WWc2UQ?oc=5",
-   "src": "FNNプライムオンライン",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wZWd3VFVHN0d6RDM5aGFMenNlYm9OQ0dVbjRjalY2Qk1vSjk4SVRkZlRKaUZubTlVUmxJalgtZzdUWXEtcHR4Y3c4WWc2UQ?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "unko",
-   "title": "【速報】東海道新幹線 米原～名古屋の上下線 運転再開 線路内に人が立ち入り一時運転見合わせ",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85NDVYeG5yWTVLY18yR3lPU2xOTjJ6WWVrWk1Ob3pucVRZTHhsUjVqaVFyVEtMUlFybE1Id1RxZDhoamtMLXVwYjl1Q0s5RGlPNGpROF9BQ1MtMU1Wb2xSR293VWhwVmc?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZTliRXc0MWVSZ25nQjYwT1Q1bUppS2ZMd01SOERpSzJPOXl4NndENm01MmVCaDhPeWxKUnVsVElsV0dLeFFQYnp3SHZObnhrVF8zMjZ2d2xteXVa?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア談合めぐり 大成建設と鹿島建設を営業停止処分 国交省",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MWkxpWG5RMkhmbUNta3V3dFNxdjAxUENuZXpXbHBBMEVpVTM2Sk5CSGNCSXhMTFVuTFdVc3pBWkRCRGpQOG1ZZWtWaFg5bndDYWloTXVVd3EyMmczMU40?oc=5",
-   "src": "NHKニュース",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42X1p4TG5SRnZtbnpXTy05SldTeDhnVWQ2UHY1SmlILU0yV044dFVBaUJvUzNDOGRzQjR0bDJ5NVVZdy1ybk9ZVDVHUFRnZ2xlMlJoUUJJTWhvSEptUFdiYkNLNkUyRVhaWFJvRHZfWHAzc3VVeU5JanhYSDRSWUU?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区、2027年3月6日までトンネル掘削に着手できず 大成建設への営業停止が影響",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1keTMtczFNd20xd3NZcWdWNGFLaTA2V0VRQXI0UmZ4V0k5RFBiajhpbW51X2x3Z2pGTmlMZWdlMGhNZVBoR3lycGxIMDI5MVlpRk5YWE54UUpVb3hpbHBv?oc=5",
-   "src": "NOVAIST",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOS1pxY08xUk5CZVctckNaS1g2LXVQRDQ0TTBkcS1uQ3lyUFRzTUh5UFFvT2Y1a1NZSmJYMXphRTBzZGpXYjhtSUVpSHJCb0RHQWJwdXluRmI?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "「リニア談合」大成建設と鹿島建設を営業停止処分 土木工事業で120日間 国交省",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jVzV2T3FSZlVzWjl6TVBJWWVybDdkQmhJT1laWFlHbHR6cEpkdlZLenJReTFfTWFMdXR6eE1QUkVxQk1KVFZ6RHJFUVU5N1RnMzdjYmhTOFoyejRYRU9DWEx0ZzdtZ3l2RTZPdHVyZElDUQ?oc=5",
-   "src": "テレ朝NEWS",
-   "auto": true,
-   "added": "2026-10-23T18:56+09:00",
-   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42X1p4TG5SRnZtbnpXTy05SldTeDhnVWQ2UHY1SmlILU0yV044dFVBaUJvUzNDOGRzQjR0bDJ5NVVZdy1ybk9ZVDVHUFRnZ2xlMlJoUUJJTWhvSEptUFdiYkNLNkUyRVhaWFJvRHZfWHAzc3VVeU5JanhYSDRSWUU?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "ドクターイエロー(Ｔ４編成)と東海道新幹線Ｎ７００Ａの車体アルミをスマートフォンスタンドに 内容の一部訂正について 364.9KB",
-   "summary": "",
-   "url": "https://jr-central.co.jp/news/release/nws000001_00632.html",
-   "src": "JR東海",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://jr-central.co.jp/news/release/nws000001_00632.html"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "【JR東海】ことしも「冬の臨時列車」を運行 新幹線は1日平均390本、1月3日は486本で過去最多に（中京テレビＮＥＷＳ）",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rUkZ4b1NiYjA4N3BaMFcwYnhJUWxNVUhOdUtZa2E0QXdJMGlSd25ySlhKX2dpTE9GaEl5SnVhRVB6NnhMZXpuSkRnc05raVRRYUpycGFIanVjYUJnNXRGWWxvVkNDaEtCaENVY2ZGOUhOcDBIVVlEZV9YcVM5dlk?oc=5",
-   "src": "Yahoo!ニュース",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMzRXV0lzTXhFRFB0Z0kyM3VEeXJnaGdNZ082VEZpbXU0MloycDA1RmxhMHJkbVpNQ2JQZkk0UGJPTUNhaFU3S1Uyd1gzeTZrTm5rcWVULWd2YnBfeUxBemNucGhQTS10aDJXTnJn?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "【JR東海（2026/10/23 一部訂正）】ドクターイエロー(Ｔ４編成)と東海道新幹線Ｎ７００系の車体アルミをスマートフォンスタンドに",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVi1lMWVEUTBUUVExRWxEajZ0b0ZGdEtVZF9Ocnc1alFTcHFNT3FuVG1XdHBhdThYYVhWZ1lvZXQzQk1HRXFHenpLMlF0NFM4V3phZmxwTXEta19SQV95LWJ3b2wwN1F3bGc?oc=5",
-   "src": "PR TIMES",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://jr-central.co.jp/news/release/nws000001_00632.html"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア静岡工区 少なくとも2027年3月以降の着工に リニアの談合事件で施工会社が営業停止処分",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZGNjZlVhQXplYUw0TkdxVEJsZng2VU1sYkhPOW0xWW4zNWdBMTdBS1VYWGNoZ1dYMDhuTkd0aWg2TTRBUHhEMURGdm1rSEltYk1BeU1nSUxjMk0?oc=5",
-   "src": "愛知のニュース",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZGNjZlVhQXplYUw0TkdxVEJsZng2VU1sYkhPOW0xWW4zNWdBMTdBS1VYWGNoZ1dYMDhuTkd0aWg2TTRBUHhEMURGdm1rSEltYk1BeU1nSUxjMk0?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "shinkansen",
-   "title": "東海道新幹線に人が立ち入り 上下線で一時運転手見合わせ 岐阜羽島駅、前日に新富士駅で",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmY2RVSFlsM1AtQVBTSjhsYkVwVkp5Z0FYbWxTamlkQXdSSjgzQld1NFFwTWRoLXpobXh5UUJoQkJIRzQ2ZmhiX2ZtSXVpZDFTNzBFMVhCT2U2OHdaY2djOVR2LTU2bGhXcGcwQ0Q3clI3X3ZTSEE?oc=5",
-   "src": "産経ニュース",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmY2RVSFlsM1AtQVBTSjhsYkVwVkp5Z0FYbWxTamlkQXdSSjgzQld1NFFwTWRoLXpobXh5UUJoQkJIRzQ2ZmhiX2ZtSXVpZDFTNzBFMVhCT2U2OHdaY2djOVR2LTU2bGhXcGcwQ0Q3clI3X3ZTSEE?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "小学生がリニアトンネル工事現場を見学 岐阜 中津川",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45NlNfSHpkOGdGYzItR3FINTFCeGtXbktvLXpINDhtV2laVDM1a3E1VWpFSmVOZDk5X1RwR00wZDNJTUhwd2UzMFFJQU9uT3NRZklDdXVDSTRUZE5Dd3cw?oc=5",
-   "src": "NHKニュース",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45NlNfSHpkOGdGYzItR3FINTFCeGtXbktvLXpINDhtV2laVDM1a3E1VWpFSmVOZDk5X1RwR00wZDNJTUhwd2UzMFFJQU9uT3NRZklDdXVDSTRUZE5Dd3cw?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "cat": "linear",
-   "title": "リニア談合めぐり大成建設と鹿島建設に120日間の営業停止処分 独禁法違反の罪で今年9月に有罪確定受け 国交省",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94Z0JFZy1ldjJpanBZNmdfZklrMHM1UkpSYWNYWm11aXJ6UnZLUGRNa0RTaEhpREExTGlUenJNRnhLMExtNERhQTQ3RFAtTmg3WUY0Q2xWQkItSmVyMUdha21vX1RPNlpBT3owR2xkRjdJLTNo?oc=5",
-   "src": "TBS NEWS DIG",
-   "auto": true,
-   "added": "2026-10-23T19:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZGFmYUthMThZM01rVThlV18yN2RCZU5YZE13Y25wQjVYOFVZc3ZsdmV3bVN1amd2TGp0clMxN2RzNXhpQ3RtdktFN08wNXNxeXNxRUNEZnVPTy1PQi1CNnlxSXA2LU0?oc=5"
   },
   {
    "date": "2026-10-02",
