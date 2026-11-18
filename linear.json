@@ -116,9 +116,9 @@
    "src": "https://www.pref.gifu.lg.jp/page/16609.html",
    "status_date": "2026-08-27",
    "latest": {
-    "date": "2026-11-17",
-    "title": "リニア工事の発生土から六価クロム検出 基準の1.4倍、岐阜県中津川市",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rNG1IajJJc0toZFdyd1BJR21zcXJZY3M0U0kwZjNva3U3RHUxVlliaEIxRzdBY2FXYmQ0djBTMUZRVVFVd3JuMjRHMA?oc=5"
+    "date": "2026-11-19",
+    "title": "周辺開発進む中「残念」 中津川の関係者 早い公表期待 リニア",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVVA1NEJvVkduOWJfVTFwYW1McGdGWFppbk5XNnZFXzNKRVVvanVjbnNtVXlLbERaek1qQ3U0Z3N1RXVKVl9nb0VGakZnblVkamFZWlJn?oc=5"
    },
    "km": 219.6
   },
@@ -136,9 +136,9 @@
    "src": "https://linear-chuo-shinkansen.jr-central.co.jp/sp/plan/eki/",
    "status_date": "2026-11-18",
    "latest": {
-    "date": "2026-11-18",
-    "title": "リニア開業時期の年内公表をJR東海が断念 工事請け負う大成建設の営業停止や名古屋駅建設工事の遅れが影響（東海テレビ）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53eldnOW1iT2xLSm14WnB0UzYwcVVmaEhGYVFReHdueWZnVXdfaE1lS0JfVDdkVGJkN1M2MFlLNWgzTkNJTDF0blY4VV9adTd5a1RLak9UVUNxU0l6YllPcWhsMDk3UDk3NEEwcm5lM0l2QkVhRkxhRmR0WlVWTTA?oc=5"
+    "date": "2026-11-19",
+    "title": "リニア名古屋駅、大成建設JVが受注 工事完了は最大3年半遅延",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05T0lSUHlyaU9vZVFiZnJOZnBudWxvRVZfaGJfTERKS1lrbjB3SFI1M29KODZGZ2JVX3ZKdkNRZTFvbU1mekFoOWVsSHVVS1JySXNwVkxHNjVYUUZuUUR5NHVBd3ZtLTA?oc=5"
    },
    "km": 285.6,
    "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53eldnOW1iT2xLSm14WnB0UzYwcVVmaEhGYVFReHdueWZnVXdfaE1lS0JfVDdkVGJkN1M2MFlLNWgzTkNJTDF0blY4VV9adTd5a1RLak9UVUNxU0l6YllPcWhsMDk3UDk3NEEwcm5lM0l2QkVhRkxhRmR0WlVWTTA?oc=5"
@@ -262,11 +262,7 @@
    "note": "相模原市緑区の山の下を通るトンネル。掘ってみると崩れやすい地盤が想定より多く、2026年2月に工期を約5年延ばすと発表された（開業時期への影響はないとしている）。",
    "src": "https://novaist.jp/articles/maglev-tunnel-delay/",
    "status_date": "2026-10-24",
-   "latest": {
-    "date": "2026-10-25",
-    "title": "津久井商工会 リニアの工事現場を視察 旅客線化へ機運の高める〈相模原市中央区・相模原市緑区〉",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzNNU2xyVUJMTXNyU0hmNWZtTk1kTjVxTTR4VVU4alFHTnFtOGpNN2FwMERPVkVxNElkclZlYlg5d3QzVERkMF9YSWQ5ajlEaWYwc1dHb1pHZlFWejBYVnJ4QXN4RFZQV3dpa2RqeVhRemdBYWlkNFBCY2s4RzAxR9IBgAFBVV95cUxQNzNNU2xyVUJMTXNyU0hmNWZtTk1kTjVxTTR4VVU4alFHTnFtOGpNN2FwMERPVkVxNElkclZlYlg5d3QzVERkMF9YSWQ5ajlEaWYwc1dHb1pHZlFWejBYVnJ4QXN4RFZQV3dpa2RqeVhRemdBYWlkNFBCY2s4RzAxRw?oc=5"
-   }
+   "latest": null
   },
   {
    "name": "相模川橋りょう",
@@ -1104,5 +1100,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-18T23:18+09:00"
+ "checked": "2026-11-19T07:09+09:00"
 }
