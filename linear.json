@@ -493,9 +493,9 @@
    "src": "https://www.nagoyatv.com/news/?id=036212",
    "status_date": "2026-11-18",
    "latest": {
-    "date": "2026-11-18",
-    "title": "リニア中央新幹線の開業時期 JR東海は年内発表を断念 静岡工区着工にメドも談合発覚による大成建設への営業停止など響く",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQU84ZEhqenNlaUloMkZTYU5FUktSTzNpWVZrT2thV2VrYXNLVkpQbHNLckxMTVBqNV9ET3gwQU1CR09OZnV0ZUd0aG5WX2Y2OU8tN3pzd3BheU9fbkNtMG50LTBTLTBHWTg0eGJhMEZDQVBiU2JNWGRyTXdyU1E?oc=5"
+    "date": "2026-11-20",
+    "title": "【リニア】井林国交大臣「１日も早く見通しを示すことが重要」来年春以降に着工がずれ込む静岡工区を含む品川‐名古屋間の開業時期について",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aZE54ZGxQSjFGS3VxVXZvX3NqTG9takNjdGlKc05zaU9PanpvMEgwYlV6aHRKcVlXQ3hlVWpIdmZoaHo3ME9Vekt3TnR0SmNqMmtEQ1BGcWltNUg3T2w4Vm4wTXVuQWlmWnEwc19B?oc=5"
    },
    "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQU84ZEhqenNlaUloMkZTYU5FUktSTzNpWVZrT2thV2VrYXNLVkpQbHNLckxMTVBqNV9ET3gwQU1CR09OZnV0ZUd0aG5WX2Y2OU8tN3pzd3BheU9fbkNtMG50LTBTLTBHWTg0eGJhMEZDQVBiU2JNWGRyTXdyU1E?oc=5",
    "pref": "静岡",
@@ -552,7 +552,7 @@
     167.8
    ],
    "status": "wait",
-   "label": "工事停止（10/10報道）",
+   "label": "工事停止（11/20報道）",
    "kw": [
     "青木川",
     "大鹿",
@@ -560,9 +560,13 @@
    ],
    "note": "大鹿村の約3.6km。2026年9月に可燃性ガスが検知され、掘削が止まっている。換気設備の部品の調達が遅れ、再開は年明けの見込み。",
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
-   "status_date": "2026-10-10",
-   "latest": null,
-   "status_src": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RXZvRm53WWlHYnA4bkJETGlmWmtHU0wyRVh3bi1McHVWWGhCbzBRa3NZdVQ5R2VzTF9wLUZ2clhJOGh0cE5vTHR2UnhmNjBwaURKakswT2xhUXRMOUFmcWJTQmZnd0VrMXg5ZFluVFNzVnd2U2tGZVR0clhXcDQ?oc=5"
+   "status_date": "2026-11-20",
+   "latest": {
+    "date": "2026-11-20",
+    "title": "可燃性ガス検知で中断 リニア工事の検証や情報開示求め大鹿村に要望書",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aX0RhcHdUeTA5eXpSMURPLWFoQVBnalVwc1h2bVkxOVRFMmhsM2dWWWZHVWRSSEJiU1d6NEVnMHhNNDUwYXp5NHJ5S21uSWRBQ1RlVnA2aFBZX0FDZFFrV2ZNb3I2VkYzN18xbjBYcVM?oc=5"
+   },
+   "status_src": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aX0RhcHdUeTA5eXpSMURPLWFoQVBnalVwc1h2bVkxOVRFMmhsM2dWWWZHVWRSSEJiU1d6NEVnMHhNNDUwYXp5NHJ5S21uSWRBQ1RlVnA2aFBZX0FDZFFrV2ZNb3I2VkYzN18xbjBYcVM?oc=5"
   },
   {
    "name": "伊那山地トンネル（坂島工区）",
@@ -1104,5 +1108,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-20T12:33+09:00"
+ "checked": "2026-11-20T22:14+09:00"
 }
