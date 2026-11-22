@@ -199,8 +199,8 @@
     21.5,
     25.7
    ],
-   "status": "build",
-   "label": "約3.2km掘進",
+   "status": "wait",
+   "label": "工事停止（11/22報道）",
    "kw": [
     "東百合丘",
     "片平",
@@ -208,12 +208,13 @@
    ],
    "note": "川崎市麻生区の東百合丘非常口から片平非常口までの約4.2km。シールドマシンは約3.2km進み、片平6丁目付近にいる（10/19時点）。",
    "src": "https://company.jr-central.co.jp/chuoshinkansen/urban_shield-tunnel/progress/_pdf/000046072.pdf",
-   "status_date": "2026-10-24",
+   "status_date": "2026-11-22",
    "latest": {
-    "date": "2026-11-21",
-    "title": "リニア工事現場で川の水噴出 川崎市麻生区 JR東海、因果関係調査 [神奈川県]",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVTJWQTJzOUxIRTk5WlpVazB6a25vVVJFcDEzUFhVdzRfY2JaaXVXRnQtTFdQbjRfbnd5Wkk3c1VyamY3NWY3OWJIRUcyOWJNS1ktNDFWR1MtN2NBZFRTdDE3dG8wT1U?oc=5"
-   }
+    "date": "2026-11-22",
+    "title": "リニア掘削現場近く 水噴出 川崎・片平川 ＪＲ東海 作業中断",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sU1NhMDV0cEhMeXNSVzRVWl9BTVJoa0lDVWRHUVdYVFFVRy1vdm1zVTkycVd1STktQ2J0d3ZDaEYwaDc0SEljejE5bjNucW9yVGtHS0JPTTMwbFNKRFBuempKRQ?oc=5"
+   },
+   "status_src": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sU1NhMDV0cEhMeXNSVzRVWl9BTVJoa0lDVWRHUVdYVFFVRy1vdm1zVTkycVd1STktQ2J0d3ZDaEYwaDc0SEljejE5bjNucW9yVGtHS0JPTTMwbFNKRFBuempKRQ?oc=5"
   },
   {
    "name": "第一首都圏トンネル（小野路工区）",
@@ -1108,5 +1109,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-22T04:30+09:00"
+ "checked": "2026-11-22T09:29+09:00"
 }
