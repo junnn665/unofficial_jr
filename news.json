@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T17:13+09:00",
- "checked": "2026-11-22T17:13+09:00",
+ "updated": "2026-11-23T01:27+09:00",
+ "checked": "2026-11-23T01:27+09:00",
  "items": [
   {
    "date": "2026-12-18",
@@ -166,6 +166,50 @@
    "auto": true,
    "added": "2026-11-22T17:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Oa0ZsSm8xZG5xbko4R1hROUd1Vkt5ZkFwYm16SnFUb21udFdjckNWbDN3TGY3WTdkdjhNREhHY0V6X0NBSlc1S3dQTlVkX0hDbzExX05R?oc=5"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "shinkansen",
+   "title": "JR東海とLIXIL、東海道新幹線の廃車アルミをビル建材に",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jdWNlUlFuTXdNZFZVbVVsVEY3NE5zemV3RWxHNDRLaGtoNGZiMV9aLVIxcUxadjN3YmZaTVlIZWxxZkZ2X1E4MmhKUFRHVlhaU2hXek92Y3pQYW5MS05VODNCONIBaEFVX3lxTE5fcVVqdVdhbVFzMmRqSjBaZTBNTDd5RDRBcWJGT0FfVTByc0JMWFRzUU00amhjRndINXNZUmkzRHo2VE9tNTFZenlrV3VNZnlDbjBfZkZKSWRjNTUtaWFCTDBDckJYU1lw?oc=5",
+   "src": "財経新聞",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jdWNlUlFuTXdNZFZVbVVsVEY3NE5zemV3RWxHNDRLaGtoNGZiMV9aLVIxcUxadjN3YmZaTVlIZWxxZkZ2X1E4MmhKUFRHVlhaU2hXek92Y3pQYW5MS05VODNCONIBaEFVX3lxTE5fcVVqdVdhbVFzMmRqSjBaZTBNTDd5RDRBcWJGT0FfVTByc0JMWFRzUU00amhjRndINXNZUmkzRHo2VE9tNTFZenlrV3VNZnlDbjBfZkZKSWRjNTUtaWFCTDBDckJYU1lw?oc=5"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "event",
+   "title": "TOICAのひよことイコちゃん、JR東海・西日本が24日にコラボグッズ発売",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zU1lPUkZLOG1sMzFSMVViTUc4OU9aR3BaU21RY0FIaTVjUXdIVXJaZllnWG9jSm9MZWdjRC1uQ2pkMFYzZlNKa3JqbmhiVzg5NnVvaGJtYUdmN1k2cVF2YndNb9IBaEFVX3lxTFBfSUtOVTVrWjdVUEJxNEY4Tk5Vbmk3TERyN3haZjhqR0xjRjNlQUwyQnk3aFh6UmdhQzlKaHliODF4bFZBZUlBamJfN3J1N1ZGRjhIdTlTVFdvcDl0V2pqNTBJVzFYellf?oc=5",
+   "src": "財経新聞",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://jr-central.co.jp/news/release/nws000001_00656.html"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "shinkansen",
+   "title": "JR東日本初の「夜行新幹線」が登場！ 東京駅を夜出発、翌朝に秋田駅へ到着する「アマネセルこまち」とは？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EcTlzN3NNc2dsUmd6VkZRMnRuZmNKZTRuN1ZGTlB4Z2tGb0wxV2pPaU1iZUhOdXNuZzBGdEhZdzB3UWZTd05yRWNJT2pYSkF0QmUtcDBZcUNvWC1rRUprSlI4MklidUM3Q21walFR?oc=5",
+   "src": "au Webポータル",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EcTlzN3NNc2dsUmd6VkZRMnRuZmNKZTRuN1ZGTlB4Z2tGb0wxV2pPaU1iZUhOdXNuZzBGdEhZdzB3UWZTd05yRWNJT2pYSkF0QmUtcDBZcUNvWC1rRUprSlI4MklidUM3Q21walFR?oc=5"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "other",
+   "title": "春高バレー岐阜県代表決定戦、男女ともに連覇！ 男子は公立校同士がフルセットの接戦、女子は大逆転で頂点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRHJ5M0hmdDlaOVdvYXVRMjNjNXVZQUgteHBxNjZFZEpOczl3TWtvOGdyWnBCdWpPbGlZejl1eWFJY21FZnptR2JJSVcxM0IwYVBsV1d3?oc=5",
+   "src": "岐阜新聞デジタル",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRHJ5M0hmdDlaOVdvYXVRMjNjNXVZQUgteHBxNjZFZEpOczl3TWtvOGdyWnBCdWpPbGlZejl1eWFJY21FZnptR2JJSVcxM0IwYVBsV1d3?oc=5"
   },
   {
    "date": "2026-11-21",
@@ -441,6 +485,28 @@
    "auto": true,
    "added": "2026-11-22T17:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XR3lnU0l0QWxWRXpGd2FvY3JuOFZDb2M1SzJEQ0gyS3lxYTlXVm5LZFRRNGZ0aDBmNENFSEF2ZEZUdDN5RzM4VklvMDFkNUdzYzFsVWJZcXE4V25yZ1h6Nk95VEIwRXlicWdGeEVySy1vUEZqSFNaUWZYTjVjNkE?oc=5"
+  },
+  {
+   "date": "2026-11-21",
+   "cat": "shinkansen",
+   "title": "のぞみは12月25日から全席指定に。東京〜新大阪の指定席は12月30日で15120円、前日に取り消すと2080円差し引かれる",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETzlFUXpZTUYxUWt2dzl4SWJ1M1Myc3RpYjNwZEstei1WS185VmhsUkR6SkoyN003UkhicWJGMGYzWHBVb1YyWGNfcmc1MWdlbERJdE1DUk8yRWxKVU1TSlpZZUR6Qmw3dlJFTHl6bzF2bVBKSGdyTXRSWk0yMFU?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETzlFUXpZTUYxUWt2dzl4SWJ1M1Myc3RpYjNwZEstei1WS185VmhsUkR6SkoyN003UkhicWJGMGYzWHBVb1YyWGNfcmc1MWdlbERJdE1DUk8yRWxKVU1TSlpZZUR6Qmw3dlJFTHl6bzF2bVBKSGdyTXRSWk0yMFU?oc=5"
+  },
+  {
+   "date": "2026-11-21",
+   "cat": "other",
+   "title": "ドクターイエロー、引退後広島へ ＪＲ西発表、来年９月一般公開",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mdGhaWDVqZmViSHpOV1g5WDJla2VMekxzY2JCeEtpNFpUbms1RGpRRGJlTjd0b3RMMnFIZ3RYU2hNbk5WSnY3cV9pU29uelVPQ1Jkc1JtaVBQTXBoNmFtSkFBVndTNnM?oc=5",
+   "src": "山陽新聞",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mdGhaWDVqZmViSHpOV1g5WDJla2VMekxzY2JCeEtpNFpUbms1RGpRRGJlTjd0b3RMMnFIZ3RYU2hNbk5WSnY3cV9pU29uelVPQ1Jkc1JtaVBQTXBoNmFtSkFBVndTNnM?oc=5"
   },
   {
    "date": "2026-11-20",
@@ -1431,6 +1497,17 @@
    "auto": true,
    "added": "2026-11-22T17:13+09:00",
    "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jLU1wNllYYm05cWNjSmx3SHZtekpHaUJNRkpFaUIyQzExWjBLTGJTNG1IeWlvWVdZOGhFYUswbmYwd0pETU5IcWEtRF9aWUZZelZoMEpB?oc=5"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "shinkansen",
+   "title": "新幹線の座席の「水ぬれ」どう対処？ 清掃スタッフの“15秒の早技”に「いつもありがとう」（オトナンサー）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02Z3hwdUFCYUNMUWFTYmJlVjAtRk5WSUJTNjRiTkNkME9QdHcycFE3YlAzSmppRUU5Smo1NWFBc2VJM0tmb2I1UFgxcWFkV1pKa002Zk11SnFFbmN6T1NVcjUxc0djSWNmektkNDlUUXY3VUJELTdiTnZfdnB4RnM?oc=5",
+   "src": "Yahoo!ニュース",
+   "auto": true,
+   "added": "2026-11-23T01:27+09:00",
+   "g": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHaGpHSkNiQ1duaXB6T09mMVhNRTNjLVBybkcxdTJjTHVuTFNlNFJTenIwM0Q0UkdpRENFMGt5am1sbUkxSmxmRUI5YlJTb3RPUHhLY09faFlRTGtrbDc1VDJpTWh0ZktXNURmLXlB?oc=5"
   },
   {
    "date": "2026-11-19",
@@ -16424,83 +16501,6 @@
    "auto": true,
    "added": "2026-10-29T13:07+09:00",
    "g": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUxqSHcwWGtmcDZYZ0ZQdERSZjFKWHNHQjlBT3ZoZDZDamE3ajJidDRYdk5scVRUMnJpZE9OSVhmVk00RnBLSXNDYnZoak56WllfQlY4RmctMVpnbEhDVl9RWldWRl8xblZ3cGxYdzV4WWluSVhzb1JuRVRmdTVpU2hRUmhoY29JZ1lnLVctWTB0UkYzRzNLRjZnaHBTT3BpSDAzaENKX3RzUDV5aU9aWlRMOA?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "kaisha",
-   "title": "【本日の注目決算】日立、アドバンテスト、ＪＲ東海―10月28日決算星取表",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3M0owTXl3VlFCd0hGaVYtOTJaVUVfMzBEcHh6YWdtU0Jjb3lrYUc5NnRqUHR0dUp5MFhaeDdYX0xnR0xyVE9ZZlA1LVB4Nmw5UmJ0WnFn?oc=5",
-   "src": "QUICK Money World",
-   "auto": true,
-   "added": "2026-10-29T19:11+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3M0owTXl3VlFCd0hGaVYtOTJaVUVfMzBEcHh6YWdtU0Jjb3lrYUc5NnRqUHR0dUp5MFhaeDdYX0xnR0xyVE9ZZlA1LVB4Nmw5UmJ0WnFn?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "eki",
-   "title": "高松駅で全国約70種類の駅弁が集結！「駅弁大会」10月31日・11月1日開催 ミャクミャクひっぱりだこ飯も",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KcWhjQmxZZXZUODdWU1ozWUE3WXhjUUg5eUt2Y3NrSGNpLVBHbnpIM0h6c0JUa1pmOXowaHctallOYklzaUFVak9YUXhXZw?oc=5",
-   "src": "レイルラボ",
-   "auto": true,
-   "added": "2026-10-29T22:25+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KcWhjQmxZZXZUODdWU1ozWUE3WXhjUUg5eUt2Y3NrSGNpLVBHbnpIM0h6c0JUa1pmOXowaHctallOYklzaUFVak9YUXhXZw?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "kaisha",
-   "title": "リニア開業時期、年内公表 ＪＲ東海社長、方針維持｜四国新聞WEB朝刊",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPOTZVbHZqSXR3aENLNnpVZTI2TjFfejhEb01lX1pOd1BPUkpMUl9jd2lyVTE2TEZ2Nk5sdmV0cnB3SVRad0JZQzFsWUpqc0tIQ2JzYzNHZGZNU3ltMFp6UmxYNDEtTGdiVkt3N2dZRFRpMTFMWThVY1ZjdW7SAXxBVV95cUxQTzk2VWx2akl0d2hDSzZ6VWUyNk4xX3o4RG9NZV9aTndQT1JKTFJfY3dpclUxNkxGdjZObHZldHJwd0lUWndCWUMxbFlKanNLSENic2MzR2RmTVN5bTBaelJsWDQxLUxnYlZLdzdnWURUaTExTFk4VWNWY3Vu?oc=5",
-   "src": "四国新聞",
-   "auto": true,
-   "added": "2026-10-30T02:13+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "zairai",
-   "title": "飯田線を今春退役の213系車両、富山地方鉄道へ 本年度から順次運用：ニュース",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFJyNTVUOHVhZldzZVp3b2tmeXA2LUhTX0FxbERQdnRPYnRHR240MGhPcVNCQlRZUGQ3cHVxeDZMUVlaZFllNWprN0NTN3pHWUliM0ttM2dIeHNVOUlQZWwxUmo?oc=5",
-   "src": "中日BIZナビ",
-   "auto": true,
-   "added": "2026-10-30T07:02+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFJyNTVUOHVhZldzZVp3b2tmeXA2LUhTX0FxbERQdnRPYnRHR240MGhPcVNCQlRZUGQ3cHVxeDZMUVlaZFllNWprN0NTN3pHWUliM0ttM2dIeHNVOUlQZWwxUmo?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "kaisha",
-   "title": "AI時代の職務変革に備える、人事リーダーのための15の戦略",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHcHVPODd2U2N0VFFpTnFFVXFQX0s2VUNVYlpiaXVpc3V2ZUMyRzZmck5kaS1GV09NNVU4VzhmSUd4OXo3eFFJTHQ2alNtaWtnOWRHd1dYdUhKQQ?oc=5",
-   "src": "Forbes JAPAN",
-   "auto": true,
-   "added": "2026-10-30T08:55+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHcHVPODd2U2N0VFFpTnFFVXFQX0s2VUNVYlpiaXVpc3V2ZUMyRzZmck5kaS1GV09NNVU4VzhmSUd4OXo3eFFJTHQ2alNtaWtnOWRHd1dYdUhKQQ?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "kaisha",
-   "title": "ヒューリックが後場プラス圏に再浮上、２６年１２月期業績予想及び配当予想を上方修正",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpNjRzTXJZYU5BbXF2aU9BckJrU1lhamVSRlJDblc5MEc3QWNHbWg2SXctdlNsOGFMMUw3bHZadzN3R0Uya2c?oc=5",
-   "src": "みんかぶ",
-   "auto": true,
-   "added": "2026-10-30T16:26+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpNjRzTXJZYU5BbXF2aU9BckJrU1lhamVSRlJDblc5MEc3QWNHbWg2SXctdlNsOGFMMUw3bHZadzN3R0Uya2c?oc=5"
-  },
-  {
-   "date": "2026-10-28",
-   "cat": "kaisha",
-   "title": "リニア開業時期「年内公表」 ＪＲ東海社長、方針維持｜全国のニュース｜Web東奥",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oN0p1empiY2dLVkFYYXF1Sy1SeFdGZVZ6dXBiTC1Dc3NERVJ5djhKdk9SUTBaazBzbWhTd1BPdGhGYTRyLW90dmtSeEswYU0yYlhCeG1Lazg?oc=5",
-   "src": "東奥日報社",
-   "auto": true,
-   "added": "2026-10-31T08:54+09:00",
-   "g": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwT3lHVWdkUGdVNGVRZzIwZTREWFlEYzhJc3NwNXVNU1dtQ2tQTnFwdHpwczN6cUV1bVBYdDUxNFFPd3piMkp4aTd1dW1zdUJnNzREV0UwS0VYLTA?oc=5"
   },
   {
    "date": "2026-10-02",
