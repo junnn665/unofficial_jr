@@ -341,7 +341,11 @@
    "note": "山梨県の上野原市〜笛吹市を結ぶ約42.8km。1997年から走行試験を続け、2013年に全線が完成。L0系改良型試験車で試験が続いており、将来はそのまま営業線の一部になる。",
    "src": "https://tetsudo-ch.com/13022312.html",
    "status_date": "2013-08-29",
-   "latest": null,
+   "latest": {
+    "date": "2026-11-23",
+    "title": "リニア実験線に改札機",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpMGhhZEFhMVRxQUUxa19MOXBNUnRrbU9DTTZLZHlxenZtS1BleTFEb2t6YTBfRlE0bFlhNTJRX2xKbUxCZ0g3Mjg2ZWR5UjNoeUtJWGdSY2hhUElL?oc=5"
+   },
    "pref": "山梨",
    "short": "山梨実験線",
    "km": [
@@ -567,9 +571,9 @@
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
    "status_date": "2026-11-20",
    "latest": {
-    "date": "2026-11-20",
-    "title": "可燃性ガス検知で中断 リニア工事の検証や情報開示求め大鹿村に要望書",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aX0RhcHdUeTA5eXpSMURPLWFoQVBnalVwc1h2bVkxOVRFMmhsM2dWWWZHVWRSSEJiU1d6NEVnMHhNNDUwYXp5NHJ5S21uSWRBQ1RlVnA2aFBZX0FDZFFrV2ZNb3I2VkYzN18xbjBYcVM?oc=5"
+    "date": "2026-11-22",
+    "title": "安全対策「村が関与を」 大鹿村住民らがリニア工事に要望書",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SZnRCNndGX2JnSm8xQjZBQlhnOUQ1UnBWN1ZhTFVZY0dJUU91VHR6VnUxVnViUHZSOVo5QXo2emFudDd2VGlhck9ic3VPMWRkaFhmRDRHZw?oc=5"
    },
    "status_src": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aX0RhcHdUeTA5eXpSMURPLWFoQVBnalVwc1h2bVkxOVRFMmhsM2dWWWZHVWRSSEJiU1d6NEVnMHhNNDUwYXp5NHJ5S21uSWRBQ1RlVnA2aFBZX0FDZFFrV2ZNb3I2VkYzN18xbjBYcVM?oc=5"
   },
@@ -1109,5 +1113,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-24T11:22+09:00"
+ "checked": "2026-11-24T21:45+09:00"
 }
