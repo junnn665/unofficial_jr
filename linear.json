@@ -709,7 +709,11 @@
    "note": "飯田市側の約7.2km。2022年8月に本坑の掘削を始め、2023年8月からは黒田工区の非常口も掘っている。2031年秋ごろ完了予定。",
    "src": "https://www.pref.nagano.lg.jp/linear-shin/kurashi/kotsu/linear/documents/20260622_jigyougaiyou.pdf",
    "status_date": "2026-10-24",
-   "latest": null
+   "latest": {
+    "date": "2026-11-27",
+    "title": "リニア工事の環境調査、JR東海への助言を通知 長野県、黒田工区内の水位低下踏まえ",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Sc2FRMzZqQkZERmV0cUNicy1pRllIaDZRQ3htbG1BbkUzTmVmdE5mcmhMU3RYV25HQWtXa0Q3Z3dOR2ZrZFptLUZocGduNlBHRDc4NEQ3WlBSTlBUYk1iZTJJazBBWDJULTNVUDBMeHY?oc=5"
+   }
   },
   {
    "name": "中央アルプストンネル（萩の平・広瀬工区）",
@@ -1113,5 +1117,5 @@
    "latest": null
   }
  ],
- "checked": "2026-11-27T11:58+09:00"
+ "checked": "2026-11-27T21:48+09:00"
 }
